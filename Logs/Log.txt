@@ -3,3 +3,4 @@
 9:30 - 13:00 -> Apprendimento di quest'ultimi. Log in e creazione di una directory su GitHub
 13:00 - 14:00 -> Pausa Pranzo
 14:00 - 15:00 -> Creazione e ampliamento della Repository
+15:00 - 16:00 -> installazione di langchain e creazione di uno script
