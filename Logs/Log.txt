@@ -1,0 +1,5 @@
+8:00 - 9:00 -> Introduzione al progetto e divisione in gruppi
+9:00 - 9:30 -> Testing di Git e Python
+9:30 - 13:00 -> Apprendimento di quest'ultimi. Log in e creazione di una directory su GitHub
+13:00 - 14:00 -> Pausa Pranzo
+14:00 - 15:00 -> Creazione e ampliamento della Repository
