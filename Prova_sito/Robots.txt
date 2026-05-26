@@ -8,7 +8,14 @@ Disallow: /Ricerca/
 
 Allow: /
 
-User-agent: Meta-ExternalAgent
+User-agent: QwenBot
+
+Allow: /pdf/
+Allow: /Ricerca/
+Allow: /
+
+
+User-agent: TongyiBot
 
 Allow: /pdf/
 Allow: /Ricerca/
