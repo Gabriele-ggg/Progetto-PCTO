@@ -1,0 +1,4967 @@
+  [Pagina 1]
+Grado  
+Marano
+Orario valido 
+dal 23 dicembre 2025
+SERVIZIO 
+EXTRAURBANO
+  [Pagina 2]
+San Giovanni al Natisone-Mereto di Capitolo-Pampaluna
+Manzano-Palmanova-Cervignano-Marano
+Udine-Palmanova-Cervignano-Grado
+Udine-Palmanova-Aiello-Cervignano-Grado
+Udine-Pavia-Percoto-Palmanova-Grado
+Udine-Palmanova-S. Vito al Torre-Gradisca d’Isonzo
+Udine-Palmanova-Ruda-Fiumicello-Papariano
+Palmanova-Cervignano-Ruda-Papariano
+Manzano-Palmanova-Aiello-Crauglio-Cervignano
+Udine-Torviscosa-Malisana 
+Cervignano-San Giorgio di Nogaro-Latisana
+Udine-San Giorgio-Aussa Corno
+Udine-Lauzacco-Gonars-S. Giorgio-Marano
+Udine-Castions-S. Giorgio-Marano
+Udine-Morsano-Porpetto-S. Giorgio
+Udine-Z.I.U.-S. Maria La Longa
+  [Pagina 3]
+LINEA 392 (Andata)
+Orario valido dal 23 dicembre 2025S.GIOVANNI-MERETO-PAMPALUNA 
+1
+U270
+ 35312   S.GIOVANNI AL N. via M.di Strada(dir. 
+S.Giovanni), loc.La Br
+17:05
+ 35323   S.GIOVANNI AL N. via Palmarina 73 (distributore, 
+dir.centro)
+17:07
+ 35310   SAN GIOVANNI AL NATISONE via 
+Palmarina 11 (bivio Bolzano)
+17:08
+ 35311   SAN GIOVANNI AL NATISONE piazzale 
+Kuchl
+17:10
+ 36411   MANZANO via San Giovanni 17:11
+ 36425   MANZANO via Alcide de Gasperi 1 (ponte, 
+direzione Udine)
+17:12
+ 36423   MANZANO via Roma 7 (piazza) 17:14
+ 36426   MANZANO via 4 Novembre 10 (direzione Udine) 17:15
+ 36412   MANZANO via Udine (piazzale autostazione) 17:15
+ 36409   MANZANO via Diaz fronte 31 (angolo via Duca 
+d'Aosta)
+17:17
+ 36416   MANZANO via Duca D'Aosta 1 (fronte Fedele) 17:17
+ 37133   PERCOTO via Aquileia 1 17:21
+ 37132   PERSEREANO piazza Sant'Andrea 1 17:24
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 17:27
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 17:30
+ 37203   MERETO DI CAPITOLO via Palmanova 8 17:32
+ 30309   FELETTIS via Udine 6 (direzione Bicinicco) 17:37
+ 30308   BICINICCO DI SOTTO via Palmanova 5 17:39
+ 30304   CUCCANA via 25 Aprile 52 17:41
+ 30311   GRIS DI BICINICCO via Castions (fronte civico 3) 17:42
+ 30503   MORSANO DI STRADA piazza San 
+Pellegrino (centro, dir.Gonars)
+17:46
+ 30511   CASTIONS DI STRADA via Roma (fronte 
+civico 120)
+17:48
+ 30616   SANT'ANDRAT DEL CORMOR via Camillo 
+Cavour 50
+17:52
+ 30615   FLUMIGNANO via IV Novembre (fronte civico 6) 17:53
+ 30811   TORSA via Fornaci 101 17:57
+ 30818   TORSA piazza Marconi (chiesa, direzione 
+Roveredo)
+17:58
+ 30802   ROVEREDO DI POCENIA via Venezia 188 
+(direzione Pocenia)
+18:00
+ 30803   POCENIA via Venezia 195, Casali Nonis 18:01
+ 30801   POCENIA piazza Garibaldi (fronte civico 
+17)
+18:04
+ 30808   POCENIA via Bassi 62 18:05
+ 30824   PALAZZOLO DELLO STELLA via Casali Moretton 
+(fronte civico 34
+18:06
+ 31202   MUZZANA del TURGNANO via Roma 111 
+(monumento)
+18:11
+ 31205   MUZZANA del TURGNANO via Roma 9/11 
+(chiesa, direz.Udine)
+18:11
+ 31A23   ZELLINA viale Venezia 29 18:15
+ 31A19   ZELLINA via Boscat (fronte 1, bivio Galli, 
+direz.Pampaluna)
+18:16
+ 30I04   PAMPALUNA via Pampaluna 11 (direzione 
+Corgnolo)
+18:25
+CADENZA
+CORSA
+VALIDITÀ
+U270 Feriale Operaia (feriale escluso sabato e ferie)
+martedì 16 dicembre 2025Pagina 1 di 1
+  [Pagina 4]
+LINEA 392 (Ritorno)
+Orario valido dal 23 dicembre 2025PAMPALUNA-POCENIA-MANZANO-S.GIOVANNI 
+2
+U270
+ 30I13   PAMPALUNA via Pampaluna (ang. via San 
+Girolamo, dir.Zellina)
+06:10
+ 31A34   ZELLINA via Boscat 1 (bivio Galli) 06:13
+ 31A05   ZELLINA viale Venezia 28 (direzione Muzzana) 06:13
+ 31203   MUZZANA del TURGNANO via Roma 2 (chiesa) 06:17
+ 31201   MUZZANA del TURGNANO via Roma 120 
+(monumento)
+06:18
+ 30814   PALAZZOLO DELLO STELLA via Casali Moretton 
+34
+06:20
+ 30820   POCENIA via Bassi 77 06:22
+ 30815   POCENIA piazza Garibaldi 1 (direzione 
+Roveredo)
+06:23
+ 30817   POCENIA via Venezia 189 (direzione Roveredo), 
+Casali Nonis
+06:26
+ 30816   ROVEREDO DI POCENIA via Venezia 169 06:27
+ 30804   TORSA piazza Marconi (fronte civico 27, chiesa) 06:29
+ 30823   TORSA via Fornaci (fronte civico 101, direzione 
+Flumignano)
+06:30
+ 30606   FLUMIGNANO via IV Novembre 6 (direzione 
+Sant'Andrat)
+06:34
+ 30607   SANT'ANDRAT DEL CORMOR via Camillo 
+Cavour 41
+06:35
+ 30508   CASTIONS DI STRADA via Roma 116 
+(direzione Morsano)
+06:39
+ 30503   MORSANO DI STRADA piazza San 
+Pellegrino (centro, dir.Gonars)
+06:41
+ 30313   GRIS DI BICINICCO via Mortegliano 8 06:45
+ 30310   CUCCANA via 25 Aprile (fronte civico 56) 06:46
+ 30316   BICINICCO DI SOTTO via Palmanova 6 
+(direzione Felettis)
+06:48
+ 30317   FELETTIS via Udine 3 06:50
+ 37214   MERETO DI CAPITOLO via Palmanova 06:58
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 06:59
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+07:02
+ 37105   PERSEREANO piazza Sant'Andrea 6 07:03
+ 37104   PERCOTO via Aquileia 6 07:07
+ 36404   MANZANO via del Cristo 47 (Fedele) 07:11
+ 36427   MANZANO via Duca d'Aosta 16 (angolo via 
+Diaz)
+07:12
+ 36412   MANZANO via Udine (piazzale autostazione) 07:18
+ 35305   SAN GIOVANNI AL NATISONE via 
+Palmarina 16 (bivio Bolzano)
+07:22
+ 35339   S.GIOVANNI AL N.via Palmarina 38 (distributore, 
+dir.Medeuzza
+07:23
+ 35337   S.GIOVANNI AL N.via M.Di Strada(dir. 
+Medeuzza), loc.La Brava
+07:24
+CADENZA
+CORSA
+VALIDITÀ
+U270 Feriale Operaia (feriale escluso sabato e ferie)
+martedì 16 dicembre 2025Pagina 1 di 1
+  [Pagina 5]
+LINEA 393 (Andata)
+Orario valido dal 23 dicembre 2025MANZANO-PALMANOVA-CERVIGNANO-MARANO 
+33 31 401 5 55 1 7 3
+U306 U307 U241 U276 U275 U241 U275 U240
+ 36510   BUTTRIO via Nazionale 20 (angolo via Pavia, 
+direz. Manzano)
+17:05
+ 36417   MANZANO via del Cristo 86 (Fedele, 
+direzione Percoto)
+17:08 17:13
+ 36427   MANZANO via Duca d'Aosta 16 (angolo via 
+Diaz)
+17:09 17:14
+ 36412   MANZANO via Udine (piazzale autostazione) 17:09 17:12 17:17
+ 35386   SAN GIOVANNI AL NATISONE via Antica 26 
+(Ipsia)
+12:00 13:15
+ 35305   SAN GIOVANNI AL NATISONE via Palmarina 16 
+(bivio Bolzano)
+12:03 13:18 17:13
+ 35339   S.GIOVANNI AL N.via Palmarina 38 (distributore, 
+dir.Medeuzza
+12:04 13:19 17:13
+ 35337   S.GIOVANNI AL N.via M.Di Strada(dir. 
+Medeuzza), loc.La Brava
+12:05 13:20 17:14
+ 35302   S.GIOVANNI AL NAT. via Nazionale 35 17:17 17:22
+ 35387   SAN GIOVANNI AL NAT. via Cascina Rinaldi 27 
+(dir.Villanova)
+17:20 17:25
+ 35360   SAN GIOVANNI AL NAT. via Cascina Rinaldi 7 
+(dir. Villanova)
+17:21 17:26
+ 35350   S.GIOVANNI AL N. via Giassico 31(dir.Villanova), 
+Cascina Rin
+17:21 17:26
+ 35355   VILLANOVA DELLO JUDRIO via 4 Novembre 38 17:22 17:27
+ 35394   VILLANOVA DELLO JUDRIO via 4 Novembre 66 
+(Pesa)
+17:23 17:28
+ 35381   MEDEUZZA via Francesco Baracca 51 (direzione 
+San Giovanni)
+17:26 17:31
+ 35336   MEDEUZZA via Madonna di Strada 38 (direzione 
+Palmanova)
+17:16 17:28 17:33
+ 35340   MEDEUZZA via Madonna di Strada 62 (direzione 
+Palmanova)
+12:08 13:22 17:16 17:28 17:33
+ 35211   VISCONE via Palmarina 5 (Magazzini Nico, 
+direz.Palmanova)
+12:09 13:23 17:17 17:30 17:35
+ 37602   NOGAREDO AL TORRE via Remis 8 (Zona 
+Artigianale)
+17:19 17:32 17:37
+ 37410   JALMICCO via Natisone 11 (ospedale) 12:15 13:29 17:23 17:35 17:40
+ 37406   SOTTOSELVA via Ponte degli Speroni 3 
+(caserme)
+12:18 13:32 17:24 17:37 17:42
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 17:25 17:39 17:44
+ 37401   PALMANOVA via Rota (Polveriera) 12:25 13:40 17:30 17:43 17:48 17:49
+ 37412   PALMANOVA FS 14:05 17:45 17:50 19:05
+ 30416   ONTAGNANO via Cividale (rotonda, direzione 
+Fauglis)
+17:54
+ 37702   SEVEGLIANO via Roma 59 (semaforo, Strada 
+Regionale 352)
+14:10 17:34 17:50 17:55 19:10
+ 37708   SEVEGLIANO via Vittorio Veneto 12 (chiesa) 14:11 17:35 17:51 17:56 19:11
+ 37713   BAGNARIA ARSA via Palmanova 39 14:12 17:36 17:52 17:57 19:12
+ 30412   FAUGLIS via 4 Novembre (fronte civico 76, 
+chiesa)
+17:39 17:55
+ 30414   FAUGLIS via Filippo Corridoni 30 17:40
+ 30422   GONARS via Trieste 96, San Domenico 17:41 17:57
+ 30407   GONARS via De Amicis (municipio) 17:42 17:58
+ 30I07   CASTELLO DI PORPETTO via Diaz 9A 17:45 18:01
+ 30I12   PORPETTO via Udine 46 (direzione San Giorgio) 17:47 18:03
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+17:51 18:07
+ 31A15   PORTO NOGARO via Enrico Fermi 7 17:52 18:08
+ 31A26   CARLINO via S.G. Di Nogaro (incr. via Toppo W., 
+dir.Carlino)
+17:55 18:10
+ 31116   CARLINO via San Giorgio di Nogaro 
+(direz.Marano), loc.Banduz
+17:55 18:11
+ 31108   CARLINO via Garibaldi (fronte civico 9, direzione 
+Muzzana)
+18:12
+ 31114   SAN GERVASIO via IV Novembre 24 (direzione 
+Muzzana)
+18:15
+ 31115   CARLINO via Garibaldi 7 18:20
+ 31110   CARLINO via Marano 6 (biblioteca) 17:57 18:21
+ 31106   PRADULINS via Marano (fronte civico 51), Rui 17:58 18:23
+ 31111   LA COLOMBA via Marano 94 17:59 18:24
+ 31112   MARANUTTO via Marano 118 (La Madonna) 18:00 18:25
+ 31901   MARANO LAGUNARE piazza Risanamento 13 18:21 18:29
+ 37701   BAGNARIA ARSA via 24 Maggio 4 14:13 17:53 17:58 19:13
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 2
+  [Pagina 6]
+33 31 401 5 55 1 7 3
+U306 U307 U241 U276 U275 U241 U275 U240
+ 37703   CHIARMACIS CAMPOLONGHETTO via 24 
+Maggio 4300
+14:15 17:55 18:00 19:15
+ 37719   CASTIONS DELLE MURA via Tolmezzo (campo 
+baseball)
+14:19 17:59 18:04 19:19
+ 37707   CASTIONS DELLE MURA via della Villa 8 14:20 18:00 18:05 19:20
+ 37704   CASTIONS DELLE MURA via Tre Ponti 2 14:21 18:01 18:06 19:21
+ 38712   CASTIONS delLE MURA via Tre Ponti (fronte 
+civico 15)
+14:23 18:03 18:08 19:23
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+14:26 18:04 18:11 19:26
+ 38708   TORVISCOSA via Vittorio Veneto (fronte parco, 
+Carabinieri)
+14:27 18:05 18:12 19:27
+ 38702   TORVISCOSA viale Marconi (lato parco 
+chiesa)
+14:27 18:06 18:12 19:27
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 14:28 18:07 18:13 19:28
+ 38706   MALISANA piazza Fontana 18:10
+ 38707   ARRODOLA NUOVA via Fornelli di Sotto 91 18:18
+ 38107   CERVIGNANO DEL FRIULI viale Venezia 3 
+(rotonda, dir. Centro)
+14:34 18:19 19:34
+ 38105   CERVIGNANO DEL FRIULI via Udine 45 
+(rotonda, dir. Grado)
+14:35 18:20 19:35
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+14:36 18:21 19:36
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+14:38 18:23 19:38
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U306 Scolastica solo al sabato U275 Feriale Operaia inv. (escluso sab. e vac. Natale)
+U307 Scolastica escluso il sabato U276 Feriale vac. Natale (escluso sabato)
+martedì 16 dicembre 2025Pagina 2 di 2
+  [Pagina 7]
+LINEA 393 (Ritorno)
+Orario valido dal 23 dicembre 2025MARANO-CERVIGNANO-PALMANOVA-MANZANO 
+6 2 4 54 10 400 402
+U275 U241 U242 U275 U276 U241 U241
+ 31901   MARANO LAGUNARE piazza Risanamento 13 06:10 06:40
+ 31104   MARANUTTO via Marano 125 (La Madonna, 
+direzione Carlino)
+06:12 06:42
+ 31103   LA COLOMBA via Marano 75 (direzione Carlino) 06:13 06:43
+ 31113   PRADULINS via Marano 51 (direzione Carlino), 
+Rui
+06:14 06:44
+ 31105   CARLINO via Marano 1 (biblioteca) 06:15 06:45
+ 31108   CARLINO via Garibaldi (fronte civico 9, direzione 
+Muzzana)
+06:15
+ 31114   SAN GERVASIO via IV Novembre 24 (direzione 
+Muzzana)
+06:18
+ 31115   CARLINO via Garibaldi 7 06:22
+ 31109   CARLINO via San Giorgio di Nogaro (dir. Nogaro), 
+loc. Banduz
+06:22 06:46
+ 31A04   CARLINO via S.G. di Nogaro (incr. via Toppo W., 
+dir.Nogaro)
+06:23 06:47
+ 31A31   PORTO NOGARO via Enrico Fermi 06:25 06:50
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+06:30 06:54
+ 30I02   PORPETTO via Udine 47 06:35 06:58
+ 30I11   CASTELLO DI PORPETTO via Diaz 1 (direzione 
+Palmanova)
+06:37 07:00
+ 30410   GONARS via Venezia (scuole) 06:40 07:03
+ 30409   GONARS via Trieste (fronte 96, direz.Fauglis), 
+San Domenico
+06:41 07:04
+ 30413   FAUGLIS via 4 Novembre (fronte civico 75, 
+chiesa)
+06:43 07:06
+ 30417   ONTAGNANO via Cividale (rotonda, direzione 
+Ontagnano)
+06:45
+ 38719   ARRODOLA NUOVA via Fornelli di Sotto (fronte 
+civico 90)
+06:30
+ 38706   MALISANA piazza Fontana 06:35
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+06:25 06:30 07:30 13:30
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+06:26 06:31 07:31 13:31
+ 38106   CERVIGNANO DEL FRIULI via Udine 66 
+(rotonda, dir. Udine)
+06:27 06:32 07:32 13:32
+ 38119   CERVIGNANO DEL FRIULI viale Venezia 
+(rotonda dir.Torviscosa)
+06:28 06:33 07:33 13:33
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+06:32 06:37 07:37 13:37
+ 38708   TORVISCOSA via Vittorio Veneto (fronte parco, 
+Carabinieri)
+06:33 06:38 07:38 13:38
+ 38702   TORVISCOSA viale Marconi (lato parco 
+chiesa)
+06:33 06:38 07:38 13:38
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 06:34 06:39 07:39 13:39
+ 38718   TORVISCOSA viale Marconi 270 06:37
+ 38717   TORVISCOSA viale Marconi 56 (parco chiesa) 06:37
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+06:38
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+06:39
+ 38723   CASTIONS DELLE MURA via Tre Ponti 13 06:38 06:43 07:43 13:43
+ 37715   CHIARMACIS CAMPOLONGHETTO via 24 
+Maggio 38 (direzione Udine)
+06:42
+ 37717   CASTIONS DELLE MURA via Tre Ponti (fronte 
+civico 2)
+06:40 06:45 07:45 13:45
+ 37718   CASTIONS DELLE MURA via della Villa 13 06:41 06:46 07:46 13:46
+ 37710   CASTIONS DELLE MURA via Tolmezzo (campo 
+baseball)
+06:42 06:47 07:47 13:47
+ 37715   CHIARMACIS CAMPOLONGHETTO via 24 
+Maggio 38 (direzione Udine)
+06:45 06:50 07:50 13:50
+ 37714   BAGNARIA ARSA via 24 Maggio 1 06:47 06:52 06:44 07:52 13:52
+ 37709   BAGNARIA ARSA via Palmanova 28 06:48 06:53 06:45 07:10 07:53 13:53
+ 37712   SEVEGLIANO via Vittorio Veneto 11 (chiesa) 06:49 06:54 06:46 07:11 07:54 13:54
+ 37711   SEVEGLIANO via Roma 66 (semaforo SR352, 
+direzione Udine)
+06:50 06:55 06:48 07:12 07:55 13:55
+ 37420   PALMANOVA FS 06:55 07:00 08:00 14:00
+ 37401   PALMANOVA via Rota (Polveriera) 06:56 07:17
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 06:51 06:57 06:54 07:19
+ 37407   SOTTOSELVA via Ponte degli Speroni (fronte 3, 
+caserme)
+06:52 06:58 06:55 07:20
+ 37410   JALMICCO via Natisone 11 (ospedale) 06:54 07:01 06:59 07:22
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 2
+  [Pagina 8]
+6 2 4 54 10 400 402
+U275 U241 U242 U275 U276 U241 U241
+ 37418   JALMICCO piazza Unione 4 06:55 07:04 07:00
+ 37614   NOGAREDO AL TORRE via Remis 1 (Zona 
+Artigianale)
+06:57 07:05 07:02 07:26
+ 35204   VISCONE via Palmarina 12 (Magazzini Nico, dir. 
+San Giovanni)
+06:59 07:08 07:05 07:28
+ 35319   MEDEUZZA via Madonna di Strada 59 07:00 07:09 07:06 07:29
+ 35372   MEDEUZZA via Madonna di Strada 37 07:01 07:10 07:07 07:29
+ 35349   MEDEUZZA via Francesco Baracca 54 07:11 07:08
+ 35353   VILLANOVA DELLO JUDRIO via 4 Novembre 37 
+(Pesa)
+07:15 07:11
+ 35396   VILLANOVA DELLO JUDRIO via 4 Novembre 17 
+(dir. San Giovanni)
+07:15 07:11
+ 35393   S.GIOVANNI AL N. via Giassico(dir.Dolegnano), 
+Cascina Rinald
+07:17 07:13
+ 35315   SAN GIOVANNI AL NAT. via Cascina Rinaldi 2A 
+(dir.Dolegnano)
+07:18 07:14
+ 35324   S.GIOVANNI AL NAT. via Cascina Rinaldi 
+(direzione Dolegnano)
+07:19 07:14
+ 35312   S.GIOVANNI AL N. via M.di Strada(dir. 
+S.Giovanni), loc.La Br
+07:02 07:31
+ 35323   S.GIOVANNI AL N. via Palmarina 73 (distributore, 
+dir.centro)
+07:03 07:32
+ 35310   SAN GIOVANNI AL NATISONE via Palmarina 11 
+(bivio Bolzano)
+07:04 07:33
+ 35334   S.GIOVANNI AL NAT. via Nazionale 40 07:22 07:17
+ 36412   MANZANO via Udine (piazzale autostazione) 07:12 07:26 07:22
+ 36409   MANZANO via Diaz fronte 31 (angolo via Duca 
+d'Aosta)
+07:13 07:27
+ 36416   MANZANO via Duca D'Aosta 1 (fronte Fedele) 07:14 07:28
+ 36407   MANZANO via Alcide de Gasperi (fronte 1, 
+ponte)
+07:19
+ 36428   MANZANO via San Giovanni 102 07:20
+ 36401   MANZANO via Udine 8 (fronte autostazione, 
+direzione Udine)
+07:30 07:37
+ 36507   BUTTRIO via Nazionale 41 (Danieli, direzione 
+Udine)
+07:40
+ 36515   BUTTRIO via Nazionale 19 (angolo via Pavia, 
+direzione Udine)
+07:44
+VALIDITÀ
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U275 Feriale Operaia inv. (escluso sab. e vac. Natale) U276 Feriale vac. Natale (escluso sabato)
+martedì 16 dicembre 2025Pagina 2 di 2
+  [Pagina 9]
+LINEA 400 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-PALMANOVA-CERVIGNANO-GRADO 
+407 5 409 3 401 1 7 411 17 11 413 59 9 19
+U080 U230 U080 U080 U230 U230 U080 U080 U230 U300 U080 U300 U300 U080
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 12:10
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 12:12
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:35 06:50 07:35 08:35 08:40 09:35 09:35 10:35 10:39 11:35 11:35 12:25 12:35 12:35
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+06:39 07:39 08:39 09:39 09:39 10:39 11:39 11:39 12:39 12:39
+ 70142   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Lauzacco)
+06:43 07:43 12:43 12:43
+ 70143   UDINE Z.I.U. via Zanussi 305 (Tecnocom) 06:44 07:44 12:44 12:44
+ 37121   LAUZACCO Z.I.U. viale del Lavoro 23 (DEM) 06:46 07:46 12:46 12:46
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+06:55 08:45 10:45 12:30
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+06:48 07:01 07:48 08:45 08:52 09:45 09:45 10:45 10:52 11:45 11:45 12:37 12:48 12:48
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 06:51 07:04 07:51 08:48 08:56 09:48 09:48 10:48 10:55 11:48 11:48 12:40 12:51 12:51
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 06:54 07:06 07:54 08:51 08:58 09:51 09:51 10:51 10:58 11:51 11:51 12:42 12:54 12:54
+ 37203   MERETO DI CAPITOLO via Palmanova 8 06:56 07:08 07:56 08:53 09:00 09:53 09:53 10:53 10:59 11:53 11:53 12:43 12:56 12:56
+ 37412   PALMANOVA FS 07:00 07:12 08:00 09:00 10:00 10:00 11:00 11:02 12:00 12:00 13:00 13:00
+ 37401   PALMANOVA via Rota (Polveriera) 07:02 07:15 08:02 09:02 09:05 10:02 10:02 11:02 11:07 12:02 12:02 12:48 13:02 13:02
+ 37705   SEVEGLIANO via Julia 23 (semaforo Strada 
+Regionale 352)
+07:05 07:19 08:05 09:05 09:11 10:05 10:05 11:05 11:12 12:05 12:05 12:53 13:05 13:05
+ 38191   STRASSOLDO via Palmanova 1 (direzione Grado) 07:09 07:23 08:09 09:09 09:16 10:09 10:09 11:09 11:16 12:09 12:09 12:58 13:09 13:09
+ 38128   CERVIGNANO via Carnia (fronte 30, bivio 
+Muscoli dir. Grado)
+07:12 08:12 09:12 10:12 10:12 11:12 12:12 12:12 13:12 13:12
+ 38192   MUSCOLI Cimitero direzione Cervignano 07:26 09:17 11:19 12:59
+ 38105   CERVIGNANO DEL FRIULI via Udine 45 
+(rotonda, dir. Grado)
+07:15 07:27 08:15 09:15 09:20 10:15 10:15 11:15 11:20 12:15 12:15 13:01 13:15 13:15
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+13:05
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+07:20 07:31 08:20 09:20 09:25 10:20 10:20 11:20 11:25 12:20 12:20 13:07 13:19 13:20
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+07:21 07:35 08:21 09:21 09:27 10:21 10:21 11:21 11:29 12:21 12:21 13:21
+ 38108   CERVIGNANO DEL FRIULI via Aquileia 82 (bivio, 
+dir.Grado)
+07:22 07:37 08:22 09:22 09:29 10:22 10:22 11:22 11:30 12:22 12:22 13:22
+ 38301   TERZO D'AQUILEIA via Giulia Augusta 7 
+(direzione Grado)
+07:25 07:40 08:25 09:25 09:30 10:25 10:25 11:25 11:34 12:25 12:25 13:25
+ 38408   AQUILEIA via Giulia Augusta (fronte 59, Porte 
+direz. Grado)
+07:29 07:43 08:29 09:29 09:33 10:29 10:29 11:29 11:36 12:29 12:29 13:29
+ 38409   AQUILEIA via G.Augusta (park, dir.Grado), loc. 
+Beligna
+07:31 07:45 08:31 09:31 09:36 10:31 10:31 11:31 11:39 12:31 12:31 13:31
+ 38407   BELVEDERE SR352 via Beligna km 35 (direzione 
+Grado)
+07:37 07:49 08:37 09:37 09:40 10:37 10:37 11:37 11:44 12:37 12:37 13:37
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+07:50 08:04 08:50 09:45 09:50 10:45 10:45 11:45 11:53 12:45 12:45 13:50
+CADENZA
+CORSA
+407 5 409 3 401 1 7 411 17 11 413 59 9 19
+ 70101   UDINE viale Europa Unita 37 (autostazione) 4 4 4 4 4 4 4 4 4 4 4 4 4
+BANCHINE
+VALIDITÀ
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico U444 Festiva invern. compreso 01/01-Pasqua-01/05-25/12 + ultima 
+domenica est. se coincide fne per.estivo
+U423 Festiva invernale (periodo scolastico) + ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 1 di 4
+  [Pagina 10]
+LINEA 400 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-PALMANOVA-CERVIGNANO-GRADO 
+209 85 79 41 115 111 415 33 417 21 419 403 405 107
+U251 U300 U300 U300 U300 U300 U080 U300 U080 U080 U080 U251 U300 U307
+ 70101   UDINE viale Europa Unita 37 (autostazione) 12:35 13:00 13:10 13:10 13:30 13:35 14:35 15:35 16:35 17:00 17:00 17:25
+ 70C67   UDINE via del Partidor (lato sede Saf) 12:39
+ 38835   CARGNACCO Z.I.U. via Buttrio (fronte civico 59, 
+ABS)
+12:45
+ 70228   UDINE Z.I.U. via Manzano (rotonda Enel, 
+direzione Pavia)
+12:46
+ 70142   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Lauzacco)
+12:46
+ 70143   UDINE Z.I.U. via Zanussi 305 (Tecnocom) 12:48
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+13:39 14:39 15:39 16:39
+ 70142   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Lauzacco)
+13:43
+ 70143   UDINE Z.I.U. via Zanussi 305 (Tecnocom) 13:44
+ 37121   LAUZACCO Z.I.U. viale del Lavoro 23 (DEM) 12:49 13:46
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 13:05 13:15 13:16
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 13:07 13:19 13:19
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+13:13 13:25 13:24
+ 70C70   UDINE viale Monsignor Nogara (lato Stringher) 13:19 13:28 13:27
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+13:36 17:05 17:05
+ 70C67   UDINE via del Partidor (lato sede Saf) 17:30
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+12:51 13:33 13:42 13:48 14:45 15:45 16:45 17:12 17:12
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 12:55 13:36 13:45 13:51 14:48 15:48 16:48 17:16 17:16
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 12:57 13:39 13:48 13:54 14:51 15:51 16:51 17:18 17:18
+ 37203   MERETO DI CAPITOLO via Palmanova 8 12:59 13:41 13:50 13:56 14:53 15:53 16:53 17:20 17:20
+ 37412   PALMANOVA FS 13:02 13:56 14:00 15:00 16:00 17:00
+ 37401   PALMANOVA via Rota (Polveriera) 13:04 13:45 13:59 14:02 15:02 16:02 17:02 17:25 17:25
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 13:47
+ 37409   SOTTOSELVA via Risorgimento (scuole) 13:48 13:55
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 13:57
+ 37705   SEVEGLIANO via Julia 23 (semaforo Strada 
+Regionale 352)
+13:07 13:49 13:48 14:02 14:05 14:03 15:05 16:05 17:05 17:30 17:30 17:50
+ 38191   STRASSOLDO via Palmanova 1 (direzione Grado) 13:11 13:53 13:53 14:05 14:09 14:07 15:09 16:09 17:09 17:34 17:34 17:54
+ 38128   CERVIGNANO via Carnia (fronte 30, bivio 
+Muscoli dir. Grado)
+14:12 15:12 16:12 17:12
+ 38192   MUSCOLI Cimitero direzione Cervignano 13:14 13:56 13:56 14:08 14:10 17:37 17:37 17:58
+ 38105   CERVIGNANO DEL FRIULI via Udine 45 
+(rotonda, dir. Grado)
+13:15 13:58 13:58 14:10 14:15 14:11 15:15 16:15 17:15 17:38 17:38 18:00
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+14:00 14:11
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+13:20 14:02 13:20 14:15 14:20 15:20 16:20 17:20 17:42 17:42 18:05
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+13:21 14:07 14:07 13:21 14:21 14:14 15:21 16:21 17:21 17:44 17:44 18:07
+ 38103   CERVIGNANO DEL FRIULI piazza G. Marconi 
+(autostazione)
+13:25 13:25
+ 38108   CERVIGNANO DEL FRIULI via Aquileia 82 (bivio, 
+dir.Grado)
+13:26 14:08 14:09 13:26 14:22 14:16 15:22 16:22 17:22 17:46 17:46 18:09
+ 38122   CERVIGNANO DEL FRIULI via Pradati (fronte 
+liceo Einstein)
+13:27 13:27
+ 38301   TERZO D'AQUILEIA via Giulia Augusta 7 
+(direzione Grado)
+13:29 14:12 14:12 13:29 14:25 14:19 15:25 16:25 17:25 17:49 17:49 18:13
+ 38408   AQUILEIA via Giulia Augusta (fronte 59, Porte 
+direz. Grado)
+13:31 14:15 14:14 13:31 14:29 14:21 15:29 16:29 17:29 17:51 17:51 18:15
+ 38409   AQUILEIA via G.Augusta (park, dir.Grado), loc. 
+Beligna
+13:32 14:17 14:16 13:32 14:31 14:23 15:31 16:31 17:31 17:55 17:55 18:18
+ 38407   BELVEDERE SR352 via Beligna km 35 (direzione 
+Grado)
+13:37 14:20 14:19 13:37 14:37 14:27 15:37 16:37 17:37 17:59 17:59 18:22
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+13:50 14:33 14:33 13:50 14:50 14:40 15:45 16:45 17:45 18:10 18:10 18:32
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 2 di 4
+  [Pagina 11]
+209 85 79 41 115 111 415 33 417 21 419 403 405 107
+ 70101   UDINE viale Europa Unita 37 (autostazione) 4 4 5 14 4 4 4 4 4 4 4
+BANCHINE
+VALIDITÀ
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico U444 Festiva invern. compreso 01/01-Pasqua-01/05-25/12 + ultima 
+domenica est. se coincide fne per.estivo
+U423 Festiva invernale (periodo scolastico) + ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 3 di 4
+  [Pagina 12]
+LINEA 400 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-PALMANOVA-CERVIGNANO-GRADO 
+23 65 25 421 35 423 15 31 133 67
+U080 U230 U307 U080 U080 U080 U423 U423 U444 U423
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17:35 18:30 18:35 18:35 19:35 20:35 09:00 12:25 13:15 18:34
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+17:39 18:39 18:39 19:39 20:39
+ 70142   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Lauzacco)
+17:43 18:43 18:43
+ 70143   UDINE Z.I.U. via Zanussi 305 (Tecnocom) 17:44 18:44 18:44
+ 37121   LAUZACCO Z.I.U. viale del Lavoro 23 (DEM) 17:46 18:46 18:46
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+18:35 09:03 12:30 13:20 18:39
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+17:48 18:42 18:48 18:48 19:45 20:45 09:09 12:37 13:26 18:46
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 17:51 18:45 18:51 18:51 19:48 20:48 09:15 12:41 13:29 18:49
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 17:54 18:48 18:54 18:54 19:51 20:51 09:18 12:43 13:31 18:52
+ 37203   MERETO DI CAPITOLO via Palmanova 8 17:56 18:49 18:56 18:56 19:53 20:53 09:20 12:45 13:33 18:53
+ 37412   PALMANOVA FS 18:00 18:51 19:00 19:00 20:00 21:00 09:22 13:41 18:55
+ 37401   PALMANOVA via Rota (Polveriera) 18:02 18:56 19:02 19:02 20:02 21:02 09:28 12:50 13:44 19:00
+ 37705   SEVEGLIANO via Julia 23 (semaforo Strada 
+Regionale 352)
+18:05 19:02 19:05 19:05 20:05 21:05 09:33 12:55 13:48 19:06
+ 38191   STRASSOLDO via Palmanova 1 (direzione Grado) 18:09 19:07 19:09 19:09 20:09 21:09 09:36 12:59 13:52 19:11
+ 38128   CERVIGNANO via Carnia (fronte 30, bivio 
+Muscoli dir. Grado)
+18:12 19:12 19:12 20:12 21:12
+ 38192   MUSCOLI Cimitero direzione Cervignano 19:10 09:36 13:02 13:53 19:14
+ 38105   CERVIGNANO DEL FRIULI via Udine 45 
+(rotonda, dir. Grado)
+18:15 19:11 19:15 19:15 20:15 21:15 09:41 13:03 13:56 19:15
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+13:58
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+18:20 19:16 19:20 19:20 20:20 21:20 09:46 13:08 14:00 19:20
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+18:21 19:19 19:21 19:21 20:21 21:21 09:49 13:10 19:23
+ 38108   CERVIGNANO DEL FRIULI via Aquileia 82 (bivio, 
+dir.Grado)
+18:22 19:20 19:22 19:22 20:22 21:22 09:52 13:12 19:24
+ 38301   TERZO D'AQUILEIA via Giulia Augusta 7 
+(direzione Grado)
+18:25 19:24 19:25 19:25 20:25 21:25 09:54 13:15 19:28
+ 38408   AQUILEIA via Giulia Augusta (fronte 59, Porte 
+direz. Grado)
+18:29 19:27 19:29 19:29 20:29 21:29 09:57 13:17 19:31
+ 38409   AQUILEIA via G.Augusta (park, dir.Grado), loc. 
+Beligna
+18:31 19:29 19:31 19:31 20:31 21:31 09:59 13:21 19:33
+ 38407   BELVEDERE SR352 via Beligna km 35 (direzione 
+Grado)
+18:37 19:33 19:37 19:37 20:37 21:37 10:04 13:25 19:37
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+18:50 19:44 19:50 19:50 20:45 21:45 10:14 13:35 19:48
+CADENZA
+CORSA
+23 65 25 421 35 423 15 31 133 67
+ 70101   UDINE viale Europa Unita 37 (autostazione) 4 4 4 4 4 4 4 4 4 4
+BANCHINE
+VALIDITÀ
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico U444 Festiva invern. compreso 01/01-Pasqua-01/05-25/12 + ultima 
+domenica est. se coincide fne per.estivo
+U423 Festiva invernale (periodo scolastico) + ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 4 di 4
+  [Pagina 13]
+LINEA 400 (Ritorno)
+Orario valido dal 23 dicembre 2025GRADO-CERVIGNANO-PALMANOVA-UDINE 
+12 78 408 2 6 120 122 114 128 14 22 30 410 28
+U240 U300 U080 U300 U230 U307 U306 U300 U232 U080 U230 U306 U080 U230
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+05:15 06:00 06:15 06:35 06:35 07:15 07:40 08:15 09:02
+ 38402   BELVEDERE SR352 via Beligna km 35 (direzione 
+Aquileia)
+05:21 06:05 06:21 06:40 06:40 07:21 07:45 08:21 09:07
+ 38403   AQUILEIA via G.Augusta (park, direzione Cervi), 
+loc. Beligna
+05:26 06:09 06:26 06:44 06:45 07:26 07:50 08:26 09:12
+ 38404   AQUILEIA via Giulia Augusta 74 (porte, direz. 
+Cervignano)
+05:27 06:11 06:27 06:46 06:46 07:27 07:52 08:27 09:14
+ 38309   TERZO D'AQUILEIA via Giulia Augusta 10 05:31 06:14 06:31 06:49 06:50 07:31 07:55 08:31 09:17
+ 38113   CERVIGNANO DEL FRIULI via Aquileia 73 (bivio 
+liceo Einstein)
+05:34 06:16 06:34 06:52 06:52 07:34 07:57 08:34 09:19
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+05:37 06:19 06:37 06:54 06:54 07:37 08:01 08:37 09:24
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+05:40 06:21 06:40 06:48 06:48 06:54 07:18 07:40 08:04 08:40 09:25
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+06:51 06:51 06:57 07:20 08:07
+ 38106   CERVIGNANO DEL FRIULI via Udine 66 
+(rotonda, dir. Udine)
+05:41 06:23 06:41 06:58 06:58 06:58 07:21 07:41 08:08 08:09 08:41 09:29
+ 38109   CERVIGNANO DEL FRIULI via Carnia 22 (Polizia 
+Municipale)
+05:42 06:23 06:42 06:58 06:58 06:59 07:22 07:42 08:09 08:10 08:42 09:29
+ 38115   CERVIGNANO DEL FRIULI via Carnia 30 (bivio 
+Muscoli)
+05:43 06:24 06:43 06:59 06:59 07:00 07:23 07:43 08:10 08:10 08:43 09:30
+ 38116   STRASSOLDO via Palmanova 10 05:46 06:27 06:46 07:01 07:01 07:04 07:26 07:46 08:13 08:13 08:46 09:33
+ 37716   SEVEGLIANO via Julia (fronte 29, semaforo 
+SR352 direzione Ud
+05:50 06:30 06:50 07:06 07:06 07:07 07:29 07:50 08:17 08:17 08:50 09:38
+ 37409   SOTTOSELVA via Risorgimento (scuole) 08:25
+ 37401   PALMANOVA via Rota (Polveriera) 05:59 06:37 06:59 07:10 07:10 07:31 07:59 08:23 08:59 09:44
+ 37412   PALMANOVA FS 06:00 07:00 07:36 08:00 09:00
+ 37214   MERETO DI CAPITOLO via Palmanova 06:04 06:41 07:04 07:15 07:15 07:43 08:04 08:28 09:04 09:49
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 06:06 06:45 07:06 07:17 07:17 07:45 08:06 08:30 09:06 09:50
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+06:09 06:46 07:09 07:20 07:20 07:47 08:09 08:32 09:09 09:54
+ 37108   LAUZACCO viale dei Platani (rotonda Crosada, 
+direz. Udine)
+06:11 06:51 07:11 07:23 07:23 07:49 08:11 08:36 09:11 09:57
+ 37140   LAUZACCO Z.I.U. viale del Lavoro 30 (GZ Press, 
+dir.Udine)
+06:13 07:13 08:13
+ 70105   UDINE Z.I.U. via Zanussi 306 (Tecnocom, 
+direzione Udine)
+06:15 07:15 08:15
+ 70104   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Udine)
+06:16 07:16 08:16
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+06:20 06:58 07:20 07:56 08:20 08:44 09:17 10:04
+ 70C36   UDINE via Lumignacco (fronte 135, bivio istituti 
+scolastici)
+07:26 07:27
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:28 07:29
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:29 07:30
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:30 07:06 07:30 07:33 07:34 08:04 08:30 08:55 09:25 10:17
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 07:40 07:41
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:45 07:46
+ 70191   UDINE viale Monsignor Nogara (fronte 
+Stringher)
+07:26 07:35 07:35
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:29 07:53 07:45 07:45 07:54
+ 70C49   UDINE viale Ledra 108 (Area 2) 07:34
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:36 07:59 08:00
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:37 08:00 08:00
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:39 08:02 08:01
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:41 08:03 08:04
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:54 08:05 08:05
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 5
+  [Pagina 14]
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U240 Feriale estiva (fne scuole-inizio scuole)
+U393 Feriale giorni non scolastici del periodo scolasti co e al sabato 
+scolastico
+U232 Feriale invernale solo al sabato (periodo scol.)
+U306 Scolastica solo al sabato U451 FESTIVA SOLO Capodanno-Pasqua-1°Maggio-Natale
+U230 Feriale invernale (periodo scolastico) U374 Feriale invernale escl giorni non scolastici l-v
+U300 Scolastica U307 Scolastica escluso il sabato
+U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico
+U444 Festiva invern. compreso 01/01-Pasqua-01/05-25/12 + ultima 
+domenica est. se coincide fne per.estivo
+U423 Festiva invernale (periodo scolastico) + ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 2 di 5
+  [Pagina 15]
+LINEA 400 (Ritorno)
+Orario valido dal 23 dicembre 2025GRADO-CERVIGNANO-PALMANOVA-UDINE 
+412 16 34 18 40 414 10 416 130 48 20 124 24 418
+U080 U080 U230 U080 U300 U080 U300 U080 U451 U374 U080 U232 U231 U080
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+09:15 10:15 11:00 11:15 12:15 12:50 13:15 13:40 14:15 14:40 15:15 15:15
+ 38402   BELVEDERE SR352 via Beligna km 35 (direzione 
+Aquileia)
+09:21 10:21 11:05 11:21 12:21 12:55 13:21 13:46 14:21 14:46 15:21 15:21
+ 38403   AQUILEIA via G.Augusta (park, direzione Cervi), 
+loc. Beligna
+09:26 10:26 11:09 11:26 12:26 12:59 13:26 13:50 14:26 14:51 15:26 15:26
+ 38404   AQUILEIA via Giulia Augusta 74 (porte, direz. 
+Cervignano)
+09:27 10:27 11:11 11:27 12:27 13:01 13:27 13:51 14:27 14:53 15:27 15:27
+ 38309   TERZO D'AQUILEIA via Giulia Augusta 10 09:31 10:31 11:15 11:31 12:31 13:04 13:31 13:54 14:31 14:56 15:31 15:31
+ 38125   CERVIGNANO DEL FRIULI via Pradati 12 (lato 
+liceo Einstein)
+12:30 13:07
+ 38113   CERVIGNANO DEL FRIULI via Aquileia 73 (bivio 
+liceo Einstein)
+09:34 10:34 11:17 11:34 12:34 13:34 13:57 14:34 14:58 15:34 15:34
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+09:37 10:37 11:19 11:37 12:32 12:37 13:09 13:37 14:00 14:37 15:01 15:37 15:37
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+09:40 10:40 11:22 11:40 12:34 12:40 13:11 13:40 14:13 14:05 14:40 15:05 15:40 15:40
+ 38106   CERVIGNANO DEL FRIULI via Udine 66 
+(rotonda, dir. Udine)
+09:41 10:41 11:26 11:41 12:38 12:41 13:15 13:41 14:15 14:09 14:41 15:07 15:41 15:41
+ 38109   CERVIGNANO DEL FRIULI via Carnia 22 (Polizia 
+Municipale)
+09:42 10:42 11:27 11:42 12:39 12:42 13:16 13:42 14:16 14:09 14:42 15:08 15:42 15:42
+ 38115   CERVIGNANO DEL FRIULI via Carnia 30 (bivio 
+Muscoli)
+09:43 10:43 11:28 11:43 12:40 12:43 13:17 13:43 14:17 14:10 14:43 15:09 15:43 15:43
+ 38116   STRASSOLDO via Palmanova 10 09:46 10:46 11:31 11:46 12:43 12:46 13:20 13:46 14:20 14:13 14:46 15:12 15:46 15:46
+ 37716   SEVEGLIANO via Julia (fronte 29, semaforo 
+SR352 direzione Ud
+09:50 10:50 11:35 11:50 12:47 12:50 13:24 13:50 14:23 14:17 14:50 15:16 15:50 15:50
+ 37401   PALMANOVA via Rota (Polveriera) 09:59 10:59 11:42 11:59 12:56 12:59 13:33 13:59 14:25 14:26 14:59 15:23 15:59 15:59
+ 37412   PALMANOVA FS 10:00 11:00 12:00 13:00 14:00 14:29 14:29 15:00 15:26 16:00 16:00
+ 37214   MERETO DI CAPITOLO via Palmanova 10:04 11:04 11:46 12:04 13:04 14:04 14:34 14:33 15:04 15:28 16:04 16:04
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 10:06 11:06 11:49 12:06 13:06 14:06 14:37 14:35 15:06 15:32 16:06 16:06
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+10:09 11:09 11:52 12:09 13:09 14:09 14:39 14:38 15:09 15:34 16:09 16:09
+ 37108   LAUZACCO viale dei Platani (rotonda Crosada, 
+direz. Udine)
+10:11 11:11 11:55 12:11 13:11 14:11 14:42 14:42 15:11 15:37 16:11 16:11
+ 37140   LAUZACCO Z.I.U. viale del Lavoro 30 (GZ Press, 
+dir.Udine)
+12:13 13:13 14:13
+ 70105   UDINE Z.I.U. via Zanussi 306 (Tecnocom, 
+direzione Udine)
+12:15 13:15 14:15
+ 70104   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Udine)
+12:16 13:16 14:16
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+10:17 11:17 12:02 12:20 13:20 14:20 14:48 14:48 15:17 15:47 16:17 16:17
+ 70101   UDINE viale Europa Unita 37 (autostazione) 10:25 11:25 12:10 12:30 13:30 14:30 14:56 14:57 15:25 15:54 16:25 16:25
+CADENZA
+CORSA
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U240 Feriale estiva (fne scuole-inizio scuole)
+U393 Feriale giorni non scolastici del periodo scolasti co e al sabato 
+scolastico
+U232 Feriale invernale solo al sabato (periodo scol.)
+U306 Scolastica solo al sabato U451 FESTIVA SOLO Capodanno-Pasqua-1°Maggio-Natale
+U230 Feriale invernale (periodo scolastico) U374 Feriale invernale escl giorni non scolastici l-v
+U300 Scolastica U307 Scolastica escluso il sabato
+U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico
+U444 Festiva invern. compreso 01/01-Pasqua-01/05-25/12 + ultima 
+domenica est. se coincide fne per.estivo
+U423 Festiva invernale (periodo scolastico) + ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 3 di 5
+  [Pagina 16]
+LINEA 400 (Ritorno)
+Orario valido dal 23 dicembre 2025GRADO-CERVIGNANO-PALMANOVA-UDINE 
+60 62 52 4 420 64 264 274 26 400 406 422 36 404
+U393 U307 U307 U307 U080 U300 U251 U251 U080 U251 U300 U080 U080 U230
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+15:50 16:00 16:15 17:00 17:00 17:15 18:18 18:18 18:15 19:15 20:03
+ 38402   BELVEDERE SR352 via Beligna km 35 (direzione 
+Aquileia)
+15:56 16:06 16:21 17:06 17:06 17:21 18:23 18:23 18:21 19:21 20:08
+ 38403   AQUILEIA via G.Augusta (park, direzione Cervi), 
+loc. Beligna
+16:01 16:10 16:26 17:10 17:10 17:26 18:28 18:28 18:26 19:26 20:13
+ 38404   AQUILEIA via Giulia Augusta 74 (porte, direz. 
+Cervignano)
+16:03 16:12 16:27 17:12 17:12 17:27 18:29 18:29 18:27 19:27 20:14
+ 38309   TERZO D'AQUILEIA via Giulia Augusta 10 16:06 16:14 16:31 17:15 17:15 17:31 18:32 18:32 18:31 19:31 20:17
+ 38113   CERVIGNANO DEL FRIULI via Aquileia 73 (bivio 
+liceo Einstein)
+16:08 16:17 16:34 17:18 17:18 17:34 18:34 18:34 18:34 19:34 20:19
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+16:11 16:20 16:37 17:21 17:21 17:21 17:37 18:37 18:37 18:37 19:37 20:22
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+16:14 16:25 16:40 17:23 17:23 17:40 18:40 18:40 18:40 19:40 20:25
+ 38106   CERVIGNANO DEL FRIULI via Udine 66 
+(rotonda, dir. Udine)
+16:19 16:29 16:41 17:28 17:28 17:41 18:43 18:43 18:41 19:41 20:28
+ 38109   CERVIGNANO DEL FRIULI via Carnia 22 (Polizia 
+Municipale)
+16:19 16:29 16:42 17:28 17:28 17:42 18:43 18:43 18:42 19:42 20:28
+ 38115   CERVIGNANO DEL FRIULI via Carnia 30 (bivio 
+Muscoli)
+16:19 16:29 16:43 17:29 17:29 17:43 18:44 18:44 18:43 19:43 20:29
+ 38116   STRASSOLDO via Palmanova 10 16:23 16:32 16:46 17:32 17:32 17:46 18:47 18:47 18:46 19:46 20:32
+ 37716   SEVEGLIANO via Julia (fronte 29, semaforo 
+SR352 direzione Ud
+16:28 16:38 16:50 17:36 17:36 17:50 18:51 18:51 18:50 19:50 20:36
+ 37420   PALMANOVA FS 16:43
+ 37401   PALMANOVA via Rota (Polveriera) 16:33 16:40 16:45 16:59 17:43 17:43 17:59 18:56 18:56 18:59 19:59 20:41
+ 37412   PALMANOVA FS 16:42 17:00 17:46 17:46 18:00 19:00 20:00
+ 37420   PALMANOVA FS 16:45
+ 37214   MERETO DI CAPITOLO via Palmanova 16:37 16:47 17:04 17:50 17:50 18:04 19:01 19:01 19:04 20:04 20:46
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 16:41 16:51 17:06 17:52 17:52 18:06 19:03 19:03 19:06 20:06 20:48
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+16:43 16:53 17:09 17:56 17:56 18:09 19:06 19:06 19:09 20:09 20:51
+ 37108   LAUZACCO viale dei Platani (rotonda Crosada, 
+direz. Udine)
+16:46 16:56 17:11 17:59 17:59 18:11 19:08 19:08 19:11 20:11 20:53
+ 37140   LAUZACCO Z.I.U. viale del Lavoro 30 (GZ Press, 
+dir.Udine)
+17:13 18:01 18:13
+ 70105   UDINE Z.I.U. via Zanussi 306 (Tecnocom, 
+direzione Udine)
+17:15 18:02 18:15
+ 70104   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Udine)
+17:16 18:04 18:16
+ 70232   UDINE Z.I.U. via Manzano 189 (rotonda Enel, 
+dir. Cargnacco)
+18:04
+ 38821   CARGNACCO Z.I.U. via Buttrio 57 (fronte ABS, 
+dir. Cargnacco)
+18:05
+ 70C68   UDINE via del Partidor (fronte sede Saf) 18:11
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+16:53 17:04 17:20 18:07 18:20 19:15 19:15 19:17 20:17 21:00
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17:00 17:10 17:30 18:14 18:15 18:30 19:28 19:28 19:25 20:25 21:13
+CADENZA
+CORSA
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U240 Feriale estiva (fne scuole-inizio scuole)
+U393 Feriale giorni non scolastici del periodo scolasti co e al sabato 
+scolastico
+U232 Feriale invernale solo al sabato (periodo scol.)
+U306 Scolastica solo al sabato U451 FESTIVA SOLO Capodanno-Pasqua-1°Maggio-Natale
+U230 Feriale invernale (periodo scolastico) U374 Feriale invernale escl giorni non scolastici l-v
+U300 Scolastica U307 Scolastica escluso il sabato
+U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico
+U444 Festiva invern. compreso 01/01-Pasqua-01/05-25/12 + ultima 
+domenica est. se coincide fne per.estivo
+U423 Festiva invernale (periodo scolastico) + ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 4 di 5
+  [Pagina 17]
+LINEA 400 (Ritorno)
+Orario valido dal 23 dicembre 2025GRADO-CERVIGNANO-PALMANOVA-UDINE 
+424 426 94 66 70 132
+U080 U080 U423 U423 U423 U444
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+20:15 21:15 07:30 17:00 18:15
+ 38402   BELVEDERE SR352 via Beligna km 35 (direzione 
+Aquileia)
+20:21 21:21 07:35 17:06 18:21
+ 38403   AQUILEIA via G.Augusta (park, direzione Cervi), 
+loc. Beligna
+20:26 21:26 07:39 17:10 18:25
+ 38404   AQUILEIA via Giulia Augusta 74 (porte, direz. 
+Cervignano)
+20:27 21:27 07:41 17:12 18:27
+ 38309   TERZO D'AQUILEIA via Giulia Augusta 10 20:31 21:31 07:44 17:15 18:29
+ 38113   CERVIGNANO DEL FRIULI via Aquileia 73 (bivio 
+liceo Einstein)
+20:34 21:34 07:47 17:18 18:33
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+20:37 21:37 07:51 17:21 18:36
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+20:40 21:40 07:52 17:23 18:39 19:13
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+19:15
+ 38106   CERVIGNANO DEL FRIULI via Udine 66 
+(rotonda, dir. Udine)
+20:41 21:41 07:57 17:28 18:42 19:16
+ 38109   CERVIGNANO DEL FRIULI via Carnia 22 (Polizia 
+Municipale)
+20:42 21:42 07:57 17:28 18:42 19:17
+ 38115   CERVIGNANO DEL FRIULI via Carnia 30 (bivio 
+Muscoli)
+20:43 21:43 07:58 17:29 18:43 19:18
+ 38116   STRASSOLDO via Palmanova 10 20:46 21:46 08:01 17:32 18:46 19:22
+ 37716   SEVEGLIANO via Julia (fronte 29, semaforo 
+SR352 direzione Ud
+20:50 21:50 08:04 17:36 18:51 19:26
+ 37401   PALMANOVA via Rota (Polveriera) 20:59 21:59 08:11 17:43 19:00 19:28
+ 37412   PALMANOVA FS 21:00 22:00 17:46 19:29
+ 37214   MERETO DI CAPITOLO via Palmanova 21:04 22:04 08:14 17:50 19:04 19:34
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 21:06 22:06 08:17 17:52 19:04 19:36
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+21:09 22:09 08:19 17:56 19:07 19:40
+ 37108   LAUZACCO viale dei Platani (rotonda Crosada, 
+direz. Udine)
+21:11 22:11 08:21 17:59 19:11 19:43
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+21:17 22:17 08:27 18:07 19:18 19:50
+ 70101   UDINE viale Europa Unita 37 (autostazione) 21:25 22:25 08:40 18:14 19:30 19:56
+CADENZA
+CORSA
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U240 Feriale estiva (fne scuole-inizio scuole)
+U393 Feriale giorni non scolastici del periodo scolasti co e al sabato 
+scolastico
+U232 Feriale invernale solo al sabato (periodo scol.)
+U306 Scolastica solo al sabato U451 FESTIVA SOLO Capodanno-Pasqua-1°Maggio-Natale
+U230 Feriale invernale (periodo scolastico) U374 Feriale invernale escl giorni non scolastici l-v
+U300 Scolastica U307 Scolastica escluso il sabato
+U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico
+U444 Festiva invern. compreso 01/01-Pasqua-01/05-25/12 + ultima 
+domenica est. se coincide fne per.estivo
+U423 Festiva invernale (periodo scolastico) + ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 5 di 5
+  [Pagina 18]
+LINEA 401 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-PALMANOVA-AIELLO-CERVIGNANO-GRADO 
+401 79 403 405 5 59 49 407 57 117 409 11 69 55
+U080 U389 U080 U080 U240 U300 U230 U080 U307 U393 U080 U240 U230 U423
+ 70101   UDINE viale Europa Unita 37 (autostazione) 08:40 13:30 14:35 17:00 17:00 19:30 15:45
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+08:45 13:36 14:41 17:03 17:06 19:35 15:50
+ 37124   LAUZACCO via Nievo 19 13:43
+ 37125   LAUZACCO via Persereano 14 (chiesa) 13:44
+ 37105   PERSEREANO piazza Sant'Andrea 6 13:46
+ 37315   MERLANA via Persereano 1 (angolo via 
+Santa Maria)
+13:49
+ 37216   SANTA MARIA LA LONGA via Ippolito Nievo 5 13:53
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+08:52 14:47 17:10 17:13 19:42 15:56
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 08:54 14:50 17:13 17:16 19:44 16:00
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 08:57 14:53 17:19 17:19 19:47 16:02
+ 37203   MERETO DI CAPITOLO via Palmanova 8 08:58 13:54 14:55 17:21 17:21 19:48 16:04
+ 37412   PALMANOVA FS 14:57
+ 37420   PALMANOVA FS 07:35 09:35 11:35 13:35 15:35 17:35 19:35
+ 37401   PALMANOVA via Rota (Polveriera) 07:38 09:02 09:38 11:38 13:38 13:59 15:00 15:38 17:24 17:24 17:38 19:38 19:52 16:07
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 07:41 09:05 09:41 11:41 13:41 14:01 15:03 15:41 17:27 17:27 17:41 19:41 19:55 16:10
+ 37503   VISCO via Borgo Piave 29 (Vecchio Confne) 14:05
+ 37407   SOTTOSELVA via Ponte degli Speroni (fronte 3, 
+caserme)
+07:42 09:06 09:42 11:42 13:42 15:03 15:42 17:28 17:28 17:42 19:42 19:56 16:11
+ 37410   JALMICCO via Natisone 11 (ospedale) 07:44 09:07 09:44 11:44 13:44 15:05 15:44 17:29 17:29 17:44 19:44 19:57 16:12
+ 37416   JALMICCO piazza Unione 11 07:45 09:09 09:45 11:45 13:45 15:07 15:45 17:31 17:31 17:45 19:45 19:59 16:14
+ 37506   VISCO piazza Santa Maria Maggiore 5 (chiesa) 07:49 09:12 09:49 11:49 13:49 14:07 15:10 15:49 17:34 17:34 17:49 19:49 20:02 16:17
+ 37804   JOANNIS via Gofredo Mameli (fronte 13) 07:50 09:14 09:50 11:50 13:50 14:09 15:12 15:50 17:36 17:35 17:50 19:50 20:04 16:19
+ 37814   AIELLO via Genova Cavalleria 63 (Rosmarino) 07:51 09:14 09:51 11:51 13:51 14:10 15:13 15:51 17:37 17:36 17:51 19:51 20:04 16:20
+ 37812   AIELLO viale Vittorio Emanuele 2 07:52 09:16 09:52 11:52 13:52 14:12 15:15 15:52 17:39 17:38 17:52 19:52 20:06 16:21
+ 37904   CAVENZANO SP 65 (bivio Strada Provinciale 54, 
+dir. Perteole)
+07:55 09:18 09:55 11:55 13:55 14:13 15:17 15:55 17:40 17:40 17:55 19:55 20:08 16:24
+ 38A05   PERTEOLE via Giuseppe Verdi 89 (cimitero) 07:57 09:19 09:57 11:57 13:57 14:15 15:17 15:57 17:42 17:41 17:57 19:57 20:09 16:25
+ 38A14   PERTEOLE via Giuseppe Verdi 17 (centro) 07:57 09:19 09:57 11:57 13:57 14:15 15:19 15:57 17:43 17:42 17:57 19:57 20:09 16:26
+ 38A03   SACILETTO via Guglielmo Marconi 37 07:59 09:20 09:59 11:59 13:59 14:17 15:21 15:59 17:44 17:43 17:59 19:59 20:10 16:27
+ 38A10   SACILETTO via Papa Giovanni XXIII 18 08:00 09:21 10:00 12:00 14:00 14:17 15:21 16:00 17:45 17:44 18:00 20:00 20:11 16:28
+ 38114   CERVIGNANO DEL FRIULI via Gorizia 35 (Drago 
+Nero, dir.Grado)
+08:03 09:23 10:03 12:03 14:03 14:20 15:24 16:03 17:47 17:46 18:03 20:03 20:13 16:31
+ 38105   CERVIGNANO DEL FRIULI via Udine 45 
+(rotonda, dir. Grado)
+08:04 09:25 10:04 12:04 14:04 14:21 15:26 16:04 17:49 17:49 18:04 20:04 20:15 16:32
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+14:25
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+08:08 09:29 10:08 12:08 14:08 15:30 16:08 17:53 17:53 18:08 20:08 20:19 16:36
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+08:10 09:33 10:10 12:10 14:10 15:33 16:10 17:58 17:57 18:10 20:10 20:23 16:38
+ 38108   CERVIGNANO DEL FRIULI via Aquileia 82 (bivio, 
+dir.Grado)
+09:33 15:35 17:59 20:23 16:40
+ 38301   TERZO D'AQUILEIA via Giulia Augusta 7 
+(direzione Grado)
+09:37 15:38 18:02 20:27 16:42
+ 38408   AQUILEIA via Giulia Augusta (fronte 59, Porte 
+direz. Grado)
+09:39 15:41 18:04 20:29 16:45
+ 38409   AQUILEIA via G.Augusta (park, dir.Grado), loc. 
+Beligna
+09:41 15:43 18:07 20:31 16:47
+ 38407   BELVEDERE SR352 via Beligna km 35 (direzione 
+Grado)
+09:45 15:47 18:10 20:35 16:51
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+10:00 15:59 18:20 20:50 17:00
+CADENZA
+CORSA
+401 79 403 405 5 59 49 407 57 117 409 11 69 55
+ 70101   UDINE viale Europa Unita 37 (autostazione) 14A 4 5 5 4 4
+BANCHINE
+martedì 16 dicembre 2025Pagina 1 di 3
+  [Pagina 19]
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U393 Feriale giorni non scolastici del periodo scolasti co e al sabato 
+scolastico
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+U423 Festiva invernale (periodo scolastico) + ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 2 di 3
+  [Pagina 20]
+LINEA 401 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-PALMANOVA-AIELLO-CERVIGNANO-GRADO 
+71
+U423
+ 70101   UDINE viale Europa Unita 37 (autostazione) 19:36
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+19:41
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+19:48
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 19:50
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 19:53
+ 37203   MERETO DI CAPITOLO via Palmanova 8 19:54
+ 37401   PALMANOVA via Rota (Polveriera) 19:58
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 20:01
+ 37407   SOTTOSELVA via Ponte degli Speroni (fronte 3, 
+caserme)
+20:02
+ 37410   JALMICCO via Natisone 11 (ospedale) 20:03
+ 37416   JALMICCO piazza Unione 11 20:05
+ 37506   VISCO piazza Santa Maria Maggiore 5 (chiesa) 20:08
+ 37804   JOANNIS via Gofredo Mameli (fronte 13) 20:10
+ 37814   AIELLO via Genova Cavalleria 63 (Rosmarino) 20:10
+ 37812   AIELLO viale Vittorio Emanuele 2 20:12
+ 37904   CAVENZANO SP 65 (bivio Strada Provinciale 54, 
+dir. Perteole)
+20:14
+ 38A05   PERTEOLE via Giuseppe Verdi 89 (cimitero) 20:15
+ 38A14   PERTEOLE via Giuseppe Verdi 17 (centro) 20:15
+ 38A03   SACILETTO via Guglielmo Marconi 37 20:16
+ 38A10   SACILETTO via Papa Giovanni XXIII 18 20:17
+ 38114   CERVIGNANO DEL FRIULI via Gorizia 35 (Drago 
+Nero, dir.Grado)
+20:19
+ 38105   CERVIGNANO DEL FRIULI via Udine 45 
+(rotonda, dir. Grado)
+20:21
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+20:25
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+20:29
+ 38108   CERVIGNANO DEL FRIULI via Aquileia 82 (bivio, 
+dir.Grado)
+20:29
+ 38301   TERZO D'AQUILEIA via Giulia Augusta 7 
+(direzione Grado)
+20:33
+ 38408   AQUILEIA via Giulia Augusta (fronte 59, Porte 
+direz. Grado)
+20:35
+ 38409   AQUILEIA via G.Augusta (park, dir.Grado), loc. 
+Beligna
+20:37
+ 38407   BELVEDERE SR352 via Beligna km 35 (direzione 
+Grado)
+20:41
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+20:56
+CADENZA
+CORSA
+71
+ 70101   UDINE viale Europa Unita 37 (autostazione) 4
+BANCHINE
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U393 Feriale giorni non scolastici del periodo scolasti co e al sabato 
+scolastico
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+U423 Festiva invernale (periodo scolastico) + ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 3 di 3
+  [Pagina 21]
+LINEA 401 (Ritorno)
+Orario valido dal 23 dicembre 2025GRADO-CERVIGNANO-AIELLO-PALMANOVA-UDINE 
+4 2 56 400 402 10 38 404 8 406 408 30 50
+U240 U230 U300 U080 U080 U251 U300 U080 U240 U080 U080 U423 U423
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+05:30 12:01 12:01 10:00 13:45
+ 38402   BELVEDERE SR352 via Beligna km 35 (direzione 
+Aquileia)
+05:35 12:06 12:06 10:05 13:50
+ 38403   AQUILEIA via G.Augusta (park, direzione Cervi), 
+loc. Beligna
+05:38 12:11 12:11 10:10 13:54
+ 38404   AQUILEIA via Giulia Augusta 74 (porte, direz. 
+Cervignano)
+05:39 12:12 12:13 10:11 13:55
+ 38309   TERZO D'AQUILEIA via Giulia Augusta 10 05:42 12:15 12:16 10:14 13:58
+ 38125   CERVIGNANO DEL FRIULI via Pradati 12 (lato 
+liceo Einstein)
+12:19
+ 38113   CERVIGNANO DEL FRIULI via Aquileia 73 (bivio 
+liceo Einstein)
+05:45 12:18 10:16 14:00
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+05:20 05:48 06:34 08:50 10:50 12:22 12:23 12:50 14:50 16:50 18:50 10:20 14:06
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+05:23 05:50 08:53 10:53 12:25 12:25 12:53 14:53 16:53 18:53 10:22 14:13
+ 38106   CERVIGNANO DEL FRIULI via Udine 66 
+(rotonda, dir. Udine)
+05:25 05:52 06:36 08:55 10:55 12:28 12:28 12:55 14:55 16:55 18:55 10:26 14:14
+ 38120   CERVIGNANO DEL FRIULI via Gorizia 12 (Drago 
+Nero)
+05:27 05:53 06:38 08:57 10:57 12:30 12:30 12:57 14:57 16:57 18:57 10:27 14:15
+ 38A13   SACILETTO via Papa Giovanni XXIII 23 05:30 05:55 06:40 09:00 11:00 12:32 12:32 13:00 15:00 17:00 19:00 10:30 14:17
+ 38A12   SACILETTO via Guglielmo Marconi 28 05:31 05:56 06:41 09:01 11:01 12:33 12:33 13:01 15:01 17:01 19:01 10:31 14:17
+ 38A04   PERTEOLE via Giuseppe Verdi 8 (centro) 05:33 05:57 06:43 09:03 11:03 12:35 12:35 13:03 15:03 17:03 19:03 10:31 14:18
+ 38A15   PERTEOLE via Giuseppe Verdi (cimitero) 05:33 05:58 06:44 09:03 11:03 12:36 12:35 13:03 15:03 17:03 19:03 10:32 14:19
+ 37908   CAVENZANO Strada Provinciale 65 (bivio, direz. 
+Aiello)
+05:35 06:00 06:45 09:05 11:05 12:37 12:37 13:05 15:05 17:05 19:05 10:34 14:20
+ 37802   AIELLO viale Vittorio Emanuele 5 05:37 06:03 06:49 09:07 11:07 12:40 12:39 13:07 15:07 17:07 19:07 10:37 14:21
+ 37807   AIELLO via Genova Cavalleria 38 (Rosmarino) 05:38 06:04 06:51 09:08 11:08 12:41 12:40 13:08 15:08 17:08 19:08 10:38 14:21
+ 37811   JOANNIS via Gofredo Mameli 15 (Serre Bearzot) 05:39 06:05 06:53 09:09 11:09 12:42 12:41 13:09 15:09 17:09 19:09 10:39 14:22
+ 37501   VISCO via Montello 16 (municipio) 05:42 06:08 06:56 09:12 11:12 12:45 12:45 13:12 15:12 17:12 19:12 10:41 14:22
+ 37421   JALMICCO piazza Unione 8 05:45 06:11 09:15 11:15 12:48 12:48 13:15 15:15 17:15 19:15 10:44 14:23
+ 37410   JALMICCO via Natisone 11 (ospedale) 05:47 06:13 09:17 11:17 12:50 12:50 13:17 15:17 17:17 19:17 10:46 14:23
+ 37508   VISCO via Borgo Piave 22 (Vecchio Confne) 06:57
+ 37406   SOTTOSELVA via Ponte degli Speroni 3 
+(caserme)
+05:49 06:15 09:19 11:19 12:52 12:52 13:19 15:19 17:19 19:19 10:48 14:25
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 05:50 06:16 07:02 09:20 11:20 12:53 12:53 13:20 15:20 17:20 19:20 10:50 14:26
+ 37401   PALMANOVA via Rota (Polveriera) 05:52 06:18 07:05 09:22 11:22 12:56 12:55 13:22 15:22 17:22 19:22 10:54 14:28
+ 37412   PALMANOVA FS 05:55 06:20 09:25 11:25 12:58 13:25 15:25 17:25 19:25 14:29
+ 37420   PALMANOVA FS 06:22
+ 37214   MERETO DI CAPITOLO via Palmanova 06:26 07:09 13:01 13:01 10:59 14:34
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 06:28 13:03 13:03 11:01 14:36
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+06:30 13:06 13:06 11:03 14:38
+ 37108   LAUZACCO viale dei Platani (rotonda Crosada, 
+direz. Udine)
+06:32 13:08 13:08 11:06 14:41
+ 37207   SANTA MARIA LA LONGA via Ippolito Nievo 
+(fronte civico 5)
+07:11
+ 37317   MERLANA via Santa Maria (fronte civico 
+2)
+07:15
+ 37132   PERSEREANO piazza Sant'Andrea 1 07:17
+ 37103   LAUZACCO piazza Julia 14 (municipio) 07:19
+ 37141   LAUZACCO via Nievo 12 07:20
+ 37109   LAUZACCO piazza Umberto Zanfagnini 1 
+(scuola media)
+07:22
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+06:38 07:29 13:14 13:15 11:13 14:48
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:50 07:38 13:26 13:30 11:25 14:56
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 07:47
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:49
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+08:01
+ 70C83   UDINE via Muris (fronte Stringher) 08:10
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 2
+  [Pagina 22]
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico U423 Festiva invernale (periodo scolastico) + ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 2 di 2
+  [Pagina 23]
+LINEA 402 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-PAVIA-PERCOTO-PALMANOVA-GRADO 
+1 9 11 401 403 17 21 23 25 13 15 411 27 53
+U251 U300 U300 U080 U080 U300 U240 U240 U240 U280 U251 U080 U240 U230
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:05 07:05 07:15 07:15 09:15 09:21 11:15 12:15 13:15 13:30 13:30 15:15 16:15 16:30
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+07:20 07:20 09:20 09:27 11:20 12:20 13:20 13:35 13:35 15:20 16:20 16:35
+ 70C67   UDINE via del Partidor (lato sede Saf) 07:09
+ 38835   CARGNACCO Z.I.U. via Buttrio (fronte civico 59, 
+ABS)
+07:16 07:15
+ 70228   UDINE Z.I.U. via Manzano (rotonda Enel, 
+direzione Pavia)
+07:17 07:16
+ 70142   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Lauzacco)
+07:17 07:16
+ 70143   UDINE Z.I.U. via Zanussi 305 (Tecnocom) 07:18 07:18
+ 37121   LAUZACCO Z.I.U. viale del Lavoro 23 (DEM) 07:21 07:19
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+07:23 07:21
+ 37141   LAUZACCO via Nievo 12 07:24
+ 37116   PAVIA DI UDINE via Udine (direzione Pavia), loc. 
+Moretto
+07:24 07:24 09:24 09:31 11:24 12:24 13:24 13:39 13:39 15:24 16:24 16:39
+ 37127   PAVIA DI UDINE via Udine 45 07:26 07:27 09:27 09:33 11:27 12:27 13:27 13:42 13:42 15:27 16:27 16:41
+ 37122   PAVIA DI UDINE via Selvuzzis 32 07:27 07:27 07:27 09:27 09:34 11:27 12:27 13:27 13:43 13:43 15:27 16:27 16:43
+ 37104   PERCOTO via Aquileia 6 07:31 07:32 07:32 09:32 09:37 11:32 12:32 13:32 13:47 13:47 15:32 16:32 16:46
+ 37134   PERCOTO via Crimea 20 (Damiani) 07:32 07:33 07:33 09:33 09:38 11:33 12:33 13:33 13:47 13:47 15:33 16:33 16:47
+ 37129   PERCOTO via Crimea (fronte 69), località 
+Madonna di Muris
+07:34 07:35 07:35 09:35 09:40 11:35 12:35 13:35 13:49 13:49 15:35 16:35 16:48
+ 37307   TRIVIGNANO UDINESE Strada Triestina (fronte 
+5)
+07:35 07:35 07:36 09:36 09:41 11:36 12:36 13:36 13:49 13:49 15:36 16:36 16:50
+ 37301   TRIVIGNANO UDINESE piazza municipio 
+13
+07:36 07:37 07:37 09:37 09:42 11:37 12:37 13:37 13:50 13:50 15:37 16:37 16:51
+ 37309   TRIVIGNANO UDINESE via Palma 28 07:38 07:38 07:38 09:38 09:43 11:38 12:38 13:38 13:52 13:52 15:38 16:38 16:52
+ 37318   CLAUIANO via Palma fronte 44 07:38 07:38 07:39 09:39 09:44 11:39 12:39 13:39 13:52 13:52 15:39 16:39 16:53
+ 37314   CLAUIANO piazza Giulia 2 07:39 07:40 07:40 09:40 09:45 11:40 12:40 13:40 13:54 13:54 15:40 16:40 16:53
+ 37402   JALMICCO via Udine 27 (ex Molino) 07:41 07:42 07:43 09:43 09:47 11:43 12:43 13:43 15:43 16:43 16:55
+ 37422   JALMICCO via Udine 1 (piazza) 07:43 07:43 07:44 09:44 09:48 11:44 12:44 13:44 15:44 16:44 16:57
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 07:25
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 07:27
+ 37317   MERLANA via Santa Maria (fronte civico 2) 07:31
+ 37316   MELAROLO via Pietro Zorutti (fronte civico 2) 07:32
+ 37307   TRIVIGNANO UDINESE Strada Triestina (fronte 
+5)
+07:35
+ 37301   TRIVIGNANO UDINESE piazza municipio 
+13
+07:36
+ 37309   TRIVIGNANO UDINESE via Palma 28 07:37
+ 37318   CLAUIANO via Palma fronte 44 07:38
+ 37314   CLAUIANO piazza Giulia 2 07:40
+ 37405   SOTTOSELVA via Guglielmo Marconi 25 (chiesa) 07:42 13:57 13:57
+ 37410   JALMICCO via Natisone 11 (ospedale) 07:45 07:46 07:46 09:46 09:49 11:46 12:46 13:46 15:46 16:46 16:58
+ 37406   SOTTOSELVA via Ponte degli Speroni 3 
+(caserme)
+07:47 07:44 07:47 07:49 09:49 09:52 11:49 12:49 13:49 13:58 13:58 15:49 16:49 17:00
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 07:48 07:45 07:49 07:50 09:50 09:53 11:50 12:50 13:50 14:00 14:00 15:50 16:50 17:02
+ 37401   PALMANOVA via Rota (Polveriera) 07:50 07:47 07:55 07:52 09:52 09:56 11:52 12:52 13:52 14:10 14:10 15:52 16:52 17:05
+ 37412   PALMANOVA FS 07:55 09:55 11:55 12:55 13:55 15:55 16:55
+ 37705   SEVEGLIANO via Julia 23 (semaforo Strada 
+Regionale 352)
+07:55 07:52 07:59 17:07
+ 38191   STRASSOLDO via Palmanova 1 (direzione Grado) 07:58 07:56 08:03 17:12
+ 38192   MUSCOLI Cimitero direzione Cervignano 08:01 07:58 08:05 17:16
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 09:58 14:13
+ 37407   SOTTOSELVA via Ponte degli Speroni (fronte 3, 
+caserme)
+09:59 14:14
+ 37410   JALMICCO via Natisone 11 (ospedale) 10:00 14:15
+ 37416   JALMICCO piazza Unione 11 10:02 14:16
+ 37506   VISCO piazza Santa Maria Maggiore 5 (chiesa) 10:05 14:19
+ 37804   JOANNIS via Gofredo Mameli (fronte 13) 10:07 14:20
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 3
+  [Pagina 24]
+1 9 11 401 403 17 21 23 25 13 15 411 27 53
+U251 U300 U300 U080 U080 U300 U240 U240 U240 U280 U251 U080 U240 U230
+ 37814   AIELLO via Genova Cavalleria 63 (Rosmarino) 10:08 14:21
+ 37812   AIELLO viale Vittorio Emanuele 2 10:11 14:23
+ 37904   CAVENZANO SP 65 (bivio Strada Provinciale 54, 
+dir. Perteole)
+10:12 14:24
+ 38A05   PERTEOLE via Giuseppe Verdi 89 (cimitero) 10:13 14:26
+ 38A14   PERTEOLE via Giuseppe Verdi 17 (centro) 10:14 14:26
+ 38A03   SACILETTO via Guglielmo Marconi 37 10:15 14:28
+ 38A10   SACILETTO via Papa Giovanni XXIII 18 10:16 14:28
+ 38114   CERVIGNANO DEL FRIULI via Gorizia 35 (Drago 
+Nero, dir.Grado)
+10:18 14:30
+ 38105   CERVIGNANO DEL FRIULI via Udine 45 
+(rotonda, dir. Grado)
+08:02 08:00 08:06 10:20 14:31 17:16
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+08:08
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+08:07 08:04 10:25 14:41 17:21
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+08:11 08:08 10:30 14:41 17:26
+ 38108   CERVIGNANO DEL FRIULI via Aquileia 82 (bivio, 
+dir.Grado)
+08:12 17:26
+ 38122   CERVIGNANO DEL FRIULI via Pradati (fronte 
+liceo Einstein)
+08:11 08:11
+ 38112   CERVIGNANO DEL FRIULI via M. 
+Ramazzotti 41 (Ist. Malignani)
+08:16
+ 38301   TERZO D'AQUILEIA via Giulia Augusta 7 
+(direzione Grado)
+08:15 08:14 17:30
+ 38408   AQUILEIA via Giulia Augusta (fronte 59, Porte 
+direz. Grado)
+08:18 08:16 17:32
+ 38409   AQUILEIA via G.Augusta (park, dir.Grado), loc. 
+Beligna
+08:19 08:19 17:34
+ 38407   BELVEDERE SR352 via Beligna km 35 (direzione 
+Grado)
+08:24 08:22 17:38
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+08:32 08:37 17:51
+1 9 11 401 403 17 21 23 25 13 15 411 27 53
+ 70101   UDINE viale Europa Unita 37 (autostazione) 4 4 4 4 4 4 4 4 4 16 16 4 4 4
+BANCHINE
+VALIDITÀ
+U280 Feriale invernale (periodo scolastico) escluso sab ati non scolastici U240 Feriale estiva (fne scuole-inizio scuole)
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 2 di 3
+  [Pagina 25]
+LINEA 402 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-PAVIA-PERCOTO-PALMANOVA-GRADO 
+3 415 29 5 19
+U230 U080 U240 U230 U240
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17:00 17:15 18:15 18:40 19:15
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+17:06 17:20 18:20 18:45 19:20
+ 37116   PAVIA DI UDINE via Udine (direzione Pavia), loc. 
+Moretto
+17:09 17:24 18:24 18:49 19:24
+ 37127   PAVIA DI UDINE via Udine 45 17:12 17:27 18:27 18:51 19:27
+ 37122   PAVIA DI UDINE via Selvuzzis 32 17:13 17:27 18:27 18:53 19:27
+ 37104   PERCOTO via Aquileia 6 17:17 17:32 18:32 18:56 19:32
+ 37134   PERCOTO via Crimea 20 (Damiani) 17:18 17:33 18:33 18:57 19:33
+ 37129   PERCOTO via Crimea (fronte 69), località 
+Madonna di Muris
+17:19 17:35 18:35 18:58 19:35
+ 37307   TRIVIGNANO UDINESE Strada Triestina (fronte 
+5)
+17:20 17:36 18:36 18:59 19:36
+ 37301   TRIVIGNANO UDINESE piazza municipio 
+13
+17:21 17:37 18:37 19:00 19:37
+ 37309   TRIVIGNANO UDINESE via Palma 28 17:22 17:38 18:38 19:02 19:38
+ 37318   CLAUIANO via Palma fronte 44 17:23 17:39 18:39 19:03 19:39
+ 37314   CLAUIANO piazza Giulia 2 17:25 17:40 18:40 19:03 19:40
+ 37402   JALMICCO via Udine 27 (ex Molino) 17:27 17:43 18:43 19:05 19:43
+ 37422   JALMICCO via Udine 1 (piazza) 17:28 17:44 18:44 19:07 19:44
+ 37410   JALMICCO via Natisone 11 (ospedale) 17:29 17:46 18:46 19:08 19:46
+ 37406   SOTTOSELVA via Ponte degli Speroni 3 
+(caserme)
+17:32 17:49 18:49 19:10 19:49
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 17:33 17:50 18:50 19:12 19:50
+ 37401   PALMANOVA via Rota (Polveriera) 17:40 17:52 18:52 19:20 19:52
+ 37412   PALMANOVA FS 17:55 18:55 19:55
+CADENZA
+CORSA
+3 415 29 5 19
+ 70101   UDINE viale Europa Unita 37 (autostazione) 7 4 4 7 4
+BANCHINE
+VALIDITÀ
+U280 Feriale invernale (periodo scolastico) escluso sab ati non scolastici U240 Feriale estiva (fne scuole-inizio scuole)
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 3 di 3
+  [Pagina 26]
+LINEA 402 (Ritorno)
+Orario valido dal 23 dicembre 2025GRADO-PALMANOVA-PERCOTO-PAVIA-UDINE 
+2 24 404 52 406 8 32 408 4 10 12 22 6 14
+U240 U300 U240 U300 U080 U300 U230 U080 U240 U230 U300 U300 U240 U240
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+10:00
+ 38402   BELVEDERE SR352 via Beligna km 35 (direzione 
+Aquileia)
+10:05
+ 38403   AQUILEIA via G.Augusta (park, direzione Cervi), 
+loc. Beligna
+10:10
+ 38404   AQUILEIA via Giulia Augusta 74 (porte, direz. 
+Cervignano)
+10:11
+ 38309   TERZO D'AQUILEIA via Giulia Augusta 10 10:14
+ 38113   CERVIGNANO DEL FRIULI via Aquileia 73 (bivio 
+liceo Einstein)
+10:16
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+10:20
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+10:25
+ 38106   CERVIGNANO DEL FRIULI via Udine 66 
+(rotonda, dir. Udine)
+10:28
+ 38120   CERVIGNANO DEL FRIULI via Gorizia 12 (Drago 
+Nero)
+10:29
+ 38A13   SACILETTO via Papa Giovanni XXIII 23 10:31
+ 38A12   SACILETTO via Guglielmo Marconi 28 10:32
+ 38A04   PERTEOLE via Giuseppe Verdi 8 (centro) 10:34
+ 38A15   PERTEOLE via Giuseppe Verdi (cimitero) 10:35
+ 37908   CAVENZANO Strada Provinciale 65 (bivio, direz. 
+Aiello)
+10:36
+ 37802   AIELLO viale Vittorio Emanuele 5 10:38
+ 37807   AIELLO via Genova Cavalleria 38 (Rosmarino) 10:40
+ 37811   JOANNIS via Gofredo Mameli 15 (Serre Bearzot) 10:41
+ 37501   VISCO via Montello 16 (municipio) 10:44
+ 37421   JALMICCO piazza Unione 8 10:48
+ 37410   JALMICCO via Natisone 11 (ospedale) 10:49
+ 37406   SOTTOSELVA via Ponte degli Speroni 3 
+(caserme)
+10:51
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 10:53
+ 37420   PALMANOVA FS 06:05 07:05 08:05 11:05 12:05 14:05 15:05
+ 37401   PALMANOVA via Rota (Polveriera) 06:08 06:15 07:08 08:08 09:45 10:56 11:08 12:08 12:30 14:05 14:08 15:08
+ 37409   SOTTOSELVA via Risorgimento (scuole) 13:54
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 06:11 06:18 07:11 08:11 09:48 10:59 11:11 12:11 12:33 14:08 14:11 15:11
+ 37407   SOTTOSELVA via Ponte degli Speroni (fronte 3, 
+caserme)
+06:12 06:19 07:12 08:12 09:49 11:00 11:12 12:12 12:34 14:09 14:12 15:12
+ 37410   JALMICCO via Natisone 11 (ospedale) 06:14 06:21 07:14 08:14 09:50 11:02 11:14 12:14 12:35 14:14 15:14
+ 37408   JALMICCO via Udine 2 (piazza Unione) 06:15 06:23 07:15 08:15 09:52 11:03 11:15 12:15 12:37 14:15 15:15
+ 37425   JALMICCO via Udine 22 (ex Molino) 06:16 06:24 07:16 08:16 09:53 11:04 11:16 12:16 12:38 14:16 15:16
+ 37492   SOTTOSELVA via Guglielmo Marconi 10 (chiesa) 13:57 14:10
+ 37304   CLAUIANO piazza Giulia 3 06:18 06:27 07:18 08:18 09:55 11:06 11:18 12:18 12:40 14:00 14:13 14:18 15:18
+ 37313   CLAUIANO via Palma 46, borgo San Martino 06:19 06:28 07:19 08:19 09:55 11:07 11:19 12:19 12:40 14:00 14:14 14:19 15:19
+ 37312   TRIVIGNANO UDINESE via Palma 33 06:20 06:29 07:20 08:20 09:56 11:07 11:20 12:20 12:41 14:01 14:14 14:20 15:20
+ 37311   TRIVIGNANO UDINESE piazza Municipio 8 06:21 06:30 07:21 08:05 08:21 09:58 11:08 11:21 12:21 12:43 14:03 14:16 14:21 15:21
+ 37308   TRIVIGNANO UDINESE Strada Triestina 5 06:22 06:32 07:22 08:07 08:22 09:59 11:09 11:22 12:22 12:44 14:04 14:17 14:22 15:22
+ 37306   MELAROLO via Percoto (angolo via Dei Conti) 14:06 14:19
+ 37113   PERCOTO via Crimea 69, località Madonna di 
+Muris
+06:23 06:34 07:23 08:08 08:23 09:59 11:10 11:23 12:23 12:44 14:06 14:23 15:23
+ 37303   MERLANA via Ioppi 1 14:25
+ 37119   PERCOTO via Crimea 11 (Damiani) 06:25 06:35 07:25 08:09 08:25 10:01 11:12 11:25 12:25 12:46 14:07 14:25 15:25
+ 37133   PERCOTO via Aquileia 1 06:26 06:37 07:26 08:11 08:26 10:03 11:13 11:26 12:26 12:48 14:09 14:26 15:26
+ 37131   PAVIA DI UDINE via Selvuzzis 5 06:30 06:40 07:30 08:15 08:30 10:06 11:17 11:30 12:30 12:51 14:15 14:30 15:30
+ 37130   PAVIA DI UDINE via Udine 24 06:31 06:42 07:31 08:31 10:07 11:18 11:31 12:31 12:52 14:31 15:31
+ 37128   PAVIA DI UDINE via Udine (direzione Udine), 
+loc. Moretto
+06:35 06:44 07:35 08:35 10:10 11:20 11:35 12:35 12:55 14:35 15:35
+ 37109   LAUZACCO piazza Umberto Zanfagnini 1 
+(scuola media)
+08:17
+ 37124   LAUZACCO via Nievo 19 08:18
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 4
+  [Pagina 27]
+2 24 404 52 406 8 32 408 4 10 12 22 6 14
+U240 U300 U240 U300 U080 U300 U230 U080 U240 U230 U300 U300 U240 U240
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+06:40 06:48 07:40 08:26 08:40 10:13 11:24 11:40 12:40 12:58 14:40 15:40
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:45 06:53 07:45 08:35 08:45 10:25 11:32 11:45 12:45 13:10 14:45 15:45
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 2 di 4
+  [Pagina 28]
+LINEA 402 (Ritorno)
+Orario valido dal 23 dicembre 2025GRADO-PALMANOVA-PERCOTO-PAVIA-UDINE 
+416 16 18 420 66 68
+U080 U230 U240 U080 U300 U251
+ G0933   GRADO piazza Vittore Carpaccio 
+(autostazione)
+17:30 17:55
+ 38402   BELVEDERE SR352 via Beligna km 35 (direzione 
+Aquileia)
+17:35 18:00
+ 38403   AQUILEIA via G.Augusta (park, direzione Cervi), 
+loc. Beligna
+17:40 18:05
+ 38404   AQUILEIA via Giulia Augusta 74 (porte, direz. 
+Cervignano)
+17:41 18:06
+ 38309   TERZO D'AQUILEIA via Giulia Augusta 10 17:44 18:09
+ 38113   CERVIGNANO DEL FRIULI via Aquileia 73 (bivio 
+liceo Einstein)
+17:47 18:12
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+17:51 18:16
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+17:55 18:20
+ 38106   CERVIGNANO DEL FRIULI via Udine 66 
+(rotonda, dir. Udine)
+17:56 18:21
+ 38120   CERVIGNANO DEL FRIULI via Gorizia 12 (Drago 
+Nero)
+17:58 18:23
+ 38A13   SACILETTO via Papa Giovanni XXIII 23 18:01 18:26
+ 38A12   SACILETTO via Guglielmo Marconi 28 18:01 18:26
+ 38A04   PERTEOLE via Giuseppe Verdi 8 (centro) 18:03 18:28
+ 38A15   PERTEOLE via Giuseppe Verdi (cimitero) 18:04 18:29
+ 37908   CAVENZANO Strada Provinciale 65 (bivio, direz. 
+Aiello)
+18:05 18:30
+ 37802   AIELLO viale Vittorio Emanuele 5 18:08 18:33
+ 37807   AIELLO via Genova Cavalleria 38 (Rosmarino) 18:09 18:34
+ 37811   JOANNIS via Gofredo Mameli 15 (Serre Bearzot) 18:10 18:35
+ 37501   VISCO via Montello 16 (municipio) 18:13 18:38
+ 37421   JALMICCO piazza Unione 8 18:17 18:42
+ 37410   JALMICCO via Natisone 11 (ospedale) 18:18 18:43
+ 37406   SOTTOSELVA via Ponte degli Speroni 3 
+(caserme)
+18:20 18:45
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 18:22 18:47
+ 37420   PALMANOVA FS 16:05 17:05 18:05
+ 37401   PALMANOVA via Rota (Polveriera) 16:08 17:00 17:08 18:08 18:26 18:51
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 16:11 17:03 17:11 18:11 18:29 18:54
+ 37407   SOTTOSELVA via Ponte degli Speroni (fronte 3, 
+caserme)
+16:12 17:04 17:12 18:12 18:30 18:55
+ 37410   JALMICCO via Natisone 11 (ospedale) 16:14 17:06 17:14 18:14 18:31 18:56
+ 37408   JALMICCO via Udine 2 (piazza Unione) 16:15 17:07 17:15 18:15 18:32 18:57
+ 37425   JALMICCO via Udine 22 (ex Molino) 16:16 17:08 17:16 18:16 18:33 18:58
+ 37304   CLAUIANO piazza Giulia 3 16:18 17:11 17:18 18:18 18:36 19:01
+ 37313   CLAUIANO via Palma 46, borgo San Martino 16:19 17:12 17:19 18:19 18:37 19:02
+ 37312   TRIVIGNANO UDINESE via Palma 33 16:20 17:13 17:20 18:20 18:37 19:02
+ 37311   TRIVIGNANO UDINESE piazza Municipio 8 16:21 17:14 17:21 18:21 18:39 19:04
+ 37308   TRIVIGNANO UDINESE Strada Triestina 5 16:22 17:15 17:22 18:22 18:40 19:05
+ 37113   PERCOTO via Crimea 69, località Madonna di 
+Muris
+16:23 17:16 17:23 18:23 18:41 19:06
+ 37119   PERCOTO via Crimea 11 (Damiani) 16:25 17:18 17:25 18:25 18:42 19:07
+ 37133   PERCOTO via Aquileia 1 16:26 17:20 17:26 18:26 18:44 19:09
+ 37131   PAVIA DI UDINE via Selvuzzis 5 16:30 17:24 17:30 18:30 18:47 19:12
+ 37130   PAVIA DI UDINE via Udine 24 16:31 17:31 18:31 18:48 19:13
+ 37128   PAVIA DI UDINE via Udine (direzione Udine), 
+loc. Moretto
+16:35 17:35 18:35 18:51 19:16
+ 37109   LAUZACCO piazza Umberto Zanfagnini 1 
+(scuola media)
+17:26
+ 37124   LAUZACCO via Nievo 19 17:27
+ 37140   LAUZACCO Z.I.U. viale del Lavoro 30 (GZ Press, 
+dir.Udine)
+17:31
+ 70105   UDINE Z.I.U. via Zanussi 306 (Tecnocom, 
+direzione Udine)
+17:33
+ 70104   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Udine)
+17:35
+ 70124   UDINE Z.I.U. via Linussio (parco scientifco 
+tecnologico)
+17:36 18:52 19:17
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 3 di 4
+  [Pagina 29]
+416 16 18 420 66 68
+U080 U230 U240 U080 U300 U251
+ 70232   UDINE Z.I.U. via Manzano 189 (rotonda Enel, 
+dir. Cargnacco)
+17:37
+ 38821   CARGNACCO Z.I.U. via Buttrio 57 (fronte ABS, 
+dir. Cargnacco)
+17:39
+ 38822   CARGNACCO via Lumignacco 13 (direzione 
+Udine)
+17:40
+ 70C36   UDINE via Lumignacco (fronte 135, bivio istituti 
+scolastici)
+17:45
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 17:48
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+16:40 17:40 18:40 18:57 19:22
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 17:50
+ 70101   UDINE viale Europa Unita 37 (autostazione) 16:45 17:55 17:45 18:45 19:05 19:30
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 4 di 4
+  [Pagina 30]
+LINEA 420 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-PALMANOVA-S.VITO AL TORRE-GRADISCA D'ISONZO 
+31 9 51 1 21 17 55 37 3
+U230 U300 U300 U240 U300 U300 U300 U230 U240
+ 70C70   UDINE viale Monsignor Nogara (lato Stringher) 13:07 13:07
+ 70C24   UDINE viale Monsignor Nogara (fronte civico 2, 
+Marinoni)
+13:09 13:08
+ 70C22   UDINE viale Cadore 48 (Bertoni) 13:09 13:10
+ 70204   UDINE viale Cadore (lato Malignani) 13:11
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 13:14 13:13 13:14
+ 70C49   UDINE viale Ledra 108 (Area 2) 13:15
+ 70101   UDINE viale Europa Unita 37 (autostazione) 12:10 12:32 13:30 13:30 13:30 18:00
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+12:14 12:37 13:35 13:35 13:36 18:04
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+12:43 13:42
+ 37141   LAUZACCO via Nievo 12 12:45 13:44
+ 37109   LAUZACCO piazza Umberto Zanfagnini 1 
+(scuola media)
+12:50 12:50 13:45
+ 37116   PAVIA DI UDINE via Udine (direzione Pavia), loc. 
+Moretto
+12:22 13:39 13:39 18:11
+ 37127   PAVIA DI UDINE via Udine 45 12:24 13:41 13:42 18:13
+ 37122   PAVIA DI UDINE via Selvuzzis 32 12:25 12:53 12:54 13:42 13:43 13:47 18:14
+ 37114   PERCOTO via Don Sturzo 4 12:57 13:47
+ 37117   PERCOTO via San Mauro 1 (campo sportivo) 12:28 18:17
+ 37104   PERCOTO via Aquileia 6 12:29 13:45 13:51
+ 37134   PERCOTO via Crimea 20 (Damiani) 12:30 12:58 13:46 13:52
+ 37133   PERCOTO via Aquileia 1 13:01 13:49
+ 37132   PERSEREANO piazza Sant'Andrea 1 13:05 13:52 18:21
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 18:24
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 18:28
+ 37203   MERETO DI CAPITOLO via Palmanova 8 18:30
+ 37129   PERCOTO via Crimea (fronte 69), località 
+Madonna di Muris
+12:31 13:47 13:54
+ 37306   MELAROLO via Percoto (angolo via Dei Conti) 13:57
+ 37307   TRIVIGNANO UDINESE Strada Triestina (fronte 
+5)
+12:32 13:48 13:58
+ 37301   TRIVIGNANO UDINESE piazza municipio 
+13
+12:33 13:49 13:59
+ 37309   TRIVIGNANO UDINESE via Palma 28 12:34 13:50 14:00
+ 37318   CLAUIANO via Palma fronte 44 12:36 13:52 14:01
+ 37314   CLAUIANO piazza Giulia 2 12:37 13:53 14:02
+ 37402   JALMICCO via Udine 27 (ex Molino) 12:39 13:55 14:04
+ 37422   JALMICCO via Udine 1 (piazza) 12:40 13:56 14:05
+ 37410   JALMICCO via Natisone 11 (ospedale) 12:41 13:58 14:07
+ 37406   SOTTOSELVA via Ponte degli Speroni 3 
+(caserme)
+12:42 14:00 14:09
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 12:43 14:02 14:11
+ 37420   PALMANOVA FS 13:05 18:05
+ 37401   PALMANOVA via Rota (Polveriera) 12:45 13:08 14:04 14:13 18:35 18:08
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 12:48 13:10 14:07 18:38 18:10
+ 37407   SOTTOSELVA via Ponte degli Speroni (fronte 3, 
+caserme)
+12:49 13:11 14:07 18:39 18:11
+ 37410   JALMICCO via Natisone 11 (ospedale) 12:50 13:13 14:09 18:40 18:13
+ 37418   JALMICCO piazza Unione 4 13:14 14:10 18:14
+ 37614   NOGAREDO AL TORRE via Remis 1 (Zona 
+Artigianale)
+13:16 14:12 18:16
+ 37606   NOGAREDO AL TORRE via Udine 27 13:18 14:14 18:18
+ 37611   SAN VITO AL TORRE via Roma 151 (campo 
+sportivo)
+13:19 14:15 18:19
+ 37601   SAN VITO AL TORRE via Roma 49 
+(municipio)
+13:21 14:17 18:21
+ 37416   JALMICCO piazza Unione 11 12:52 18:42
+ 37505   VISCO via Gorizia 2 12:55 18:44
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 2
+  [Pagina 31]
+31 9 51 1 21 17 55 37 3
+U230 U300 U300 U240 U300 U300 U300 U230 U240
+ 37609   SAN VITO AL TORRE via Roma 6 (Casabianca) 12:57 18:47
+ 37604   SAN VITO AL TORRE via Roma 15 (Casabianca) 13:21 18:21
+ 37604   SAN VITO AL TORRE via Roma 15 (Casabianca) 12:58 18:48
+ 37612   SAN VITO AL TORRE via Gorizia 6 (Casabianca) 12:58 13:22 14:18 18:48 18:22
+ 37615   CRAUGLIO via Aquileia 46 13:02 14:20 18:52
+ 37902   CAMPOLONGO AL TORRE via Puccini 1 13:06 14:23 18:56
+ 38602   TAPOGLIANO piazzale dell'Esercito 31 13:09 14:25 18:59
+ G1507   VERSA strada statale 252 via de Claricini 6 13:14 13:27 14:29 19:04 18:27
+ 34309   ROMANS D'ISONZO via Roma 18 13:17 13:30 14:32 19:07 18:30
+ G1511   ROMANS D'ISONZO viale Trieste 20 13:19 13:32 14:34 19:09 18:32
+ G0809   GRADISCA D'ISONZO viale Trieste (fronte 110, 
+ponte)
+13:21 13:36 14:39 19:11 18:36
+ G0811   GRADISCA D'ISONZO viale Regina Elena 
+(giardini, lato parco)
+13:25 13:38 14:45 19:15 18:38
+31 9 51 1 21 17 55 37 3
+ 70101   UDINE viale Europa Unita 37 (autostazione) 7 5 7
+BANCHINE
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U230 Feriale invernale (periodo scolastico)
+U300 Scolastica
+martedì 16 dicembre 2025Pagina 2 di 2
+  [Pagina 32]
+LINEA 420 (Ritorno)
+Orario valido dal 23 dicembre 2025GRADISCA D'ISONZO-S.VITO AL TORRE-PALMANOVA-UDINE 
+10 2 32 48 4 6 36 30 18 14 8 38
+U240 U251 U300 U300 U300 U240 U230 U300 U300 U300 U240 U230
+ G0802   GRADISCA D'ISONZO viale Regina Elena 
+(fronte 2, giardini)
+06:15 07:20 07:15 15:20 15:25
+ G0804   GRADISCA D'ISONZO viale Trieste (fronte 221, 
+ponte)
+06:17 07:22 07:18 15:22 15:28
+ G1502   ROMANS D'ISONZO viale Trieste 17 06:20 07:26 07:20 15:26 15:30
+ 34301   ROMANS D'ISONZO via Roma 25 06:23 07:28 07:22 15:28 15:32
+ G1506   VERSA strada statale 252 via de Claricini 1 06:25 07:31 07:25 15:31 15:35
+ 38601   TAPOGLIANO piazzale dell'Esercito 10 06:29 07:30 15:40
+ 37906   CAMPOLONGO AL TORRE via Puccini 26 06:32 07:33 15:43
+ 37608   CRAUGLIO via Aquileia 91 06:34 07:36 15:47
+ 37607   SAN VITO AL TORRE via Gorizia 3 (Casabianca) 06:36 07:36 07:40 15:36 15:52
+ 37609   SAN VITO AL TORRE via Roma 6 (Casabianca) 07:36 07:40 15:36 15:52
+ 37604   SAN VITO AL TORRE via Roma 15 (Casabianca) 07:42 15:54
+ 37501   VISCO via Montello 16 (municipio) 07:44 15:56
+ 37421   JALMICCO piazza Unione 8 07:47 15:59
+ 37603   SAN VITO AL TORRE via Roma 70 
+(municipio)
+05:52 06:02 06:37 07:37 15:37
+ 37617   SAN VITO AL TORRE via Roma 168 (campo 
+sportivo)
+05:53 06:03 06:38 07:38 15:38
+ 37613   NOGAREDO AL TORRE via Udine 36 05:55 06:06 06:40 07:40 15:40
+ 37602   NOGAREDO AL TORRE via Remis 8 (Zona 
+Artigianale)
+05:57 06:07 06:42 07:42 15:42
+ 37422   JALMICCO via Udine 1 (piazza) 06:00 06:10 06:47 07:47 15:47
+ 37410   JALMICCO via Natisone 11 (ospedale) 06:01 06:11 06:48 07:48 07:48 15:48 16:00
+ 37406   SOTTOSELVA via Ponte degli Speroni 3 
+(caserme)
+06:03 06:13 06:50 07:50 07:50 15:50 16:02
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 06:04 06:14 06:52 07:52 07:51 15:52 16:03
+ 37401   PALMANOVA via Rota (Polveriera) 06:05 06:15 06:54 06:55 07:54 07:55 15:54 16:05
+ 37412   PALMANOVA FS 07:56 15:56
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 06:18 16:06
+ 37407   SOTTOSELVA via Ponte degli Speroni (fronte 3, 
+caserme)
+06:19 16:07
+ 37492   SOTTOSELVA via Guglielmo Marconi 10 (chiesa) 07:01
+ 37410   JALMICCO via Natisone 11 (ospedale) 06:21 16:08
+ 37418   JALMICCO piazza Unione 4 16:10
+ 37408   JALMICCO via Udine 2 (piazza Unione) 06:23 16:10
+ 37425   JALMICCO via Udine 22 (ex Molino) 06:24 16:11
+ 37304   CLAUIANO piazza Giulia 3 06:27 07:04 16:13
+ 37313   CLAUIANO via Palma 46, borgo San Martino 06:28 07:05 16:14
+ 37312   TRIVIGNANO UDINESE via Palma 33 06:29 07:06 16:16
+ 37306   MELAROLO via Percoto (angolo via Dei Conti) 07:08
+ 37311   TRIVIGNANO UDINESE piazza Municipio 8 06:30 07:08 16:17
+ 37308   TRIVIGNANO UDINESE Strada Triestina 5 06:32 07:09 16:18
+ 37113   PERCOTO via Crimea 69, località Madonna di 
+Muris
+06:34 16:19
+ 37214   MERETO DI CAPITOLO via Palmanova 06:58 07:59
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 06:59 08:01
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+07:02 08:05
+ 37132   PERSEREANO piazza Sant'Andrea 1 13:08 13:56
+ 37113   PERCOTO via Crimea 69, località Madonna di 
+Muris
+07:11 07:10
+ 37119   PERCOTO via Crimea 11 (Damiani) 06:35 07:13 07:12 07:40 16:20
+ 37133   PERCOTO via Aquileia 1 06:37 07:15 07:14 07:43 16:21
+ 37131   PAVIA DI UDINE via Selvuzzis 5 06:40 07:19 07:19 16:25
+ 37130   PAVIA DI UDINE via Udine 24 06:42 07:20 16:26
+ 37128   PAVIA DI UDINE via Udine (direzione Udine), 
+loc. Moretto
+06:44 07:22 16:28
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 2
+  [Pagina 33]
+10 2 32 48 4 6 36 30 18 14 8 38
+U240 U251 U300 U300 U300 U240 U230 U300 U300 U300 U240 U230
+ 37132   PERSEREANO piazza Sant'Andrea 1 07:45
+ 37108   LAUZACCO viale dei Platani (rotonda Crosada, 
+direz. Udine)
+07:04 08:08
+ 37103   LAUZACCO piazza Julia 14 (municipio) 07:47 13:11 13:59
+ 37109   LAUZACCO piazza Umberto Zanfagnini 1 
+(scuola media)
+07:21
+ 37141   LAUZACCO via Nievo 12 07:47 13:11 13:59
+ 37109   LAUZACCO piazza Umberto Zanfagnini 1 
+(scuola media)
+07:48
+ 37124   LAUZACCO via Nievo 19 07:22
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+06:48 07:10 07:29 08:16 13:17 14:05 16:36
+ 70191   UDINE viale Monsignor Nogara (fronte 
+Stringher)
+07:33
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:35
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:41
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:41
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:42
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:43
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:53 07:23 07:37 07:50 08:20 13:25 14:15 16:40
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 07:43
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:54
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+08:02
+ 70C83   UDINE via Muris (fronte Stringher) 08:10
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 2 di 2
+  [Pagina 34]
+LINEA 421 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-PALMANOVA-RUDA-FIUMICELLO PAPARIANO 
+9 17 1 11 7 81 19 13 5 15
+U240 U230 U230 U240 U306 U307 U230 U240 U230 U240
+ 70C70   UDINE viale Monsignor Nogara (lato Stringher) 13:07
+ 70204   UDINE viale Cadore (lato Malignani) 13:11
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 13:15
+ 70101   UDINE viale Europa Unita 37 (autostazione) 11:30 13:30 13:30 18:15
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+11:36 13:36 13:36 18:22
+ 37116   PAVIA DI UDINE via Udine (direzione Pavia), loc. 
+Moretto
+11:40
+ 37127   PAVIA DI UDINE via Udine 45 11:43
+ 37122   PAVIA DI UDINE via Selvuzzis 32 11:45
+ 37117   PERCOTO via San Mauro 1 (campo sportivo) 11:48
+ 37104   PERCOTO via Aquileia 6 11:49
+ 37134   PERCOTO via Crimea 20 (Damiani) 11:50
+ 37129   PERCOTO via Crimea (fronte 69), località 
+Madonna di Muris
+11:52
+ 37307   TRIVIGNANO UDINESE Strada Triestina (fronte 
+5)
+11:53
+ 37301   TRIVIGNANO UDINESE piazza municipio 13 11:54
+ 37309   TRIVIGNANO UDINESE via Palma 28 11:55
+ 37318   CLAUIANO via Palma fronte 44 11:56
+ 37314   CLAUIANO piazza Giulia 2 11:57
+ 37402   JALMICCO via Udine 27 (ex Molino) 11:59
+ 37422   JALMICCO via Udine 1 (piazza) 12:00
+ 37410   JALMICCO via Natisone 11 (ospedale) 12:01
+ 37406   SOTTOSELVA via Ponte degli Speroni 3 
+(caserme)
+12:02
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 12:03
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+13:42 13:42 18:29
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 13:45 13:45 18:32
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 13:48 13:48 18:35
+ 37203   MERETO DI CAPITOLO via Palmanova 8 13:49 13:49 18:36
+ 37412   PALMANOVA FS 13:51 13:51 18:38
+ 37420   PALMANOVA FS 08:05 13:05 17:05 18:39 19:05
+ 37401   PALMANOVA via Rota (Polveriera) 08:07 08:35 12:05 13:07 13:55 13:55 17:00 17:07 18:42 19:07
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 08:09 08:38 12:07 13:09 13:57 13:57 17:03 17:09 18:44 19:09
+ 37407   SOTTOSELVA via Ponte degli Speroni (fronte 3, 
+caserme)
+08:10 08:39 12:08 13:10 13:57 13:57 17:04 17:10 18:45 19:10
+ 37410   JALMICCO via Natisone 11 (ospedale) 08:12 08:41 12:09 13:12 13:59 13:59 17:06 17:12 18:47 19:12
+ 37416   JALMICCO piazza Unione 11 08:13 08:42 12:10 13:13 14:01 14:01 17:07 17:13 18:48 19:13
+ 37506   VISCO piazza Santa Maria Maggiore 5 
+(chiesa)
+08:15 08:45 12:15 13:15 14:04 14:04 17:10 17:15 18:53 19:15
+ 37804   JOANNIS via Gofredo Mameli (fronte 13) 08:17 08:47 12:17 13:17 14:06 14:06 17:12 17:17 18:54 19:17
+ 37814   AIELLO via Genova Cavalleria 63 (Rosmarino) 08:18 08:48 12:18 13:18 14:08 14:08 17:13 17:18 18:55 19:18
+ 37812   AIELLO viale Vittorio Emanuele 2 08:50 17:15
+ 37806   AIELLO via Guglielmo Marconi 6 (chiesa) 08:19 12:20 13:19 14:09 14:09 17:19 18:57 19:19
+ 37815   AIELLO via Guglielmo Marconi 30 (campo 
+sportivo)
+08:20 12:20 13:20 14:10 14:10 17:20 18:57 19:20
+ 37605   CRAUGLIO piazza Moro 08:22 12:23 13:22 14:12 14:12 17:22 19:00 19:22
+ 37608   CRAUGLIO via Aquileia 91 08:22 13:22 17:22 19:22
+ 38601   TAPOGLIANO piazzale dell'Esercito 10 08:24 13:24 17:24 19:24
+ 37901   CAMPOLONGO AL TORRE piazza 
+Indipendenza (direz. Cavenzano)
+08:25 12:26 13:26 14:16 14:16 17:25 19:05 19:26
+ 37904   CAVENZANO SP 65 (bivio Strada Provinciale 54, 
+dir. Perteole)
+08:52 17:17
+ 37907   CAVENZANO piazza Manzoni (chiesa) 08:26 12:27 13:27 14:16 14:16 17:26 19:06 19:27
+ 38A02   PERTEOLE via Duca D'Aosta 12 (caserma) 08:28 08:53 12:27 13:29 14:19 14:19 17:18 17:28 19:09 19:29
+ 38A17   RUDA via Udine 3A (semaforo Strada Regionale 
+351)
+08:29 08:55 12:29 13:31 14:21 14:21 17:20 17:29 19:10 19:31
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 2
+  [Pagina 35]
+9 17 1 11 7 81 19 13 5 15
+U240 U230 U230 U240 U306 U307 U230 U240 U230 U240
+ 38A01   RUDA piazza Repubblica 13 08:30 09:00 17:25 17:30
+ 38A19   RUDA piazza Repubblica 5 12:31 14:22 14:22 19:11
+ 38A08   RUDA via Roma 41 (semaforo Strada Regionale 
+351)
+13:32 19:32
+ 38A19   RUDA piazza Repubblica 5 13:32 19:32
+ 38A16   SAN NICOLO' DI RUDA via Jevada 3 12:33 13:34 14:25 14:25 19:13 19:34
+ 38201   VILLA VICENTINA via Gorizia 23 12:34 13:35 14:26 14:26 19:15 19:35
+ 38207   VILLA VICENTINA via Sant'Antonio (fronte 11) 12:35 13:36 14:30 14:30 19:16 19:36
+ 38512   FIUMICELLO SAN ANTONIO SP68 via Libertà 
+(dir.S.Valentino)
+12:36 13:38 14:30 14:30 19:18 19:38
+ 38506   FIUMICELLO SAN VALENTINO piazza I Maggio 
+2
+12:38 13:39 14:31 14:31 19:20 19:39
+ 38504   FIUMICELLO SAN VALENTINO via Trieste 50, 
+borgo Beliconda
+12:39 13:41 14:32 14:32 19:21 19:41
+ 38502   FIUMICELLO PAPARIANO via Trieste (fronte 73) 12:41 13:42 14:36 14:36 19:22 19:42
+ 38505   FIUMICELLO PAPARIANO via Nazionale 58 12:50 13:45 14:41 14:41 19:29 19:45
+9 17 1 11 7 81 19 13 5 15
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17 13 17
+BANCHINE
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U230 Feriale invernale (periodo scolastico) U307 Scolastica escluso il sabato
+martedì 16 dicembre 2025Pagina 2 di 2
+  [Pagina 36]
+LINEA 421 (Ritorno)
+Orario valido dal 23 dicembre 2025PAPARIANO FIUMICELLO-RUDA-PALMANOVA-UDINE 
+12 6 50 8 4 16 2 14 18 10
+U240 U251 U300 U300 U240 U230 U230 U240 U230 U240
+ 38511   FIUMICELLO PAPARIANO via Nazionale 63 06:20 06:23 06:23 13:50 14:15
+ 38509   FIUMICELLO PAPARIANO via Trieste 71 06:22 06:25 06:25 13:51 14:17
+ 38510   FIUMICELLO SAN VALENTINO Va Trieste 23, 
+borgo Beliconda
+06:23 06:26 06:27 13:52 14:18
+ 38501   FIUMICELLO SAN VALENTINO piazza I Maggio 
+9
+06:25 06:28 06:30 06:28 13:55 14:20
+ 38507   FIUMICELLO S.ANTONIO SP68 via Libertà 
+(dir.Villa Vicentina)
+06:26 06:29 06:32 06:29 13:57 14:21
+ 38202   VILLA VICENTINA via Sant'Antonio 17 
+(direzione Fiumicello)
+06:28 06:30 06:34 06:31 13:59 14:23
+ 38205   VILLA VICENTINA via Gorizia 40 06:29 06:31 06:35 06:33 14:00 14:24
+ 38A06   SAN NICOLO' DI RUDA via Jevada (fronte 3) 06:30 06:33 06:37 06:34 14:01 14:25
+ 38A09   RUDA piazza della Libertà 4 (municipio) 06:33 06:35 06:40 06:37 14:03 14:28
+ 38A01   RUDA piazza Repubblica 13 08:30 09:00 17:25 17:30
+ 38A18   RUDA via Roma 50 (semaforo Strada Regionale 
+351)
+08:31 17:31
+ 38A07   RUDA via Udine 4 (semaforo strada regionale 
+351)
+06:34 06:37 06:41 06:38 09:02 14:05 14:29 17:27
+ 38A11   PERTEOLE via Duca D'Aosta (caserma) 06:35 06:38 06:42 06:39 08:33 09:03 14:07 14:30 17:28 17:33
+ 37908   CAVENZANO Strada Provinciale 65 (bivio, direz. 
+Aiello)
+06:43
+ 37903   CAVENZANO via Aquileia 1 (chiesa) 06:37 06:40 06:41 08:35 09:05 14:09 14:32 17:30 17:35
+ 37905   CAMPOLONGO AL TORRE piazza 
+Indipendenza 10
+06:39 06:41 06:42 08:36 09:06 14:10 14:34 17:32 17:36
+ 38602   TAPOGLIANO piazzale dell'Esercito 31 06:40 08:37 09:08 14:35 17:34 17:37
+ 37616   CRAUGLIO via Gradisca 27 06:41 08:38 09:10 14:36 17:36 17:38
+ 37607   SAN VITO AL TORRE via Gorizia 3 (Casabianca) 09:12 17:38
+ 37603   SAN VITO AL TORRE via Roma 70 (municipio) 09:14 17:39
+ 37617   SAN VITO AL TORRE via Roma 168 (campo 
+sportivo)
+09:14 17:40
+ 37613   NOGAREDO AL TORRE via Udine 36 09:16 17:43
+ 37602   NOGAREDO AL TORRE via Remis 8 (Zona 
+Artigianale)
+09:18 17:44
+ 37906   CAMPOLONGO AL TORRE via Puccini 26 06:42 06:43 14:11
+ 37605   CRAUGLIO piazza Moro 06:42 06:45 06:46 08:39 14:13 14:37 17:39
+ 37808   AIELLO via Guglielmo Marconi 133 (campo 
+sportivo)
+06:43 06:46 06:48 08:40 14:16 14:38 17:40
+ 37813   AIELLO via Guglielmo Marconi 1 (chiesa) 06:44 06:48 06:49 08:41 14:17 14:39 17:41
+ 37802   AIELLO viale Vittorio Emanuele 5 06:46
+ 37807   AIELLO via Genova Cavalleria 38 (Rosmarino) 06:45 06:48 06:47 06:50 08:42 14:18 14:40 17:42
+ 37811   JOANNIS via Gofredo Mameli 15 (Serre Bearzot) 06:46 06:49 06:48 06:51 08:43 14:19 14:41 17:43
+ 37501   VISCO via Montello 16 (municipio) 06:49 06:51 06:51 06:54 08:46 14:21 14:44 17:46
+ 37422   JALMICCO via Udine 1 (piazza) 09:21 17:48
+ 37421   JALMICCO piazza Unione 8 06:51 06:54 06:55 06:57 08:48 14:25 14:46 17:48
+ 37410   JALMICCO via Natisone 11 (ospedale) 06:52 06:55 06:56 06:58 08:49 09:23 14:26 14:47 17:48 17:49
+ 37406   SOTTOSELVA via Ponte degli Speroni 3 
+(caserme)
+06:54 06:57 06:59 07:00 08:51 09:25 14:28 14:49 17:50 17:51
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 06:56 06:59 07:01 07:01 08:52 09:26 14:29 14:51 17:51 17:52
+ 37401   PALMANOVA via Rota (Polveriera) 06:58 07:02 07:06 07:03 08:53 09:30 14:32 14:53 17:55 17:53
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 14:35
+ 37412   PALMANOVA FS 07:00 07:09 07:06 08:55 14:55 17:55
+ 37214   MERETO DI CAPITOLO via Palmanova 07:06 07:12 07:10
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 07:08 07:14 07:12
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+07:11 07:17 07:15
+ 37108   LAUZACCO viale dei Platani (rotonda Crosada, 
+direz. Udine)
+07:17 07:20 07:18
+ 37141   LAUZACCO via Nievo 12 07:22
+ 37407   SOTTOSELVA via Ponte degli Speroni (fronte 3, 
+caserme)
+14:36
+ 37410   JALMICCO via Natisone 11 (ospedale) 14:38
+ 37408   JALMICCO via Udine 2 (piazza Unione) 14:40
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 2
+  [Pagina 37]
+12 6 50 8 4 16 2 14 18 10
+U240 U251 U300 U300 U240 U230 U230 U240 U230 U240
+ 37425   JALMICCO via Udine 22 (ex Molino) 14:41
+ 37304   CLAUIANO piazza Giulia 3 14:43
+ 37313   CLAUIANO via Palma 46, borgo San Martino 14:44
+ 37312   TRIVIGNANO UDINESE via Palma 33 14:45
+ 37311   TRIVIGNANO UDINESE piazza Municipio 8 14:47
+ 37308   TRIVIGNANO UDINESE Strada Triestina 5 14:48
+ 37113   PERCOTO via Crimea 69, località Madonna di 
+Muris
+14:49
+ 37119   PERCOTO via Crimea 11 (Damiani) 14:51
+ 37133   PERCOTO via Aquileia 1 14:52
+ 37131   PAVIA DI UDINE via Selvuzzis 5 14:56
+ 37130   PAVIA DI UDINE via Udine 24 14:57
+ 37128   PAVIA DI UDINE via Udine (direzione Udine), 
+loc. Moretto
+15:00
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+07:23 07:29 07:25 15:04
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:33 07:31 15:08
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 07:47 07:40
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:51 07:46
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+08:00
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 08:01
+ 70101   UDINE viale Europa Unita 37 (autostazione) 08:15
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 2 di 2
+  [Pagina 38]
+LINEA 422 (Andata)
+Orario valido dal 23 dicembre 2025PALMANOVA-CERVIGNANO-RUDA-PAPARIANO 
+27
+U300
+ 37409   SOTTOSELVA via Risorgimento (scuole) 13:55
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 13:57
+ 37705   SEVEGLIANO via Julia 23 (semaforo Strada 
+Regionale 352)
+14:02
+ 38191   STRASSOLDO via Palmanova 1 (direzione Grado) 14:05
+ 38192   MUSCOLI Cimitero direzione Cervignano 14:08
+ 38105   CERVIGNANO DEL FRIULI via Udine 45 
+(rotonda, dir. Grado)
+14:09
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+14:12
+ 38122   CERVIGNANO DEL FRIULI via Pradati (fronte 
+liceo Einstein)
+14:15
+ 38112   CERVIGNANO DEL FRIULI via M. 
+Ramazzotti 41 (Ist. Malignani)
+14:20
+ 38120   CERVIGNANO DEL FRIULI via Gorizia 12 (Drago 
+Nero)
+14:21
+ 38A08   RUDA via Roma 41 (semaforo Strada Regionale 
+351)
+14:25
+ 38A19   RUDA piazza Repubblica 5 14:26
+ 38A16   SAN NICOLO' DI RUDA via Jevada 3 14:28
+ 38201   VILLA VICENTINA via Gorizia 23 14:29
+ 38207   VILLA VICENTINA via Sant'Antonio (fronte 11) 14:30
+ 38512   FIUMICELLO SAN ANTONIO SP68 via Libertà 
+(dir.S.Valentino)
+14:31
+ 38506   FIUMICELLO SAN VALENTINO piazza I Maggio 
+2
+14:33
+ 38504   FIUMICELLO SAN VALENTINO via Trieste 50, 
+borgo Beliconda
+14:36
+ 38502   FIUMICELLO PAPARIANO via Trieste (fronte 73) 14:36
+ 38505   FIUMICELLO PAPARIANO via Nazionale 58 14:42
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+martedì 16 dicembre 2025Pagina 1 di 1
+  [Pagina 39]
+LINEA 422 (Ritorno)
+Orario valido dal 23 dicembre 2025PAPARIANO-RUDA-CERVIGNANO-PALMANOVA 
+24
+U300
+ 38511   FIUMICELLO PAPARIANO via Nazionale 63 07:15
+ 38509   FIUMICELLO PAPARIANO via Trieste 71 07:17
+ 38510   FIUMICELLO SAN VALENTINO Va Trieste 23, 
+borgo Beliconda
+07:19
+ 38501   FIUMICELLO SAN VALENTINO piazza I Maggio 
+9
+07:21
+ 38507   FIUMICELLO S.ANTONIO SP68 via Libertà 
+(dir.Villa Vicentina)
+07:23
+ 38202   VILLA VICENTINA via Sant'Antonio 17 
+(direzione Fiumicello)
+07:25
+ 38205   VILLA VICENTINA via Gorizia 40 07:26
+ 38A06   SAN NICOLO' DI RUDA via Jevada (fronte 3) 07:28
+ 38A09   RUDA piazza della Libertà 4 (municipio) 07:31
+ 38A18   RUDA via Roma 50 (semaforo Strada Regionale 
+351)
+07:32
+ 38114   CERVIGNANO DEL FRIULI via Gorizia 35 (Drago 
+Nero, dir.Grado)
+07:38
+ 38125   CERVIGNANO DEL FRIULI via Pradati 12 (lato 
+liceo Einstein)
+07:45
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+07:50
+ 38106   CERVIGNANO DEL FRIULI via Udine 66 
+(rotonda, dir. Udine)
+07:52
+ 38109   CERVIGNANO DEL FRIULI via Carnia 22 (Polizia 
+Municipale)
+07:53
+ 38115   CERVIGNANO DEL FRIULI via Carnia 30 (bivio 
+Muscoli)
+07:53
+ 38116   STRASSOLDO via Palmanova 10 07:57
+ 37716   SEVEGLIANO via Julia (fronte 29, semaforo 
+SR352 direzione Ud
+08:01
+ 37409   SOTTOSELVA via Risorgimento (scuole) 08:11
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 08:12
+ 37401   PALMANOVA via Rota (Polveriera) 08:20
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+martedì 16 dicembre 2025Pagina 1 di 1
+  [Pagina 40]
+LINEA 425 (Andata)
+Orario valido dal 23 dicembre 2025MANZANO-PALMANOVA-AIELLO-CRAUGLIO-CERVIGNANO 
+9 3 15 1 7 11
+U306 U307 U306 U307 U306 U300
+ 36412   MANZANO via Udine (piazzale autostazione) 07:20 07:25
+ 35305   SAN GIOVANNI AL NATISONE via Palmarina 16 
+(bivio Bolzano)
+07:25 07:30
+ 35339   S.GIOVANNI AL N.via Palmarina 38 (distributore, 
+dir.Medeuzza
+07:26 07:31
+ 35337   S.GIOVANNI AL N.via M.Di Strada(dir. 
+Medeuzza), loc.La Brava
+07:27 07:32
+ 35336   MEDEUZZA via Madonna di Strada 38 (direzione 
+Palmanova)
+07:28 07:33
+ 35340   MEDEUZZA via Madonna di Strada 62 (direzione 
+Palmanova)
+07:28 07:34
+ 35211   VISCONE via Palmarina 5 (Magazzini Nico, 
+direz.Palmanova)
+07:29 07:35
+ 37606   NOGAREDO AL TORRE via Udine 27 07:33 07:39
+ 37611   SAN VITO AL TORRE via Roma 151 (campo 
+sportivo)
+07:35 07:41
+ 37601   SAN VITO AL TORRE via Roma 49 (municipio) 07:37 07:42
+ 37604   SAN VITO AL TORRE via Roma 15 (Casabianca) 07:38 07:43
+ 37401   PALMANOVA via Rota (Polveriera) 13:05 13:05 13:50
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 13:08 13:08 13:53
+ 37409   SOTTOSELVA via Risorgimento (scuole) 13:56
+ 37503   VISCO via Borgo Piave 29 (Vecchio Confne) 13:11 13:11 13:59
+ 37506   VISCO piazza Santa Maria Maggiore 5 (chiesa) 07:41 07:46 13:13 13:13 14:01
+ 37804   JOANNIS via Gofredo Mameli (fronte 13) 07:43 07:50 13:15 13:15 14:02
+ 37814   AIELLO via Genova Cavalleria 63 (Rosmarino) 07:45 07:51 13:16 13:16 14:03
+ 37816   AIELLO via Manzoni 1 (scuola secondaria) 13:17 13:17
+ 37806   AIELLO via Guglielmo Marconi 6 (chiesa) 13:17 13:17 14:04
+ 37815   AIELLO via Guglielmo Marconi 30 (campo 
+sportivo)
+13:18 13:18 14:05
+ 37812   AIELLO viale Vittorio Emanuele 2 07:48 07:53
+ 37608   CRAUGLIO via Aquileia 91 13:21 13:21 14:07
+ 38601   TAPOGLIANO piazzale dell'Esercito 10 13:23 13:23 14:10
+ 37901   CAMPOLONGO AL TORRE piazza Indipendenza 
+(direz. Cavenzano)
+13:25 13:25 14:12
+ 37904   CAVENZANO SP 65 (bivio Strada Provinciale 54, 
+dir. Perteole)
+07:50 07:55
+ 37907   CAVENZANO piazza Manzoni (chiesa) 13:30 13:30 14:13
+ 38A05   PERTEOLE via Giuseppe Verdi 89 (cimitero) 07:52 07:57 13:33 14:15
+ 38A14   PERTEOLE via Giuseppe Verdi 17 (centro) 07:53 07:58 13:33 14:15
+ 38A03   SACILETTO via Guglielmo Marconi 37 07:54 08:00 13:34 14:17
+ 38A10   SACILETTO via Papa Giovanni XXIII 18 07:55 08:00 13:35 14:18
+ 38114   CERVIGNANO DEL FRIULI via Gorizia 35 (Drago 
+Nero, dir.Grado)
+07:58 08:03 13:37 14:20
+ 38105   CERVIGNANO DEL FRIULI via Udine 45 
+(rotonda, dir. Grado)
+07:59 08:05 13:39
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+08:01 08:07 07:55 13:40
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+13:42
+ 38122   CERVIGNANO DEL FRIULI via Pradati (fronte 
+liceo Einstein)
+08:10 07:58
+ 38119   CERVIGNANO DEL FRIULI viale Venezia 
+(rotonda dir.Torviscosa)
+08:15 08:03
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+08:21 08:08
+ 38708   TORVISCOSA via Vittorio Veneto (fronte parco, 
+Carabinieri)
+08:21 08:09
+ 38702   TORVISCOSA viale Marconi (lato parco chiesa) 08:22 08:10
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 08:24 08:10
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+08:30 08:17
+ 31A09   S.GIORGIO DI NOGARO via Nievo 10 08:31 08:18
+CADENZA
+CORSA
+VALIDITÀ
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato
+martedì 16 dicembre 2025Pagina 1 di 1
+  [Pagina 41]
+LINEA 425 (Ritorno)
+Orario valido dal 23 dicembre 2025CERVIGNANO-CRAUGLIO-AIELLO-PALMANOVA-MANZANO 
+4 802 44 2
+U300 U300 U300 U300
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+13:43
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+13:45
+ 38122   CERVIGNANO DEL FRIULI via Pradati (fronte 
+liceo Einstein)
+13:47 13:47
+ 38112   CERVIGNANO DEL FRIULI via M. Ramazzotti 41 
+(Ist. Malignani)
+13:52 13:52
+ 38120   CERVIGNANO DEL FRIULI via Gorizia 12 (Drago 
+Nero)
+07:25 13:53 13:53
+ 38A13   SACILETTO via Papa Giovanni XXIII 23 07:28 13:56 13:55
+ 38A12   SACILETTO via Guglielmo Marconi 28 07:29 13:56 13:55
+ 38A04   PERTEOLE via Giuseppe Verdi 8 (centro) 07:30 13:58 13:57
+ 38A15   PERTEOLE via Giuseppe Verdi (cimitero) 07:32 13:58 13:58
+ 37908   CAVENZANO Strada Provinciale 65 (bivio, direz. 
+Aiello)
+14:00
+ 37903   CAVENZANO via Aquileia 1 (chiesa) 07:34 13:59
+ 37905   CAMPOLONGO AL TORRE piazza Indipendenza 
+10
+07:35 14:00
+ 38602   TAPOGLIANO piazzale dell'Esercito 31 07:37 14:02
+ 37616   CRAUGLIO via Gradisca 27 07:40 14:04
+ 37605   CRAUGLIO piazza Moro 07:41 14:05
+ 37808   AIELLO via Guglielmo Marconi 133 (campo 
+sportivo)
+07:43 14:07
+ 37813   AIELLO via Guglielmo Marconi 1 (chiesa) 07:44 14:08
+ 37805   AIELLO via Manzoni 12 (scuola secondaria) 07:45
+ 37802   AIELLO viale Vittorio Emanuele 5 14:01
+ 37807   AIELLO via Genova Cavalleria 38 (Rosmarino) 07:46 14:03 14:10
+ 37811   JOANNIS via Gofredo Mameli 15 (Serre Bearzot) 07:47 14:04 14:10
+ 37501   VISCO via Montello 16 (municipio) 07:50 14:06 14:13
+ 37508   VISCO via Borgo Piave 22 (Vecchio Confne) 07:52 14:15
+ 37421   JALMICCO piazza Unione 8 14:09
+ 37410   JALMICCO via Natisone 11 (ospedale) 14:10
+ 37406   SOTTOSELVA via Ponte degli Speroni 3 
+(caserme)
+14:12
+ 37409   SOTTOSELVA via Risorgimento (scuole) 07:57
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 07:58 14:13 14:19
+ 37401   PALMANOVA via Rota (Polveriera) 08:05 14:15 14:23 14:26
+ 30406   ONTAGNANO piazza Cesare Battisti 23 
+(direzione Felettis)
+14:32
+ 30314   FELETTIS via Verdi 28 14:33
+ 30309   FELETTIS via Udine 6 (direzione Bicinicco) 14:34
+ 30313   GRIS DI BICINICCO via Mortegliano 8 14:38
+ 30310   CUCCANA via 25 Aprile (fronte civico 56) 14:39
+ 30316   BICINICCO DI SOTTO via Palmanova 6 
+(direzione Felettis)
+14:48
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 14:29
+ 37407   SOTTOSELVA via Ponte degli Speroni (fronte 3, 
+caserme)
+14:29
+ 37410   JALMICCO via Natisone 11 (ospedale) 14:31
+ 37416   JALMICCO piazza Unione 11 14:34
+ 37505   VISCO via Gorizia 2 14:37
+ 37609   SAN VITO AL TORRE via Roma 6 (Casabianca) 14:40
+ 37603   SAN VITO AL TORRE via Roma 70 (municipio) 14:40
+ 37617   SAN VITO AL TORRE via Roma 168 (campo 
+sportivo)
+14:41
+ 37613   NOGAREDO AL TORRE via Udine 36 14:44
+ 35204   VISCONE via Palmarina 12 (Magazzini Nico, dir. 
+San Giovanni)
+14:47
+ 35319   MEDEUZZA via Madonna di Strada 59 14:48
+ 35372   MEDEUZZA via Madonna di Strada 37 14:48
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 2
+  [Pagina 42]
+4 802 44 2
+U300 U300 U300 U300
+ 35312   S.GIOVANNI AL N. via M.di Strada(dir. 
+S.Giovanni), loc.La Br
+14:49
+ 35323   S.GIOVANNI AL N. via Palmarina 73 (distributore, 
+dir.centro)
+14:51
+ 35310   SAN GIOVANNI AL NATISONE via Palmarina 11 
+(bivio Bolzano)
+14:51
+ 36401   MANZANO via Udine 8 (fronte autostazione, 
+direzione Udine)
+15:05
+VALIDITÀ
+U300 Scolastica
+martedì 16 dicembre 2025Pagina 2 di 2
+  [Pagina 43]
+LINEA 430 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-TORVISCOSA-MALISANA 
+31 25 19 23 33 801 13 15 37 29 3 1 35 17
+U300 U300 U300 U300 U300 U300 U280 U230 U300 U300 U300 U230 U300 U303
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:20 07:25 11:40 13:30 13:30
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+07:26
+ 70C60   UDINE piazzale Giobatta Cella 59 07:28 11:44 13:34 13:34
+ 70C34   UDINE via Lumignacco 135 (bivio istituti 
+scolastici)
+07:30 11:46 13:36 13:36
+ 38845   CARGNACCO via Leonardo da Vinci 6 (Tempio) 11:51 13:41 13:42
+ 37139   LUMIGNACCO via Vincenzo Bellini 33 (bivio 
+ferrovia)
+07:37
+ 37110   LUMIGNACCO via Giovanni Pascoli 2 (chiesa) 07:38 11:53 13:43 13:44
+ 37137   RISANO via della Roggia 11 07:42 11:57 13:47 13:48
+ 37116   PAVIA DI UDINE via Udine (direzione Pavia), loc. 
+Moretto
+07:29
+ 37127   PAVIA DI UDINE via Udine 45 07:32
+ 37131   PAVIA DI UDINE via Selvuzzis 5 07:35
+ 37141   LAUZACCO via Nievo 12 07:45
+ 37135   LAUZACCO viale Dei Platani (rotonda 
+Crosada, dir. Palmanova)
+07:15
+ 37109   LAUZACCO piazza Umberto Zanfagnini 1 
+(scuola media)
+07:39 07:45 12:50
+ 37124   LAUZACCO via Nievo 19 07:39 12:52
+ 37111   CHIASOTTIS via Principale 8 11:59 13:52
+ 37215   TISSANO via Risano 13 12:00 13:48 13:54
+ 37219   TISSANO via Borgo di Sopra 5 07:20 07:44 12:01 13:49 13:55
+ 37221   SANTO STEFANO UDINESE v. della Stazione fr.8 07:22 07:46
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 12:56
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 07:49 12:59
+ 37218   SANTA MARIA LA LONGA via Simonetti (fronte 
+municipio)
+07:26
+ 37203   MERETO DI CAPITOLO via Palmanova 8 07:28
+ 30315   BICINICCO DI SOPRA via Roma 37 12:04 13:52 13:59
+ 30302   BICINICCO DI SOTTO via Roma 5 12:05 13:53 14:00
+ 30307   BICINICCO DI SOTTO via Santa Maria 1 07:54 13:04
+ 30301   BICINICCO DI SOPRA via Roma 24 
+(direzioneTissano)
+13:10
+ 30304   CUCCANA via 25 Aprile 52 07:57 12:07 14:03
+ 30312   GRIS DI BICINICCO via Nazionale 18 07:59 12:12 14:06
+ 30317   FELETTIS via Udine 3 08:03 12:16 13:56 14:12
+ 30318   FELETTIS via Giuseppe Verdi 15 (direzione 
+Ontagnano)
+13:57 14:12
+ 37412   PALMANOVA FS 08:09
+ 37409   SOTTOSELVA via Risorgimento (scuole) 13:55
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 13:57
+ 37401   PALMANOVA via Rota (Polveriera) 07:35 08:05 14:00
+ 37412   PALMANOVA FS 14:02
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 08:08
+ 37702   SEVEGLIANO via Roma 59 (semaforo, Strada 
+Regionale 352)
+07:40 14:05
+ 37708   SEVEGLIANO via Vittorio Veneto 12 (chiesa) 07:42 14:06
+ 37713   BAGNARIA ARSA via Palmanova 39 07:43 14:06
+ 37701   BAGNARIA ARSA via 24 Maggio 4 07:45 14:07
+ 37409   SOTTOSELVA via Risorgimento (scuole) 08:15 08:10
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 08:17
+ 37401   PALMANOVA via Rota (Polveriera) 07:35 08:29 12:30
+ 30421   ONTAGNANO piazza Cesare Battisti 1 13:59 14:16
+ 30416   ONTAGNANO via Cividale (rotonda, direzione 
+Fauglis)
+14:00 14:17
+ 37701   BAGNARIA ARSA via 24 Maggio 4 14:06 14:20
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 4
+  [Pagina 44]
+31 25 19 23 33 801 13 15 37 29 3 1 35 17
+U300 U300 U300 U300 U300 U300 U280 U230 U300 U300 U300 U230 U300 U303
+ 37703   CHIARMACIS CAMPOLONGHETTO via 24 
+Maggio 4300
+07:47 14:09 14:24 14:09
+ 37719   CASTIONS DELLE MURA via Tolmezzo (campo 
+baseball)
+07:51 14:13
+ 37707   CASTIONS DELLE MURA via della Villa 8 07:52 14:15
+ 37704   CASTIONS DELLE MURA via Tre Ponti 2 07:55 14:16
+ 38712   CASTIONS delLE MURA via Tre Ponti (fronte 
+civico 15)
+07:59 14:16
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+14:21
+ 38708   TORVISCOSA via Vittorio Veneto (fronte parco, 
+Carabinieri)
+14:22
+ 38702   TORVISCOSA viale Marconi (lato parco 
+chiesa)
+14:24
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 14:24
+ 38706   MALISANA piazza Fontana 14:26
+ 38722   ARSA SP 113 via Madonna Missionaria 
+(direzione Torviscosa)
+14:11
+ 38710   VILLAGGIO ROMA Str.Fornelli e Vill.Roma 107 
+(dir.Torviscosa)
+14:14
+ 38720   FORNELLI DI SOPRA Str. dei Fornelli (fr.7, 
+dir.Torviscosa)
+14:15
+ 38112   CERVIGNANO DEL FRIULI via M. Ramazzotti 41 
+(Ist. Malignani)
+15:03
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+08:35 13:40
+ 38103   CERVIGNANO DEL FRIULI piazza G. Marconi 
+(autostazione)
+15:08
+ 38103   CERVIGNANO DEL FRIULI piazza G. Marconi 
+(autostazione)
+06:20 08:38 13:43
+ 38122   CERVIGNANO DEL FRIULI via Pradati (fronte 
+liceo Einstein)
+13:46
+ 38107   CERVIGNANO DEL FRIULI viale Venezia 3 
+(rotonda, dir. Centro)
+08:00 14:39
+ 38301   TERZO D'AQUILEIA via Giulia Augusta 7 
+(direzione Grado)
+14:45
+ 38408   AQUILEIA via Giulia Augusta (fronte 59, Porte 
+direz. Grado)
+14:49
+ 38409   AQUILEIA via G.Augusta (park, dir.Grado), loc. 
+Beligna
+14:50
+ 38122   CERVIGNANO DEL FRIULI via Pradati (fronte 
+liceo Einstein)
+08:06
+ 38119   CERVIGNANO DEL FRIULI viale Venezia 
+(rotonda dir.Torviscosa)
+08:40
+ 38123   CERVIGNANO DEL FR. via Chiozza 2 (caserma, 
+dir. Scodovacca)
+08:09 13:48
+ 38112   CERVIGNANO DEL FRIULI via M. Ramazzotti 41 
+(Ist. Malignani)
+08:14 13:52
+ 37719   CASTIONS DELLE MURA via Tolmezzo (campo 
+baseball)
+14:28
+ 37707   CASTIONS DELLE MURA via della Villa 8 14:29
+ 37704   CASTIONS DELLE MURA via Tre Ponti 2 14:32
+ 38712   CASTIONS delLE MURA via Tre Ponti (fronte 
+civico 15)
+14:33
+ 38119   CERVIGNANO DEL FRIULI viale Venezia 
+(rotonda dir.Torviscosa)
+08:15 13:54
+ 38106   CERVIGNANO DEL FRIULI via Udine 66 
+(rotonda, dir. Udine)
+15:10
+ 38119   CERVIGNANO DEL FRIULI viale Venezia 
+(rotonda dir.Torviscosa)
+06:23 15:10
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+08:44 13:59 14:17 14:35 15:15
+ 38708   TORVISCOSA via Vittorio Veneto (fronte parco, 
+Carabinieri)
+08:45 14:00 14:19 14:36 15:16
+ 38702   TORVISCOSA viale Marconi (lato parco chiesa) 08:46 14:01 14:20 14:37 15:17
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 08:47 14:02 14:21 14:38 15:18
+ 38706   MALISANA piazza Fontana 08:50 14:05 14:24 14:40 15:21
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+06:35 08:27 15:32
+ 31A09   S.GIORGIO DI NOGARO via Nievo 10 08:31
+ 38707   ARRODOLA NUOVA via Fornelli di Sotto 91 14:34
+31 25 19 23 33 801 13 15 37 29 3 1 35 17
+ 70101   UDINE viale Europa Unita 37 (autostazione) 10 12 7 4 5
+BANCHINE
+VALIDITÀ
+U280 Feriale invernale (periodo scolastico) escluso sab ati non scolastici U324 Scolastica escluso il mercoledi
+U240 Feriale estiva (fne scuole-inizio scuole) U303 Scolastica solo al mercoledi
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 2 di 4
+  [Pagina 45]
+LINEA 430 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-TORVISCOSA-MALISANA 
+21 7 27 11 5
+U324 U240 U230 U300 U251
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17:15 18:10 18:10
+ 70C60   UDINE piazzale Giobatta Cella 59 17:19 18:14 18:14
+ 70C34   UDINE via Lumignacco 135 (bivio istituti 
+scolastici)
+17:21 18:16 18:16
+ 38845   CARGNACCO via Leonardo da Vinci 6 (Tempio) 17:27 18:23 18:22
+ 37110   LUMIGNACCO via Giovanni Pascoli 2 (chiesa) 17:29 18:24 18:24
+ 37137   RISANO via della Roggia 11 17:33 18:28 18:28
+ 37111   CHIASOTTIS via Principale 8 17:35 18:30 18:30
+ 37215   TISSANO via Risano 13 17:37 18:32 18:32
+ 37219   TISSANO via Borgo di Sopra 5 17:38 18:33 18:33
+ 30315   BICINICCO DI SOPRA via Roma 37 17:42 18:37 18:37
+ 30302   BICINICCO DI SOTTO via Roma 5 17:43 18:37 18:38
+ 30304   CUCCANA via 25 Aprile 52 17:45 18:39 18:40
+ 30312   GRIS DI BICINICCO via Nazionale 18 17:47 18:42 18:42
+ 30317   FELETTIS via Udine 3 17:51 18:46 18:46
+ 30318   FELETTIS via Giuseppe Verdi 15 (direzione 
+Ontagnano)
+18:47 18:47
+ 37412   PALMANOVA FS 17:55
+ 30421   ONTAGNANO piazza Cesare Battisti 1 18:50 18:50
+ 30416   ONTAGNANO via Cividale (rotonda, direzione 
+Fauglis)
+18:51 18:54
+ 37701   BAGNARIA ARSA via 24 Maggio 4 18:54 18:56
+ 37703   CHIARMACIS CAMPOLONGHETTO via 24 
+Maggio 4300
+18:57 18:58
+ 38722   ARSA SP 113 via Madonna Missionaria 
+(direzione Torviscosa)
+18:59
+ 38710   VILLAGGIO ROMA Str.Fornelli e Vill.Roma 107 
+(dir.Torviscosa)
+19:02
+ 38720   FORNELLI DI SOPRA Str. dei Fornelli (fr.7, 
+dir.Torviscosa)
+19:04
+ 38103   CERVIGNANO DEL FRIULI piazza G. Marconi 
+(autostazione)
+15:10 17:40
+ 37719   CASTIONS DELLE MURA via Tolmezzo (campo 
+baseball)
+19:04
+ 37707   CASTIONS DELLE MURA via della Villa 8 19:05
+ 37704   CASTIONS DELLE MURA via Tre Ponti 2 19:06
+ 38712   CASTIONS delLE MURA via Tre Ponti (fronte 
+civico 15)
+19:07
+ 38106   CERVIGNANO DEL FRIULI via Udine 66 
+(rotonda, dir. Udine)
+15:12
+ 38119   CERVIGNANO DEL FRIULI viale Venezia 
+(rotonda dir.Torviscosa)
+15:13 17:43
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+15:17 17:48 19:06 19:09
+ 38708   TORVISCOSA via Vittorio Veneto (fronte parco, 
+Carabinieri)
+15:18 17:49 19:07 19:10
+ 38702   TORVISCOSA viale Marconi (lato parco chiesa) 15:19 17:49 19:09 19:11
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 15:20 17:50 19:09 19:12
+ 38706   MALISANA piazza Fontana 15:23 17:55 19:18 19:20
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+15:35
+ 38718   TORVISCOSA viale Marconi 270 19:20
+ 38717   TORVISCOSA viale Marconi 56 (parco chiesa) 19:21
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+19:21
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+19:22
+ 38723   CASTIONS DELLE MURA via Tre Ponti 13 19:24
+ 37717   CASTIONS DELLE MURA via Tre Ponti (fronte 
+civico 2)
+19:25
+ 37718   CASTIONS DELLE MURA via della Villa 13 19:30
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 3 di 4
+  [Pagina 46]
+21 7 27 11 5
+ 70101   UDINE viale Europa Unita 37 (autostazione) 2 2 2
+BANCHINE
+VALIDITÀ
+U280 Feriale invernale (periodo scolastico) escluso sab ati non scolastici U324 Scolastica escluso il mercoledi
+U240 Feriale estiva (fne scuole-inizio scuole) U303 Scolastica solo al mercoledi
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 4 di 4
+  [Pagina 47]
+LINEA 430 (Ritorno)
+Orario valido dal 23 dicembre 2025MALISANA-TORVISCOSA-UDINE 
+4 16 10 22 400 6 32 26 34 18 28 14 8 30
+U300 U300 U230 U300 U240 U300 U300 U300 U300 U280 U300 U300 U300 U300
+ 38719   ARRODOLA NUOVA via Fornelli di Sotto (fronte 
+civico 90)
+06:16
+ 38706   MALISANA piazza Fontana 06:21 06:20
+ G0933   GRADO piazza Vittore Carpaccio (autostazione) 07:05
+ 38402   BELVEDERE SR352 via Beligna km 35 (direzione 
+Aquileia)
+07:11
+ 38403   AQUILEIA via G.Augusta (park, direzione Cervi), 
+loc. Beligna
+07:14
+ 38404   AQUILEIA via Giulia Augusta 74 (porte, direz. 
+Cervignano)
+07:16
+ 38309   TERZO D'AQUILEIA via Giulia Augusta 10 07:19
+ 38112   CERVIGNANO DEL FRIULI via M. Ramazzotti 41 
+(Ist. Malignani)
+07:25
+ 38119   CERVIGNANO DEL FRIULI viale Venezia 
+(rotonda dir.Torviscosa)
+07:27
+ 38718   TORVISCOSA viale Marconi 270 06:23 06:23
+ 38717   TORVISCOSA viale Marconi 56 (parco 
+chiesa)
+06:24 06:23
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+06:25 06:24
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+06:26 06:24
+ 38723   CASTIONS DELLE MURA via Tre Ponti 13 06:26
+ 37717   CASTIONS DELLE MURA via Tre Ponti (fronte 
+civico 2)
+06:27
+ 37718   CASTIONS DELLE MURA via della Villa 13 06:29
+ 37710   CASTIONS DELLE MURA via Tolmezzo (campo 
+baseball)
+06:30
+ 38709   FORNELLI DI SOPRA Strada dei Fornelli e di 
+Villaggio Roma 7
+06:28
+ 38721   VILLAGGIO ROMA Str.Fornelli e Vill.Roma (fronte 
+107)
+06:30
+ 31107   SAN GERVASIO via IV Novembre 19 07:35
+ 31115   CARLINO via Garibaldi 7 07:39
+ 31109   CARLINO via San Giorgio di Nogaro (dir. Nogaro), 
+loc. Banduz
+07:40
+ 31A04   CARLINO via S.G. di Nogaro (incr. via Toppo W., 
+dir.Nogaro)
+07:40
+ 31A25   PORTO NOGARO via Annia 23 07:43
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+06:35 06:45 07:49 13:55
+ 38706   MALISANA piazza Fontana 06:44 08:50
+ 31A09   S.GIORGIO DI NOGARO via Nievo 10 06:47
+ 38711   ARSA SP 113 via Madonna Missionaria (direz. 
+Campolonghetto)
+06:32
+ 38718   TORVISCOSA viale Marconi 270 06:47 06:54 08:53 14:01
+ 38717   TORVISCOSA viale Marconi 56 (parco chiesa) 06:48 06:55 08:54 14:02
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+06:49 06:55 08:55 14:03
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+06:51 06:56 08:56 14:04
+ 38709   FORNELLI DI SOPRA Strada dei Fornelli e di 
+Villaggio Roma 7
+07:55
+ 38721   VILLAGGIO ROMA Str.Fornelli e Vill.Roma (fronte 
+107)
+07:55
+ 38711   ARSA SP 113 via Madonna Missionaria (direz. 
+Campolonghetto)
+07:58
+ 37715   CHIARMACIS CAMPOLONGHETTO via 24 
+Maggio 38 (direzione Udine)
+08:00
+ 38706   MALISANA piazza Fontana 07:38
+ 38718   TORVISCOSA viale Marconi 270 07:41
+ 38717   TORVISCOSA viale Marconi 56 (parco chiesa) 07:42
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+07:43
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+07:44
+ 38723   CASTIONS DELLE MURA via Tre Ponti 13 07:45 14:05
+ 37717   CASTIONS DELLE MURA via Tre Ponti (fronte 
+civico 2)
+07:47 14:06
+ 37718   CASTIONS DELLE MURA via della Villa 13 07:49 14:09
+ 37710   CASTIONS DELLE MURA via Tolmezzo (campo 
+baseball)
+07:50 14:10
+ 38107   CERVIGNANO DEL FRIULI viale Venezia 3 
+(rotonda, dir. Centro)
+06:55 09:00
+ 38103   CERVIGNANO DEL FRIULI piazza G. Marconi 
+(autostazione)
+06:57 09:01
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 4
+  [Pagina 48]
+4 16 10 22 400 6 32 26 34 18 28 14 8 30
+U300 U300 U230 U300 U240 U300 U300 U300 U300 U280 U300 U300 U300 U300
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+07:00 09:10
+ 37715   CHIARMACIS CAMPOLONGHETTO via 24 
+Maggio 38 (direzione Udine)
+06:34 06:36 06:59 07:54 14:14
+ 37714   BAGNARIA ARSA via 24 Maggio 1 06:36 06:38 07:01 07:56 08:02 14:17
+ 37709   BAGNARIA ARSA via Palmanova 28 07:02 07:56 08:02 14:17
+ 30417   ONTAGNANO via Cividale (rotonda, direzione 
+Ontagnano)
+06:41
+ 37409   SOTTOSELVA via Risorgimento (scuole) 13:35
+ 37401   PALMANOVA via Rota (Polveriera) 13:10 13:40
+ 37420   PALMANOVA FS 06:48
+ 37712   SEVEGLIANO via Vittorio Veneto 11 (chiesa) 07:03 07:57 08:03 14:19
+ 37711   SEVEGLIANO via Roma 66 (semaforo SR352, 
+direzione Udine)
+07:04 07:59 08:06 14:20
+ 37716   SEVEGLIANO via Julia (fronte 29, semaforo 
+SR352 direzione Ud
+07:06 08:02 08:08
+ 37409   SOTTOSELVA via Risorgimento (scuole) 08:14 08:17
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 08:18
+ 37401   PALMANOVA via Rota (Polveriera) 08:20 08:20 14:26
+ 30406   ONTAGNANO piazza Cesare Battisti 23 
+(direzione Felettis)
+06:40 06:42
+ 30314   FELETTIS via Verdi 28 06:43 06:46
+ 30309   FELETTIS via Udine 6 (direzione Bicinicco) 06:44 06:47 06:52 13:46
+ 30313   GRIS DI BICINICCO via Mortegliano 8 06:48 06:52 06:56 13:50
+ 30310   CUCCANA via 25 Aprile (fronte civico 56) 06:49 06:54 06:57 13:51
+ 30308   BICINICCO DI SOTTO via Palmanova 5 06:45 06:52 06:56 06:59 13:54
+ 30301   BICINICCO DI SOPRA via Roma 24 
+(direzioneTissano)
+06:46 06:53 06:57 07:00
+ 37214   MERETO DI CAPITOLO via Palmanova 13:15
+ 37210   SANTA MARIA LA LONGA via Simonetti 2 
+(municipio)
+13:17
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 13:57
+ 37220   SANTO STEFANO UDINESE v. della Stazione 8 13:21 14:02
+ 37211   TISSANO via Borgo di Sopra 18 06:51 06:56 07:02 07:03 13:22 14:04
+ 37108   LAUZACCO viale dei Platani (rotonda 
+Crosada, direz. Udine)
+13:28 14:10
+ 37202   TISSANO via Risano 18 06:51 06:57 07:03 07:04
+ 37136   CHIASOTTIS via Principale 11 07:04 07:05
+ 37131   PAVIA DI UDINE via Selvuzzis 5 07:20
+ 37109   LAUZACCO piazza Umberto Zanfagnini 1 
+(scuola media)
+07:24 13:00
+ 37124   LAUZACCO via Nievo 19 07:24 13:02
+ 37141   LAUZACCO via Nievo 12 07:02
+ 37109   LAUZACCO piazza Umberto Zanfagnini 1 
+(scuola media)
+07:04
+ 37107   RISANO via della Roggia 14 06:54 07:07 07:07 07:28 13:05
+ 37138   LUMIGNACCO via Giovanni Pascoli (fronte 4, 
+chiesa)
+06:56 07:11 07:10 07:33 13:09
+ 37120   LUMIGNACCO via Vincenzo Bellini 44 (bivio 
+ferrovia)
+07:33 13:10
+ 38825   CARGNACCO via Leonardo da Vinci 5 (Tempio, 
+direzione Udine)
+06:59 07:13 07:12
+ 38822   CARGNACCO via Lumignacco 13 (direzione 
+Udine)
+06:59 07:15 07:14 07:35 13:12
+ 70C36   UDINE via Lumignacco (fronte 135, bivio istituti 
+scolastici)
+07:04 07:21 07:19 13:16
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+07:10
+ 70191   UDINE viale Monsignor Nogara (fronte 
+Stringher)
+07:31 07:44
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:33 07:48
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 08:01
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 08:05
+ 70C49   UDINE viale Ledra 108 (Area 2) 07:35
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:37
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:38
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:05 07:23 07:21 07:39 13:18
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:06 07:24 07:23 07:41 13:19
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:15 07:20 07:35 07:35 07:44 08:09 13:25
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 07:40
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:44
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:54
+martedì 16 dicembre 2025Pagina 2 di 4
+  [Pagina 49]
+4 16 10 22 400 6 32 26 34 18 28 14 8 30
+U300 U300 U230 U300 U240 U300 U300 U300 U300 U280 U300 U300 U300 U300
+ 70C83   UDINE via Muris (fronte Stringher) 07:56
+VALIDITÀ
+U280 Feriale invernale (periodo scolastico) escluso sab ati non scolastici U240 Feriale estiva (fne scuole-inizio scuole)
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+martedì 16 dicembre 2025Pagina 3 di 4
+  [Pagina 50]
+LINEA 430 (Ritorno)
+Orario valido dal 23 dicembre 2025MALISANA-TORVISCOSA-UDINE 
+20 24
+U300 U230
+ 38706   MALISANA piazza Fontana 14:05 17:55
+ 38718   TORVISCOSA viale Marconi 270 14:08 17:58
+ 38717   TORVISCOSA viale Marconi 56 (parco chiesa) 14:09 17:58
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+14:09 17:59
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+14:10 18:00
+ 38107   CERVIGNANO DEL FRIULI viale Venezia 3 
+(rotonda, dir. Centro)
+14:14 18:05
+ 38103   CERVIGNANO DEL FRIULI piazza G. Marconi 
+(autostazione)
+14:20 18:10
+CADENZA
+CORSA
+VALIDITÀ
+U280 Feriale invernale (periodo scolastico) escluso sab ati non scolastici U240 Feriale estiva (fne scuole-inizio scuole)
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+martedì 16 dicembre 2025Pagina 4 di 4
+  [Pagina 51]
+LINEA 450 (Andata)
+Orario valido dal 23 dicembre 2025CERVIGNANO-S.GIORGIO-LATISANA 
+33 37 803 5 19 39 7 401 15 17 801 35 1 403
+U300 U010 U251 U240 U300 U300 U240 U230 U240 U240 U300 U300 U300 U230
+ 30312   GRIS DI BICINICCO via Nazionale 18 07:25
+ 30316   BICINICCO DI SOTTO via Palmanova 6 
+(direzione Felettis)
+07:29
+ 30317   FELETTIS via Udine 3 07:31
+ 30318   FELETTIS via Giuseppe Verdi 15 (direzione 
+Ontagnano)
+07:31
+ 37401   PALMANOVA via Rota (Polveriera) 13:40
+ 37423   PALMANOVA Borgo Cividale 41 (Coop) 13:43
+ 37409   SOTTOSELVA via Risorgimento (scuole) 13:44 13:55
+ 30421   ONTAGNANO piazza Cesare Battisti 1 07:33
+ 30416   ONTAGNANO via Cividale (rotonda, direzione 
+Fauglis)
+07:34
+ 30412   FAUGLIS via 4 Novembre (fronte civico 76, 
+chiesa)
+07:36
+ 30422   GONARS via Trieste 96, San Domenico 07:38
+ 30407   GONARS via De Amicis (municipio) 07:40
+ 30I07   CASTELLO DI PORPETTO via Diaz 9A 07:43 14:06
+ 30I03   PORPETTO via Pre Zaneto (poste) 07:47
+ 30I12   PORPETTO via Udine 46 (direzione San Giorgio) 07:49 07:45 14:09
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+07:53 07:48 14:12
+ 38107   CERVIGNANO DEL FRIULI viale Venezia 3 
+(rotonda, dir. Centro)
+08:04
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+06:35 07:35 08:35 12:35
+ 38103   CERVIGNANO DEL FRIULI piazza G. Marconi 
+(autostazione)
+08:08 08:20 13:37 13:50
+ 38122   CERVIGNANO DEL FRIULI via Pradati 
+(fronte liceo Einstein)
+08:10 13:40
+ 38122   CERVIGNANO DEL FRIULI via Pradati 
+(fronte liceo Einstein)
+13:45
+ 38103   CERVIGNANO DEL FRIULI piazza G. Marconi 
+(autostazione)
+06:38 07:38 08:38 12:38 13:50
+ 38123   CERVIGNANO DEL FR. via Chiozza 2 (caserma, 
+dir. Scodovacca)
+08:13
+ 38112   CERVIGNANO DEL FRIULI via M. 
+Ramazzotti 41 (Ist. Malignani)
+08:16
+ 38119   CERVIGNANO DEL FRIULI viale Venezia 
+(rotonda dir.Torviscosa)
+06:39 07:39 08:24 08:39 12:39 13:54
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+06:44 07:44 08:29 08:44 12:44 13:59
+ 38708   TORVISCOSA via Vittorio Veneto (fronte 
+parco, Carabinieri)
+06:44 07:44 08:29 08:44 12:44 13:59
+ 38702   TORVISCOSA viale Marconi (lato parco chiesa) 06:46 07:46 08:31 08:46 12:46 14:01
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 06:46 07:46 08:31 08:46 12:46 14:01
+ 38706   MALISANA piazza Fontana 06:48 07:48 08:48 12:48
+ 38717   TORVISCOSA viale Marconi 56 (parco chiesa) 06:20
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+06:21
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+06:22
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+06:28 07:00 08:00 08:40 09:00 13:00 14:10
+ 31A24   S.GIORGIO DI NOGARO via Nazario Sauro 10 
+(scuole)
+07:01 07:51 08:01 08:41 09:01 13:01 14:14 14:11
+ 31A15   PORTO NOGARO via Enrico Fermi 7 06:31
+ 31A26   CARLINO via S.G. Di Nogaro (incr. via Toppo W., 
+dir.Carlino)
+06:33
+ 31116   CARLINO via San Giorgio di Nogaro 
+(direz.Marano), loc.Banduz
+06:34
+ 31108   CARLINO via Garibaldi (fronte civico 9, direzione 
+Muzzana)
+06:35
+ 31114   SAN GERVASIO via IV Novembre 24 (direzione 
+Muzzana)
+06:38
+ 31A05   ZELLINA viale Venezia 28 (direzione Muzzana) 07:03 07:53 08:03 08:45 09:03 13:03 14:16 14:15
+ 31203   MUZZANA del TURGNANO via Roma 2 (chiesa) 06:41 07:08 07:57 08:08 08:50 09:08 13:08 14:20 14:20
+ 31201   MUZZANA del TURGNANO via Roma 120 
+(monumento)
+06:42 06:45 06:45 07:09 07:58 08:09 08:51 09:09 13:09 14:21 14:21
+ 30814   PALAZZOLO DELLO STELLA via Casali Moretton 
+34
+14:23
+ 30820   POCENIA via Bassi 77 14:25
+ 30815   POCENIA piazza Garibaldi 1 (direzione Roveredo) 14:26
+ 30801   POCENIA piazza Garibaldi (fronte civico 17) 14:27
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 4
+  [Pagina 52]
+33 37 803 5 19 39 7 401 15 17 801 35 1 403
+U300 U010 U251 U240 U300 U300 U240 U230 U240 U240 U300 U300 U300 U230
+ 30808   POCENIA via Bassi 62 14:28
+ 30824   PALAZZOLO DELLO STELLA via Casali Moretton 
+(fronte civico 34
+14:29
+ 31302   PALAZZOLO DELLO STELLA via Nazionale 
+(fronte 39)
+06:47 06:50 06:51 07:12 08:03 08:12 08:56 09:12 13:12 14:31 14:26
+ 31304   PALAZZOLO DELLO STELLA via Nazionale 48 
+(bivio Precenicco)
+06:48 06:51 06:52 07:13 08:03 08:13 08:58 09:13 13:13 14:32 14:28
+ 31702   PRECENICCO via Edmondo Brian 77 07:14 08:04 08:14 09:14 13:14 14:33
+ 31709   PRECENICCO via Edmondo Brian 29, Casali 
+Bellina
+07:14 08:05 08:14 09:14 13:14 14:34
+ 31701   PRECENICCO piazza Roma 1 07:15 08:06 08:15 09:15 13:15
+ 31705   PRECENICCO via Edmondo Brian 22, Casali 
+Bellina
+07:15 08:07 08:15 09:15 13:15
+ 31710   PRECENICCO via Brian 60 07:17 08:07 08:17 09:17 13:17
+ 31706   PRECENICCO piazza del Porto 14:35
+ 31707   PRECENICCO via Latisana (fronte civico 85, 
+Zamarian)
+14:36
+ 31708   PRECENICCO SP 102 (direzione Latisana, Casali 
+del Mol
+14:39
+ 31649   LATISANA via Crosere (fronte 116, rotonda 
+Crosere)
+06:51 06:55 06:55 07:21 08:11 08:21 09:05 09:21 13:21 14:35
+ 31623   LATISANA via Giovanni Bottari (centro Studi) 08:17
+ 31506   RONCHIS via Lignano (fronte civico 40, trattoria) 06:56 06:57
+ 31501   RONCHIS corso Italia 72 (municipio) 07:00 07:00
+ 31659   LATISANOTTA via Roma 6 (semaforo) 07:02 07:02
+ 31645   LATISANA via Egregis Gaspari (lato stadio) 08:18
+ 31624   LATISANA via Verdi 4  (scuola media Peloso 
+Gaspari)
+08:21
+ 31658   PALUDO DI LATISANA via Tisanella 113 
+(chiesa)
+14:41
+ 31601   LATISANA via Beorchia (autostazione) 06:54 07:07 07:08 07:25 08:25 08:25 09:10 09:25 13:25 14:45 14:40
+ 31668   LATISANA via Egregis Gaspari (fronte stadio) 14:48
+ 31603   LATISANOTTA via Roma 9 (semaforo) 14:49
+ 31513   RONCHIS corso Italia 25 (municipio, direzione 
+Varmo)
+14:51
+VALIDITÀ
+U282 Feriale invernale escluso sabato scolastico U240 Feriale estiva (fne scuole-inizio scuole)
+U306 Scolastica solo al sabato U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico U010 Festiva dal 01/04 a fne scuole e da inizio scuole al 30/09
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+U434 Festiva estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 2 di 4
+  [Pagina 53]
+LINEA 450 (Andata)
+Orario valido dal 23 dicembre 2025CERVIGNANO-S.GIORGIO-LATISANA 
+13 9 11 25 27 29 805 23 405 407 31 601 603 605
+U300 U300 U300 U240 U240 U240 U389 U307 U282 U306 U240 U434 U434 U434
+ 37409   SOTTOSELVA via Risorgimento (scuole) 13:55
+ 37401   PALMANOVA via Rota (Polveriera) 14:00
+ 37412   PALMANOVA FS 14:02
+ 30416   ONTAGNANO via Cividale (rotonda, direzione 
+Fauglis)
+14:06
+ 30412   FAUGLIS via 4 Novembre (fronte civico 76, 
+chiesa)
+14:08
+ 30422   GONARS via Trieste 96, San Domenico 14:10
+ 30407   GONARS via De Amicis (municipio) 14:11
+ 30I07   CASTELLO DI PORPETTO via Diaz 9A 14:14
+ 30I12   PORPETTO via Udine 46 (direzione San Giorgio) 14:15
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+14:21
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+14:35 15:35 16:35 18:35
+ 38103   CERVIGNANO DEL FRIULI piazza G. Marconi 
+(autostazione)
+18:10 18:10
+ 38103   CERVIGNANO DEL FRIULI piazza G. Marconi 
+(autostazione)
+14:38 15:38 16:38 18:38
+ 38112   CERVIGNANO DEL FRIULI via M. 
+Ramazzotti 41 (Ist. Malignani)
+13:52 13:52 17:15
+ 38119   CERVIGNANO DEL FRIULI viale Venezia 
+(rotonda dir.Torviscosa)
+13:55 13:55 14:39 15:39 16:39 17:18 18:14 18:14 18:39
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+14:00 14:44 15:44 16:44 17:23 18:19 18:19 18:44
+ 38708   TORVISCOSA via Vittorio Veneto (fronte 
+parco, Carabinieri)
+14:00 14:44 15:44 16:44 17:24 18:19 18:19 18:44
+ 38702   TORVISCOSA viale Marconi (lato parco chiesa) 14:02 14:46 15:46 16:46 17:25 18:21 18:21 18:46
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 14:02 14:46 15:46 16:46 17:26 18:21 18:21 18:46
+ 38706   MALISANA piazza Fontana 14:48 15:48 16:48 18:48
+ 38718   TORVISCOSA viale Marconi 270 14:25
+ 38717   TORVISCOSA viale Marconi 56 (parco chiesa) 14:25 16:50
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+16:52
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+16:53
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+14:11 14:05 15:00 16:00 17:00 17:01 17:32 18:30 18:30 19:00 06:30 08:00 09:00
+ 31A24   S.GIORGIO DI NOGARO via Nazario Sauro 10 
+(scuole)
+15:01 16:01 17:01 17:02 17:36 18:31 18:31 19:01 06:31 08:01 09:01
+ 31A15   PORTO NOGARO via Enrico Fermi 7 14:12
+ 31A26   CARLINO via S.G. Di Nogaro (incr. via Toppo W., 
+dir.Carlino)
+14:14
+ 31116   CARLINO via San Giorgio di Nogaro 
+(direz.Marano), loc.Banduz
+14:14
+ 31108   CARLINO via Garibaldi (fronte civico 9, direzione 
+Muzzana)
+14:15
+ 31114   SAN GERVASIO via IV Novembre 24 (direzione 
+Muzzana)
+14:18
+ 31A05   ZELLINA viale Venezia 28 (direzione Muzzana) 15:03 16:03 17:03 17:04 17:38 18:35 18:35 19:03 06:33 08:03 09:03
+ 31203   MUZZANA del TURGNANO via Roma 2 (chiesa) 14:22 15:08 16:08 17:08 17:08 17:43 18:40 18:40 19:08 06:38 08:08 09:08
+ 31201   MUZZANA del TURGNANO via Roma 120 
+(monumento)
+14:25 15:09 16:09 17:09 17:09 17:44 18:41 18:41 19:09 06:39 08:09 09:09
+ 31302   PALAZZOLO DELLO STELLA via Nazionale 
+(fronte 39)
+14:30 15:12 16:12 17:12 17:14 17:48 18:46 18:46 19:12 06:42 08:12 09:12
+ 31304   PALAZZOLO DELLO STELLA via Nazionale 48 
+(bivio Precenicco)
+14:31 15:13 16:13 17:13 17:15 17:49 18:48 18:48 19:13 06:43 08:13 09:13
+ 31702   PRECENICCO via Edmondo Brian 77 15:14 16:14 17:14 19:14 06:44 08:14 09:14
+ 31709   PRECENICCO via Edmondo Brian 29, Casali 
+Bellina
+15:14 16:14 17:14 19:14 06:44 08:14 09:14
+ 31701   PRECENICCO piazza Roma 1 15:15 16:15 17:15 19:15 06:45 08:15 09:15
+ 31705   PRECENICCO via Edmondo Brian 22, Casali 
+Bellina
+15:15 16:15 17:15 19:15 06:45 08:15 09:15
+ 31710   PRECENICCO via Brian 60 15:17 16:17 17:17 19:17 06:47 08:17 09:17
+ 31649   LATISANA via Crosere (fronte 116, rotonda 
+Crosere)
+14:34 15:21 16:21 17:21 17:19 17:53 18:55 18:55 19:21 06:51 08:21 09:21
+ 31601   LATISANA via Beorchia (autostazione) 14:43 15:25 16:25 17:25 17:25 17:58 19:00 19:00 19:25 06:55 08:25 09:25
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 3 di 4
+  [Pagina 54]
+VALIDITÀ
+U282 Feriale invernale escluso sabato scolastico U240 Feriale estiva (fne scuole-inizio scuole)
+U306 Scolastica solo al sabato U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico U010 Festiva dal 01/04 a fne scuole e da inizio scuole al 30/09
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+U434 Festiva estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 4 di 4
+  [Pagina 55]
+LINEA 450 (Ritorno)
+Orario valido dal 23 dicembre 2025LATISANA-S.GIORGIO-CERVIGNANO 
+100 14 20 400 406 8 4 22 6 402 408 18 12 16
+U300 U300 U300 U251 U300 U300 U240 U300 U240 U251 U300 U300 U240 U300
+ 31601   LATISANA via Beorchia (autostazione) 07:20 07:20 07:20 07:35 09:35 12:30 12:30 13:35
+ 31668   LATISANA via Egregis Gaspari (fronte stadio) 12:31
+ 31623   LATISANA via Giovanni Bottari (centro Studi) 12:33
+ 31645   LATISANA via Egregis Gaspari (lato stadio) 12:35
+ 31641   LATISANA via Crosere 20 (distributore) 12:37
+ 31606   LATISANA via Crosere 116 (rotonda Crosere) 07:24 07:24 07:39 09:39 12:34 12:38 13:39
+ 31702   PRECENICCO via Edmondo Brian 77 07:44 09:44 13:44
+ 31709   PRECENICCO via Edmondo Brian 29, Casali 
+Bellina
+07:45 09:45 13:45
+ 31704   PRECENICCO SP 102 (direzione Precenicco), 
+Casali del Mol
+07:25
+ 31703   PRECENICCO via Latisana 85 (Zamarian) 07:27
+ 31701   PRECENICCO piazza Roma 1 07:29 07:45 09:45 13:45
+ 31705   PRECENICCO via Edmondo Brian 22, Casali 
+Bellina
+07:30 07:46 09:46 13:46
+ 31710   PRECENICCO via Brian 60 07:31 07:46 09:46 13:46
+ 31307   PALAZZOLO DELLO STELLA via Nazionale 59 
+(bivio Precenicco)
+07:32 07:27 07:27 07:47 09:47 12:38 12:42 13:47
+ 31306   PALAZZOLO DELLO STELLA via Nazionale 
+(fronte 26)
+07:34 07:28 07:28 07:48 09:48 12:39 12:43 13:48
+ 31202   MUZZANA del TURGNANO via Roma 111 
+(monumento)
+07:38 07:34 07:34 07:51 09:51 12:45 12:47 13:51
+ 31205   MUZZANA del TURGNANO via Roma 9/11 
+(chiesa, direz.Udine)
+07:39 07:35 07:35 07:52 09:52 12:46 12:48 13:52
+ 31A23   ZELLINA viale Venezia 29 07:43 07:41 07:41 07:57 09:57 12:52 12:52 13:57
+ 31A16   SAN GIORGIO DI NOGARO via Nazario Sauro 59 
+(scuole)
+07:46 07:45 07:45 07:59 09:59 12:55 12:55 13:59
+ 38122   CERVIGNANO DEL FRIULI via Pradati 
+(fronte liceo Einstein)
+13:40
+ 38119   CERVIGNANO DEL FRIULI viale Venezia 
+(rotonda dir.Torviscosa)
+13:48
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+13:53
+ 38708   TORVISCOSA via Vittorio Veneto (fronte parco, 
+Carabinieri)
+13:53
+ 38702   TORVISCOSA viale Marconi (lato parco 
+chiesa)
+13:54
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 13:55
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+06:10 07:50 07:50 07:50 07:50 07:58 08:00 10:00 13:00 13:00 13:14 14:00 14:04
+ 38706   MALISANA piazza Fontana 08:07 10:07 14:07
+ 38718   TORVISCOSA viale Marconi 270 06:16 07:56 07:56 07:56 08:09 10:09 13:06 13:06 14:09
+ 38717   TORVISCOSA viale Marconi 56 (parco chiesa) 06:20 07:56 07:56 07:56 08:10 10:10 13:06 13:06 14:10
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+07:57 07:57 07:57 08:11 10:11 13:07 13:07 14:11
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+07:58 07:58 07:58 08:12 10:12 13:08 13:08 14:12
+ 38107   CERVIGNANO DEL FRIULI viale Venezia 3 
+(rotonda, dir. Centro)
+08:03 08:02 08:02 08:08 08:17 10:17 13:13 13:13 13:24 14:17
+ 38109   CERVIGNANO DEL FRIULI via Carnia 22 (Polizia 
+Municipale)
+13:25
+ 38115   CERVIGNANO DEL FRIULI via Carnia 30 (bivio 
+Muscoli)
+13:25
+ 38105   CERVIGNANO DEL FRIULI via Udine 45 
+(rotonda, dir. Grado)
+08:04 08:04 08:18 10:18 13:15 13:15 13:28 14:18
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+08:05 08:05 08:10 08:20 10:20 13:20 13:20 13:32 14:20
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+08:25 10:25 14:25
+ 38122   CERVIGNANO DEL FRIULI via Pradati (fronte 
+liceo Einstein)
+08:08 08:08 08:13 13:34
+ 38123   CERVIGNANO DEL FR. via Chiozza 2 (caserma, 
+dir. Scodovacca)
+08:15
+ 38112   CERVIGNANO DEL FRIULI via M. Ramazzotti 41 
+(Ist. Malignani)
+08:13 08:19
+ 38109   CERVIGNANO DEL FRIULI via Carnia 22 (Polizia 
+Municipale)
+08:15
+ 30I02   PORPETTO via Udine 47 07:55 14:09
+ 30I03   PORPETTO via Pre Zaneto (poste) 14:10
+ 30I11   CASTELLO DI PORPETTO via Diaz 1 
+(direzione Palmanova)
+07:57 14:12
+ 30410   GONARS via Venezia (scuole) 08:01 14:16
+ 30409   GONARS via Trieste (fronte 96, direz.Fauglis), 
+San Domenico
+08:02 14:17
+ 30413   FAUGLIS via 4 Novembre (fronte civico 75, 
+chiesa)
+08:05 14:19
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 4
+  [Pagina 56]
+100 14 20 400 406 8 4 22 6 402 408 18 12 16
+U300 U300 U300 U251 U300 U300 U240 U300 U240 U251 U300 U300 U240 U300
+ 30417   ONTAGNANO via Cividale (rotonda, direzione 
+Ontagnano)
+08:06 14:21
+ 37409   SOTTOSELVA via Risorgimento (scuole) 08:15
+ 37414   PALMANOVA borgo Cividale 42 (Coop) 08:17
+ 37401   PALMANOVA via Rota (Polveriera) 08:22
+100 14 20 400 406 8 4 22 6 402 408 18 12 16
+ 31601   LATISANA via Beorchia (autostazione) 5 5 6 5 5
+BANCHINE
+VALIDITÀ
+U282 Feriale invernale escluso sabato scolastico U240 Feriale estiva (fne scuole-inizio scuole)
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U010 Festiva dal 01/04 a fne scuole e da inizio scuole al 30/09 U434 Festiva estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 2 di 4
+  [Pagina 57]
+LINEA 450 (Ritorno)
+Orario valido dal 23 dicembre 2025LATISANA-S.GIORGIO-CERVIGNANO 
+32 24 26 10 404 410 28 34 30 600 602 604
+U300 U240 U240 U240 U282 U306 U240 U307 U010 U434 U434 U434
+ 31601   LATISANA via Beorchia (autostazione) 13:40 14:35 15:35 16:35 16:30 16:30 17:35 18:05 18:07 07:00 09:35 19:00
+ 31668   LATISANA via Egregis Gaspari (fronte stadio) 13:44
+ 31603   LATISANOTTA via Roma 9 (semaforo) 18:11
+ 31513   RONCHIS corso Italia 25 (municipio, direzione 
+Varmo)
+18:13
+ 31514   RONCHIS via Lignano 21 (trattoria) 18:16
+ 31623   LATISANA via Giovanni Bottari (centro Studi) 13:46
+ 31643   LATISANA via Trieste 90 (rotonda Crosere) 13:50
+ 31606   LATISANA via Crosere 116 (rotonda Crosere) 13:50 14:39 15:39 16:39 16:34 16:34 17:39 18:09 18:18 07:04 09:39 19:04
+ 31702   PRECENICCO via Edmondo Brian 77 13:55 14:44 15:44 16:44 17:44 07:09 09:44 19:09
+ 31709   PRECENICCO via Edmondo Brian 29, Casali 
+Bellina
+13:55 14:45 15:45 16:45 17:45 07:10 09:45 19:10
+ 31701   PRECENICCO piazza Roma 1 13:56 14:45 15:45 16:45 17:45 07:10 09:45 19:10
+ 31705   PRECENICCO via Edmondo Brian 22, Casali 
+Bellina
+13:57 14:46 15:46 16:46 17:46 07:11 09:46 19:11
+ 31710   PRECENICCO via Brian 60 13:57 14:46 15:46 16:46 17:46 07:11 09:46 19:11
+ 31307   PALAZZOLO DELLO STELLA via Nazionale 59 
+(bivio Precenicco)
+13:58 14:47 15:47 16:47 16:38 16:38 17:47 18:13 18:22 07:12 09:47 19:12
+ 31306   PALAZZOLO DELLO STELLA via Nazionale 
+(fronte 26)
+14:00 14:48 15:48 16:48 16:39 16:39 17:48 18:14 18:24 07:13 09:48 19:13
+ 31202   MUZZANA del TURGNANO via Roma 111 
+(monumento)
+14:05 14:51 15:51 16:51 16:45 16:45 17:51 18:18 18:30 07:16 09:51 19:16
+ 31205   MUZZANA del TURGNANO via Roma 9/11 
+(chiesa, direz.Udine)
+14:06 14:52 15:52 16:52 16:46 16:46 17:52 18:19 07:17 09:52 19:17
+ 31107   SAN GERVASIO via IV Novembre 19 14:09
+ 31115   CARLINO via Garibaldi 7 14:12
+ 31109   CARLINO via San Giorgio di Nogaro (dir. Nogaro), 
+loc. Banduz
+14:13
+ 31A04   CARLINO via S.G. di Nogaro (incr. via Toppo W., 
+dir.Nogaro)
+14:14
+ 31A31   PORTO NOGARO via Enrico Fermi 14:16
+ 31A23   ZELLINA viale Venezia 29 14:57 15:57 16:57 16:52 16:52 17:57 18:23 07:22 09:57 19:22
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+14:20
+ 31A16   SAN GIORGIO DI NOGARO via Nazario Sauro 59 
+(scuole)
+14:59 15:59 16:59 16:55 16:55 17:59 18:25 07:24 09:59 19:24
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+14:26
+ 38708   TORVISCOSA via Vittorio Veneto (fronte parco, 
+Carabinieri)
+14:27
+ 38702   TORVISCOSA viale Marconi (lato parco 
+chiesa)
+14:27
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 14:28
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+15:00 16:00 17:00 17:00 17:00 18:00 18:26 07:25 10:00 19:25
+ 38706   MALISANA piazza Fontana 15:07 16:07 17:07 18:07
+ 38718   TORVISCOSA viale Marconi 270 15:09 16:09 17:09 17:06 17:06 18:09
+ 38717   TORVISCOSA viale Marconi 56 (parco chiesa) 15:10 16:10 17:10 17:06 17:06 18:10
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+15:11 16:11 17:11 17:07 17:07 18:11
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+15:12 16:12 17:12 17:08 17:08 18:12
+ 38107   CERVIGNANO DEL FRIULI viale Venezia 3 
+(rotonda, dir. Centro)
+15:17 16:17 17:17 17:13 17:13 18:17
+ 38105   CERVIGNANO DEL FRIULI via Udine 45 
+(rotonda, dir. Grado)
+15:18 16:18 17:18 17:15 17:15 18:18
+ 38103   CERVIGNANO DEL FRIULI piazza G. 
+Marconi (autostazione)
+15:20 16:20 17:20 17:20 17:20 18:20
+ 38102   CERVIGNANO DEL FRIULI viale 
+Stazione31(stazione ferroviaria)
+15:25 16:25 17:25 18:25
+CADENZA
+CORSA
+32 24 26 10 404 410 28 34 30 600 602 604
+ 31601   LATISANA via Beorchia (autostazione) 5 5 5 5 5 5 5
+BANCHINE
+martedì 16 dicembre 2025Pagina 3 di 4
+  [Pagina 58]
+VALIDITÀ
+U282 Feriale invernale escluso sabato scolastico U240 Feriale estiva (fne scuole-inizio scuole)
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U010 Festiva dal 01/04 a fne scuole e da inizio scuole al 30/09 U434 Festiva estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 4 di 4
+  [Pagina 59]
+LINEA 460 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-S.GIORGIO-AUSSA CORNO 
+1 3 11 5 7 13 9
+U207 U241 U231 U207 U241 U231 U207
+ 70101   UDINE viale Europa Unita 37 (autostazione) 04:55 07:20 07:20 12:55 20:55
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 04:57 07:23 07:23 12:58 20:58
+ 70C31   UDINE piazzale 26 Luglio 25 04:58 07:25 07:25 13:00 20:59
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+04:59 07:25 07:25 13:01 21:00
+ 70C60   UDINE piazzale Giobatta Cella 59 04:59 07:26 07:26 13:01 21:01
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+05:01 07:28 07:28 13:03 21:02
+ 70C04   SANT'OSVALDO via Adriatica 16 05:02 07:30 07:30 13:04 21:03
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+05:03 07:31 07:31 13:06 21:05
+ 38813   ZUGLIANO via Lignano (fronte civico 41, bivio 
+SR 353)
+05:04 07:33 07:33 13:08 21:06
+ 38834   POZZUOLO via IV Genova (bivio, direzione 
+Latisana)
+05:06 07:36 07:36 13:10 21:09
+ 38915   MORTEGLIANO SR 353 via Div.Julia 2 (semaforo, 
+dir.Latisana)
+05:11 07:41 07:41 13:16 21:13
+ 30510   CASTIONS DI STRADA viale Europa 5 05:17 07:47 07:47 13:21 21:19
+ 30508   CASTIONS DI STRADA via Roma 116 
+(direzione Morsano)
+05:18 07:47 07:47 13:22 21:20
+ 30503   MORSANO DI STRADA piazza San Pellegrino 
+(centro, dir.Gonars)
+05:21 07:50 07:50 13:24 21:22
+ 30401   GONARS piazza Giulio Cesare 13 05:24 07:53 07:53 13:26 21:25
+ 30I07   CASTELLO DI PORPETTO via Diaz 9A 05:28 07:56 07:56 13:30 21:29
+ 30I12   PORPETTO via Udine 46 (direzione San 
+Giorgio)
+05:30 07:58 07:58 13:32 21:32
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+05:35 08:02 08:02 13:38 17:00 17:00 21:37
+ 31A15   PORTO NOGARO via Enrico Fermi 7 05:38 08:04 08:04 13:40 17:03 17:03 21:39
+ 31A11   AUSSA CORNO Z.I. via Fermi 30 (Friultrans, prov. 
+S.Giorgio)
+05:40 08:06 08:06 13:42 17:04 17:04 21:41
+ 31A17   AUSSA CORNO Z.I. via Fermi (Venetian Gold, 
+prov. S.Giorgio)
+05:40 08:07 08:07 13:42 17:04 17:04 21:42
+ 31A12   AUSSA CORNO Z.I. via Fermi 42 (birrifcio, prov. 
+S.Giorgio)
+05:41 08:08 08:08 13:44 17:05 17:05 21:43
+ 31A18   AUSSA CORNO Z.I. via Fermi 12 (fr.Marcegaglia, 
+prov.S.Giorgi
+05:42 08:08 08:08 13:45 17:06 17:06 21:44
+ 31A08   AUSSA CORNO Z.I. via Fermi (fronte bar, 
+prov.S.Giorgio)
+05:44 08:10 08:10 13:47 17:07 17:07 21:45
+ 31A13   AUSSA CORNO Z.I. via Fermi (Glass Italy, prov. 
+San Giorgio)
+05:44 08:10 08:10 13:47 17:07 17:07 21:46
+ 31A21   AUSSA CORNO Z.I. via Fermi (fr. Marina, 
+prov.San Giorgio)
+05:50 08:15 08:15 13:50 17:08 17:08 21:50
+CADENZA
+CORSA
+1 3 11 5 7 13 9
+ 70101   UDINE viale Europa Unita 37 (autostazione) 1 1 1 1 1
+BANCHINE
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U207 Feriale escluso il sabato
+martedì 16 dicembre 2025Pagina 1 di 1
+  [Pagina 60]
+LINEA 460 (Ritorno)
+Orario valido dal 23 dicembre 2025AUSSA CORNO-S.GIORGIO-UDINE 
+2 4 12 6 8 14 10
+U200 U241 U231 U207 U241 U231 U207
+ 31A35   AUSSA CORNO Z.I. via Fermi 53 (Marina, 
+direzione Udine)
+06:10 08:15 08:15 14:15 17:15 17:15 22:15
+ 31A30   AUSSA CORNO Z.I. via Fermi (fronte Glass Italy, 
+direz.Udine)
+06:12 08:17 08:17 14:17 17:17 17:17 22:17
+ 31A27   AUSSA CORNO Z.I. via Fermi (bar Aussa Corno, 
+direz.Udine)
+06:12 08:17 08:17 14:17 17:17 17:17 22:17
+ 31A33   AUSSA CORNO Z.I. via Fermi 33 (Marcegaglia, 
+direzione Udine)
+06:13 08:18 08:18 14:18 17:18 17:18 22:18
+ 31A29   AUSSA CORNO Z.I. via Fermi 40 (fronte birrifcio, 
+dir.Udine)
+06:14 08:18 08:18 14:19 17:19 17:19 22:18
+ 31A32   AUSSA CORNO Z.I. via Fermi 21 
+(Marina,direzione Udine)
+06:15 08:19 08:19 14:19 17:19 17:19 22:19
+ 31A28   AUSSA CORNO Z.I. via Fermi 15 (Nuova 
+Sguassero, direz.Udine)
+06:15 08:19 08:19 14:20 17:19 17:19 22:20
+ 31A31   PORTO NOGARO via Enrico Fermi 06:16 08:20 08:20 14:22 17:21 17:21 22:21
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+06:20 08:23 08:23 14:25 17:25 17:25 22:24
+ 30I02   PORPETTO via Udine 47 06:24 14:29 17:27 17:27 22:27
+ 30I11   CASTELLO DI PORPETTO via Diaz 1 (direzione 
+Palmanova)
+06:26 14:31 17:30 17:30 22:30
+ 30410   GONARS via Venezia (scuole) 06:29 14:34 17:33 17:33 22:32
+ 30420   GONARS piazza Giulio Cesare (fronte civico 
+13)
+06:30 14:35 17:35 17:35 22:34
+ 30504   MORSANO DI STRADA via Venezia 11 (centro) 06:32 14:38 17:37 17:37 22:36
+ 30511   CASTIONS DI STRADA via Roma (fronte 
+civico 120)
+06:35 14:40 17:39 17:39 22:38
+ 30502   CASTIONS DI STRADA viale Europa 6 
+(direzione Udine)
+06:36 14:40 17:40 17:40 22:38
+ 38911   MORTEGLIANO SR 353 via V.Buiatti 2 (semaforo, 
+dir.Udine)
+06:42 14:47 17:46 17:46 22:44
+ 38802   POZZUOLO via IV Genova (fr.parco Rose, 
+dir.Udine)
+06:46 14:51 17:51 17:51 22:49
+ 38841   ZUGLIANO via Lignano 21 (bivio SR353, 
+direzione Udine)
+06:49 14:54 17:56 17:56 22:52
+ 40105   BASALDELLA via Adriatica 89 (rotonda San 
+Sebastiano)
+06:50 14:56 17:58 17:58 22:53
+ 70C05   SANT'OSVALDO via Pozzuolo 330 06:51 14:57 18:00 18:00 22:55
+ 70C06   UDINE via Pozzuolo 162 (bivio per sede 
+scolastica)
+06:53 14:58 18:01 18:01 22:57
+ 70C59   UDINE via Marangoni 101 06:57 15:02 18:04 18:04 23:00
+ 70C31   UDINE piazzale 26 Luglio 25 06:57 15:03 18:06 18:06 23:01
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+06:58 15:04 18:06 18:06 23:01
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 06:58 15:05 18:08 18:08 23:02
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 06:59 15:06 18:10 18:10 23:03
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:00 15:10 18:11 18:11 23:10
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U231 Feriale invernale escluso il sabato (per.scol.)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U207 Feriale escluso il sabato
+martedì 16 dicembre 2025Pagina 1 di 1
+  [Pagina 61]
+LINEA 461 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-LAUZACCO-GONARS-S.GIORGIO-MARANO 
+17 105 37 9 21 35 11 23 3 5 63 67 31 1
+U241 U300 U240 U240 U240 U230 U240 U240 U307 U307 U251 U306 U300 U251
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:05 09:05 12:25 12:25 12:30
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+06:15 07:09 09:09 12:28 12:28 12:33
+ 70142   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Lauzacco)
+07:11 09:11
+ 70143   UDINE Z.I.U. via Zanussi 305 (Tecnocom) 07:12 09:12
+ 37121   LAUZACCO Z.I.U. viale del Lavoro 23 (DEM) 07:14 09:14
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+06:21 07:16 09:16 12:34 12:34 12:39
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 06:23 07:19 09:19 12:37 12:37 12:42
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 06:25 07:22 09:22 12:40 12:40 12:45
+ 37203   MERETO DI CAPITOLO via Palmanova 8 06:27 07:25 09:25 12:44 12:44 12:49
+ 37412   PALMANOVA FS 07:30 09:30 12:48 12:48
+ 37401   PALMANOVA via Rota (Polveriera) 12:50 12:50 12:55
+ 37702   SEVEGLIANO via Roma 59 (semaforo, Strada 
+Regionale 352)
+12:52 12:52
+ 37708   SEVEGLIANO via Vittorio Veneto 12 (chiesa) 12:53 12:53
+ 37713   BAGNARIA ARSA via Palmanova 39 12:59 12:59
+ C0806   BAGNARIA ARSA via Codroipo 6 13:00 13:00
+ 30416   ONTAGNANO via Cividale (rotonda, direzione 
+Fauglis)
+07:34 09:34 13:02 13:02 13:01
+ 30412   FAUGLIS via 4 Novembre (fronte civico 76, 
+chiesa)
+07:36 09:36 13:03 13:03 13:02 13:05 13:05
+ 30414   FAUGLIS via Filippo Corridoni 30 07:37 09:37 13:07 13:07
+ 30422   GONARS via Trieste 96, San Domenico 07:38 09:38 13:07 13:07
+ 30407   GONARS via De Amicis (municipio) 06:35 07:39 09:39 13:08 13:08
+ 30420   GONARS piazza Giulio Cesare (fronte civico 
+13)
+06:40
+ 30I07   CASTELLO DI PORPETTO via Diaz 9A 07:42 09:42 13:07 13:07 13:06 13:11 13:11
+ 30I03   PORPETTO via Pre Zaneto (poste) 13:10 13:10 13:09
+ 38711   ARSA SP 113 via Madonna Missionaria (direz. 
+Campolonghetto)
+13:17 13:17
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+13:22 13:22
+ 38708   TORVISCOSA via Vittorio Veneto (fronte parco, 
+Carabinieri)
+13:23 13:23
+ 38702   TORVISCOSA viale Marconi (lato parco chiesa) 13:24 13:24
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 13:25 13:25
+ 30I12   PORPETTO via Udine 46 (direzione San 
+Giorgio)
+07:45 09:45
+ 30I16   PORPETTO via Marconi 2 (direzione Corgnolo) 13:11 13:11 13:10
+ 30I05   CORGNOLO via Cavour 8 13:16 13:16 13:15
+ 30I13   PAMPALUNA via Pampaluna (ang. via San 
+Girolamo, dir.Zellina)
+13:19 13:19 13:18
+ 31A34   ZELLINA via Boscat 1 (bivio Galli) 13:22 13:22 13:21
+ 31A16   SAN GIORGIO DI NOGARO via Nazario Sauro 59 
+(scuole)
+13:23 13:23 13:22
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+06:12 07:05 07:50 08:05 08:08 09:50 10:05 13:25 13:25 13:25 13:25
+ 31A02   PORTO NOGARO via Annia fronte 25 06:14 07:09 08:09 08:11 10:09 13:29 13:29 13:29
+ 31A26   CARLINO via S.G. Di Nogaro (incr. via Toppo W., 
+dir.Carlino)
+06:16 07:11 08:11 08:12 10:11 13:32 13:32 13:32
+ 31116   CARLINO via San Giorgio di Nogaro 
+(direz.Marano), loc.Banduz
+06:17 07:12 08:12 08:12 10:12 13:32 13:32 13:32
+ 31110   CARLINO via Marano 6 (biblioteca) 06:18 07:13 08:13 08:14 10:13 13:33 13:33 13:33
+ 31106   PRADULINS via Marano (fronte civico 51), Rui 06:20 07:15 08:15 08:15 10:15 13:34 13:34 13:34
+ 31111   LA COLOMBA via Marano 94 06:22 07:17 08:17 08:16 10:17 13:36 13:36 13:36
+ 31112   MARANUTTO via Marano 118 (La Madonna) 06:23 07:18 08:18 08:17 10:18 13:37 13:37 13:37
+ 31901   MARANO LAGUNARE piazza Risanamento 
+13
+06:25 07:20 08:20 08:20 10:20 13:38 13:38 13:38
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 5
+  [Pagina 62]
+17 105 37 9 21 35 11 23 3 5 63 67 31 1
+ 70101   UDINE viale Europa Unita 37 (autostazione) 1 1 1 1 1
+BANCHINE
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U306 Scolastica solo al sabato U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico
+U434 Festiva estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 2 di 5
+  [Pagina 63]
+LINEA 461 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-LAUZACCO-GONARS-S.GIORGIO-MARANO 
+7 39 25 41 43 13 27 29 15 33 607 601 609 603
+U300 U080 U230 U251 U300 U240 U240 U241 U240 U240 U434 U434 U434 U434
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17:00 17:00 17:05 19:05 07:40 12:40
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+17:06 17:06 17:09 19:09 07:44 12:44
+ 70142   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Lauzacco)
+17:11 19:11 07:46 12:46
+ 70143   UDINE Z.I.U. via Zanussi 305 (Tecnocom) 17:12 19:12 07:47 12:47
+ 37121   LAUZACCO Z.I.U. viale del Lavoro 23 (DEM) 17:14 19:14 07:49 12:49
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+17:13 17:13 17:16 19:16 07:51 12:51
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 17:15 17:15 17:19 19:19 07:54 12:54
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 17:18 17:18 17:22 19:22 07:57 12:57
+ 37203   MERETO DI CAPITOLO via Palmanova 8 17:20 17:20 17:25 19:25 08:00 13:00
+ 37412   PALMANOVA FS 17:23 17:30 18:00 19:30 08:05 13:05
+ 37401   PALMANOVA via Rota (Polveriera) 17:25 17:25
+ 37409   SOTTOSELVA via Risorgimento (scuole) 13:55
+ 30416   ONTAGNANO via Cividale (rotonda, direzione 
+Fauglis)
+17:30 17:30 17:34 18:04 19:34 08:09 13:09
+ 30412   FAUGLIS via 4 Novembre (fronte civico 76, 
+chiesa)
+17:32 17:32 17:36 18:06 19:36 08:11 13:11
+ 30414   FAUGLIS via Filippo Corridoni 30 17:33 17:33 17:37 18:07 19:37 08:12 13:12
+ 30422   GONARS via Trieste 96, San Domenico 17:34 17:34 17:38 18:08 19:38 08:13 13:13
+ 30407   GONARS via De Amicis (municipio) 17:36 17:36 17:39 18:09 19:39 08:14 13:14
+ 30I07   CASTELLO DI PORPETTO via Diaz 9A 17:39 17:39 17:42 18:12 19:42 08:17 13:17
+ 30I12   PORPETTO via Udine 46 (direzione San 
+Giorgio)
+17:41 17:41 17:45 18:15 19:45 08:20 13:20
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+14:15 16:48 17:46 17:46 17:50 18:05 18:20 19:50 20:05 07:25 08:25 10:00 13:25
+ 31A02   PORTO NOGARO via Annia fronte 25 14:18 16:51 17:50 17:50 18:09 18:24 20:09 07:29 08:28 10:04 13:28
+ 31A26   CARLINO via S.G. Di Nogaro (incr. via Toppo W., 
+dir.Carlino)
+14:21 16:53 17:52 17:52 18:11 18:26 20:11 07:31 08:30 10:06 13:30
+ 31202   MUZZANA del TURGNANO via Roma 111 
+(monumento)
+16:30
+ 31205   MUZZANA del TURGNANO via Roma 9/11 
+(chiesa, direz.Udine)
+16:32
+ 31107   SAN GERVASIO via IV Novembre 19 16:36
+ 31115   CARLINO via Garibaldi 7 16:39
+ 31116   CARLINO via San Giorgio di Nogaro 
+(direz.Marano), loc.Banduz
+14:21 16:54 17:53 17:53 18:12 18:27 20:12 07:32 08:32 10:07 13:32
+ 31110   CARLINO via Marano 6 (biblioteca) 14:23 16:40 16:55 17:55 17:55 18:13 18:28 20:13 07:33 08:33 10:08 13:33
+ 31106   PRADULINS via Marano (fronte civico 51), Rui 14:24 16:43 16:56 17:56 17:56 18:15 18:30 20:15 07:35 08:34 10:10 13:34
+ 31111   LA COLOMBA via Marano 94 14:26 16:46 16:57 17:57 17:57 18:17 18:32 20:17 07:37 08:36 10:12 13:36
+ 31112   MARANUTTO via Marano 118 (La Madonna) 14:27 16:48 16:58 17:59 17:59 18:18 18:33 20:18 07:38 08:38 10:13 13:38
+ 31901   MARANO LAGUNARE piazza Risanamento 
+13
+14:31 16:50 16:59 18:05 18:05 18:20 18:35 20:20 07:40 08:40 10:15 13:40
+ 31104   MARANUTTO via Marano 125 (La Madonna, 
+direzione Carlino)
+14:33
+ 31114   SAN GERVASIO via IV Novembre 24 (direzione 
+Muzzana)
+14:37
+ 31203   MUZZANA del TURGNANO via Roma 2 (chiesa) 14:40
+ 31201   MUZZANA del TURGNANO via Roma 120 
+(monumento)
+14:41
+CADENZA
+CORSA
+7 39 25 41 43 13 27 29 15 33 607 601 609 603
+ 70101   UDINE viale Europa Unita 37 (autostazione) 1 1 1 1 1 1
+BANCHINE
+martedì 16 dicembre 2025Pagina 3 di 5
+  [Pagina 64]
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U306 Scolastica solo al sabato U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico
+U434 Festiva estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 4 di 5
+  [Pagina 65]
+LINEA 461 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-LAUZACCO-GONARS-S.GIORGIO-MARANO 
+605 611
+U434 U434
+ 70101   UDINE viale Europa Unita 37 (autostazione) 16:40
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+16:44
+ 70142   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Lauzacco)
+16:46
+ 70143   UDINE Z.I.U. via Zanussi 305 (Tecnocom) 16:47
+ 37121   LAUZACCO Z.I.U. viale del Lavoro 23 (DEM) 16:49
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+16:51
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 16:54
+ 37213   SANTA MARIA LA LONGA via Zorutti 3 16:57
+ 37203   MERETO DI CAPITOLO via Palmanova 8 17:00
+ 37412   PALMANOVA FS 17:05
+ 30416   ONTAGNANO via Cividale (rotonda, direzione 
+Fauglis)
+17:09
+ 30412   FAUGLIS via 4 Novembre (fronte civico 76, 
+chiesa)
+17:11
+ 30414   FAUGLIS via Filippo Corridoni 30 17:12
+ 30422   GONARS via Trieste 96, San Domenico 17:13
+ 30407   GONARS via De Amicis (municipio) 17:14
+ 30I07   CASTELLO DI PORPETTO via Diaz 9A 17:17
+ 30I12   PORPETTO via Udine 46 (direzione San 
+Giorgio)
+17:20
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+17:25 19:25
+ 31A02   PORTO NOGARO via Annia fronte 25 17:28 19:29
+ 31A26   CARLINO via S.G. Di Nogaro (incr. via Toppo W., 
+dir.Carlino)
+17:30 19:31
+ 31116   CARLINO via San Giorgio di Nogaro 
+(direz.Marano), loc.Banduz
+17:32 19:32
+ 31110   CARLINO via Marano 6 (biblioteca) 17:33 19:33
+ 31106   PRADULINS via Marano (fronte civico 51), Rui 17:34 19:35
+ 31111   LA COLOMBA via Marano 94 17:36 19:37
+ 31112   MARANUTTO via Marano 118 (La Madonna) 17:38 19:38
+ 31901   MARANO LAGUNARE piazza Risanamento 
+13
+17:40 19:40
+CADENZA
+CORSA
+605 611
+ 70101   UDINE viale Europa Unita 37 (autostazione) 1
+BANCHINE
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U306 Scolastica solo al sabato U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico
+U434 Festiva estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 5 di 5
+  [Pagina 66]
+LINEA 461 (Ritorno)
+Orario valido dal 23 dicembre 2025MARANO-S.GIORGIO-GONARS-LAUZACCO-UDINE 
+8 38 6 10 32 120 12 14 20 34 44 22 36 2
+U240 U080 U300 U241 U240 U231 U240 U230 U240 U240 U300 U240 U240 U307
+ 31901   MARANO LAGUNARE piazza Risanamento 
+13
+06:00 06:20 06:25 07:40 08:23 10:40 12:40 13:44
+ 31104   MARANUTTO via Marano 125 (La Madonna, 
+direzione Carlino)
+06:01 06:22 06:26 07:41 08:25 10:41 12:41 13:46
+ 31103   LA COLOMBA via Marano 75 (direzione Carlino) 06:02 06:24 06:27 07:42 08:26 10:42 12:42 13:47
+ 31113   PRADULINS via Marano 51 (direzione Carlino), 
+Rui
+06:03 06:27 06:28 07:43 08:27 10:43 12:43 13:48
+ 31105   CARLINO via Marano 1 (biblioteca) 06:05 06:30 06:30 07:45 08:28 10:45 12:45 13:49
+ 31109   CARLINO via San Giorgio di Nogaro (dir. Nogaro), 
+loc. Banduz
+06:05 06:30 07:45 08:29 10:45 12:45 13:50
+ 31108   CARLINO via Garibaldi (fronte civico 9, direzione 
+Muzzana)
+06:31
+ 31114   SAN GERVASIO via IV Novembre 24 (direzione 
+Muzzana)
+06:34
+ 31203   MUZZANA del TURGNANO via Roma 2 (chiesa) 06:38
+ 31201   MUZZANA del TURGNANO via Roma 120 
+(monumento)
+06:40
+ 31A04   CARLINO via S.G. di Nogaro (incr. via Toppo W., 
+dir.Nogaro)
+06:06 06:31 07:46 08:30 10:46 12:46 13:51
+ 31A25   PORTO NOGARO via Annia 23 06:08 06:33 07:48 08:32 10:48 12:48 13:53
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+06:12 06:35 06:40 07:10 07:12 07:55 08:34 10:55 11:10 12:35 12:55 13:10 13:55
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+08:38
+ 38718   TORVISCOSA viale Marconi 270 07:17
+ 38717   TORVISCOSA viale Marconi 56 (parco chiesa) 07:18
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+07:21
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+07:21
+ 37715   CHIARMACIS CAMPOLONGHETTO via 24 
+Maggio 38 (direzione Udine)
+07:24
+ 37714   BAGNARIA ARSA via 24 Maggio 1 07:26
+ 37709   BAGNARIA ARSA via Palmanova 28 07:27
+ 37712   SEVEGLIANO via Vittorio Veneto 11 (chiesa) 07:29
+ 37711   SEVEGLIANO via Roma 66 (semaforo SR352, 
+direzione Udine)
+07:30
+ 37716   SEVEGLIANO via Julia (fronte 29, semaforo 
+SR352 direzione Ud
+07:32
+ 37420   PALMANOVA FS 07:38
+ 30I02   PORPETTO via Udine 47 06:37 06:44 07:14 08:42 11:14 12:37 13:14
+ 30I03   PORPETTO via Pre Zaneto (poste) 08:44
+ 30I11   CASTELLO DI PORPETTO via Diaz 1 (direzione 
+Palmanova)
+06:40 06:46 07:15 08:46 11:15 12:40 13:15
+ 30410   GONARS via Venezia (scuole) 06:49 07:19 08:50 11:19 13:19
+ 30409   GONARS via Trieste (fronte 96, direz.Fauglis), 
+San Domenico
+06:50 07:21 08:52 11:21 13:21
+ 30415   FAUGLIS via Filippo Corridoni (fronte civico 28) 06:51 07:22 08:53 11:22 13:22
+ 30413   FAUGLIS via 4 Novembre (fronte civico 75, 
+chiesa)
+06:43 06:52 07:25 08:54 11:25 12:43 13:25
+ 30417   ONTAGNANO via Cividale (rotonda, direzione 
+Ontagnano)
+06:45 06:55 07:27 08:57 11:27 12:45 13:27
+ 37401   PALMANOVA via Rota (Polveriera) 06:51 07:40 09:04 12:51
+ 37412   PALMANOVA FS 06:52 09:07 12:52
+ 37420   PALMANOVA FS 07:00 07:30 09:08 11:30 13:30
+ 37214   MERETO DI CAPITOLO via Palmanova 06:55 07:34 07:43 09:11 11:34 12:55 13:34
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 06:57 07:36 07:45 09:13 11:36 12:57 13:36
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+07:00 07:39 07:48 09:16 11:39 13:00 13:39
+ 37108   LAUZACCO viale dei Platani (rotonda Crosada, 
+direz. Udine)
+07:03 07:42 07:51 09:19 11:42 13:03 13:42
+ 37140   LAUZACCO Z.I.U. viale del Lavoro 30 (GZ Press, 
+dir.Udine)
+07:45 11:45 13:45
+ 70105   UDINE Z.I.U. via Zanussi 306 (Tecnocom, 
+direzione Udine)
+07:47 11:47 13:47
+ 70104   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Udine)
+07:48 11:48 13:48
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+07:10 07:51 07:58 09:25 11:51 13:10 13:51
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:18 07:55 08:06 09:34 11:55 13:18 13:55
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 4
+  [Pagina 67]
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U306 Scolastica solo al sabato
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico U434 Festiva estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 2 di 4
+  [Pagina 68]
+LINEA 461 (Ritorno)
+Orario valido dal 23 dicembre 2025MARANO-S.GIORGIO-GONARS-LAUZACCO-UDINE 
+4 16 18 26 40 28 42 24 30 600 602 606 604 608
+U307 U251 U306 U240 U240 U240 U240 U230 U240 U434 U434 U434 U434 U434
+ 31901   MARANO LAGUNARE piazza Risanamento 
+13
+13:44 13:44 14:40 18:40 19:40 20:40 07:45 08:45 11:00 14:00 18:00
+ 31104   MARANUTTO via Marano 125 (La Madonna, 
+direzione Carlino)
+13:46 13:46 14:41 18:41 19:41 20:41 07:46 08:46 11:01 14:01 18:01
+ 31103   LA COLOMBA via Marano 75 (direzione Carlino) 13:47 13:47 14:42 18:42 19:42 20:42 07:47 08:47 11:02 14:02 18:02
+ 31113   PRADULINS via Marano 51 (direzione Carlino), 
+Rui
+13:48 13:48 14:43 18:43 19:43 20:43 07:48 08:48 11:03 14:03 18:03
+ 31105   CARLINO via Marano 1 (biblioteca) 13:49 13:49 14:45 18:45 19:45 20:45 07:50 08:50 11:05 14:05 18:05
+ 31109   CARLINO via San Giorgio di Nogaro (dir. Nogaro), 
+loc. Banduz
+13:50 13:50 14:45 18:45 19:45 20:45 07:50 08:50 11:05 14:05 18:05
+ 31A04   CARLINO via S.G. di Nogaro (incr. via Toppo W., 
+dir.Nogaro)
+13:51 13:51 14:46 18:46 19:46 20:46 07:51 08:51 11:06 14:06 18:06
+ 31A25   PORTO NOGARO via Annia 23 13:53 13:53 14:48 18:48 19:48 20:48 07:53 08:53 11:08 14:08 18:08
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+13:55 13:55 13:55 14:55 15:10 18:55 19:10 19:55 20:55 08:00 09:00 11:15 14:15 18:15
+ 31A24   S.GIORGIO DI NOGARO via Nazario Sauro 10 
+(scuole)
+13:57 13:57 13:57
+ 31A19   ZELLINA via Boscat (fronte 1, bivio Galli, 
+direz.Pampaluna)
+13:58 13:58 13:58
+ 30I04   PAMPALUNA via Pampaluna 11 (direzione 
+Corgnolo)
+14:00 14:00 14:00
+ 30I14   CORGNOLO via Cavour 1 14:02 14:02 14:02
+ 30I09   PORPETTO via Marconi 3 14:05 14:05 14:05
+ 30I02   PORPETTO via Udine 47 15:14 19:14 11:18 18:18
+ 30I03   PORPETTO via Pre Zaneto (poste) 14:06 14:06 14:06
+ 30I11   CASTELLO DI PORPETTO via Diaz 1 (direzione 
+Palmanova)
+14:08 14:08 14:08 15:15 19:15 11:21 18:21
+ 30410   GONARS via Venezia (scuole) 15:19 19:19 11:24 18:24
+ 30409   GONARS via Trieste (fronte 96, direz.Fauglis), 
+San Domenico
+15:21 19:21 11:25 18:25
+ 30415   FAUGLIS via Filippo Corridoni (fronte civico 28) 15:22 19:22 11:26 18:26
+ 30413   FAUGLIS via 4 Novembre (fronte civico 75, 
+chiesa)
+14:13 14:13 14:13 15:25 19:25 11:27 18:27
+ 30417   ONTAGNANO via Cividale (rotonda, direzione 
+Ontagnano)
+14:14 14:14 14:14 15:27 19:27 11:29 18:29
+ 37401   PALMANOVA via Rota (Polveriera) 14:22 14:22 14:22
+ 37412   PALMANOVA FS 14:25 14:25 14:25
+ 37420   PALMANOVA FS 14:26 14:26 14:26 15:30 19:30 11:31 18:31
+ 37214   MERETO DI CAPITOLO via Palmanova 14:29 14:29 14:29 15:34 19:34 11:34 18:34
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 14:31 14:31 14:31 15:36 19:36 11:36 18:36
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+14:34 14:34 14:34 15:39 19:39 11:36 18:36
+ 37108   LAUZACCO viale dei Platani (rotonda Crosada, 
+direz. Udine)
+14:37 14:37 14:37 15:42 19:42 11:41 18:41
+ 37140   LAUZACCO Z.I.U. viale del Lavoro 30 (GZ Press, 
+dir.Udine)
+15:45 19:45 11:43 18:43
+ 70105   UDINE Z.I.U. via Zanussi 306 (Tecnocom, 
+direzione Udine)
+15:47 19:47 11:45 18:45
+ 70104   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Udine)
+15:48 19:48 11:46 18:46
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+14:44 14:44 14:44 15:51 19:51 11:50 18:50
+ 70101   UDINE viale Europa Unita 37 (autostazione) 14:54 14:54 14:54 15:55 19:55 12:00 19:00
+CADENZA
+CORSA
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U306 Scolastica solo al sabato
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico U434 Festiva estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 3 di 4
+  [Pagina 69]
+LINEA 461 (Ritorno)
+Orario valido dal 23 dicembre 2025MARANO-S.GIORGIO-GONARS-LAUZACCO-UDINE 
+610
+U434
+ 31901   MARANO LAGUNARE piazza Risanamento 
+13
+20:00
+ 31104   MARANUTTO via Marano 125 (La Madonna, 
+direzione Carlino)
+20:01
+ 31103   LA COLOMBA via Marano 75 (direzione Carlino) 20:02
+ 31113   PRADULINS via Marano 51 (direzione Carlino), 
+Rui
+20:03
+ 31105   CARLINO via Marano 1 (biblioteca) 20:05
+ 31109   CARLINO via San Giorgio di Nogaro (dir. Nogaro), 
+loc. Banduz
+20:05
+ 31A04   CARLINO via S.G. di Nogaro (incr. via Toppo W., 
+dir.Nogaro)
+20:06
+ 31A25   PORTO NOGARO via Annia 23 20:08
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+20:15
+ 30I02   PORPETTO via Udine 47 20:18
+ 30I11   CASTELLO DI PORPETTO via Diaz 1 (direzione 
+Palmanova)
+20:21
+ 30410   GONARS via Venezia (scuole) 20:24
+ 30409   GONARS via Trieste (fronte 96, direz.Fauglis), 
+San Domenico
+20:25
+ 30415   FAUGLIS via Filippo Corridoni (fronte civico 28) 20:26
+ 30413   FAUGLIS via 4 Novembre (fronte civico 75, 
+chiesa)
+20:27
+ 30417   ONTAGNANO via Cividale (rotonda, direzione 
+Ontagnano)
+20:29
+ 37420   PALMANOVA FS 20:31
+ 37214   MERETO DI CAPITOLO via Palmanova 20:34
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 20:36
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+20:36
+ 37108   LAUZACCO viale dei Platani (rotonda Crosada, 
+direz. Udine)
+20:41
+ 37140   LAUZACCO Z.I.U. viale del Lavoro 30 (GZ Press, 
+dir.Udine)
+20:43
+ 70105   UDINE Z.I.U. via Zanussi 306 (Tecnocom, 
+direzione Udine)
+20:45
+ 70104   UDINE Z.I.U. via Zanussi (rotonda Enel, 
+direzione Udine)
+20:46
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+20:50
+ 70101   UDINE viale Europa Unita 37 (autostazione) 21:00
+CADENZA
+CORSA
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U306 Scolastica solo al sabato
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U080 Giornaliera estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+U251 Feriale giorni non scol. del periodo scolastico U434 Festiva estiva (fne scuole-inizio scuole) - ultima domenica est. se 
+coincide fne per.estivo
+martedì 16 dicembre 2025Pagina 4 di 4
+  [Pagina 70]
+LINEA 462 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-CASTIONS-S.GIORGIO-MARANO 
+7 33 65 135 31
+U230 U300 U251 U300 U230
+ 70101   UDINE viale Europa Unita 37 (autostazione) 12:15 13:25 13:25 13:25 18:30
+ 70219   UDINE via Caccia 44 (Area 2) 13:31 13:32
+ 70C49   UDINE viale Ledra 108 (Area 2) 13:35 13:35
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 12:18 13:28 18:33
+ 70C60   UDINE piazzale Giobatta Cella 59 12:19 13:29 13:38 18:34
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+12:21 13:31 13:39 18:36
+ 70C04   SANT'OSVALDO via Adriatica 16 12:22 13:33 18:37
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+12:23 13:34 18:39
+ 38813   ZUGLIANO via Lignano (fronte civico 41, bivio 
+SR 353)
+12:25 13:36 18:40
+ 38834   POZZUOLO via IV Genova (bivio, direzione 
+Latisana)
+12:28 13:39 13:47 18:43
+ 38915   MORTEGLIANO SR 353 via Div.Julia 2 (semaforo, 
+dir.Latisana)
+12:32 13:44 13:52 18:48
+ 30510   CASTIONS DI STRADA viale Europa 5 12:38 13:49 13:58 18:55
+ 30819   CASALI FRANCESCHINIS via Castions 101 12:44 13:55 14:05 19:00
+ 31202   MUZZANA del TURGNANO via Roma 111 
+(monumento)
+12:49 14:00 14:09 19:06
+ 31205   MUZZANA del TURGNANO via Roma 9/11 
+(chiesa, direz.Udine)
+12:50 14:03 14:10 19:07
+ 31A23   ZELLINA viale Venezia 29 12:55 14:06 14:14 19:11
+ 31A16   SAN GIORGIO DI NOGARO via Nazario Sauro 59 
+(scuole)
+12:57 14:08 14:17 19:13
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+13:05 14:10 14:25 19:17
+ 31A02   PORTO NOGARO via Annia fronte 25 14:13 19:19
+ 31A26   CARLINO via S.G. Di Nogaro (incr. via Toppo W., 
+dir.Carlino)
+14:15 19:22
+ 31116   CARLINO via San Giorgio di Nogaro 
+(direz.Marano), loc.Banduz
+14:16 19:23
+ 31107   SAN GERVASIO via IV Novembre 19 14:08
+ 31110   CARLINO via Marano 6 (biblioteca) 14:17 19:24
+ 31106   PRADULINS via Marano (fronte civico 51), Rui 14:13 14:18 19:26
+ 31111   LA COLOMBA via Marano 94 14:16 14:20 19:29
+ 31112   MARANUTTO via Marano 118 (La Madonna) 14:17 14:21 19:30
+ 31901   MARANO LAGUNARE piazza Risanamento 
+13
+14:21 14:31 19:40
+CADENZA
+CORSA
+7 33 65 135 31
+ 70101   UDINE viale Europa Unita 37 (autostazione) 24 24 24A 1
+BANCHINE
+VALIDITÀ
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 1 di 1
+  [Pagina 71]
+LINEA 462 (Ritorno)
+Orario valido dal 23 dicembre 2025MARANO-S.GIORGIO-CASTIONS-UDINE 
+2 46 80 26 24 10
+U300 U251 U251 U300 U251 U230
+ 31901   MARANO LAGUNARE piazza Risanamento 
+13
+05:55 06:05 06:45 07:35
+ 31104   MARANUTTO via Marano 125 (La Madonna, 
+direzione Carlino)
+05:57 06:07 07:37
+ 31103   LA COLOMBA via Marano 75 (direzione Carlino) 05:58 06:08 07:38
+ 31113   PRADULINS via Marano 51 (direzione Carlino), 
+Rui
+05:59 06:10 07:39
+ 31105   CARLINO via Marano 1 (biblioteca) 06:00 06:11 07:41
+ 31114   SAN GERVASIO via IV Novembre 24 (direzione 
+Muzzana)
+06:53
+ 31109   CARLINO via San Giorgio di Nogaro (dir. Nogaro), 
+loc. Banduz
+06:01 06:12 07:42
+ 31A04   CARLINO via S.G. di Nogaro (incr. via Toppo W., 
+dir.Nogaro)
+06:01 06:13 07:43
+ 31A25   PORTO NOGARO via Annia 23 06:03 06:15 07:45
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+06:06 06:20 07:48
+ 31A24   S.GIORGIO DI NOGARO via Nazario Sauro 10 
+(scuole)
+06:07 06:21 07:50
+ 31A05   ZELLINA viale Venezia 28 (direzione Muzzana) 06:09 06:23 07:52
+ 31306   PALAZZOLO DELLO STELLA via Nazionale 
+(fronte 26)
+06:18
+ 31202   MUZZANA del TURGNANO via Roma 111 
+(monumento)
+06:15 06:29 06:25 07:56
+ 31205   MUZZANA del TURGNANO via Roma 9/11 
+(chiesa, direz.Udine)
+06:16 06:30 07:58
+ 30806   CASALI FRANCESCHINIS via Castions 102 
+direz.Udine
+06:19 06:33 06:58 08:01
+ 30502   CASTIONS DI STRADA viale Europa 6 
+(direzione Udine)
+06:26 06:40 07:06 07:15 08:08
+ 38910   MORTEGLIANO piazza Giuseppe Verdi 4 
+(chiesa)
+06:48 07:21 08:14
+ 38911   MORTEGLIANO SR 353 via V.Buiatti 2 (semaforo, 
+dir.Udine)
+06:33 06:48
+ 38914   MORTEGLIANO via Santa Maria 6 (direzione 
+Santa Maria)
+07:22 08:16
+ 40433   SANTA MARIA DI SCLAUNICCO via Isonzo 10 
+(chiesa)
+07:24 08:19
+ 38836   POZZUOLO DEL FRIULI piazza Julia 14 07:27 08:23
+ 38802   POZZUOLO via IV Genova (fr.parco Rose, 
+dir.Udine)
+06:37 06:51 07:17 07:28 08:25
+ 38839   TERENZANO via Giuseppe Ellero 2 (angolo via 
+Ellero)
+07:31
+ 38848   TERENZANO via Giuseppe Ellero 29 (bivio SR 
+353, dir. Udine)
+07:32
+ 38841   ZUGLIANO via Lignano 21 (bivio SR353, 
+direzione Udine)
+06:40 06:53 07:20 07:32 08:29
+ 40105   BASALDELLA via Adriatica 89 (rotonda San 
+Sebastiano)
+06:41 06:55 07:23 07:34 08:32
+ 70C05   SANT'OSVALDO via Pozzuolo 330 06:43 06:56 07:24 07:36 08:33
+ 70C06   UDINE via Pozzuolo 162 (bivio per sede 
+scolastica)
+06:44 06:58 07:27 07:38 08:35
+ 70C59   UDINE via Marangoni 101 07:31
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 07:32
+ 70194   UDINE via Marco Volpe 45 07:32
+ 70C51   UDINE via Marco Volpe 63 (piazzale Cavedalis) 07:34
+ 70C52   UDINE via Giovanni Micesio 37 (piazzale 
+P.Diacono)
+07:35
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:41
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 07:41
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 06:47 07:00 07:41 08:38
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 06:48 07:01 07:43 08:40
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:55 07:05 07:50 07:50 08:45
+CADENZA
+CORSA
+VALIDITÀ
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 1 di 1
+  [Pagina 72]
+LINEA 465 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-MORSANO-PORPETTO-S.GIORGIO 
+1 111 5 9 11 7 17 19 21 49 15 13 23 67
+U230 U300 U251 U300 U240 U307 U300 U300 U306 U300 U300 U240 U300 U251
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:15 07:30 12:15 12:15 12:15 13:25 13:25 13:25 13:25 13:25 13:28 14:30 14:30 14:30
+ 70219   UDINE via Caccia 44 (Area 2) 13:31 13:31 13:31 13:31 13:30 13:34
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 13:32 13:32 13:32 13:32 13:35
+ 70C49   UDINE viale Ledra 108 (Area 2) 13:34 13:36 13:34 13:34 13:34 13:37
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 13:35 13:36 13:35 13:35 13:38
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+13:36 13:37 13:36 13:36 13:39
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 06:17 12:18 12:18 12:17 14:32 14:33 14:33
+ 70C60   UDINE piazzale Giobatta Cella 59 06:18 12:20 12:20 12:18 13:37 13:38 13:37 13:37 13:41 14:33 14:34 14:33
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+06:19 12:21 12:21 12:20 13:39 13:40 13:38 13:39 13:42 14:35 14:35 14:35
+ 70C04   SANT'OSVALDO via Adriatica 16 06:21 12:23 12:23 12:22 13:40 13:41 13:40 13:40 13:44 14:37 14:37 14:36
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+06:22 12:24 12:24 12:23 13:42 13:42 13:41 13:42 13:45 14:38 14:38 14:37
+ 38813   ZUGLIANO via Lignano (fronte civico 41, bivio 
+SR 353)
+06:23 12:26 12:26 12:25 13:43 13:44 13:43 13:43 13:46 14:40 14:40 14:39
+ 38828   TERENZANO via Giuseppe Ellero 29 (bivio SR 
+353)
+12:26
+ 38809   TERENZANO via Giuseppe Ellero 1 (angolo via 
+della Statua)
+12:27
+ 38834   POZZUOLO via IV Genova (bivio, direzione 
+Latisana)
+06:26 13:46 13:46 13:45 13:46 13:49 14:42
+ 38901   MORTEGLIANO piazza Giuseppe Verdi 10 
+(municipio)
+06:31
+ 30510   CASTIONS DI STRADA viale Europa 5 06:36
+ 30508   CASTIONS DI STRADA via Roma 116 
+(direzione Morsano)
+06:37
+ 38828   TERENZANO via Giuseppe Ellero 29 (bivio SR 
+353)
+12:27 12:27 14:41 14:40
+ 38809   TERENZANO via Giuseppe Ellero 1 (angolo 
+via della Statua)
+12:28 12:28 14:42 14:41
+ 38849   POZZUOLO DEL FRIULI via M.della Salute 2 
+(dir.Sammardenchia)
+13:47 13:47 14:43
+ 38837   SAMMARDENCHIA DI POZZ. piazza 24 Maggio 
+7 (Lato chiesa)
+12:32 12:32 12:30 14:45 14:45
+ 38912   LAVARIANO piazza San Paolino 7 (direzione 
+Mortegliano)
+12:35 12:35 12:35 13:53 13:53 14:50 14:48 14:49
+ 38906   CHIASIELLIS via Ferraria 17 12:39 12:39 12:38 13:56 13:52 13:52 13:56 13:56 14:53 14:51 14:52
+ 30503   MORSANO DI STRADA piazza San Pellegrino 
+(centro, dir.Gonars)
+12:44 14:59
+ 30503   MORSANO DI STRADA piazza San Pellegrino 
+(centro, dir.Gonars)
+06:39 12:44 12:44 14:01 13:56 13:57 14:01 14:00 14:56 14:56
+ 30401   GONARS piazza Giulio Cesare 13 06:41 12:48 12:48 12:47 14:04 13:58 13:59 14:04 14:03 15:02 14:58 14:58
+ 30409   GONARS via Trieste (fronte 96, direz.Fauglis), 
+San Domenico
+06:45 12:50 12:50 12:49 14:01 15:04 15:00 15:00
+ 30415   FAUGLIS via Filippo Corridoni (fronte civico 28) 06:45 12:50 12:50 12:50 14:02 15:05 15:01 15:01
+ 30413   FAUGLIS via 4 Novembre (fronte civico 75, 
+chiesa)
+13:00 13:00
+ 30I07   CASTELLO DI PORPETTO via Diaz 9A 06:48 12:54 14:06 14:07 15:09 15:05 15:05
+ 30I03   PORPETTO via Pre Zaneto (poste) 12:58 14:10 15:13
+ 30I12   PORPETTO via Udine 46 (direzione San 
+Giorgio)
+06:51 14:10
+ 30I16   PORPETTO via Marconi 2 (direzione Corgnolo) 12:59 14:12 15:14 15:09 15:08
+ 30I05   CORGNOLO via Cavour 8 13:02 14:16 15:17 15:13 15:13
+ 30I13   PAMPALUNA via Pampaluna (ang. via San 
+Girolamo, dir.Zellina)
+13:05 14:20 15:20 15:16 15:16
+ 31A34   ZELLINA via Boscat 1 (bivio Galli) 13:07 14:22 15:22 15:19 15:19
+ 31A16   SAN GIORGIO DI NOGARO via Nazario Sauro 59 
+(scuole)
+13:09 14:24 15:24 15:21 15:21
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+06:56 08:04 13:10 14:27 14:08 14:13 15:25 15:24 15:24
+ 38705   TORVISCOSA via Stradone Zuino Nord (fr. 237, 
+distributore)
+07:03
+ 38708   TORVISCOSA via Vittorio Veneto (fronte parco, 
+Carabinieri)
+07:04
+ 38702   TORVISCOSA viale Marconi (lato parco 
+chiesa)
+07:04
+ 38704   TORVISCOSA viale Marconi (fronte civico 256) 07:05
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+07:11
+ 31A02   PORTO NOGARO via Annia fronte 25 07:14 14:16 15:27 15:26
+ 31A26   CARLINO via S.G. Di Nogaro (incr. via Toppo W., 
+dir.Carlino)
+07:17 14:18 15:30 15:29
+ 31116   CARLINO via San Giorgio di Nogaro 
+(direz.Marano), loc.Banduz
+07:18 14:19 15:30 15:30
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 3
+  [Pagina 73]
+1 111 5 9 11 7 17 19 21 49 15 13 23 67
+U230 U300 U251 U300 U240 U307 U300 U300 U306 U300 U300 U240 U300 U251
+ 31110   CARLINO via Marano 6 (biblioteca) 07:19 14:21 15:32 15:32
+ 31106   PRADULINS via Marano (fronte civico 51), Rui 07:20 14:22 15:33 15:34
+ 31111   LA COLOMBA via Marano 94 07:22 14:23 15:36 15:36
+ 31112   MARANUTTO via Marano 118 (La Madonna) 07:23 14:25 15:37 15:36
+ 31901   MARANO LAGUNARE piazza Risanamento 
+13
+07:34 14:35 15:40 15:40
+1 111 5 9 11 7 17 19 21 49 15 13 23 67
+ 70101   UDINE viale Europa Unita 37 (autostazione) 1 1 1 1 21 21 20 22 21 22A 23 1 1 1
+BANCHINE
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U240 Feriale estiva (fne scuole-inizio scuole)
+U306 Scolastica solo al sabato U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 2 di 3
+  [Pagina 74]
+LINEA 465 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-MORSANO-PORPETTO-S.GIORGIO 
+51 27 29
+U231 U240 U230
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17:30 18:15 18:15
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 18:17 18:17
+ 70C60   UDINE piazzale Giobatta Cella 59 17:34 18:18 18:18
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+17:36 18:20 18:20
+ 70C04   SANT'OSVALDO via Adriatica 16 17:38 18:22 18:21
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+17:40 18:23 18:23
+ 38813   ZUGLIANO via Lignano (fronte civico 41, bivio 
+SR 353)
+17:41 18:25 18:24
+ 38834   POZZUOLO via IV Genova (bivio, direzione 
+Latisana)
+17:44
+ 38828   TERENZANO via Giuseppe Ellero 29 (bivio SR 
+353)
+18:26 18:25
+ 38809   TERENZANO via Giuseppe Ellero 1 (angolo 
+via della Statua)
+18:27 18:26
+ 38849   POZZUOLO DEL FRIULI via M.della Salute 2 
+(dir.Sammardenchia)
+17:45
+ 38837   SAMMARDENCHIA DI POZZ. piazza 24 Maggio 
+7 (Lato chiesa)
+18:30 18:30
+ 38912   LAVARIANO piazza San Paolino 7 (direzione 
+Mortegliano)
+17:50 18:35 18:35
+ 38906   CHIASIELLIS via Ferraria 17 17:53 18:38 18:38
+ 38901   MORTEGLIANO piazza Giuseppe Verdi 10 
+(municipio)
+17:58
+ 30510   CASTIONS DI STRADA viale Europa 5 18:03
+ 30508   CASTIONS DI STRADA via Roma 116 (direzione 
+Morsano)
+18:04
+ 30503   MORSANO DI STRADA piazza San Pellegrino 
+(centro, dir.Gonars)
+18:07 18:44 18:44
+ 30401   GONARS piazza Giulio Cesare 13 18:47 18:47
+ 30409   GONARS via Trieste (fronte 96, direz.Fauglis), 
+San Domenico
+18:49 18:49
+ 30415   FAUGLIS via Filippo Corridoni (fronte civico 28) 18:50 18:50
+ 30I07   CASTELLO DI PORPETTO via Diaz 9A 18:54 18:54
+ 30I03   PORPETTO via Pre Zaneto (poste) 18:58 18:58
+ 30I16   PORPETTO via Marconi 2 (direzione Corgnolo) 18:59 19:00
+ 30I05   CORGNOLO via Cavour 8 19:02 19:04
+ 30I13   PAMPALUNA via Pampaluna (ang. via San 
+Girolamo, dir.Zellina)
+19:05 19:07
+ 31A34   ZELLINA via Boscat 1 (bivio Galli) 19:07 19:10
+ 31A16   SAN GIORGIO DI NOGARO via Nazario Sauro 59 
+(scuole)
+19:09 19:11
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+19:10 19:20
+CADENZA
+CORSA
+51 27 29
+ 70101   UDINE viale Europa Unita 37 (autostazione) 1 1 1
+BANCHINE
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U240 Feriale estiva (fne scuole-inizio scuole)
+U306 Scolastica solo al sabato U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 3 di 3
+  [Pagina 75]
+LINEA 465 (Ritorno)
+Orario valido dal 23 dicembre 2025S.GIORGIO-PORPETTO-MORSANO-UDINE 
+8 2 6 102 802 48 32 66 12 4 50 18 42 10
+U300 U230 U240 U300 U307 U300 U300 U300 U300 U300 U300 U300 U251 U240
+ 31307   PALAZZOLO DELLO STELLA via Nazionale 59 
+(bivio Precenicco)
+06:29
+ 31306   PALAZZOLO DELLO STELLA via Nazionale 
+(fronte 26)
+06:31
+ 31112   MARANUTTO via Marano 118 (La Madonna) 06:40
+ 31901   MARANO LAGUNARE piazza Risanamento 
+13
+06:45 06:45
+ 31104   MARANUTTO via Marano 125 (La Madonna, 
+direzione Carlino)
+06:47
+ 31103   LA COLOMBA via Marano 75 (direzione Carlino) 06:49
+ 31113   PRADULINS via Marano 51 (direzione Carlino), 
+Rui
+06:50
+ 31105   CARLINO via Marano 1 (biblioteca) 06:52
+ 31109   CARLINO via San Giorgio di Nogaro (dir. Nogaro), 
+loc. Banduz
+06:53
+ 31A04   CARLINO via S.G. di Nogaro (incr. via Toppo W., 
+dir.Nogaro)
+06:53
+ 31601   LATISANA via Beorchia (autostazione) 06:30
+ 31606   LATISANA via Crosere 116 (rotonda Crosere) 06:34
+ 31307   PALAZZOLO DELLO STELLA via Nazionale 59 
+(bivio Precenicco)
+06:36
+ 31306   PALAZZOLO DELLO STELLA via Nazionale 
+(fronte 26)
+06:37
+ 31115   CARLINO via Garibaldi 7 06:47
+ 31109   CARLINO via San Giorgio di Nogaro (dir. Nogaro), 
+loc. Banduz
+06:48
+ 31A04   CARLINO via S.G. di Nogaro (incr. via Toppo W., 
+dir.Nogaro)
+06:49
+ 31A25   PORTO NOGARO via Annia 23 06:56 06:52
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+06:25 06:25 06:50 06:35 06:50 14:05 14:10
+ 31A24   S.GIORGIO DI NOGARO via Nazario Sauro 10 
+(scuole)
+06:27 06:27 06:37 14:12
+ 31A19   ZELLINA via Boscat (fronte 1, bivio Galli, 
+direz.Pampaluna)
+06:28 06:28 06:38 14:13
+ 30I04   PAMPALUNA via Pampaluna 11 (direzione 
+Corgnolo)
+06:31 06:30 06:40 14:15
+ 30I14   CORGNOLO via Cavour 1 06:33 06:32 06:43 14:17
+ 30I09   PORPETTO via Marconi 3 06:34 06:35 14:20
+ 30I02   PORPETTO via Udine 47 06:54 07:00 06:57 06:54 14:09
+ 30I03   PORPETTO via Pre Zaneto (poste) 06:35 06:36 06:56 14:21
+ 30I11   CASTELLO DI PORPETTO via Diaz 1 (direzione 
+Palmanova)
+06:38 06:38 06:58 07:02 07:00 14:11 14:23
+ 30410   GONARS via Venezia (scuole) 07:05 07:03 06:59 14:15
+ 30401   GONARS piazza Giulio Cesare 13 14:16
+ 30409   GONARS via Trieste (fronte 96, direz.Fauglis), 
+San Domenico
+14:15 14:19
+ 30414   FAUGLIS via Filippo Corridoni 30 06:42 14:27
+ 30415   FAUGLIS via Filippo Corridoni (fronte civico 28) 14:16 14:19
+ 30413   FAUGLIS via 4 Novembre (fronte civico 75, 
+chiesa)
+14:17 14:20
+ 30412   FAUGLIS via 4 Novembre (fronte civico 76, 
+chiesa)
+14:22 14:23
+ 30414   FAUGLIS via Filippo Corridoni 30 06:42 07:02 14:23 14:24
+ 30422   GONARS via Trieste 96, San Domenico 06:43 06:43 07:03 14:24 14:25 14:28
+ 30407   GONARS via De Amicis (municipio) 06:44 06:44 07:04 07:04 07:09 14:25 14:26 14:29
+ 30420   GONARS piazza Giulio Cesare (fronte civico 
+13)
+06:40 06:46 06:46 07:04 07:05 07:06 07:06 07:09 14:26 14:27 14:30
+ 30504   MORSANO DI STRADA via Venezia 11 (centro) 06:43 06:49 06:47 07:08 07:08 07:08 07:11 14:29 14:30 14:32
+ 38913   CHIASIELLIS via Ferraria 10 (direzione 
+Pozzuolo)
+07:13 07:12 06:52 07:07 14:34 14:36 14:38
+ 38904   LAVARIANO piazza San Paolino 14 07:23 06:55 14:38 14:40 14:41
+ 38804   SAMMARDENCHIA DI POZZ. piazza 24 Maggio 
+12 (fronte chiesa)
+06:59 14:42 14:44 14:44
+ 38829   POZZUOLO DEL FRIULI via Madonna della 
+Salute 1
+07:28
+ 38832   TERENZANO piazza Terenzio 21 (chiesa) 07:04 07:03 07:01 14:46 14:48 14:48
+ 38839   TERENZANO via Giuseppe Ellero 2 (angolo via 
+Ellero)
+07:04 07:04 07:02 14:46 14:48 14:49
+ 38848   TERENZANO via Giuseppe Ellero 29 (bivio SR 
+353, dir. Udine)
+07:05 07:05 07:02 14:47 14:49 14:50
+ 30511   CASTIONS DI STRADA via Roma (fronte 
+civico 120)
+06:46
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 1 di 4
+  [Pagina 76]
+8 2 6 102 802 48 32 66 12 4 50 18 42 10
+U300 U230 U240 U300 U307 U300 U300 U300 U300 U300 U300 U300 U251 U240
+ 30502   CASTIONS DI STRADA viale Europa 6 
+(direzione Udine)
+06:47 07:11
+ 38911   MORTEGLIANO SR 353 via V.Buiatti 2 (semaforo, 
+dir.Udine)
+06:52 07:17
+ 38802   POZZUOLO via IV Genova (fr.parco Rose, 
+dir.Udine)
+06:56 07:24 07:20 07:18 07:18 07:29 07:11
+ 38816   POZZUOLO DEL FRIULI via delle Scuole (centro 
+studi)
+07:19
+ 38841   ZUGLIANO via Lignano 21 (bivio SR353, 
+direzione Udine)
+06:58 07:06 07:06 07:28 07:21 07:22 14:48 14:50 14:51
+ 40105   BASALDELLA via Adriatica 89 (rotonda San 
+Sebastiano)
+07:00 07:08 07:08 07:24 07:23 07:23 07:05 14:50 14:52 14:53
+ 70C05   SANT'OSVALDO via Pozzuolo 330 07:01 07:09 07:09 07:26 07:25 07:25 07:06 07:17 14:52 14:53 14:54
+ 70C06   UDINE via Pozzuolo 162 (bivio per sede 
+scolastica)
+07:02 07:11 07:10 07:29 07:28 07:28 07:41 07:09 07:18 14:54 14:55 14:55
+ 70C59   UDINE via Marangoni 101 07:32 07:31 07:45
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 07:33 07:32
+ 70194   UDINE via Marco Volpe 45 07:33 07:33
+ 70C51   UDINE via Marco Volpe 63 (piazzale Cavedalis) 07:37 07:35 07:52
+ 70C52   UDINE via Giovanni Micesio 37 (piazzale 
+P.Diacono)
+07:37 07:36
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:39 07:41 07:56
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 07:42 07:43 07:59
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:04 07:13 07:13 07:32 07:11 07:21 14:57 14:58 14:58
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:05 07:14 07:14 07:34 07:12 07:22 14:58 14:59 14:59
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:37 07:52 08:05 07:25
+ 70216   UDINE via Renati 28 (Area 2) 07:45 07:32
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:49 07:37
+ 70C18   UDINE viale Cadore 61 (Bertoni) 07:56 07:43
+ 70191   UDINE viale Monsignor Nogara (fronte 
+Stringher)
+07:38
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:43 07:57 07:44
+ 70C83   UDINE via Muris (fronte Stringher) 08:00 07:55
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:05 07:20 07:20 07:57 08:05 07:20 15:05 15:00 15:05
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 2 di 4
+  [Pagina 77]
+LINEA 465 (Ritorno)
+Orario valido dal 23 dicembre 2025S.GIORGIO-PORPETTO-MORSANO-UDINE 
+100 110 14 22
+U300 U300 U240 U230
+ 31901   MARANO LAGUNARE piazza Risanamento 
+13
+14:35 17:03
+ 31104   MARANUTTO via Marano 125 (La Madonna, 
+direzione Carlino)
+17:04
+ 31103   LA COLOMBA via Marano 75 (direzione Carlino) 17:05
+ 31113   PRADULINS via Marano 51 (direzione Carlino), 
+Rui
+17:07
+ 31105   CARLINO via Marano 1 (biblioteca) 17:08
+ 31109   CARLINO via San Giorgio di Nogaro (dir. Nogaro), 
+loc. Banduz
+17:09
+ 31A04   CARLINO via S.G. di Nogaro (incr. via Toppo W., 
+dir.Nogaro)
+17:09
+ 31A25   PORTO NOGARO via Annia 23 17:12
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+17:16
+ 38718   TORVISCOSA viale Marconi 270 17:21
+ 38717   TORVISCOSA viale Marconi 56 (parco 
+chiesa)
+17:22
+ 38716   TORVISCOSA via Vittorio Veneto Lato parco 
+(Carabinieri)
+17:23
+ 38715   TORVISCOSA via Stradone Zuino Nord 237 
+(distributore)
+17:24
+ 31A03   SAN GIORGIO DI NOGARO via Emilia 
+(autostazione)
+14:48 16:10 17:31
+ 31A24   S.GIORGIO DI NOGARO via Nazario Sauro 10 
+(scuole)
+16:12
+ 31A19   ZELLINA via Boscat (fronte 1, bivio Galli, 
+direz.Pampaluna)
+16:13
+ 30I04   PAMPALUNA via Pampaluna 11 (direzione 
+Corgnolo)
+16:15
+ 30I14   CORGNOLO via Cavour 1 16:17
+ 30I09   PORPETTO via Marconi 3 16:20
+ 30I02   PORPETTO via Udine 47 16:23 17:35
+ 30I03   PORPETTO via Pre Zaneto (poste) 16:21
+ 30I11   CASTELLO DI PORPETTO via Diaz 1 (direzione 
+Palmanova)
+16:23 17:37
+ 30414   FAUGLIS via Filippo Corridoni 30 16:27
+ 30414   FAUGLIS via Filippo Corridoni 30 17:41
+ 30422   GONARS via Trieste 96, San Domenico 16:28 17:42
+ 30407   GONARS via De Amicis (municipio) 16:29 17:43
+ 30420   GONARS piazza Giulio Cesare (fronte civico 
+13)
+16:29 16:30 17:43
+ 30504   MORSANO DI STRADA via Venezia 11 (centro) 16:32 17:45
+ 38913   CHIASIELLIS via Ferraria 10 (direzione 
+Pozzuolo)
+16:38
+ 38904   LAVARIANO piazza San Paolino 14 16:41
+ 38804   SAMMARDENCHIA DI POZZ. piazza 24 Maggio 
+12 (fronte chiesa)
+16:44
+ 38832   TERENZANO piazza Terenzio 21 (chiesa) 16:48
+ 38839   TERENZANO via Giuseppe Ellero 2 (angolo via 
+Ellero)
+16:49
+ 38848   TERENZANO via Giuseppe Ellero 29 (bivio SR 
+353, dir. Udine)
+16:50
+ 30511   CASTIONS DI STRADA via Roma (fronte 
+civico 120)
+17:48
+ 30502   CASTIONS DI STRADA viale Europa 6 
+(direzione Udine)
+17:49
+ 38910   MORTEGLIANO piazza Giuseppe Verdi 4 
+(chiesa)
+17:55
+ 38911   MORTEGLIANO SR 353 via V.Buiatti 2 (semaforo, 
+dir.Udine)
+17:57
+ 38802   POZZUOLO via IV Genova (fr.parco Rose, 
+dir.Udine)
+18:03
+ 38841   ZUGLIANO via Lignano 21 (bivio SR353, 
+direzione Udine)
+16:51 18:05
+ 40105   BASALDELLA via Adriatica 89 (rotonda San 
+Sebastiano)
+16:53 18:08
+ 70C05   SANT'OSVALDO via Pozzuolo 330 16:54 18:09
+ 70C06   UDINE via Pozzuolo 162 (bivio per sede 
+scolastica)
+16:55 18:11
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 16:58 18:14
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 16:59 18:15
+ 70101   UDINE viale Europa Unita 37 (autostazione) 16:55 17:05 18:25
+CADENZA
+CORSA
+martedì 16 dicembre 2025Pagina 3 di 4
+  [Pagina 78]
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 16 dicembre 2025Pagina 4 di 4
+  [Pagina 79]
+LINEA 472 (Andata)
+Orario valido dal 23 dicembre 2025UDINE-ZIU-S.MARIA LA LONGA 
+83 85 87
+U231 U231 U307
+ 70101   UDINE viale Europa Unita 37 (autostazione) 09:05 12:30 14:30
+ 70165   UDINE viale Palmanova (fronte 404, semaforo 
+via Verona)
+09:11 12:36 14:36
+ 70124   UDINE Z.I.U. via Linussio (parco scientifco 
+tecnologico)
+09:15 12:40 14:39
+ 37135   LAUZACCO viale Dei Platani (rotonda Crosada, 
+dir. Palmanova)
+14:44
+ 37205   SANTO STEFANO UDINESE via Lino Gregorutti 5 14:46
+ 37218   SANTA MARIA LA LONGA via Simonetti (fronte 
+municipio)
+14:50
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 14:53
+CADENZA
+CORSA
+83 85 87
+ 70101   UDINE viale Europa Unita 37 (autostazione) 6 7 6
+BANCHINE
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U307 Scolastica escluso il sabato
+martedì 16 dicembre 2025Pagina 1 di 1
+  [Pagina 80]
+LINEA 472 (Ritorno)
+Orario valido dal 23 dicembre 2025S.MARIA LA LONGA-ZIU-UDINE 
+86 88 90
+U231 U231 U307
+ 37201   SANTA MARIA LA LONGA via Pietro Zorutti 12 14:53
+ 37212   SANTO STEFANO UDINESE via Lino Gregorutti 
+(fronte 5)
+14:56
+ 37108   LAUZACCO viale dei Platani (rotonda Crosada, 
+direz. Udine)
+14:58
+ 70124   UDINE Z.I.U. via Linussio (parco scientifco 
+tecnologico)
+09:15 12:40 15:03
+ 70C39   UDINE viale Palmanova 392 (semaforo via 
+Verona)
+09:20 12:45 15:06
+ 70101   UDINE viale Europa Unita 37 (autostazione) 09:25 12:50 15:12
+CADENZA
+CORSA
+VALIDITÀ
+U231 Feriale invernale escluso il sabato (per.scol.) U307 Scolastica escluso il sabato
+martedì 16 dicembre 2025Pagina 1 di 1
+  [Pagina 81]
+www.tplfvg.it
+TPL FVG S.c.a.r.l.
+via Caduti di An Nasiriyah, 6
+34170 Gorizia (GO)

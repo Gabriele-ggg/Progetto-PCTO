@@ -1,0 +1,3192 @@
+  [Pagina 1]
+Codroipese
+Portogruaro
+Orario valido 
+dal 24 novembre 2025
+SERVIZIO 
+EXTRAURBANO
+  [Pagina 2]
+S. Daniele del Friuli-Dignano-Sedegliano-Codroipo 
+Udine-Blessano-Sedegliano-Codroipo
+Udine-Blessano-Sedegliano-S. Odorico
+Udine-Mereto di Tomba-Flaibano-S. Odorico
+Udine-Bressa-Villaorba-Codroipo
+Udine-Codroipo-San Vito-Portogruaro
+Udine-Basagliapenta-Nespoledo-Bertiolo-Codroipo
+Udine-Galleriano-Pozzecco-Bertiolo-Codroipo
+Terenzano-Castions-Bertiolo-Codroipo
+Udine-Pasian di Prato Enaip
+Codroipo-Rivignano-Latisana
+Codroipo-Camino-Varmo-Rivignano-Codroipo
+S. Maria-Lestizza-Bertiolo-Varmo-Codroipo
+Udine-Codroipo-Varmo
+Udine-Zugliano-Pozzuolo-Campoformido-Udine
+Portogruaro-Lignano
+Udine-Bressa-Basiliano-Blessano-Udine
+  [Pagina 3]
+LINEA 220 (Andata)
+Orario valido dal 24 novembre 2025S.DANIELE-DIGNANO-SEDEGLIANO-CODROIPO 
+1 5 3 7
+U300 U300 U300 U300
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+06:15 13:15 14:30 16:30
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+06:17 13:17 14:32 16:32
+ 50I19   SAN DANIELE DEL FRIULI via Trento Trieste 108 
+(lato bar)
+06:18 13:18 14:33 16:33
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+06:20 13:19 14:34 16:34
+ 50I03   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Giacomo Bernè 3
+06:23 13:23 14:37 16:39
+ 50807   CARPACCO via De Gasperi 14 06:25 13:25 14:39 16:40
+ 50813   CARPACCO piazza Libertà 15 06:26 13:26 14:40 16:41
+ 50816   CARPACCO via Pasini 22 (trattoria, direzione 
+Dignano)
+06:27 13:27 14:41 16:42
+ 50811   VIDULIS via Nazionale 64 (Lupieri, direzione 
+Dignano)
+06:30 13:30 14:44 16:45
+ 50812   DIGNANO via San Gallo (fronte civico 1), borgo 
+Mezzoli
+06:30 13:30 14:44 16:46
+ 50801   DIGNANO piazza Cimolino fronte 8 06:32 13:32 14:46 16:48
+ 50705   CISTERNA piazza monumento 14 (direzione 
+Flaibano)
+06:37 14:51
+ 41A01   FLAIBANO piazza monumento ai Caduti (fronte 
+9, dir.Codroipo)
+13:39 14:55 16:56
+ 40942   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele 1
+13:42 16:59
+ 40901   SEDEGLIANO piazza Roma (fronte 29, 
+centro direz. Codroipo)
+13:48 17:02
+ 40916   SEDEGLIANO via 4 Novembre 46 (Castelliere) 13:48 17:03
+ 40908   GRADISCA DI SEDEGLIANO via D'Azeglio 6 13:50 17:05
+ 40814   POZZO DI CODROIPO via San Daniele (fronte 
+14, dir. Codroipo)
+13:51 17:06
+ 40842   GORICIZZA via Sedegliano (direzione Codroipo) 13:52 17:07
+ 40806   GORICIZZA via Stazione 38 13:53 17:08
+ 40820   CODROIPO via Paglieri 15 (caserme, direzione 
+SR 13)
+13:54 17:11
+ 40802   CODROIPO via Cesare Battisti (autostazione) 14:03
+ 41A05   FLAIBANO via Giuseppe Garibaldi (fronte civico 
+3, chiesa)
+06:41
+ 50725   BARAZZETTO via Maggiore 97 (direzione 
+Mereto)
+06:45
+ 41115   MERETO DI TOMBA piazza della Vittoria 7 
+(chiesa, dir. Udine)
+06:47
+ 41113   PANTIANICCO via Caterina Percoto 37 06:52
+ 41116   PANTIANICCO via Piave 8 (chiesa) 06:53
+ 40937   CODERNO via Lavia (Incrocio SP 18, 
+provenienza San Lorenzo)
+06:58
+ 40903   CODERNO piazza Camillo Benso Conte di 
+Cavour 6 (chiesa)
+06:59
+ 40907   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele 7
+14:57
+ 40941   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele (fronte 7)
+07:02
+ 40913   TURRIDA piazza Cairoli 2 (centro) direzione 
+Sedegliano
+07:06
+ 40935   TURRIDA via Fogazzaro (fronte 45, hotel) 07:07
+ 40930   RIVIS DI SEDEGLIANO via Nazionale 51 
+(direzione Gradisca)
+07:09
+ 40903   CODERNO piazza Camillo Benso Conte di 
+Cavour 6 (chiesa)
+15:01
+ 40915   CODERNO via Dante Alighieri 38 (direzione 
+Sedegliano)
+15:02
+ 40901   SEDEGLIANO piazza Roma (fronte 29, 
+centro direz. Codroipo)
+15:04
+ 40916   SEDEGLIANO via 4 Novembre 46 (Castelliere) 15:05
+ 40926   GRADISCA DI SEDEGLIANO piazza Regina 
+Margherita 16
+07:12
+ 40908   GRADISCA DI SEDEGLIANO via D'Azeglio 6 15:07
+ 40923   SEDEGLIANO via 4 Novembre (fronte civico 44, 
+Castelliere)
+07:13
+ 40928   SEDEGLIANO piazza Roma 29 (centro, 
+direzione Udine)
+07:15
+ 40938   SEDEGLIANO via del Forte 28 (direzione San 
+Lorenzo)
+07:16
+ 40912   S.LORENZO DI SEDEGLIANO piazza Venezia 
+(fronte 2, centro)
+07:19
+ 40940   S.LORENZO DI SEDEGLIANO via Pietro Zorutti 
+80 (dir.Codroipo)
+07:20
+ 40836   GORICIZZA via Selva 13 07:23
+ 40815   GORICIZZA via Sedegliano 76 (direzione 
+Gradisca)
+07:24
+CADENZA
+CORSA
+martedì 18 novembre 2025Pagina 1 di 2
+  [Pagina 4]
+1 5 3 7
+U300 U300 U300 U300
+ 40814   POZZO DI CODROIPO via San Daniele (fronte 
+14, dir. Codroipo)
+15:08
+ 40826   POZZO DI CODROIPO via San Rocco 07:26
+ 40842   GORICIZZA via Sedegliano (direzione Codroipo) 15:09
+ 40806   GORICIZZA via Stazione 38 07:28 15:10
+ 40820   CODROIPO via Paglieri 15 (caserme, direzione 
+SR 13)
+07:28 15:11
+ 40802   CODROIPO via Cesare Battisti (autostazione) 15:18
+ 40803   CODROIPO via Circonvallazione Sud 27 
+(centro studi)
+07:34 17:16
+ 40802   CODROIPO via Cesare Battisti (autostazione) 07:43 17:20
+VALIDITÀ
+U300 Scolastica
+martedì 18 novembre 2025Pagina 2 di 2
+  [Pagina 5]
+LINEA 220 (Ritorno)
+Orario valido dal 24 novembre 2025CODROIPO-SEDEGLIANO-DIGNANO-S.DANIELE 
+6 2 8 4
+U300 U300 U300 U300
+ 40803   CODROIPO via Circonvallazione Sud 27 
+(centro studi)
+13:20
+ 40802   CODROIPO via Cesare Battisti (autostazione) 06:55 13:24 15:40 17:24
+ 40852   CODROIPO via Paglieri 4 (caserme, direzione 
+Goricizza)
+07:01 13:29 15:46 17:29
+ 40830   GORICIZZA via Stazione 39 07:01 13:30 15:47 17:30
+ 40815   GORICIZZA via Sedegliano 76 (direzione 
+Gradisca)
+07:02 13:31 15:48 17:31
+ 40826   POZZO DI CODROIPO via San Rocco 13:33 17:32
+ 40835   GORICIZZA via Selva 12 13:35 17:34
+ 40922   SAN LORENZO DI SEDEGLIANO via Pietro 
+Zorutti 53
+13:38 17:37
+ 40904   SAN LORENZO DI SEDEGLIANO piazza Venezia 
+7 (centro)
+13:39 17:39
+ 40920   SEDEGLIANO via del Forte 23 (direzione centro) 13:41 17:40
+ 40901   SEDEGLIANO piazza Roma (fronte 29, 
+centro direz. Codroipo)
+13:43 17:42
+ 40916   SEDEGLIANO via 4 Novembre 46 (Castelliere) 13:44 17:43
+ 40905   GRADISCA DI SEDEGLIANO  piazza Regina 
+Margherita 19
+13:45 17:44
+ 40911   RIVIS DI SEDEGLIANO via Nazionale 28 
+(direzione Turrida)
+13:48 17:48
+ 40914   TURRIDA via Fogazzaro 41 (hotel, direzione 
+centro)
+13:49 17:49
+ 40934   TURRIDA piazza Cairoli (fronte civico 7, 
+centro)
+13:51 17:50
+ 40907   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele 7
+13:55 17:54
+ 40903   CODERNO piazza Camillo Benso Conte di 
+Cavour 6 (chiesa)
+13:58 17:57
+ 40919   CODERNO via Lavia 4 (incrocio SP 18, direzione 
+S.Lorenzo)
+13:59 17:58
+ 41103   PANTIANICCO via Piave 1 (chiesa, direzione 
+Udine)
+14:03 18:02
+ 41122   PANTIANICCO via Caterina Percoto 54 (direzione 
+Udine)
+14:05 18:04
+ 41101   MERETO DI TOMBA piazza della Vittoria 12 
+(chiesa)
+14:09 18:08
+ 50718   BARAZZETTO via Maggiore 214 14:11 18:10
+ 41A07   FLAIBANO piazza monumento ai Caduti 9 
+(dir. San Daniele)
+14:15 18:14
+ 50704   CISTERNA piazza monumento 16 (direzione 
+Coseano)
+14:19 18:18
+ 50804   DIGNANO piazza Cimolino 8 14:24 18:22
+ 50818   DIGNANO via San Gallo 7 (direzione Vidulis), 
+borgo Mezzoli
+14:25 18:23
+ 50817   VIDULIS via Nazionale 27 (Lupieri) 14:25 18:24
+ 50809   CARPACCO via Pasini 43 (trattoria) 14:28 18:27
+ 50803   CARPACCO piazza Libertà 2 (direzione San 
+Daniele)
+14:29 18:28
+ 50815   CARPACCO via de Gasperi 9 (direzione 
+S.Daniele)
+14:30 18:29
+ 50I53   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Nazionale 55
+14:31 18:30
+ 50I16   SAN DANIELE DEL FRIULI via Kennedy (fronte 
+scuola media)
+14:34 18:34
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+14:36 18:36
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+14:36 18:37
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+14:37 18:46
+ 40841   POZZO DI CODROIPO via San Daniele 16 07:03 15:49
+ 40925   GRADISCA DI SEDEGLIANO via D'Azeglio 11 07:05 15:51
+ 40923   SEDEGLIANO via 4 Novembre (fronte civico 44, 
+Castelliere)
+07:07 15:52
+ 40928   SEDEGLIANO piazza Roma 29 (centro, 
+direzione Udine)
+07:08 15:54
+ 40932   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele 6
+07:11 15:57
+ 41A07   FLAIBANO piazza monumento ai Caduti 9 (dir. 
+San Daniele)
+16:00
+ 41A05   FLAIBANO via Giuseppe Garibaldi (fronte civico 
+3, chiesa)
+07:14
+ 50703   BARAZZETTO via dell'Unione 4 (chiesa, 
+direzione Nogaredo)
+07:18
+ 50709   NOGAREDO DI CORNO via della Pace 43 
+(direzione Coseano)
+07:20
+ 50804   DIGNANO piazza Cimolino 8 07:27 16:09
+ 50818   DIGNANO via San Gallo 7 (direzione Vidulis), 
+borgo Mezzoli
+07:28 16:10
+CADENZA
+CORSA
+martedì 18 novembre 2025Pagina 1 di 2
+  [Pagina 6]
+6 2 8 4
+U300 U300 U300 U300
+ 50817   VIDULIS via Nazionale 27 (Lupieri) 07:30 16:11
+ 50809   CARPACCO via Pasini 43 (trattoria) 07:33 16:14
+ 50803   CARPACCO piazza Libertà 2 (direzione San 
+Daniele)
+07:34 16:15
+ 50815   CARPACCO via de Gasperi 9 (direzione 
+S.Daniele)
+07:36 16:16
+ 50I53   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Nazionale 55
+07:38 16:18
+ 50I16   SAN DANIELE DEL FRIULI via Kennedy (fronte 
+scuola media)
+16:21
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+07:41
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+07:44 16:23
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+07:44 16:24
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:48 16:28
+VALIDITÀ
+U300 Scolastica
+martedì 18 novembre 2025Pagina 2 di 2
+  [Pagina 7]
+LINEA 362 (Andata)
+Orario valido dal 24 novembre 2025UDINE-BLESSANO-SEDEGLIANO-CODROIPO 
+13 11 1 5 3 7 9 15
+U250 U300 U259 U307 U264 U306 U300 U250
+ 70221   UDINE viale Ledra 98 (Area 1) 13:30
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 13:32
+ 70101   UDINE viale Europa Unita 37 (autostazione) 13:25 17:00 17:00 17:25 17:25 19:20 19:20
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 17:30 17:30
+ 70C31   UDINE piazzale 26 Luglio 25 13:28 17:06 17:06 19:25 19:25
+ 70C86   Udine viale Venezia 401 13:30 13:35 17:08 17:08 19:27 19:27
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 13:31 13:37 17:10 17:10 19:29 19:29
+ 40222   PASIAN DI PRATO via Roma 123, Santa Caterina 13:32 13:39 17:11 17:11 19:30 19:30
+ 40218   PASIAN DI PRATO via Roma 37 (municipio) 13:32 13:39 17:12 17:12 19:30 19:30
+ 40212   COLLOREDO DI PRATO via D'Antoni 19 (Cantine 
+Antonutti)
+13:37 13:43 17:15 17:15 19:34 19:34
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+17:32 17:32
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+17:34 17:34
+ 70C19   PASSONS via Dante Alighieri 63 17:36 17:36
+ 50135   NOGAREDO DI PRATO via I Maggio (fronte civico 
+48, cimitero)
+17:41 17:41
+ 50140   NOGAREDO DI PRATO piazza San Martino 1 17:42 17:42
+ 50139   FAUGNACCO via del Mulino 21 17:43 17:43
+ 40223   COLLOREDO DI PRATO via Udine 84 (scuola 
+primaria)
+13:38 13:44 17:17 17:17 17:47 17:47 19:35 19:35
+ 41118   SAN MARCO DI MERETO via del Monumento 21 
+(chiesa)
+13:49
+ 41114   TOMBA DI MERETO via San Rocco 41 13:51
+ 41109   TOMBA DI MERETO via San Rocco 4 (centro) 13:53
+ 40342   BLESSANO via Damiano Chiesa 115 13:41 17:19 17:19 17:49 17:49 19:37 19:37
+ 40335   BLESSANO via Damiano Chiesa 25 13:42 17:21 17:21 17:50 17:50 19:38 19:38
+ 40324   BLESSANO via Cavour 12 (Pesa, direzione 
+Basiliano)
+17:22 17:22
+ 41113   PANTIANICCO via Caterina Percoto 37 13:47 13:58 17:27 17:27 17:57 17:57 19:44 19:44
+ 41116   PANTIANICCO via Piave 8 (chiesa) 13:59 17:29 17:29 17:59 17:59
+ 41111   PANTIANICCO via Eligio Bertolissi 2 13:48 19:44 19:44
+ 40843   BEANO piazza Fontane 40 (centro, direzione 
+Sedegliano)
+13:52 19:49 19:49
+ 40904   SAN LORENZO DI SEDEGLIANO piazza Venezia 
+7 (centro)
+13:55 19:52 19:52
+ 40906   SAN LORENZO DI SEDEGLIANO via dei Molini 3 
+(centro)
+14:03 17:33 17:33 18:03 18:03
+ 40920   SEDEGLIANO via del Forte 23 (direzione centro) 13:57 14:05 17:36 17:36 18:05 18:05 19:54 19:54
+ 40918   SEDEGLIANO via 24 Maggio 3 13:58 19:55 19:55
+ 40928   SEDEGLIANO piazza Roma 29 (centro, 
+direzione Udine)
+14:07 17:37 17:37 18:06 18:06
+ 40936   CODERNO via Dante Alighieri (direzione centro) 14:08 17:40 17:40 18:08 18:08
+ 40903   CODERNO piazza Camillo Benso Conte di 
+Cavour 6 (chiesa)
+14:10 17:41 17:41 18:09 18:09
+ 40941   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele (fronte 7)
+14:13 17:45 17:45 18:12 18:12
+ 40901   SEDEGLIANO piazza Roma (fronte 29, 
+centro direz. Codroipo)
+17:49 17:49 18:15 18:15
+ 40916   SEDEGLIANO via 4 Novembre 46 (Castelliere) 13:59 17:50 17:50 18:16 18:16 19:57 19:57
+ 40908   GRADISCA DI SEDEGLIANO via D'Azeglio 6 14:01 17:52 17:52 18:18 18:18 19:58 19:58
+ 40814   POZZO DI CODROIPO via San Daniele (fronte 
+14, dir. Codroipo)
+14:03 17:53 17:53 18:21 18:21 20:00 20:00
+ 40842   GORICIZZA via Sedegliano (direzione Codroipo) 14:03 17:55 17:55 18:22 18:22 20:01 20:01
+ 40806   GORICIZZA via Stazione 38 14:05 17:56 17:56 18:23 18:23 20:03 20:03
+ 40820   CODROIPO via Paglieri 15 (caserme, direzione 
+SR 13)
+14:05 17:56 17:56 18:23 18:23 20:03 20:03
+ 40802   CODROIPO via Cesare Battisti (autostazione) 14:13 18:05 18:05 18:29 18:29 20:08 20:08
+CADENZA
+CORSA
+martedì 18 novembre 2025Pagina 1 di 2
+  [Pagina 8]
+13 11 1 5 3 7 9 15
+ 70101   UDINE viale Europa Unita 37 (autostazione) 4 16 16 13 13 14 14
+BANCHINE
+VALIDITÀ
+U264 Feriale escluso il sabato scolastico U259 Feriale giorni non scolastici e al sabato scolasti co
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U306 Scolastica solo al sabato
+U300 Scolastica U307 Scolastica escluso il sabato
+martedì 18 novembre 2025Pagina 2 di 2
+  [Pagina 9]
+LINEA 362 (Ritorno)
+Orario valido dal 24 novembre 2025CODROIPO-SEDEGLIANO-BLESSANO-UDINE 
+2 6 8 4
+U251 U307 U306 U240
+ 40802   CODROIPO via Cesare Battisti (autostazione) 06:25 06:25 06:25 06:30
+ 40852   CODROIPO via Paglieri 4 (caserme, direzione 
+Goricizza)
+06:31 06:31 06:31 06:36
+ 40830   GORICIZZA via Stazione 39 06:31 06:31 06:31 06:36
+ 40815   GORICIZZA via Sedegliano 76 (direzione 
+Gradisca)
+06:32 06:32 06:32 06:37
+ 40841   POZZO DI CODROIPO via San Daniele 16 06:33 06:33 06:33 06:37
+ 40925   GRADISCA DI SEDEGLIANO via D'Azeglio 11 06:34 06:35 06:35 06:39
+ 40923   SEDEGLIANO via 4 Novembre (fronte civico 44, 
+Castelliere)
+06:36 06:37 06:37 06:40
+ 40928   SEDEGLIANO piazza Roma 29 (centro, 
+direzione Udine)
+06:36 06:38 06:38 06:41
+ 40907   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele 7
+06:39 06:42 06:42 06:44
+ 40903   CODERNO piazza Camillo Benso Conte di 
+Cavour 6 (chiesa)
+06:43 06:45 06:45 06:47
+ 40919   CODERNO via Lavia 4 (incrocio SP 18, direzione 
+S.Lorenzo)
+06:44 06:47 06:47 06:48
+ 41103   PANTIANICCO via Piave 1 (chiesa, direzione 
+Udine)
+06:48 06:51 06:51 06:53
+ 41122   PANTIANICCO via Caterina Percoto 54 (direzione 
+Udine)
+06:49 06:52 06:52 06:53
+ 40336   BLESSANO via Damiano Chiesa 26 06:54 06:57 06:57 06:59
+ 40320   BLESSANO via Damiano Chiesa 112 06:55 06:58 06:58 07:00
+ 40203   COLLOREDO DI PRATO via Udine 89 (scuola 
+primaria)
+06:59 07:01 07:01 07:03
+ 50104   FAUGNACCO via del Mulino 32 (direzione 
+Udine)
+07:02 07:07
+ 50152   NOGAREDO DI PRATO via IV Novembre 28 07:03 07:08
+ 50149   NOGAREDO DI PRATO via I Maggio 46 (cimitero, 
+direz. Udine)
+07:04 07:08
+ 50131   FAUGNACCO via Piave 17 (bivio chiesa) 07:06 07:06
+ 50136   MARTIGNACCO via Faugnacco 111 07:08 07:08
+ 50141   MARTIGNACCO via Faugnacco 11 (semaforo, 
+direzione Udine)
+07:08 07:08
+ 50108   MARTIGNACCO via Spilimbergo 287 (semaforo, 
+direzione Udine)
+07:09 07:09
+ 50102   CASANOVA DI MART. via Spilimbergo 1542 
+(Freud, dir. Udine)
+07:13 07:13
+ 50111   CASANOVA DI MARTIGNACCO via Spilimbergo 
+137 (dir. Udine)
+07:14 07:14
+ 40206   PASSONS via Spilimbergo 7 (direzione Udine) 07:15 07:15
+ 70C21   PASSONS via Dante Alighieri 84 07:09 07:12
+ 70C16   UDINE via Martignacco 170 (Villaggio del Sole) 07:10 07:16 07:16 07:14
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:20 07:20
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 07:12 07:17
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:16 07:25 07:25 07:22
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 07:18 07:28 07:28 07:25
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:30 07:34 07:34 07:34
+CADENZA
+CORSA
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 10]
+LINEA 363 (Andata)
+Orario valido dal 24 novembre 2025UDINE-BLESSANO-SEDEGLIANO-S.ODORICO 
+5 11 13 3 7 1 9 15
+U023 U242 U300 U230 U240 U300 U250 U300
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:45 07:45 07:45 12:15 12:15 13:20 18:15 18:15
+ 70218   UDINE via Caccia 20 (Area 1, piazzale Osoppo) 13:29
+ 70221   UDINE viale Ledra 98 (Area 1) 13:31
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 13:32
+ 70C31   UDINE piazzale 26 Luglio 25 07:50 07:50 07:50 12:21 12:20 18:20 18:20
+ 70C86   Udine viale Venezia 401 07:52 07:52 07:52 12:23 12:22 13:35 18:22 18:22
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 07:54 07:54 07:54 12:25 12:25 13:37 18:26 18:26
+ 40222   PASIAN DI PRATO via Roma 123, Santa Caterina 07:55 07:55 07:55 12:26 12:26 13:38 18:27 18:27
+ 40218   PASIAN DI PRATO via Roma 37 (municipio) 07:55 07:55 07:55 12:27 12:27 13:39 18:28 18:28
+ 40212   COLLOREDO DI PRATO via D'Antoni 19 (Cantine 
+Antonutti)
+07:59 07:59 07:59 12:30 12:30 13:42 18:31 18:31
+ 40223   COLLOREDO DI PRATO via Udine 84 (scuola 
+primaria)
+08:00 08:00 08:00 12:32 12:31 13:46 18:32 18:32
+ 40342   BLESSANO via Damiano Chiesa 115 08:03 08:03 08:03 12:34 12:34 13:46 18:35 18:35
+ 40335   BLESSANO via Damiano Chiesa 25 08:04 08:04 08:04 12:35 12:35 13:49 18:36 18:36
+ 41113   PANTIANICCO via Caterina Percoto 37 08:10 08:10 08:10 12:40 12:41 13:54 18:41 18:41
+ 41116   PANTIANICCO via Piave 8 (chiesa) 08:11 08:11 08:11 12:41 12:43 13:55 18:42 18:42
+ 40906   SAN LORENZO DI SEDEGLIANO via dei Molini 3 
+(centro)
+08:15 08:15 08:15 12:44 12:47 13:59 18:46 18:46
+ 40920   SEDEGLIANO via del Forte 23 (direzione centro) 08:17 08:17 08:17 12:47 12:49 14:02 18:49 18:49
+ 40928   SEDEGLIANO piazza Roma 29 (centro, 
+direzione Udine)
+12:51 18:50 18:50
+ 40901   SEDEGLIANO piazza Roma (fronte 29, 
+centro direz. Codroipo)
+08:19 08:19 08:19 12:49 14:04
+ 40936   CODERNO via Dante Alighieri (direzione centro) 12:52 18:51 18:51
+ 40903   CODERNO piazza Camillo Benso Conte di 
+Cavour 6 (chiesa)
+12:54 18:53 18:53
+ 40941   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele (fronte 7)
+12:57 18:56 18:56
+ 40901   SEDEGLIANO piazza Roma (fronte 29, 
+centro direz. Codroipo)
+13:01 18:59 18:59
+ 40916   SEDEGLIANO via 4 Novembre 46 (Castelliere) 08:20 08:20 08:20 12:49 13:02 14:05 19:00 19:00
+ 40905   GRADISCA DI SEDEGLIANO  piazza Regina 
+Margherita 19
+08:22 08:22 08:22 12:51 13:03 14:07 19:01 19:01
+ 40911   RIVIS DI SEDEGLIANO via Nazionale 28 
+(direzione Turrida)
+08:24 08:24 08:24 12:53 13:06 14:11 19:04 19:04
+ 40914   TURRIDA via Fogazzaro 41 (hotel, direzione 
+centro)
+08:26 08:26 08:26 12:54 13:08 14:13 19:06 19:06
+ 40934   TURRIDA piazza Cairoli (fronte civico 7, centro) 08:27 08:27 08:27 12:56 13:09 14:14 19:07 19:07
+ 40931   REDENZICCO Strada Regionale 463 (bivio, 
+provenienza Rivis)
+08:30 08:30 08:30 12:57 13:11 14:17 19:09 19:09
+ 40933   REDENZICCO via Redentore 31 (centro, 
+direzione  S.Odorico)
+12:58 13:12 14:17 19:10 19:10
+ 41A06   SAN ODORICO DI FLAIBANO piazza del 
+Popolo 1
+08:35 08:35 08:35 13:05 13:14 14:19 19:14 19:14
+CADENZA
+CORSA
+5 11 13 3 7 1 9 15
+ 70101   UDINE viale Europa Unita 37 (autostazione) 13 13 13 15 15 13 16 16
+BANCHINE
+VALIDITÀ
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U023 Feriale estiva escluso sabato + giorni non scolastici del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 11]
+LINEA 363 (Ritorno)
+Orario valido dal 24 novembre 2025S.ODORICO-SEDEGLIANO-BLESSANO-UDINE 
+2 10 20 4 14 18 8 6 16 12
+U300 U250 U300 U023 U242 U300 U240 U282 U306 U300
+ 41A03   SAN ODORICO DI FLAIBANO piazza del 
+Popolo 2
+06:45 06:45 08:40 08:40 08:40 13:30 13:50 13:50 14:19
+ 40910   REDENZICCO via Redentore 3 (centro, direzione  
+Turrida)
+06:47 06:47
+ 40909   REDENZICCO via Redentore (bivio, direzione 
+Rivis)
+06:48 06:48 08:42 08:42 08:42 13:32 13:52 13:52 14:21
+ 40913   TURRIDA piazza Cairoli 2 (centro) direzione 
+Sedegliano
+06:50 06:50 08:43 08:43 08:43 13:34 13:54 13:54
+ 40935   TURRIDA via Fogazzaro (fronte 45, hotel) 06:50 06:50 08:44 08:44 08:44 13:34 13:54 13:54
+ 40930   RIVIS DI SEDEGLIANO via Nazionale 51 
+(direzione Gradisca)
+06:52 06:52 08:45 08:45 08:45 13:36 13:55 13:55
+ 40926   GRADISCA DI SEDEGLIANO piazza Regina 
+Margherita 16
+06:55 06:55 06:55 08:48 08:48 08:48 13:38 13:58 13:58
+ 40923   SEDEGLIANO via 4 Novembre (fronte civico 44, 
+Castelliere)
+06:57 06:56 06:56 08:49 08:49 08:49 13:39 14:00 14:00
+ 40928   SEDEGLIANO piazza Roma 29 (centro, 
+direzione Udine)
+06:59 13:41
+ 40907   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele 7
+13:43 14:24
+ 40903   CODERNO piazza Camillo Benso Conte di 
+Cavour 6 (chiesa)
+13:47 14:27
+ 40915   CODERNO via Dante Alighieri 38 (direzione 
+Sedegliano)
+13:48 14:28
+ 40901   SEDEGLIANO piazza Roma (fronte 29, 
+centro direz. Codroipo)
+13:50
+ 40928   SEDEGLIANO piazza Roma 29 (centro, 
+direzione Udine)
+06:58 06:58 08:51 08:51 08:51 14:01 14:01 14:30
+ 40921   SEDEGLIANO via Udine (direzione Pantianicco) 07:00 14:31
+ 40938   SEDEGLIANO via del Forte 28 (direzione San 
+Lorenzo)
+07:00 07:00 08:52 08:52 08:52 13:52 14:02 14:02
+ 40912   S.LORENZO DI SEDEGLIANO piazza Venezia 
+(fronte 2, centro)
+07:02 07:02 08:54 08:54 08:54 13:54 14:04 14:04
+ 41103   PANTIANICCO via Piave 1 (chiesa, direzione 
+Udine)
+07:04 07:06 07:06 08:59 08:59 08:59 13:58 14:09 14:09 14:35
+ 41122   PANTIANICCO via Caterina Percoto 54 (direzione 
+Udine)
+07:06 07:06 07:06 09:00 09:00 09:00 13:59 14:10 14:10 14:35
+ 40336   BLESSANO via Damiano Chiesa 26 07:11 07:11 07:11 09:05 09:05 09:05 14:05 14:15 14:15 14:40
+ 40320   BLESSANO via Damiano Chiesa 112 07:13 07:12 07:12 09:06 09:06 09:06 14:06 14:17 14:17 14:41
+ 40203   COLLOREDO DI PRATO via Udine 89 (scuola 
+primaria)
+07:15 07:15 07:15 09:09 09:09 09:09 14:09 14:19 14:19 14:43
+ 40211   COLLOREDO DI PRATO piazza 5 Martiri (fronte 
+civico 5)
+07:15 07:16 07:16 09:10 09:10 09:10 14:11 14:20 14:20 14:44
+ 70C57   PASIAN DI PRATO via Roma 46 (municipio) 07:19 07:20 07:20 09:13 09:13 09:13 14:13 14:24 14:24 14:47
+ 40213   PASIAN DI PRATO via Roma 122, Santa Caterina 07:19 07:22 07:22 09:15 09:15 09:15 14:14 14:25 14:25 14:47
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 07:20 07:22 07:22 09:16 09:16 09:16 14:15 14:26 14:26 14:49
+ 70C85   Udine viale Venezia 410 07:22 07:24 07:24 09:18 09:18 09:18 14:17 14:28 14:28 14:51
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:26 07:29 07:29 09:21 09:21 09:21 14:22 14:33 14:33 14:54
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:27 07:30 07:30 09:23 09:23 09:23 14:23 14:34 14:34 14:55
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:28 07:31 07:31 09:24 09:24 09:24 14:23 14:35 14:35 14:55
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:32 07:35 07:35 09:30 09:30 09:30 14:30 14:40 14:40 15:00
+CADENZA
+CORSA
+VALIDITÀ
+U282 Feriale invernale escluso sabato scolastico U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U023 Feriale estiva escluso sabato + giorni non scolastici del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U306 Scolastica solo al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U300 Scolastica
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 12]
+LINEA 364 (Andata)
+Orario valido dal 24 novembre 2025UDINE-MERETO DI TOMBA-FLAIBANO-S.ODORICO 
+1 11 9 3 5 13 15 7
+U282 U306 U240 U300 U307 U393 U240 U200
+ 70101   UDINE viale Europa Unita 37 (autostazione) 12:15 12:15 12:18 13:20 17:30 17:30 17:30 18:30
+ 70C31   UDINE piazzale 26 Luglio 25 12:24 18:36
+ 70218   UDINE via Caccia 20 (Area 1, piazzale Osoppo) 13:27
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 13:28
+ 70221   UDINE viale Ledra 98 (Area 1) 12:23 12:23 13:31 17:37 17:37 17:37
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 13:33
+ 70C31   UDINE piazzale 26 Luglio 25 12:25 12:25 17:39 17:39 17:39
+ 70C86   Udine viale Venezia 401 12:27 12:27 12:26 13:36 17:41 17:41 17:41 18:38
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 12:29 12:29 12:29 13:37 17:43 17:43 17:43 18:39
+ 40222   PASIAN DI PRATO via Roma 123, Santa Caterina 12:31 12:31 12:30 13:38 17:44 17:44 17:44 18:40
+ 40218   PASIAN DI PRATO via Roma 37 (municipio) 12:31 12:31 12:31 13:39 17:45 17:45 17:45 18:41
+ 40212   COLLOREDO DI PRATO via D'Antoni 19 (Cantine 
+Antonutti)
+12:35 12:35 12:35 13:42 17:49 17:49 17:49 18:44
+ 40223   COLLOREDO DI PRATO via Udine 84 (scuola 
+primaria)
+12:36 12:36 12:36 13:43 17:50 17:50 17:50 18:45
+ 41118   SAN MARCO DI MERETO via del Monumento 21 
+(chiesa)
+12:41 12:41 12:41 13:48 17:55 17:55 17:55 18:50
+ 41105   PLASENCIS via Duca D'Aosta 2 (chiesa) 12:44 12:44 12:44 13:51 17:58 17:58 17:58 18:54
+ 41124   SAVALONS via Giuseppe Ellero 17 12:45 12:45 12:45 13:53 18:00 18:00 18:00 18:55
+ 41110   CASTELLIERE DI TOMBA via Germanica 9 12:47 12:47 12:47 13:56 18:02 18:02 18:02 18:57
+ 41109   TOMBA DI MERETO via San Rocco 4 
+(centro)
+12:49 12:49 12:50 18:04 18:04 18:04 18:59
+ 41120   CASTELLIERE DI TOMBA via Padre Evaristo 
+Migotti (fronte 23)
+12:51 12:51 12:51 18:05 18:05 18:05 19:01
+ 41121   MERETO DI TOMBA via Julia Divisione 7 
+(municipio)
+12:53 12:53 12:53 13:58 18:07 18:07 18:07 19:02
+ 41101   MERETO DI TOMBA piazza della Vittoria 12 
+(chiesa)
+12:54 12:54 12:54 14:00 18:09 18:09 18:09 19:04
+ 50718   BARAZZETTO via Maggiore 214 12:56 12:56 12:57 14:02 18:11 18:11 18:11 19:07
+ 50717   NOGAREDO DI CORNO via dei Fiori 4 (campanile) 12:58 12:58 12:58 14:04 18:13 18:13 18:13 19:08
+ 41A07   FLAIBANO piazza monumento ai Caduti 9 
+(dir. San Daniele)
+13:02 13:02 13:03 14:09 18:18 18:18 18:18 19:13
+ 41A03   SAN ODORICO DI FLAIBANO piazza del 
+Popolo 2
+13:10 13:10 13:11 14:15 18:23 18:23 18:23 19:20
+ 40910   REDENZICCO via Redentore 3 (centro, direzione  
+Turrida)
+18:24 18:24 18:24
+ 40909   REDENZICCO via Redentore (bivio, direzione 
+Rivis)
+18:25 18:25 18:25
+ 40913   TURRIDA piazza Cairoli 2 (centro) direzione 
+Sedegliano
+18:28 18:28 18:28
+ 40935   TURRIDA via Fogazzaro (fronte 45, hotel) 18:29 18:29 18:29
+ 40930   RIVIS DI SEDEGLIANO via Nazionale 51 
+(direzione Gradisca)
+18:30 18:30 18:30
+CADENZA
+CORSA
+1 11 9 3 5 13 15 7
+ 70101   UDINE viale Europa Unita 37 (autostazione) 16 16 16 16 14 14 14 13
+BANCHINE
+VALIDITÀ
+U200 Feriale U282 Feriale invernale escluso sabato scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U393 Feriale giorni non scolastici del periodo scolasti co e al sabato 
+scolastico
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 13]
+LINEA 364 (Ritorno)
+Orario valido dal 24 novembre 2025S.ODORICO-FLAIBANO-MERETO DI TOMBA-UDINE 
+10 2 4 800 6 8
+U300 U300 U250 U250 U200 U200
+ 41A06   SAN ODORICO DI FLAIBANO piazza del 
+Popolo 1
+06:43 06:40 08:05 14:19
+ 41A05   FLAIBANO via Giuseppe Garibaldi (fronte civico 
+3, chiesa)
+06:48 06:45 08:10 14:24
+ 50724   NOGAREDO DI CORNO via dei Fiori 1 (campanile) 06:52 06:48 08:14 14:28
+ 50725   BARAZZETTO via Maggiore 97 (direzione 
+Mereto)
+06:53 06:50 08:15 14:29
+ 41115   MERETO DI TOMBA piazza della Vittoria 7 
+(chiesa, dir. Udine)
+06:56 06:52 08:18 14:32
+ 41112   MERETO DI TOMBA via Julia Divisione 8 
+(municipio, dir.Udine)
+06:57 06:53 08:19 14:33
+ 40303   BASAGLIAPENTA piazza San Valentino 
+(direzione Codroipo)
+06:45
+ 40330   BASAGLIAPENTA SP 101 26 (Nucleo Casello, 
+direz. Villaorba)
+06:47
+ 40311   VILLAORBA piazza della Chiesa 26 (direzione 
+Tomba)
+06:48
+ 41109   TOMBA DI MERETO via San Rocco 4 
+(centro)
+06:52 06:58 08:22 14:36
+ 41120   CASTELLIERE DI TOMBA via Padre Evaristo 
+Migotti (fronte 23)
+06:54 06:58 08:23 14:38
+ 41123   SAVALONS via Giuseppe Ellero fronte 27 06:56 07:02 08:25 14:39
+ 41117   PLASENCIS via Duca D'Aosta 1 (chiesa, 
+direzione Udine)
+06:58 07:04 08:27 14:42
+ 41107   S.MARCO DI MERETO via del Monumento 12 
+(chiesa, dir. Udine)
+07:01 07:01 07:06 08:29 14:44
+ 40203   COLLOREDO DI PRATO via Udine 89 (scuola 
+primaria)
+07:05 07:05 07:12 08:34 14:49
+ 40211   COLLOREDO DI PRATO piazza 5 Martiri (fronte 
+civico 5)
+07:05 07:06 07:12 08:35 14:50
+ 70C57   PASIAN DI PRATO via Roma 46 (municipio) 07:08 07:09 07:17 08:38 14:54
+ 40213   PASIAN DI PRATO via Roma 122, Santa Caterina 07:09 07:10 07:17 08:39 14:55
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 07:09 07:11 07:19 08:40 14:56
+ 70C85   Udine viale Venezia 410 07:10 07:13 07:20 08:42 14:56
+ 70221   UDINE viale Ledra 98 (Area 1) 07:35
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:13 07:16 07:23 07:37 08:48 15:01
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:14 07:17 07:24 07:38 08:49 15:02
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:15 07:17 07:24 07:39 08:51 15:03
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:19 07:25 07:26 07:43 08:55 15:05
+ 70215   UDINE via Renati 20 (Area 1) 07:31
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:33
+ 70221   UDINE viale Ledra 98 (Area 1) 07:35
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U300 Scolastica
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 14]
+LINEA 365 (Andata)
+Orario valido dal 24 novembre 2025UDINE-BRESSA-VILLAORBA-CODROIPO 
+9 1 3 15 21 5 7 13 11
+U300 U240 U300 U389 U135 U200 U306 U307 U200
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:15 07:40 07:50 07:50 07:50 11:45 13:20 13:20 17:00
+ 70C31   UDINE piazzale 26 Luglio 25 07:19 07:45 07:55 07:55 07:55 11:50 17:05
+ 70219   UDINE via Caccia 44 (Area 2) 13:27 13:27
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 13:28 13:28
+ 70C49   UDINE viale Ledra 108 (Area 2) 13:30 13:30
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 13:32 13:32
+ 70C86   Udine viale Venezia 401 07:21 07:47 07:57 07:57 07:57 11:52 13:35 13:35 17:07
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 07:23 07:48 08:00 08:00 08:00 11:54 13:37 13:37 17:11
+ 40116   AEROPORTO CAMPOFORMIDO via 
+Campoformido 138 (dir. Codroipo)
+07:26 13:40 13:40
+ 40114   CAMPOFORMIDO via Principe di Udine (fr. 56, 
+monumento PAN)
+07:28 13:42 13:42
+ 40101   CAMPOFORMIDO largo Municipio 9 07:29 13:44 13:44
+ 40308   ORGNANO Strada Statale 13 (bivio, direzione  
+Codroipo)
+07:31
+ 40219   PASIAN DI PRATO via cristoforo Colombo 172, 
+Santa Caterina
+07:50 08:02 08:02 08:02 11:56 17:13
+ 40112   BRESSA via 11 Febbraio 47 07:53 08:05 08:05 08:05 11:59 17:16
+ 40121   BRESSA via 11 Febbraio 13 (parcheggio) 07:54 08:05 08:05 08:05 12:00 13:48 13:48 17:18
+ 40315   VARIANO via Trieste 104 (direzione Basiliano) 07:56 08:07 08:08 08:08 12:03 13:50 13:50 17:20
+ 40309   VARIANO piazza Patriarcato 12 (direzione 
+Basiliano)
+07:58 08:09 08:10 08:10 12:04 13:53 13:53 17:21
+ 40340   BASILIANO via Battisti 71 (direzione centro) 07:59 08:10 08:11 08:11 12:06 13:54 13:54 17:23
+ 40326   BASILIANO piazza municipio (lato chiesa) 07:36 08:00 08:11 08:12 08:12 12:07 13:55 13:55 17:23
+ 40317   BASILIANO via 3 Novembre 56 (bivio, 
+provenienza Basiliano)
+07:37 08:01 08:12 08:13 08:13 12:08 13:57 13:57 17:24
+ 40321   BASAGLIAPENTA SP 101 (Nucleo Casello, 
+direzione  SS 13)
+07:41 08:04 08:17 08:17
+ 40311   VILLAORBA piazza della Chiesa 26 (direzione 
+Tomba)
+08:15 12:10 14:00 14:00 17:30
+ 40303   BASAGLIAPENTA piazza San Valentino 
+(direzione Codroipo)
+07:42 08:06 08:18 08:18
+ 40819   RIVOLTO Strada Comunale Forte di Beano 
+(Frecce Tricolori)
+07:46 08:09 08:21 08:21
+ 40843   BEANO piazza Fontane 40 (centro, direzione 
+Sedegliano)
+07:49 08:11 08:19 08:21 08:21 12:14 14:05 14:05 17:30
+ 40836   GORICIZZA via Selva 13 08:16 08:24 08:26 08:26 12:19 14:10 14:10 17:34
+ 40815   GORICIZZA via Sedegliano 76 (direzione 
+Gradisca)
+08:17 08:25 08:27 08:27 12:20 14:10 14:10 17:35
+ 40826   POZZO DI CODROIPO via San Rocco 08:19 08:26 08:29 08:29 12:22 14:12 14:12 17:36
+ 40842   GORICIZZA via Sedegliano (direzione Codroipo) 08:20 08:27 08:29 08:29 12:22 14:13 14:13 17:37
+ 40806   GORICIZZA via Stazione 38 08:21 08:29 08:30 08:30 12:23 14:14 14:14 17:39
+ 40820   CODROIPO via Paglieri 15 (caserme, direzione 
+SR 13)
+08:21 08:29 08:31 08:31 12:24 14:15 14:15 17:39
+ 40803   CODROIPO via Circonvallazione Sud 27 (centro 
+studi)
+08:01
+ 40802   CODROIPO via Cesare Battisti (autostazione) 08:07 08:27 08:35 08:37 08:37 12:32 14:20 14:20 17:47
+CADENZA
+CORSA
+9 1 3 15 21 5 7 13 11
+ 70101   UDINE viale Europa Unita 37 (autostazione) 7 5 5 5 5 5 4 4 3
+BANCHINE
+VALIDITÀ
+U200 Feriale U240 Feriale estiva (fne scuole-inizio scuole)
+U306 Scolastica solo al sabato U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U300 Scolastica U307 Scolastica escluso il sabato
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 15]
+LINEA 365 (Ritorno)
+Orario valido dal 24 novembre 2025CODROIPO-VILLAORBA-BRESSA-UDINE 
+2 4 24 28 802 6 16 8 18 10 26 22 12 14
+U389 U028 U306 U307 U300 U248 U135 U250 U300 U250 U300 U250 U306 U307
+ 40803   CODROIPO via Circonvallazione Sud 27 
+(centro studi)
+13:25 17:00 17:00
+ 40802   CODROIPO via Cesare Battisti (autostazione) 06:45 06:45 06:47 06:47 06:53 08:50 08:50 12:35 12:35 13:30 13:30 17:00 17:05 17:05
+ 40823   CODROIPO viale Duodo 20 (Coop) 06:59
+ 40849   CODROIPO viale Duodo 82 (ospedale, direzione 
+Zompicchia)
+07:00
+ 40818   ZOMPICCHIA DI CODROIPO piazza Aquileia 
+(dir. Basagliapenta)
+07:01
+ 40845   RIVOLTO SS 13 (civico 65, Frecce Tricolori 
+direzione Udine)
+07:05
+ 40852   CODROIPO via Paglieri 4 (caserme, direzione 
+Goricizza)
+06:50 06:50 06:53 06:53 08:56 08:56 12:41 12:41 13:36 13:35
+ 40830   GORICIZZA via Stazione 39 06:51 06:51 06:53 06:53 08:56 08:56 12:41 12:41 13:36 13:36
+ 40815   GORICIZZA via Sedegliano 76 (direzione 
+Gradisca)
+06:52 06:52 06:55 06:55 08:57 08:57 12:42 12:42 13:37 13:37
+ 40826   POZZO DI CODROIPO via San Rocco 06:53 06:53 06:56 06:56 08:58 08:58 12:43 12:43 13:38 13:38
+ 40842   GORICIZZA via Sedegliano (direzione Codroipo) 06:53 06:53 06:56 06:56 08:59 08:59 12:44 12:44 13:39 13:39
+ 40835   GORICIZZA via Selva 12 06:54 06:54 06:58 06:58 09:00 09:00 12:44 12:44 13:40 13:40
+ 40805   BEANO piazza Fontane (centro, direzione 
+Villaorba)
+06:58 06:58 07:02 07:02 09:03 09:03 12:49 12:49 13:45 13:45 17:10 17:15 17:15
+ 40332   VILLAORBA piazza della Chiesa 17 (direz. Strada 
+Statale 13)
+07:02 07:02 07:07 07:07 09:07 09:07 12:52 12:52 13:49 13:50 17:14 17:18 17:18
+ 40321   BASAGLIAPENTA SP 101 (Nucleo Casello, 
+direzione  SS 13)
+17:16 17:20 17:20
+ 40329   BASAGLIAPENTA piazza San Valentino 
+(direzione Udine)
+07:09 17:17 17:21 17:21
+ 40310   ORGNANO Strada Statale 13 (bivio, direzione  
+Udine)
+07:13
+ 40328   BASILIANO via Fabio Asquini (bivio, 
+provenienza Villaorba)
+07:05 07:05 07:10 07:10 09:09 09:09 12:54 12:54 13:51 13:52
+ 40301   BASILIANO piazza Municipio 2 (lato 
+municipio)
+07:06 07:06 07:11 07:11 09:10 09:10 12:55 12:55 13:52 13:53 17:23 17:28 17:28
+ 40316   BASILIANO via Battisti 56 (direzione Variano) 07:07 07:07 07:12 07:12 09:11 09:11 12:56 12:56 13:53 13:55 17:25 17:29 17:29
+ 40338   VARIANO piazza Patriarcato 14 (direzione 
+Bressa)
+07:08 07:08 07:14 07:14 09:14 09:14 12:57 12:57 13:54 13:57 17:26 17:31 17:31
+ 40339   VARIANO via Trieste 137 (direzione Bressa) 07:10 07:10 07:16 07:16 09:15 09:15 12:58 12:58 13:55 13:58 17:27 17:32 17:32
+ 40113   BRESSA via Basiliano (angolo via 4 Novembre) 13:00 13:00
+ 40103   BRESSA via 11 Febbraio 14 (parcheggio) 07:13 07:13 07:19 07:19 09:18 09:18 13:58 14:01 17:31 17:36 17:36
+ 40109   BRESSA via 11 Febbraio 58 07:14 07:14 07:20 07:20 09:19 09:19 13:58 14:01 17:31 17:36 17:36
+ 40209   PASIAN DI PRATO via Cristoforo Colombo 139, 
+Santa Caterina
+07:17 07:17 07:23 07:23 09:22 09:22 14:02 14:04 17:34 17:39 17:39
+ 40117   CAMPOFORMIDO largo municipio 20 
+8direzione Udine)
+07:16 13:03 13:03
+ 40120   CAMPOFORMIDO via Principe di Udine 56 
+(Monum.PAN, dir.Udine)
+07:17 13:04 13:04
+ 40104   AEROPORTO CAMPOFORMIDO via 
+Campoformido (fr.138, dir.Udine)
+07:19 13:06 13:06
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 07:21 07:21 07:26 07:26 07:21 09:26 09:26 13:08 13:08 14:04 14:07 17:36 17:43 17:43
+ 70191   UDINE viale Monsignor Nogara (fronte 
+Stringher)
+07:31 07:31 07:25
+ 70229   UDINE piazzale Rita Levi Montalcini 
+(Terminal Studenti)
+07:33 07:33 07:27
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:46 07:46 07:37
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 07:50 07:50 07:40
+ 70C85   Udine viale Venezia 410 07:22 07:22 09:27 09:27 13:09 13:09 14:07 14:08 17:39 17:45 17:45
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:26 07:26 09:32 09:32 13:13 13:13 14:11 14:12 17:43 17:51 17:51
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:27 07:27 09:34 09:34 13:15 13:15 14:12 14:12 17:44 17:52 17:52
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:29 07:29 09:35 09:35 13:17 13:17 14:13 14:13 17:45 17:53 17:53
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:30 07:30 07:57 07:54 07:48 09:36 09:36 13:19 13:19 14:15 14:15 17:48 17:55 17:55
+CADENZA
+CORSA
+VALIDITÀ
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U306 Scolastica solo al sabato
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U248 Feriale esc. sabato non scolastico del periodo sco lastico
+U300 Scolastica U307 Scolastica escluso il sabato
+U028 Feriale estiva e sabato non scolastico del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 16]
+LINEA 370 (Andata)
+Orario valido dal 24 novembre 2025UDINE-CODROIPO-SAN VITO-PORTOGRUARO 
+7 31 19 9 801 1 11 27 5 13 21 17 29 15
+U230 U240 U200 U200 U300 U300 U230 U240 U312 U230 U200 U200 U307 U259
+ 70101   UDINE viale Europa Unita 37 (autostazione) 10:30 10:30 11:20 12:15 13:10 15:00 15:00 17:00 17:30 18:15 19:40 19:40
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 18:18
+ 70C31   UDINE piazzale 26 Luglio 25 10:35 10:35 11:26 12:21 15:04 15:07 17:06 17:36 18:21 19:44 19:47
+ 70C22   UDINE viale Cadore 48 (Bertoni) 13:20
+ 70204   UDINE viale Cadore (lato Malignani) 13:21
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 13:22
+ 70C47   UDINE via Caccia 60 (Area 3) 13:17
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 13:18
+ 70223   UDINE viale Ledra 120 (Area 3, piazzale 
+Cavedalis)
+13:23 13:21
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 13:24 13:23
+ 70C86   Udine viale Venezia 401 10:38 10:38 11:27 12:23 13:28 13:26 15:06 15:09 17:08 17:37 18:23 19:47 19:50
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 10:39 10:39 11:31 12:24 13:29 13:28 15:08 15:11 17:11 17:41 18:25 19:48 19:51
+ 40116   AEROPORTO CAMPOFORMIDO via 
+Campoformido 138 (dir. Codroipo)
+10:42 10:42 11:33 12:27 13:32 13:32 15:10 15:13 17:14 17:43 18:28 19:50 19:53
+ 40114   CAMPOFORMIDO via Principe di Udine (fr. 56, 
+monumento PAN)
+10:43 10:43 11:36 12:28 13:34 13:33 15:12 15:15 17:16 17:46 18:30 19:52 19:55
+ 40101   CAMPOFORMIDO largo Municipio 9 10:45 10:45 11:37 12:30 13:35 13:35 15:13 15:16 17:18 17:47 18:32 19:53 19:56
+ 40308   ORGNANO Strada Statale 13 (bivio, direzione  
+Codroipo)
+10:47 10:47 11:39 12:32 13:38 13:38 15:15 15:18 17:20 17:49 18:34 19:55 19:58
+ 40303   BASAGLIAPENTA piazza San Valentino 
+(direzione Codroipo)
+10:52 10:52 11:44 12:37 13:43 13:44 15:20 15:23 17:25 17:54 18:39 20:00 20:03
+ 40804   RIVOLTO SS 13 (civico 63, Frecce Tricolori direz. 
+Codroipo)
+10:55 10:55 11:47 12:40 13:46 13:47 15:24 15:27 17:28 17:57 18:42 20:02 20:05
+ 40846   ZOMPICCHIA DI CODROIPO piazza Aquileia 1 
+(direz. Codroipo)
+10:59 10:59 11:52 12:44 13:51 13:51 15:28 15:31 16:50 17:32 18:02 18:46 20:06 20:09
+ 40825   CODROIPO viale Duodo (ospedale, direzione 
+centro)
+11:00 11:00 11:53 12:45 13:52 13:52 15:29 15:32 16:52 17:34 18:03 18:47 20:07 20:10
+ 40850   CODROIPO viale Duodo 55 (Coop) 11:01 11:01 11:53 12:47 13:54 13:55 15:30 15:33 16:53 17:36 18:03 18:48 20:09 20:12
+ 40803   CODROIPO via Circonvallazione Sud 27 (centro 
+studi)
+16:54
+ 40802   CODROIPO via Cesare Battisti (autostazione) 11:06 11:06 12:01 12:53 14:01 14:02 15:35 15:38 17:00 17:41 18:11 18:53 20:15 20:18
+ P4809   PONTE DELLA DELIZIA via Pontebbana 
+(dir.Pordenone)
+12:10 14:09 18:20
+ P4102   SAN VITO AL TAGL.via Patriarcato (fr.ospedale) 12:20 14:18 18:30
+ P4101   SAN VITO AL TAGL.via Stazione 
+(autostazione)
+12:21 14:24 18:31
+ P4127   SAN VITO AL TAGL.via Patriarcato (ospedale) 12:23 18:33
+ P4141   GLERIS via Provinciale 2 (fr.chiesa) 12:27 18:37
+ P4345   RAMUSCELLO via Nievo 20 (fr.chiesa) 12:29 18:39
+ P1811   CORDOVADO piazza Cecchini (fr.distributore) 12:32 18:42
+ P1891   CORDOVADO via Battaglione Gemona 90 (bar) 12:32 18:42
+ V4004   CINTELLO via Garibaldi (fr.24 dir.Portogruaro) 12:35 18:45
+ 75109   PORTOGRUARO viale Udine 11 (incrocio, 
+direzione Portogruaro)
+12:36 18:46
+ V2901   PORTOGRUARO via Diaz 16 (autostazione) 12:45 18:55
+CADENZA
+CORSA
+7 31 19 9 801 1 11 27 5 13 21 17 29 15
+ 70101   UDINE viale Europa Unita 37 (autostazione) 5 5 5 7 14 5 5 6 5 5 5 5
+BANCHINE
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U240 Feriale estiva (fne scuole-inizio scuole) U312 Scolastica al martedi e al giovedi
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 17]
+LINEA 370 (Ritorno)
+Orario valido dal 24 novembre 2025PORTOGRUARO - SAN VITO - CODROIPO - UDINE 
+14 16 22 2 8 34 24 12 18 4 10 26 20 36
+U300 U240 U300 U300 U251 U240 U250 U250 U200 U200 U312 U200 U393 U307
+ V2901   PORTOGRUARO via Diaz 16 (autostazione) 06:00 06:15 13:10
+ V2902   PORTOGRUARO via Daniele Manin 14 06:03 06:18 13:13
+ V2903   PORTOGRUARO viale Isonzo 48 (bar) 06:08 06:23 13:18
+ 75104   PORTOGRUARO viale Udine 2 (bivio via Gervino, 
+dir. Cintello)
+06:11 06:26 13:21
+ 74901   CINTELLO via Garibaldi 28 (chiesa) 06:12 06:27 13:22
+ P1801   CORDOVADO via Battaglione Gemona 53 (bar) 06:15 06:30 13:25
+ P1805   CORDOVADO piazza Cecchini (distributore) 06:16 06:31 13:26
+ P4333   RAMUSCELLO via Nievo (fr.civico 4 chiesa) 06:21 06:36 13:30
+ P4116   GLERIS via Provinciale 27 (lato chiesa) 06:40 13:33
+ P4107   SAN VITO AL TAGL.via Oberdan 65 (caserma) 06:43
+ P4106   SAN VITO AL TAGL.via Francesco D'Assisi 06:43
+ P4102   SAN VITO AL TAGL.via Patriarcato (fr.ospedale) 06:35 06:50 13:38
+ P4101   SAN VITO AL TAGL.via Stazione 
+(autostazione)
+06:36 06:51 13:39
+ P4127   SAN VITO AL TAGL.via Patriarcato (ospedale) 06:37 06:52 13:40
+ P4810   PONTE DELLA DELIZIA via Pontebbana 
+(dir.Udine)
+06:47 07:02 13:51
+ 40802   CODROIPO via Cesare Battisti (autostazione) 06:53 07:00 07:00 07:07 07:15 07:15 07:20 07:25 08:15 09:48 14:00 14:41 14:41
+ 40831   CODROIPO via Circonvallazione Sud 92 (campo 
+sportivo)
+12:39
+ 40823   CODROIPO viale Duodo 20 (Coop) 06:58 07:06 07:03 07:13 07:21 07:21 07:23 07:31 08:20 09:54 14:03 14:45 14:45
+ 40849   CODROIPO viale Duodo 82 (ospedale, direzione 
+Zompicchia)
+07:00 07:06 07:03 07:14 07:21 07:21 07:23 07:31 08:21 09:55 14:03 14:46 14:46
+ 40818   ZOMPICCHIA DI CODROIPO piazza Aquileia 
+(dir. Basagliapenta)
+07:01 07:07 07:04 07:15 07:22 07:22 07:24 07:32 08:22 09:55 12:45 14:04 14:47 14:47
+ 40845   RIVOLTO SS 13 (civico 65, Frecce Tricolori 
+direzione Udine)
+07:04 07:11 07:07 07:18 07:26 07:26 07:27 07:35 08:25 09:59 14:07 14:51 14:51
+ 40329   BASAGLIAPENTA piazza San Valentino 
+(direzione Udine)
+07:08 07:14 07:10 07:21 07:28 07:28 07:30 07:38 08:27 10:02 14:10 14:53 14:53
+ 40310   ORGNANO Strada Statale 13 (bivio, direzione  
+Udine)
+07:12 07:18 07:13 07:26 07:33 07:33 07:33 07:43 08:31 10:07 14:13 14:58 14:58
+ 40117   CAMPOFORMIDO largo municipio 20 
+8direzione Udine)
+07:15 07:21 07:15 07:29 07:35 07:35 07:35 07:45 08:33 10:09 14:15 15:00 15:00
+ 40120   CAMPOFORMIDO via Principe di Udine 56 
+(Monum.PAN, dir.Udine)
+07:16 07:21 07:16 07:30 07:36 07:36 07:36 07:46 08:34 10:10 14:16 15:01 15:01
+ 40104   AEROPORTO CAMPOFORMIDO via 
+Campoformido (fr.138, dir.Udine)
+07:17 07:23 07:17 07:31 07:37 07:37 07:37 07:47 08:36 10:12 14:17 15:02 15:02
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 07:19 07:25 07:20 07:36 07:40 07:40 07:40 07:50 08:42 10:14 14:20 15:05 15:05
+ 70C85   Udine viale Venezia 410 07:21 07:27 07:41 07:41 07:41 07:51 08:45 10:16 14:21 15:06 15:06
+ 70191   UDINE viale Monsignor Nogara (fronte 
+Stringher)
+07:24 07:42
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:26 07:44
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:45
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:45
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 07:50
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:25 07:30 07:44 07:44 07:45 07:55 08:50 10:20 14:25 15:10 15:10
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:27 07:32 07:46 07:45 07:45 07:47 07:56 08:51 10:21 14:27 15:10 15:10
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:28 07:32 07:47 07:47 07:47 07:49 07:56 08:53 10:22 14:29 15:11 15:11
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:33 07:36 07:53 07:55 07:58 07:58 07:50 08:03 08:55 10:26 14:30 15:14 15:14
+CADENZA
+CORSA
+14 16 22 2 8 34 24 12 18 4 10 26 20 36
+ P4101   SAN VITO AL TAGL.via Stazione (autostazione) 02 02 02
+BANCHINE
+martedì 18 novembre 2025Pagina 1 di 3
+  [Pagina 18]
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U312 Scolastica al martedi e al giovedi
+U393 Feriale giorni non scolastici del periodo scolasti co e al sabato 
+scolastico
+U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+martedì 18 novembre 2025Pagina 2 di 3
+  [Pagina 19]
+LINEA 370 (Ritorno)
+Orario valido dal 24 novembre 2025PORTOGRUARO - SAN VITO - CODROIPO - UDINE 
+6
+U300
+ P4101   SAN VITO AL TAGL.via Stazione 
+(autostazione)
+14:24
+ P4127   SAN VITO AL TAGL.via Patriarcato (ospedale) 14:26
+ P4810   PONTE DELLA DELIZIA via Pontebbana 
+(dir.Udine)
+14:35
+ 40802   CODROIPO via Cesare Battisti (autostazione) 14:42
+CADENZA
+CORSA
+6
+ P4101   SAN VITO AL TAGL.via Stazione (autostazione) 05
+BANCHINE
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U312 Scolastica al martedi e al giovedi
+U393 Feriale giorni non scolastici del periodo scolasti co e al sabato 
+scolastico
+U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+martedì 18 novembre 2025Pagina 3 di 3
+  [Pagina 20]
+LINEA 371 (Andata)
+Orario valido dal 24 novembre 2025UDINE-BASAGLIAPENTA-NESPOLEDO-BERTIOLO-CODROIPO 
+1 3 9 7
+U250 U300 U300 U250
+ 70101   UDINE viale Europa Unita 37 (autostazione) 11:45 11:45 13:20 13:25
+ 70C31   UDINE piazzale 26 Luglio 25 11:50 11:50 13:30
+ 70218   UDINE via Caccia 20 (Area 1, piazzale 
+Osoppo)
+13:28
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 13:28
+ 70221   UDINE viale Ledra 98 (Area 1) 13:31
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 13:32
+ 70C86   Udine viale Venezia 401 11:52 11:52 13:35 13:32
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 11:54 11:54 13:37 13:33
+ 40116   AEROPORTO CAMPOFORMIDO via 
+Campoformido 138 (dir. Codroipo)
+11:56 11:56 13:40 13:35
+ 40114   CAMPOFORMIDO via Principe di Udine (fr. 56, 
+monumento PAN)
+11:58 11:58 13:42 13:37
+ 40101   CAMPOFORMIDO largo Municipio 9 11:59 11:59 13:43 13:38
+ 40308   ORGNANO Strada Statale 13 (bivio, direzione  
+Codroipo)
+12:02 12:02 13:45 13:40
+ 40314   BASAGLIAPENTA via Giuseppe Garibaldi 4 12:06 12:06 13:51 13:44
+ 40412   NESPOLEDO via Giuseppe Garibaldi (incr. via 
+Vittorio Veneto)
+12:08 12:08 13:53 13:47
+ 40421   NESPOLEDO piazza Verdi 9 (direzione 
+Codroipo)
+13:55 13:49
+ 40413   NESPOLEDO via Vittorio Veneto 70 (direzione 
+Villacaccia)
+12:09 12:09 13:57 13:50
+ 40411   VILLACACCIA via Pozzecco (bivio) 12:10 12:10
+ 40537   POZZECCO via A. Manzoni 42 (bivio monumento, 
+dir.Bertiolo)
+12:12 12:12
+ 40515   BERTIOLO viale Rimembranze (direzione centro) 12:17 12:17
+ 40501   BERTIOLO via Trieste 11 (centro, direzione 
+Codroipo)
+12:17 12:17
+ 40509   BERTIOLO via Madonna 42 (Cantine, direzione 
+Lonca)
+12:18 12:18
+ 40839   LONCA via del Santuario 63 (direzione  
+Codroipo)
+12:20 12:20
+ 40812   PASSARIANO via Rivolto 8 (direzione Rivolto) 12:21 12:21
+ 40409   VILLACACCIA via Nespoledo 7 (direzione 
+Bertiolo)
+13:58 13:51
+ 40816   RIVOLTO piazza delle Scuole (rotonda, 
+direzione Codroipo)
+14:03 13:56
+ 40844   RIVOLTO piazza delle Scuole 7 (rotonda, 
+direz. Villacaccia)
+12:22 12:22
+ 40824   CODROIPO via Francesco Ostermann 41 (Al 
+Fogolar)
+14:07 14:00
+ 40851   CODROIPO via Francesco Ostermann (Coop) 14:08 14:01
+ 40803   CODROIPO via Circonvallazione Sud 27 (centro 
+studi)
+12:28 12:28
+ 40802   CODROIPO via Cesare Battisti (autostazione) 12:34 12:34 14:13 14:06
+CADENZA
+CORSA
+1 3 9 7
+ 70101   UDINE viale Europa Unita 37 (autostazione) 6 6 1
+BANCHINE
+VALIDITÀ
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U300 Scolastica
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 21]
+LINEA 371 (Ritorno)
+Orario valido dal 24 novembre 2025CODROIPO-BERTIOLO-NESPOLEDO-BASAGLIAPENTA-UDINE 
+802 804 16 2 18 14 12 4 8 10 6
+U306 U307 U300 U251 U240 U251 U249 U240 U300 U251 U200
+ 40802   CODROIPO via Cesare Battisti (autostazione) 06:35 06:35 06:47 07:00 07:05 07:55 07:58 13:20 13:20 13:20 15:05
+ 40828   CODROIPO via Francesco Osternamm 40 
+(Coop)
+06:40 06:40 06:52 07:06 07:11 08:00 08:03 13:26 13:26 13:26 15:10
+ 40847   CODROIPO via Francesco Ostermann 80 (Al 
+Fogolar)
+06:41 06:41 06:53 07:07 07:12 08:01 08:04 13:26 13:26 13:26 15:11
+ 40816   RIVOLTO piazza delle Scuole (rotonda, 
+direzione Codroipo)
+06:44 06:44 06:56 07:10 07:14 08:05 08:08 13:29 13:29 13:29 15:14
+ 40840   PASSARIANO via Rivolto 5 (lato Villa Manin) 06:44 06:44 06:57 07:10 07:15 08:05 08:08 13:30 13:30 13:30 15:14
+ 40810   LONCA via del Santuario 44 (direzione Bertiolo) 06:46 06:46 06:59 07:12 07:16 08:07 08:10 13:31 13:31 13:31 15:16
+ 40514   BERTIOLO via Madonna 15 (Cantine, direzione 
+centro)
+06:48 06:48 07:01 07:13 07:18 08:08 08:11 13:32 13:32 13:32 15:17
+ 40535   BERTIOLO via Roma 1 (centro, direzione Virco) 06:49 06:49 07:02 07:15 07:19 08:09 08:12 13:34 13:34 13:34 15:18
+ 40506   BERTIOLO viale Rimembranze 4 8direzione 
+Virco)
+06:49 06:49 07:03 07:15 07:20 08:10 08:13 13:34 13:34 13:34 15:18
+ 40424   VILLACACCIA via Nespoledo 2 (direzione 
+Nespoledo)
+06:53 06:53 07:07 07:19 07:24 08:14 08:17 13:37 13:37 13:37 15:22
+ 40425   NESPOLEDO via Vittorio Veneto 85 (direzione 
+centro)
+06:54 06:54 07:08 07:20 07:24 08:14 08:17 13:38 13:38 13:38 15:22
+ 40405   NESPOLEDO piazza Verdi 5 (direzione 
+Campoformido)
+06:55 06:55 07:11 07:21 07:26 08:16 08:19 13:39 13:39 13:39 15:24
+ 40329   BASAGLIAPENTA piazza San Valentino 
+(direzione Udine)
+13:44 13:44 13:44
+ 40310   ORGNANO Strada Statale 13 (bivio, direzione  
+Udine)
+07:01 07:01 07:27 07:31 08:21 08:24 13:50 13:50 13:50 15:30
+ 40117   CAMPOFORMIDO largo municipio 20 8direzione 
+Udine)
+07:29 07:34 08:24 08:27 13:52 13:52 13:52 15:32
+ 40120   CAMPOFORMIDO via Principe di Udine 56 
+(Monum.PAN, dir.Udine)
+07:30 07:34 08:25 08:28 13:53 13:53 13:53 15:33
+ 40104   AEROPORTO CAMPOFORMIDO via 
+Campoformido (fr.138, dir.Udine)
+07:31 07:36 08:26 08:29 13:55 13:55 13:55 15:34
+ 40316   BASILIANO via Battisti 56 (direzione Variano) 07:17
+ 40103   BRESSA via 11 Febbraio 14 (parcheggio) 07:10 07:10 07:21
+ 40109   BRESSA via 11 Febbraio 58 07:11 07:11 07:22
+ 40209   PASIAN DI PRATO via Cristoforo Colombo 139, 
+Santa Caterina
+07:13 07:13 07:25
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 07:13 07:13 07:30 07:34 07:39 08:33 08:36 13:58 13:58 13:58 15:37
+ 70191   UDINE viale Monsignor Nogara (fronte 
+Stringher)
+07:17 07:17
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:20 07:20
+ 70C85   Udine viale Venezia 410 07:31 07:35 07:40 08:35 08:38 13:59 13:59 13:59 15:40
+ 70C49   UDINE viale Ledra 108 (Area 2) 07:23 07:23
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:24 07:24
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:26 07:26 07:36 07:39 07:45 08:39 08:42 14:03 14:03 14:03 15:43
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:26 07:26 07:38 07:40 07:46 08:40 08:43 14:04 14:04 14:04 15:45
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:27 07:27 07:41 07:40 07:48 08:42 08:45 14:05 14:05 14:05 15:46
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:28 07:28 07:44 07:49 07:49 08:44 08:47 14:08 14:08 14:08 15:48
+ 70216   UDINE via Renati 28 (Area 2) 07:53
+ 70219   UDINE via Caccia 44 (Area 2) 07:56
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:57
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+08:04
+ 70C83   UDINE via Muris (fronte Stringher) 08:05
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U249 Feriale escluso giorni non scolastici del periodo scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 22]
+LINEA 372 (Andata)
+Orario valido dal 24 novembre 2025UDINE-GALLERIANO-POZZECCO-BERTIOLO-CODROIPO 
+1 3 5 17 25 9 29 27 15 19 23 33 11 21
+U240 U230 U307 U250 U306 U280 U135 U306 U240 U250 U306 U307 U393 U019
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:35 07:58 12:30 12:30 12:30 13:20 13:20 13:35 17:10 17:10 17:10 18:00 18:00
+ 70218   UDINE via Caccia 20 (Area 1, piazzale Osoppo) 13:26 13:26
+ 70221   UDINE viale Ledra 98 (Area 1) 13:29 13:29
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 13:31 13:31
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 07:38 08:01 12:33 12:33 12:33 13:38 18:03 18:03
+ 70C31   UDINE piazzale 26 Luglio 25 07:40 08:03 12:36 12:35 12:36 13:40 17:15 17:15 17:15 18:05 18:05
+ 70C86   Udine viale Venezia 401 07:42 08:05 12:38 12:37 12:38 13:34 13:34 13:42 17:17 17:17 17:17 18:07 18:07
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 07:44 08:07 12:40 12:39 12:40 13:37 13:37 13:43 17:19 17:19 17:19 18:10 18:10
+ 40116   AEROPORTO CAMPOFORMIDO via 
+Campoformido 138 (dir. Codroipo)
+07:46 08:10 12:42 12:41 12:42 13:40 13:40 13:46 17:23 17:23 17:23 18:13 18:13
+ 40114   CAMPOFORMIDO via Principe di Udine (fr. 56, 
+monumento PAN)
+07:48 08:12 12:44 12:43 12:44 13:42 13:42 13:48 17:24 17:24 17:24 18:14 18:14
+ 40101   CAMPOFORMIDO largo Municipio 9 07:48 08:13 12:45 12:44 12:45 13:42 13:42 13:49 17:26 17:26 17:26 18:16 18:16
+ 40325   ORGNANO via Vittorio Veneto 99 (direzione 
+Orgnano)
+07:51 08:16 12:47 12:46 12:47 13:44 13:44 13:51 17:28 17:28 17:28 18:18 18:18
+ 40307   ORGNANO via Vittorio Veneto 9 (chiesa, 
+direzione Sclaunicco)
+07:52 08:17 12:49 12:47 12:49 13:46 13:46 13:53 17:30 17:30 17:30 18:20 18:20
+ 40423   SCLAUNICCO via S.Giovanni Bosco 6 (bar, 
+direzione chiesa)
+07:56 08:22 12:54 12:52 12:54 13:51 13:51 13:57 17:35 17:35 17:35 18:25 18:25
+ 40416   SCLAUNICCO via Montenero (direzione 
+Galleriano),  Cereal Tav
+07:57 08:23 12:55 12:53 12:55 13:52 13:52 13:57 17:35 17:35 17:35 18:25 18:25
+ 40415   GALLERIANO via Gorizia 51 (direzione centro) 07:58 08:24 12:56 12:55 12:56 13:54 13:54 13:59 17:36 17:36 17:36 18:27 18:27
+ 40402   GALLERIANO piazza San Martino 19 07:59 08:25 12:57 12:55 12:57 13:54 13:54 14:00 17:37 17:37 17:37 18:28 18:28
+ 40421   NESPOLEDO piazza Verdi 9 (direzione Codroipo) 08:03 08:29 17:41 17:41 17:41 18:32 18:32
+ 40413   NESPOLEDO via Vittorio Veneto 70 (direzione 
+Villacaccia)
+08:05 08:31 17:43 17:43 17:43 18:34 18:34
+ 40411   VILLACACCIA via Pozzecco (bivio) 08:05 08:31 17:44 17:44 17:44 18:35 18:35
+ 40538   POZZECCO via Alessandro Manzoni 2 
+(centro, dir. Monumento)
+13:01 12:59 13:01 13:58 13:58 14:03
+ 40510   POZZECCO via Alessandro Manzoni 15 
+(centro, dir. Galleriano)
+08:08 18:38 18:38
+ 40538   POZZECCO via Alessandro Manzoni 2 (centro, 
+dir. Monumento)
+08:09 08:35 18:39 18:39
+ 40537   POZZECCO via A. Manzoni 42 (bivio monumento, 
+dir.Bertiolo)
+08:09 08:35 13:01 12:59 13:01 13:58 13:58 14:04 17:46 17:46 17:46 18:39 18:39
+ 40512   VIRCO piazza delle Scuole 1 (Ex bar, 
+direzione Bertiolo)
+08:13 08:39 13:05 13:03 13:05 14:03 14:03 14:07 18:43 18:43
+ 40508   VIRCO via Bertiolo 10 (direzione Bertiolo) 08:13 08:39 13:05 13:03 13:05 14:03 14:03 14:07 18:44 18:44
+ 40515   BERTIOLO viale Rimembranze (direzione centro) 08:15 08:41 13:07 13:05 13:07 14:04 14:04 14:08 17:51 17:51 17:51 18:45 18:45
+ 40501   BERTIOLO via Trieste 11 (centro, direzione 
+Codroipo)
+08:15 08:41 13:08 13:05 13:08 14:06 14:06 14:09 17:52 17:52 17:52 18:45 18:45
+ 40509   BERTIOLO via Madonna 42 (Cantine, direzione 
+Lonca)
+08:17 08:43 13:09 13:07 13:09 14:08 14:08 14:10 17:54 17:54 17:54 18:47 18:47
+ 40839   LONCA via del Santuario 63 (direzione  
+Codroipo)
+08:19 08:44 13:11 13:09 13:11 14:10 14:10 14:12 17:55 17:55 17:55 18:49 18:49
+ 40812   PASSARIANO via Rivolto 8 (direzione Rivolto) 08:20 08:46 13:12 13:10 13:12 14:11 14:11 14:13 17:57 17:57 17:57 18:50 18:50
+ 40844   RIVOLTO piazza delle Scuole 7 (rotonda, direz. 
+Villacaccia)
+08:21 08:47 13:13 13:11 13:13 14:12 14:12 14:14 17:57 17:57 17:57 18:51 18:51
+ 40824   CODROIPO via Francesco Ostermann 41 (Al 
+Fogolar)
+08:25 13:15 14:16 14:16 14:17 18:02 18:02 18:02 18:55 18:55
+ 40851   CODROIPO via Francesco Ostermann (Coop) 08:26 13:16 14:17 14:17 14:18 18:02 18:02 18:02 18:56 18:56
+ 40803   CODROIPO via Circonvallazione Sud 27 
+(centro studi)
+08:53 13:20 13:20
+ 40831   CODROIPO via Circonvallazione Sud 92 (campo 
+sportivo)
+13:25 13:20 13:25
+ 40802   CODROIPO via Cesare Battisti (autostazione) 08:33 08:59 13:30 13:23 14:21 14:21 13:30 14:28 18:09 18:09 18:09 19:02 19:02
+CADENZA
+CORSA
+1 3 5 17 25 9 29 27 15 19 23 33 11 21
+ 70101   UDINE viale Europa Unita 37 (autostazione) 6 6 6 6 6 3 3 2 6 6 6 6 6
+BANCHINE
+martedì 18 novembre 2025Pagina 1 di 3
+  [Pagina 23]
+VALIDITÀ
+U019 Feriale estiva e scolastica da lunedì a venerdì U280 Feriale invernale (periodo scolastico) escluso sab ati non scolastici
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U393 Feriale giorni non scolastici del periodo scolasti co e al sabato 
+scolastico
+U306 Scolastica solo al sabato
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+martedì 18 novembre 2025Pagina 2 di 3
+  [Pagina 24]
+LINEA 372 (Andata)
+Orario valido dal 24 novembre 2025UDINE-GALLERIANO-POZZECCO-BERTIOLO-CODROIPO 
+13 31
+U300 U250
+ 70101   UDINE viale Europa Unita 37 (autostazione) 19:15 19:15
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 19:18 19:18
+ 70C31   UDINE piazzale 26 Luglio 25 19:20 19:20
+ 70C86   Udine viale Venezia 401 19:22 19:22
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 19:24 19:24
+ 40116   AEROPORTO CAMPOFORMIDO via 
+Campoformido 138 (dir. Codroipo)
+19:26 19:26
+ 40114   CAMPOFORMIDO via Principe di Udine (fr. 56, 
+monumento PAN)
+19:28 19:28
+ 40101   CAMPOFORMIDO largo Municipio 9 19:29 19:29
+ 40325   ORGNANO via Vittorio Veneto 99 (direzione 
+Orgnano)
+19:31 19:31
+ 40307   ORGNANO via Vittorio Veneto 9 (chiesa, 
+direzione Sclaunicco)
+19:33 19:33
+ 40423   SCLAUNICCO via S.Giovanni Bosco 6 (bar, 
+direzione chiesa)
+19:38 19:38
+ 40416   SCLAUNICCO via Montenero (direzione 
+Galleriano),  Cereal Tav
+19:39 19:39
+ 40415   GALLERIANO via Gorizia 51 (direzione centro) 19:40 19:40
+ 40402   GALLERIANO piazza San Martino 19 19:41 19:41
+ 40421   NESPOLEDO piazza Verdi 9 (direzione Codroipo) 19:45 19:45
+ 40413   NESPOLEDO via Vittorio Veneto 70 (direzione 
+Villacaccia)
+19:46 19:46
+ 40411   VILLACACCIA via Pozzecco (bivio) 19:47 19:47
+ 40538   POZZECCO via Alessandro Manzoni 2 (centro, 
+dir. Monumento)
+19:50 19:50
+ 40537   POZZECCO via A. Manzoni 42 (bivio monumento, 
+dir.Bertiolo)
+19:51 19:51
+ 40512   VIRCO piazza delle Scuole 1 (Ex bar, 
+direzione Bertiolo)
+19:54 19:54
+ 40508   VIRCO via Bertiolo 10 (direzione Bertiolo) 19:55 19:55
+ 40515   BERTIOLO viale Rimembranze (direzione centro) 19:56 19:56
+ 40501   BERTIOLO via Trieste 11 (centro, direzione 
+Codroipo)
+19:56 19:56
+ 40509   BERTIOLO via Madonna 42 (Cantine, direzione 
+Lonca)
+19:58 19:58
+ 40839   LONCA via del Santuario 63 (direzione  
+Codroipo)
+20:00 20:00
+ 40812   PASSARIANO via Rivolto 8 (direzione Rivolto) 20:02 20:02
+ 40844   RIVOLTO piazza delle Scuole 7 (rotonda, direz. 
+Villacaccia)
+20:03 20:03
+ 40824   CODROIPO via Francesco Ostermann 41 (Al 
+Fogolar)
+20:07 20:07
+ 40851   CODROIPO via Francesco Ostermann (Coop) 20:08 20:08
+ 40802   CODROIPO via Cesare Battisti (autostazione) 20:14 20:14
+CADENZA
+CORSA
+13 31
+ 70101   UDINE viale Europa Unita 37 (autostazione) 6 6
+BANCHINE
+VALIDITÀ
+U019 Feriale estiva e scolastica da lunedì a venerdì U280 Feriale invernale (periodo scolastico) escluso sab ati non scolastici
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U393 Feriale giorni non scolastici del periodo scolasti co e al sabato 
+scolastico
+U306 Scolastica solo al sabato
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+martedì 18 novembre 2025Pagina 3 di 3
+  [Pagina 25]
+LINEA 372 (Ritorno)
+Orario valido dal 24 novembre 2025CODROIPO-BERTIOLO-POZZECCO-GALLERIANO-UDINE 
+24 2 4 6 16 8 10 14 18 12 20
+U300 U250 U200 U307 U306 U250 U300 U240 U251 U250 U300
+ 40802   CODROIPO via Cesare Battisti (autostazione) 06:30 06:35 09:00 13:31 13:31 13:35 17:05 17:05 17:05 18:30 18:30
+ 40828   CODROIPO via Francesco Osternamm 40 
+(Coop)
+06:36 06:41 09:06 13:36 13:36 13:41 17:11 17:11 17:11 18:33 18:33
+ 40847   CODROIPO via Francesco Ostermann 80 (Al 
+Fogolar)
+06:36 06:42 09:07 13:37 13:37 13:41 17:12 17:12 17:12 18:34 18:34
+ 40816   RIVOLTO piazza delle Scuole (rotonda, direzione 
+Codroipo)
+06:39 06:44 09:10 13:40 13:40 13:44 17:15 17:15 17:15 18:36 18:36
+ 40840   PASSARIANO via Rivolto 5 (lato Villa Manin) 06:40 06:45 09:11 13:41 13:41 13:45 17:16 17:16 17:16 18:37 18:37
+ 40810   LONCA via del Santuario 44 (direzione Bertiolo) 06:41 06:46 09:12 13:42 13:42 13:46 17:17 17:17 17:17 18:38 18:38
+ 40514   BERTIOLO via Madonna 15 (Cantine, direzione 
+centro)
+06:43 06:47 09:13 13:44 13:44 13:47 17:19 17:19 17:19 18:40 18:40
+ 40535   BERTIOLO via Roma 1 (centro, direzione 
+Virco)
+06:44 06:48 09:15 13:45 13:45 13:48 17:20 17:20 17:20 18:41 18:41
+ 40506   BERTIOLO viale Rimembranze 4 8direzione 
+Virco)
+06:45 06:49 09:16 13:46 13:46 13:49 17:20 17:20 17:20 18:42 18:42
+ 40513   VIRCO via Bertiolo 31 (direzione centro) 06:46 06:50 09:16 13:46 13:46 13:50 17:21 17:21 17:21 18:42 18:42
+ 40505   VIRCO piazza delle scuole 3 (Ex bar Al Toro) 06:47 06:51 09:17 13:47 13:47 13:50 17:22 17:22 17:22 18:43 18:43
+ 30603   FLAMBRO largo Brigata Julia 12 13:52
+ 40507   POZZECCO via A. Manzoni 39 (bivio 
+monumento, dir.Galleriano)
+06:50 06:54 09:20 13:51 13:51 13:56 17:25 17:25 17:25 18:46 18:46
+ 40510   POZZECCO via Alessandro Manzoni 15 
+(centro, dir. Galleriano)
+06:51 06:54 09:21 13:51 13:51 13:57 17:25 17:25 17:25 18:46 18:46
+ 40403   GALLERIANO piazza San Martino 4 06:55 06:58 09:24 13:55 13:55 14:01 17:29 17:29 17:29 18:49 18:49
+ 40427   GALLERIANO via Gorizia 56 (direzione 
+Sclaunicco)
+06:55 06:58 09:25 13:55 13:55 14:01 17:29 17:29 17:29 18:50 18:50
+ 40428   SCLAUNICCO via Montenero (Cereal Tavan, 
+direzione centro)
+06:57 07:00 09:26 13:57 13:57 14:03 17:31 17:31 17:31 18:51 18:51
+ 40407   SCLAUNICCO via S.Giovanni Bosco 7 (bar, 
+direzione Orgnano)
+06:57 07:01 09:27 13:58 13:58 14:04 17:32 17:32 17:32 18:52 18:52
+ 40337   ORGNANO via Podgora 4 (direzione Strada 
+Statale)
+07:02 07:05 09:31 14:03 14:03 14:09 17:35 17:35 17:35 18:56 18:56
+ 40344   ORGNANO via Vittorio Veneto 84 (direzione 
+Strada Statale)
+07:03 07:07 09:32 14:04 14:04 14:10 17:37 17:37 17:37 18:58 18:58
+ 40310   ORGNANO Strada Statale 13 (bivio, direzione  
+Udine)
+14:04 14:04
+ 40117   CAMPOFORMIDO largo municipio 20 8direzione 
+Udine)
+07:06 07:10 09:35 14:06 14:06 14:12 17:40 17:40 17:40 19:00 19:00
+ 40120   CAMPOFORMIDO via Principe di Udine 56 
+(Monum.PAN, dir.Udine)
+07:07 07:11 09:36 14:07 14:07 14:13 17:41 17:41 17:41 19:01 19:01
+ 40104   AEROPORTO CAMPOFORMIDO via 
+Campoformido (fr.138, dir.Udine)
+07:08 07:12 09:38 14:09 14:09 14:15 17:43 17:43 17:43 19:03 19:03
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 07:11 07:15 09:42 14:12 14:12 14:18 17:46 17:46 17:46 19:06 19:06
+ 70191   UDINE viale Monsignor Nogara (fronte 
+Stringher)
+07:15
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:16
+ 70C85   Udine viale Venezia 410 07:17 09:42 14:13 14:13 14:19 17:47 17:47 17:47 19:12 19:12
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:21
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:21 09:48 14:17 14:17 14:24 17:53 17:53 17:53 19:12 19:12
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:22 07:22 09:49 14:18 14:18 14:24 17:56 17:56 17:56 19:14 19:14
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:24 07:24 09:50 14:20 14:20 14:25 17:57 17:57 17:57 19:15 19:15
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:33 07:28 09:51 14:24 14:24 14:28 17:58 17:58 17:58 19:20 19:20
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 26]
+LINEA 373 (Andata)
+Orario valido dal 24 novembre 2025TERENZANO-CASTIONS-BERTIOLO-CODROIPO 
+5 1 17 7
+U251 U240 U300 U306
+ 38808   TERENZANO piazza Terenzio 2 (chiesa) 07:02
+ 38834   POZZUOLO via IV Genova (bivio, direzione 
+Latisana)
+07:05
+ 38901   MORTEGLIANO piazza Giuseppe Verdi 10 
+(municipio)
+07:11
+ 30510   CASTIONS DI STRADA viale Europa 5 07:16
+ 30616   SANT'ANDRAT DEL CORMOR via Camillo 
+Cavour 50
+06:35 07:21
+ 30615   FLUMIGNANO via IV Novembre (fronte civico 6) 06:37 07:22
+ 30612   TALMASSONS via Cesare Battisti (fronte 
+civico 18)
+06:40 07:00 07:26
+ 30617   FLAMBRO via Savorgnan 61 (mulino) 06:41 07:02 07:27
+ 30603   FLAMBRO largo Brigata Julia 12 06:43 07:03
+ 30614   FLAMBRO largo Brigata Julia 11 07:29
+ 40538   POZZECCO via Alessandro Manzoni 2 (centro, 
+dir. Monumento)
+06:48 07:07
+ 40537   POZZECCO via A. Manzoni 42 (bivio monumento, 
+dir.Bertiolo)
+06:49 07:08
+ 40512   VIRCO piazza delle Scuole 1 (Ex bar, direzione 
+Bertiolo)
+06:52 07:11 07:32
+ 40508   VIRCO via Bertiolo 10 (direzione Bertiolo) 06:52 07:12 07:33
+ 40535   BERTIOLO via Roma 1 (centro, direzione Virco) 14:48
+ 40515   BERTIOLO viale Rimembranze (direzione centro) 06:53 07:12 07:34
+ 40501   BERTIOLO via Trieste 11 (centro, direzione 
+Codroipo)
+06:54 07:13 07:35
+ 40509   BERTIOLO via Madonna 42 (Cantine, direzione 
+Lonca)
+06:55 07:14 07:36
+ 40839   LONCA via del Santuario 63 (direzione  
+Codroipo)
+06:57 07:16 07:38
+ 40812   PASSARIANO via Rivolto 8 (direzione Rivolto) 06:58 07:17 07:40
+ 40844   RIVOLTO piazza delle Scuole 7 (rotonda, direz. 
+Villacaccia)
+06:59 07:18 07:41
+ 40824   CODROIPO via Francesco Ostermann 41 (Al 
+Fogolar)
+07:22
+ 40851   CODROIPO via Francesco Ostermann (Coop) 07:23
+ 40803   CODROIPO via Circonvallazione Sud 27 (centro 
+studi)
+07:05 07:48
+ 40802   CODROIPO via Cesare Battisti (autostazione) 07:13 07:33 07:58 15:01
+CADENZA
+CORSA
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U300 Scolastica U251 Feriale giorni non scol. del periodo scolastico
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 27]
+LINEA 373 (Ritorno)
+Orario valido dal 24 novembre 2025CODROIPO-BERTIOLO-CASTIONS-TERENZANO 
+6 2 14 4 20
+U251 U300 U300 U306 U312
+ 40802   CODROIPO via Cesare Battisti (autostazione) 06:05 06:10 13:15 14:33 17:05
+ 40828   CODROIPO via Francesco Osternamm 40 
+(Coop)
+06:11 06:16 14:39
+ 40831   CODROIPO via Circonvallazione Sud 92 (campo 
+sportivo)
+13:22 17:12
+ 40847   CODROIPO via Francesco Ostermann 80 (Al 
+Fogolar)
+06:11 06:16 13:24 14:40 17:14
+ 40816   RIVOLTO piazza delle Scuole (rotonda, direzione 
+Codroipo)
+06:14 06:19 13:27 14:43 17:17
+ 40840   PASSARIANO via Rivolto 5 (lato Villa Manin) 06:15 06:20 13:28 14:44 17:18
+ 40810   LONCA via del Santuario 44 (direzione Bertiolo) 06:16 06:21 13:29 14:46 17:19
+ 40514   BERTIOLO via Madonna 15 (Cantine, direzione 
+centro)
+06:17 06:22 13:31 14:47 17:21
+ 40535   BERTIOLO via Roma 1 (centro, direzione Virco) 06:18 06:23 13:33 14:48 17:22
+ 40506   BERTIOLO viale Rimembranze 4 8direzione 
+Virco)
+06:18 06:23 13:33 17:23
+ 40513   VIRCO via Bertiolo 31 (direzione centro) 06:19 06:24 13:34 17:24
+ 40505   VIRCO piazza delle scuole 3 (Ex bar Al Toro) 06:20 06:25 13:35 17:25
+ 30603   FLAMBRO largo Brigata Julia 12 06:22 06:27 13:38 17:28
+ 30608   FLAMBRO via Savorgnan 76 (mulino, direzione 
+Talmassons)
+06:23 06:28 13:39 17:29
+ 30619   TALMASSONS via Cesare Battisti 18 
+(direzione Flumignano)
+06:25 06:30 13:40 17:31
+ 30606   FLUMIGNANO via IV Novembre 6 (direzione 
+Sant'Andrat)
+06:28 06:33 13:44 17:33
+ 30607   SANT'ANDRAT DEL CORMOR via Camillo 
+Cavour 41
+06:35 06:38 13:45 17:34
+ 30502   CASTIONS DI STRADA viale Europa 6 (direzione 
+Udine)
+13:50 17:39
+ 38910   MORTEGLIANO piazza Giuseppe Verdi 4 
+(chiesa)
+13:56 17:44
+ 38911   MORTEGLIANO SR 353 via V.Buiatti 2 (semaforo, 
+dir.Udine)
+13:58 17:46
+ 38802   POZZUOLO via IV Genova (fr.parco Rose, 
+dir.Udine)
+14:04 17:51
+ 38832   TERENZANO piazza Terenzio 21 (chiesa) 14:07 17:56
+CADENZA
+CORSA
+VALIDITÀ
+U312 Scolastica al martedi e al giovedi U306 Scolastica solo al sabato
+U300 Scolastica U251 Feriale giorni non scol. del periodo scolastico
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 28]
+LINEA 374 (Andata)
+Orario valido dal 24 novembre 2025UDINE-PASIAN DI PRATO ENAIP 
+5 3
+U300 U300
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:45 07:50
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 07:48 07:53
+ 70C59   UDINE via Marangoni 101 07:49 07:54
+ 70C31   UDINE piazzale 26 Luglio 25 07:51 07:55
+ 70C86   Udine viale Venezia 401 07:53 07:58
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 07:54 08:00
+ 40222   PASIAN DI PRATO via Roma 123, Santa Caterina 07:54 08:01
+ 70C27   PASIAN DI PRATO via Leonardo da Vinci( 
+fronte 23, Enaip)
+08:00 08:02
+CADENZA
+CORSA
+5 3
+ 70101   UDINE viale Europa Unita 37 (autostazione) 4 4
+BANCHINE
+VALIDITÀ
+U300 Scolastica
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 29]
+LINEA 374 (Ritorno)
+Orario valido dal 24 novembre 2025PASIAN DI PRATO ENAIP-UDINE 
+4 6
+U300 U300
+ 70C28   PASIAN DI PRATO via Leonardo da Vinci 21 
+(Enaip)
+13:00 13:00
+ 70C85   Udine viale Venezia 410 13:04 13:04
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+13:07 13:08
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 13:09 13:08
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 13:10 13:10
+ 70101   UDINE viale Europa Unita 37 (autostazione) 13:16 13:15
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 30]
+LINEA 380 (Andata)
+Orario valido dal 24 novembre 2025CODROIPO-RIVIGNANO-LATISANA 
+21 1 3 5 7
+U207 U200 U250 U306 U307
+ 40802   CODROIPO via Cesare Battisti (autostazione) 11:40 12:36 18:15 18:15 18:15
+ 40833   CODROIPO via Latisana 34 (4 Fontane) 11:46 12:42 18:21 18:21 18:21
+ 40817   SAN MARTINO DI CODROIPO  via Lignano 
+(bivio, dir. Rivignano)
+11:50 12:45 18:25 18:25 18:25
+ 40891   MUSCLETTO via Roveredo 2 (direzione 
+Rivignano)
+11:52 12:47 18:27 18:27 18:27
+ 40627   ROMANS DI VARMO via delle Sorgive 26 (prov. 
+Muscletto)
+11:53 18:29 18:29 18:29
+ 40611   ROVEREDO DI VARMO via Villa 18 (direzione 
+Varmo)
+12:50
+ 40632   ROVEREDO DI VARMO via Villa 57 (provenienza 
+Romans)
+18:32 18:32 18:32
+ 40628   VARMO via G.Antonio Da Pordenone 5 
+(provenienza Roveredo)
+12:51 18:33 18:33 18:33
+ 40630   VARMO via Rivignano 34 (Forte, direzione 
+Rivignano)
+12:52 18:35 18:35 18:35
+ 30712   RIVIGNANO via Codroipo 55 11:56
+ 30713   RIVIGNANO via Codroipo 5 (fronte asilo) 11:56
+ 30710   RIVIGNANO via Varmo (fronte civico 4) 12:55 18:38 18:38 18:38
+ 30706   RIVIGNANO via Umberto I (civico 51, 
+direzione Teor)
+12:00 12:55 18:39 18:39 18:39
+ 30711   RIVIGNANO via Cavour (fronte civico 67, 
+direzione Teor)
+12:57 18:41 18:41 18:41
+ 30705   TEOR via del Bersagliere 63 12:57 18:42 18:42 18:42
+ 31409   TEOR piazza della Vittoria 4 (chiesa) 12:59 18:43 18:43 18:43
+ 31403   CAMPOMOLLE via Vittorio Veneto 8 (direzione 
+Latisana)
+13:00 18:45 18:45 18:45
+ 31503   FRAFOREANO corso San Valentino 21 (fronte 
+chiesa)
+13:05 18:49 18:49 18:49
+ 31512   RONCHIS via Codroipo (angolo via Garibaldi) 13:06 18:50 18:50 18:50
+ 31501   RONCHIS corso Italia 72 (municipio) 13:08 18:52 18:52 18:52
+ 31659   LATISANOTTA via Roma 6 (semaforo) 13:10 18:55 18:55 18:55
+ 31645   LATISANA via Egregis Gaspari (lato stadio) 13:10 18:55 18:55 18:55
+ 31601   LATISANA via Beorchia (autostazione) 13:16 19:00 19:00 19:00
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U306 Scolastica solo al sabato U207 Feriale escluso il sabato
+U307 Scolastica escluso il sabato
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 31]
+LINEA 380 (Ritorno)
+Orario valido dal 24 novembre 2025LATISANA-RIVIGNANO-CODROIPO 
+2 8 6 4
+U230 U240 U240 U230
+ 31601   LATISANA via Beorchia (autostazione) 06:20 06:20 13:44 13:50
+ 31668   LATISANA via Egregis Gaspari (fronte stadio) 06:24 06:23 13:48 13:53
+ 31603   LATISANOTTA via Roma 9 (semaforo) 06:24 06:24 13:48 13:54
+ 31513   RONCHIS corso Italia 25 (municipio, direzione 
+Varmo)
+06:27 06:25 13:51 13:56
+ 31511   RONCHIS via Punt di Clap SP7 (angolo via 
+Garibaldi)
+06:29 06:27 13:53 13:58
+ 31508   FRAFOREANO corso San Valentino 48 (lato 
+chiesa)
+06:30 06:29 13:54 14:00
+ 31502   FRAFOREANO corso San Valentino (direzione 
+Varmo)
+06:30 06:29 13:54 14:01
+ 31410   CAMPOMOLLE via Vittorio Veneto 21 06:34 06:34 13:59 14:05
+ 31401   TEOR piazza della Vittoria (fronte civico 5, 
+chiesa)
+06:36 06:35 14:00 14:07
+ 30704   TEOR via del Bersagliere 70 06:37 06:41 14:01 14:08
+ 30719   RIVIGNANO via Cavour 63 06:38 06:42 14:02 14:09
+ 30701   RIVIGNANO via Umberto I (fronte civico 
+51)
+06:39 06:42 14:07 14:11
+ 30724   RIVIGNANO via Varmo 4 06:40 06:44 14:09 14:12
+ 40615   VARMO via Rivignano (Forte, direzione centro) 06:44 06:47 14:12 14:15
+ 40610   VARMO via G.Antonio Da Pordenone 6 
+(direzione Roveredo)
+06:46 06:48 14:13 14:17
+ 40629   ROVEREDO DI VARMO via Villa 22 (direzione 
+Romans)
+06:47 06:49 14:14 14:18
+ 40811   MUSCLETTO via Roveredo 15 (direzione 
+Codroipo)
+06:51 06:52 14:17 14:21
+ 40892   S.MARTINO DI CODROIPO via Lignano (bivio, 
+dir. Codroipo)
+06:52 06:54 14:18 14:22
+ 40834   CODROIPO via Latisana 29 (4 Fontane) 06:58 06:58 14:22 14:26
+ 40802   CODROIPO via Cesare Battisti (autostazione) 07:03 07:00 14:27 14:33
+CADENZA
+CORSA
+2 8 6 4
+ 31601   LATISANA via Beorchia (autostazione) 11 11 11 11
+BANCHINE
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U230 Feriale invernale (periodo scolastico)
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 32]
+LINEA 381 (Andata)
+Orario valido dal 24 novembre 2025CODROIPO-CAMINO-VARMO-RIVIGNANO-CODROIPO 
+1 11 3 15 9 13 17 5 801 803 19 7
+U251 U240 U374 U389 U230 U200 U300 U207 U306 U307 U312 U200
+ 40802   CODROIPO via Cesare Battisti (autostazione) 07:00 07:05 09:00 09:00 11:30 12:32 13:15 14:18 14:21 14:21 17:05 19:05
+ 40803   CODROIPO via Circonvallazione Sud 27 (centro 
+studi)
+13:23 17:13
+ 40833   CODROIPO via Latisana 34 (4 Fontane) 07:06 07:11 09:06 09:06 13:24 17:14 19:11
+ 40807   BIAUZZO via San Vidotto 2 11:38 12:37 14:25 14:25 14:25
+ 40711   SAN VIDOTTO piazza del Varmo (direzione 
+Camino)
+11:40 12:39 14:27 14:28 14:28
+ 40838   IUTIZZO via Ermes di Colloredo 56 07:08 07:12 09:07 09:07 13:25 17:16 19:13
+ 40705   GORIZZO via Hermes di Colloredo (direzione 
+Camino)
+07:10 07:14 09:09 09:09 13:28 17:18 19:15
+ 40701   CAMINO AL TAGL. via Aquileia 33 (centro, 
+direzione Codroipo)
+14:32 14:32
+ 40704   CAMINO AL TAGLIAMENTO via Aquileia 24 
+(centro)
+07:12 07:16 09:11 09:11 11:42 12:40 13:30 14:29 17:19 19:16
+ 40706   BUGNINS piazza della Fontana (direzione 
+Varmo)
+07:14 07:17 09:12 09:12 11:44 12:42 13:31 14:31 17:21 19:18
+ 40713   STRACCIS piazza Sant'Andrea (direzione 
+Varmo)
+07:16 07:19 09:14 09:14 11:46 12:43 13:33 14:32 17:23 19:20
+ 40622   CASALI DI BELGRADO DI VARMO via Belgrado 
+73 (dir. Varmo)
+07:16 07:19 09:15 09:15 11:47 12:44 13:34 14:33 17:23 19:20
+ 40621   BELGRADO DI VARMO via dei Castelli 27 
+(direzione Varmo)
+07:17 07:20 09:16 09:16 11:48 12:45 13:35 14:33 17:24 19:21
+ 40607   GRADISCUTTA DI VARMO piazza San Giorgio 4 
+(direzione Varmo)
+07:20 07:22 09:17 09:17 11:50 12:47 13:37 17:27 19:24
+ 40625   SANTA MARIZZA via Angilar (direzione Varmo) 07:21 07:23 09:19 09:19 11:52 12:48 13:39 17:28 19:25
+ 40410   S.MARIZZA via Villa Canciani 55 (direz.Varmo), 
+Casali Levata
+07:22 07:25 09:20 09:20 11:53 12:50 13:40 14:35 17:29 19:26
+ 40610   VARMO via G.Antonio Da Pordenone 6 
+(direzione Roveredo)
+07:24 07:27 09:22 09:22 11:55 12:51 13:42 14:37 17:31 19:28
+ 40630   VARMO via Rivignano 34 (Forte, direzione 
+Rivignano)
+13:43 17:33 19:30
+ 40629   ROVEREDO DI VARMO via Villa 22 
+(direzione Romans)
+07:26 07:28 09:23 09:23 11:56 12:52 14:38
+ 40631   ROMANS DI VARMO via delle Acacie 9 
+(provenienza Roveredo)
+07:27 07:30 09:25 09:25 14:40
+ 40609   ROMANS DI VARMO via delle Risorgive 11 
+(direzione Muscletto)
+11:58 12:55
+ 30710   RIVIGNANO via Varmo (fronte civico 4) 13:47 17:36 19:32
+ 30712   RIVIGNANO via Codroipo 55 07:30 07:32 09:28 09:28 14:42
+ 30713   RIVIGNANO via Codroipo 5 (fronte asilo) 07:31 07:33 09:28 09:28 14:43
+ 30706   RIVIGNANO via Umberto I (civico 51, 
+direzione Teor)
+07:32 07:35 09:29 09:29 13:47 14:43 17:36 19:33
+ 30702   RIVIGNANO via Udine 7 07:32 07:37 09:31 09:31 19:34
+ 30718   RIVIGNANO via Codroipo 2 (asilo) 07:34 07:37 09:31 09:31 19:35
+ 30717   RIVIGNANO via Codroipo 102 (direzione 
+Codroipo)
+07:35 07:38 09:32 09:32 19:36
+ 40609   ROMANS DI VARMO via delle Risorgive 11 
+(direzione Muscletto)
+07:37 07:41 09:35 09:35 19:38
+ 30711   RIVIGNANO via Cavour (fronte civico 67, 
+direzione Teor)
+13:49 14:47 17:40
+ 30705   TEOR via del Bersagliere 63 13:49 14:47 17:41
+ 31409   TEOR piazza della Vittoria 4 (chiesa) 13:53 14:52 17:43
+ 31403   CAMPOMOLLE via Vittorio Veneto 8 (direzione 
+Latisana)
+13:56 17:45
+ 40620   CANUSSIO DI VARMO via Crescentia 31 14:02 17:52
+ 40623   MADRISIO DI VARMO via Santa Radegonda 11 
+(direzione Varmo)
+14:05 17:55
+ 40610   VARMO via G.Antonio Da Pordenone 6 
+(direzione Roveredo)
+14:09 17:58
+ 40811   MUSCLETTO via Roveredo 15 (direzione 
+Codroipo)
+07:39 07:43 09:36 09:36 12:00 12:57 19:40
+ 40892   S.MARTINO DI CODROIPO via Lignano (bivio, 
+dir. Codroipo)
+07:41 07:44 09:38 09:38 12:01 12:58 14:14 18:02 19:41
+ 40834   CODROIPO via Latisana 29 (4 Fontane) 07:44 07:48 09:41 09:41 12:05 13:02 14:18 18:06 19:45
+ 40802   CODROIPO via Cesare Battisti (autostazione) 07:55 12:07 13:08
+ 40831   CODROIPO via Circonvallazione Sud 92 (campo 
+sportivo)
+07:45
+ 40802   CODROIPO via Cesare Battisti (autostazione) 07:53 09:45 09:45 14:21 18:11 19:48
+CADENZA
+CORSA
+martedì 18 novembre 2025Pagina 1 di 2
+  [Pagina 33]
+VALIDITÀ
+U200 Feriale U240 Feriale estiva (fne scuole-inizio scuole)
+U312 Scolastica al martedi e al giovedi U306 Scolastica solo al sabato
+U207 Feriale escluso il sabato U230 Feriale invernale (periodo scolastico)
+U374 Feriale invernale escl giorni non scolastici l-v U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+martedì 18 novembre 2025Pagina 2 di 2
+  [Pagina 34]
+LINEA 381 (Ritorno)
+Orario valido dal 24 novembre 2025CODROIPO-RIVIGNANO-VARMO-CAMINO-CODROIPO 
+12 16 10 14 6 802 804 2 4 8
+U251 U240 U300 U200 U207 U306 U307 U135 U280 U240
+ 40802   CODROIPO via Cesare Battisti (autostazione) 06:23 06:28 06:48 08:34 14:21 14:21 14:27
+ 40833   CODROIPO via Latisana 34 (4 Fontane) 06:29 06:34 06:54 08:40 14:27 14:27 14:33
+ 40817   SAN MARTINO DI CODROIPO  via Lignano 
+(bivio, dir. Rivignano)
+06:32 06:38 06:57 08:43 14:30 14:30 14:36
+ 40891   MUSCLETTO via Roveredo 2 (direzione 
+Rivignano)
+06:34 06:40 08:45 14:32 14:32 14:38
+ 40628   VARMO via G.Antonio Da Pordenone 5 
+(provenienza Roveredo)
+07:02
+ 40606   MADRISIO DI VARMO via Santa Radegonda 6 
+(direzione Latisana)
+07:04
+ 40603   CANUSSIO DI VARMO via Crescentia 46 
+(direzione Latisana)
+07:07
+ 31410   CAMPOMOLLE via Vittorio Veneto 21 07:13
+ 31401   TEOR piazza della Vittoria (fronte civico 5, 
+chiesa)
+07:16
+ 30704   TEOR via del Bersagliere 70 07:19
+ 30719   RIVIGNANO via Cavour 63 07:20
+ 30706   RIVIGNANO via Umberto I (civico 51, 
+direzione Teor)
+12:05
+ 30701   RIVIGNANO via Umberto I (fronte civico 
+51)
+07:22
+ 30718   RIVIGNANO via Codroipo 2 (asilo) 12:07
+ 30717   RIVIGNANO via Codroipo 102 (direzione 
+Codroipo)
+12:07
+ 40627   ROMANS DI VARMO via delle Sorgive 26 (prov. 
+Muscletto)
+14:33 14:33 14:40
+ 30712   RIVIGNANO via Codroipo 55 14:35 14:35 14:42
+ 30713   RIVIGNANO via Codroipo 5 (fronte asilo) 14:36 14:36 14:42
+ 30706   RIVIGNANO via Umberto I (civico 51, 
+direzione Teor)
+14:37 14:37 14:43
+ 30702   RIVIGNANO via Udine 7 14:39 14:39 14:45
+ 30724   RIVIGNANO via Varmo 4 07:23 14:39 14:39 14:45
+ 40627   ROMANS DI VARMO via delle Sorgive 26 (prov. 
+Muscletto)
+06:36 06:42 08:47
+ 40619   ROMANS DI VARMO via delle Acacie 10 
+(direzione Roveredo)
+12:10
+ 40632   ROVEREDO DI VARMO via Villa 57 (provenienza 
+Romans)
+06:38 06:44 08:49 12:12
+ 40615   VARMO via Rivignano (Forte, direzione centro) 07:27 14:40 14:40 14:48
+ 40628   VARMO via G.Antonio Da Pordenone 5 
+(provenienza Roveredo)
+06:40 06:45 07:28 08:51 12:13 14:43 14:43 14:49
+ 40419   S.MARIZZA via Santa Marizza (dir.S.Marizza), 
+Casali Levata
+06:43 06:47 07:31 08:53 14:45 14:45 14:51
+ 40604   SANTA MARIZZA via Angilar (direzione Camino) 06:44 06:48 07:33 08:54 14:45 14:45 14:52
+ 40626   GRADISCUTTA DI VARMO via della Roggia 1 
+(direzione Camino)
+06:45 06:49 07:35 08:55 14:47 14:47 14:53
+ 40605   BELGRADO DI VARMO via dei Castelli 4 
+(direzione Camino)
+06:47 06:51 07:37 08:56 12:16 14:49 14:49 14:55
+ 40617   CASALI DI BELGRADO DI VARMO via Belgrado 
+44 (dir. Camino)
+06:48 06:52 07:38 08:57 12:17 14:50 14:50 14:56
+ 40709   STRACCIS piazza Sant'Andrea (direzione 
+Camino)
+06:49 06:53 07:39 08:58 12:18 14:50 14:50 14:57
+ 40703   BUGNINS piazza della Fontana (direzione 
+Camino)
+06:51 06:54 07:41 09:00 12:20 14:53 14:53 14:58
+ 40701   CAMINO AL TAGL. via Aquileia 33 (centro, 
+direzione Codroipo)
+06:53 06:58 07:43 09:01 12:21 14:32 14:32 14:54 14:54 15:00
+ 40708   GORIZZO via Hermes di Colloredo direzione 
+Codroipo
+07:45 14:33 14:33 14:56 14:56 15:01
+ 40809   IUTIZZO via Ermes di Colloredo 47 07:47 14:35 14:35 14:58 14:58 15:03
+ 40834   CODROIPO via Latisana 29 (4 Fontane) 07:49 14:37 14:37 15:00 15:00 15:05
+ 40707   SAN VIDOTTO piazza del Varmo 26 
+(direzione Biauzzo)
+06:56 07:00 09:03 12:23
+ 40837   BIAUZZO via San Vidotto (fronte civico 2) 06:59 07:02 09:06 12:25
+ 40831   CODROIPO via Circonvallazione Sud 92 (campo 
+sportivo)
+07:52
+ 40802   CODROIPO via Cesare Battisti (autostazione) 07:05 07:10 07:58 09:11 12:31 14:41 14:41 15:03 15:03 15:10
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U280 Feriale invernale (periodo scolastico) escluso sab ati non scolastici
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U207 Feriale escluso il sabato
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 35]
+LINEA 383 (Andata)
+Orario valido dal 24 novembre 2025S.MARIA-LESTIZZA-BERTIOLO-VARMO-CODROIPO 
+19
+U300
+ 40435   S. MARIA DI SCLAUNICCO piazza Assunzione 
+(fronte 8, chiesa)
+06:45
+ 40401   LESTIZZA piazza San Biagio 4 06:49
+ 40420   LESTIZZA via Roma 6 06:49
+ 40407   SCLAUNICCO via S.Giovanni Bosco 7 (bar, 
+direzione Orgnano)
+06:51
+ 40423   SCLAUNICCO via S.Giovanni Bosco 6 (bar, 
+direzione chiesa)
+06:52
+ 40416   SCLAUNICCO via Montenero (direzione 
+Galleriano),  Cereal Tav
+06:53
+ 40415   GALLERIANO via Gorizia 51 (direzione centro) 06:54
+ 40402   GALLERIANO piazza San Martino 19 06:54
+ 40421   NESPOLEDO piazza Verdi 9 (direzione Codroipo) 06:58
+ 40413   NESPOLEDO via Vittorio Veneto 70 (direzione 
+Villacaccia)
+06:59
+ 40409   VILLACACCIA via Nespoledo 7 (direzione 
+Bertiolo)
+07:00
+ 40411   VILLACACCIA via Pozzecco (bivio) 07:00
+ 40538   POZZECCO via Alessandro Manzoni 2 (centro, 
+dir. Monumento)
+07:03
+ 40537   POZZECCO via A. Manzoni 42 (bivio monumento, 
+dir.Bertiolo)
+07:03
+ 40515   BERTIOLO viale Rimembranze (direzione centro) 07:09
+ 40501   BERTIOLO via Trieste 11 (centro, direzione 
+Codroipo)
+07:10
+ 30712   RIVIGNANO via Codroipo 55 07:18
+ 30713   RIVIGNANO via Codroipo 5 (fronte asilo) 07:19
+ 30724   RIVIGNANO via Varmo 4 07:20
+ 40615   VARMO via Rivignano (Forte, direzione centro) 07:23
+ 40610   VARMO via G.Antonio Da Pordenone 6 
+(direzione Roveredo)
+07:24
+ 40629   ROVEREDO DI VARMO via Villa 22 (direzione 
+Romans)
+07:26
+ 40609   ROMANS DI VARMO via delle Risorgive 11 
+(direzione Muscletto)
+07:29
+ 40811   MUSCLETTO via Roveredo 15 (direzione 
+Codroipo)
+07:30
+ 40892   S.MARTINO DI CODROIPO via Lignano (bivio, 
+dir. Codroipo)
+07:32
+ 40834   CODROIPO via Latisana 29 (4 Fontane) 07:36
+ 40831   CODROIPO via Circonvallazione Sud 92 (campo 
+sportivo)
+07:39
+ 40802   CODROIPO via Cesare Battisti (autostazione) 07:48
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 36]
+LINEA 383 (Ritorno)
+Orario valido dal 24 novembre 2025CODROIPO-VARMO-BERTIOLO-LESTIZZA-S.MARIA 
+16 22
+U300 U312
+ 40802   CODROIPO via Cesare Battisti (autostazione) 13:15 17:05
+ 40803   CODROIPO via Circonvallazione Sud 27 
+(centro studi)
+13:22 17:12
+ 40833   CODROIPO via Latisana 34 (4 Fontane) 13:23 17:13
+ 40817   SAN MARTINO DI CODROIPO  via Lignano 
+(bivio, dir. Rivignano)
+13:26 17:17
+ 40891   MUSCLETTO via Roveredo 2 (direzione 
+Rivignano)
+13:28 17:19
+ 40627   ROMANS DI VARMO via delle Sorgive 26 (prov. 
+Muscletto)
+13:30 17:21
+ 40619   ROMANS DI VARMO via delle Acacie 10 
+(direzione Roveredo)
+13:31 17:21
+ 40632   ROVEREDO DI VARMO via Villa 57 (provenienza 
+Romans)
+13:32 17:23
+ 40628   VARMO via G.Antonio Da Pordenone 5 
+(provenienza Roveredo)
+13:34 17:24
+ 40630   VARMO via Rivignano 34 (Forte, direzione 
+Rivignano)
+13:35 17:25
+ 30710   RIVIGNANO via Varmo (fronte civico 4) 13:40
+ 30718   RIVIGNANO via Codroipo 2 (asilo) 13:40
+ 30717   RIVIGNANO via Codroipo 102 (direzione 
+Codroipo)
+13:41
+ 40535   BERTIOLO via Roma 1 (centro, direzione Virco) 13:48 17:33
+ 40506   BERTIOLO viale Rimembranze 4 8direzione 
+Virco)
+13:48 17:36
+ 40507   POZZECCO via A. Manzoni 39 (bivio 
+monumento, dir.Galleriano)
+13:54 17:41
+ 40510   POZZECCO via Alessandro Manzoni 15 
+(centro, dir. Galleriano)
+13:54 17:41
+ 40424   VILLACACCIA via Nespoledo 2 (direzione 
+Nespoledo)
+13:58 17:45
+ 40425   NESPOLEDO via Vittorio Veneto 85 (direzione 
+centro)
+13:59 17:46
+ 40405   NESPOLEDO piazza Verdi 5 (direzione 
+Campoformido)
+14:00 17:47
+ 40403   GALLERIANO piazza San Martino 4 14:04 17:50
+ 40427   GALLERIANO via Gorizia 56 (direzione 
+Sclaunicco)
+14:05 17:53
+ 40428   SCLAUNICCO via Montenero (Cereal Tavan, 
+direzione centro)
+14:06 17:53
+ 40407   SCLAUNICCO via S.Giovanni Bosco 7 (bar, 
+direzione Orgnano)
+14:08 17:56
+ 40423   SCLAUNICCO via S.Giovanni Bosco 6 (bar, 
+direzione chiesa)
+14:08 17:56
+ 40401   LESTIZZA piazza San Biagio 4 14:12 17:56
+ 40435   S. MARIA DI SCLAUNICCO piazza Assunzione 
+(fronte 8, chiesa)
+14:18 18:04
+CADENZA
+CORSA
+VALIDITÀ
+U312 Scolastica al martedi e al giovedi U300 Scolastica
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 37]
+LINEA 385 (Andata)
+Orario valido dal 24 novembre 2025UDINE-CODROIPO-VARMO 
+801 1
+U306 U300
+ 70101   UDINE viale Europa Unita 37 (autostazione) 13:20 13:23
+ 70C47   UDINE via Caccia 60 (Area 3) 13:26 13:29
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 13:27 13:31
+ 70223   UDINE viale Ledra 120 (Area 3, piazzale 
+Cavedalis)
+13:30 13:34
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 13:31 13:35
+ 70C86   Udine viale Venezia 401 13:34 13:37
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 13:36 13:40
+ 40116   AEROPORTO CAMPOFORMIDO via 
+Campoformido 138 (dir. Codroipo)
+13:39 13:43
+ 40114   CAMPOFORMIDO via Principe di Udine (fr. 56, 
+monumento PAN)
+13:41 13:45
+ 40101   CAMPOFORMIDO largo Municipio 9 13:43 13:46
+ 40308   ORGNANO Strada Statale 13 (bivio, direzione  
+Codroipo)
+13:45 13:48
+ 40303   BASAGLIAPENTA piazza San Valentino 
+(direzione Codroipo)
+13:49 13:53
+ 40804   RIVOLTO SS 13 (civico 63, Frecce Tricolori direz. 
+Codroipo)
+13:52 13:57
+ 40846   ZOMPICCHIA DI CODROIPO piazza Aquileia 
+1 (direz. Codroipo)
+13:57 14:00
+ 40825   CODROIPO viale Duodo (ospedale, direzione 
+centro)
+13:58 14:01
+ 40850   CODROIPO viale Duodo 55 (Coop) 13:59 14:03
+ 40802   CODROIPO via Cesare Battisti (autostazione) 14:06 14:08
+ 40833   CODROIPO via Latisana 34 (4 Fontane) 14:11 14:13
+ 40838   IUTIZZO via Ermes di Colloredo 56 14:16
+ 40705   GORIZZO via Hermes di Colloredo (direzione 
+Camino)
+14:18
+ 40704   CAMINO AL TAGLIAMENTO via Aquileia 24 
+(centro)
+14:21
+ 40706   BUGNINS piazza della Fontana (direzione 
+Varmo)
+14:22
+ 40713   STRACCIS piazza Sant'Andrea (direzione 
+Varmo)
+14:24
+ 40622   CASALI DI BELGRADO DI VARMO via Belgrado 
+73 (dir. Varmo)
+14:25
+ 40621   BELGRADO DI VARMO via dei Castelli 27 
+(direzione Varmo)
+14:26
+ 40607   GRADISCUTTA DI VARMO piazza San Giorgio 4 
+(direzione Varmo)
+14:28
+ 40625   SANTA MARIZZA via Angilar (direzione Varmo) 14:30
+ 40410   S.MARIZZA via Villa Canciani 55 (direz.Varmo), 
+Casali Levata
+14:31
+ 40610   VARMO via G.Antonio Da Pordenone 6 
+(direzione Roveredo)
+14:34
+ 40629   ROVEREDO DI VARMO via Villa 22 
+(direzione Romans)
+14:35
+ 40817   SAN MARTINO DI CODROIPO  via Lignano 
+(bivio, dir. Rivignano)
+14:14
+ 40891   MUSCLETTO via Roveredo 2 (direzione 
+Rivignano)
+14:16
+ 40627   ROMANS DI VARMO via delle Sorgive 26 (prov. 
+Muscletto)
+14:18
+ 30712   RIVIGNANO via Codroipo 55 14:20
+ 30713   RIVIGNANO via Codroipo 5 (fronte asilo) 14:21
+ 30706   RIVIGNANO via Umberto I (civico 51, 
+direzione Teor)
+14:21
+ 30711   RIVIGNANO via Cavour (fronte civico 67, 
+direzione Teor)
+14:23
+ 30705   TEOR via del Bersagliere 63 14:24
+ 31409   TEOR piazza della Vittoria 4 (chiesa) 14:25
+ 31403   CAMPOMOLLE via Vittorio Veneto 8 (direzione 
+Latisana)
+14:27
+ 40620   CANUSSIO DI VARMO via Crescentia 31 14:34
+ 40623   MADRISIO DI VARMO via Santa Radegonda 11 
+(direzione Varmo)
+14:36
+CADENZA
+CORSA
+martedì 18 novembre 2025Pagina 1 di 2
+  [Pagina 38]
+801 1
+ 70101   UDINE viale Europa Unita 37 (autostazione) 14 4
+BANCHINE
+VALIDITÀ
+U306 Scolastica solo al sabato U300 Scolastica
+martedì 18 novembre 2025Pagina 2 di 2
+  [Pagina 39]
+LINEA 385 (Ritorno)
+Orario valido dal 24 novembre 2025CODROIPO-VARMO-CODROIPO-UDINE 
+804 2 8
+U300 U300 U300
+ 31601   LATISANA via Beorchia (autostazione) 06:25
+ 31668   LATISANA via Egregis Gaspari (fronte stadio) 06:28
+ 31603   LATISANOTTA via Roma 9 (semaforo) 06:29
+ 31513   RONCHIS corso Italia 25 (municipio, direzione 
+Varmo)
+06:31
+ 31511   RONCHIS via Punt di Clap SP7 (angolo via 
+Garibaldi)
+06:33
+ 31508   FRAFOREANO corso San Valentino 48 (lato 
+chiesa)
+06:35
+ 31502   FRAFOREANO corso San Valentino (direzione 
+Varmo)
+06:35
+ 31410   CAMPOMOLLE via Vittorio Veneto 21 06:40
+ 30704   TEOR via del Bersagliere 70 06:44
+ 30719   RIVIGNANO via Cavour 63 06:45
+ 30701   RIVIGNANO via Umberto I (fronte civico 
+51)
+06:48
+ 30718   RIVIGNANO via Codroipo 2 (asilo) 06:49
+ 30717   RIVIGNANO via Codroipo 102 (direzione 
+Codroipo)
+06:50
+ 40802   CODROIPO via Cesare Battisti (autostazione) 06:30 06:23
+ 40833   CODROIPO via Latisana 34 (4 Fontane) 06:35 06:28
+ 40838   IUTIZZO via Ermes di Colloredo 56 06:37
+ 40705   GORIZZO via Hermes di Colloredo (direzione 
+Camino)
+06:39
+ 40704   CAMINO AL TAGLIAMENTO via Aquileia 24 
+(centro)
+06:42
+ 40706   BUGNINS piazza della Fontana (direzione 
+Varmo)
+06:44
+ 40713   STRACCIS piazza Sant'Andrea (direzione 
+Varmo)
+06:46
+ 40622   CASALI DI BELGRADO DI VARMO via Belgrado 
+73 (dir. Varmo)
+06:47
+ 40621   BELGRADO DI VARMO via dei Castelli 27 
+(direzione Varmo)
+06:48
+ 40410   S.MARIZZA via Villa Canciani 55 (direz.Varmo), 
+Casali Levata
+06:50
+ 40610   VARMO via G.Antonio Da Pordenone 6 
+(direzione Roveredo)
+06:53
+ 40629   ROVEREDO DI VARMO via Villa 22 (direzione 
+Romans)
+06:54
+ 40609   ROMANS DI VARMO via delle Risorgive 11 
+(direzione Muscletto)
+06:53 06:57
+ 40811   MUSCLETTO via Roveredo 15 (direzione 
+Codroipo)
+06:54 06:59
+ 40892   S.MARTINO DI CODROIPO via Lignano (bivio, 
+dir. Codroipo)
+06:56 07:01
+ 40834   CODROIPO via Latisana 29 (4 Fontane) 07:00 07:05
+ 40831   CODROIPO via Circonvallazione Sud 92 
+(campo sportivo)
+07:01
+ 40847   CODROIPO via Francesco Ostermann 80 (Al 
+Fogolar)
+07:03
+ 40816   RIVOLTO piazza delle Scuole (rotonda, direzione 
+Codroipo)
+07:07
+ 40424   VILLACACCIA via Nespoledo 2 (direzione 
+Nespoledo)
+07:13
+ 40425   NESPOLEDO via Vittorio Veneto 85 (direzione 
+centro)
+07:16
+ 40405   NESPOLEDO piazza Verdi 5 (direzione 
+Campoformido)
+07:16
+ 40817   SAN MARTINO DI CODROIPO  via Lignano 
+(bivio, dir. Rivignano)
+06:31
+ 40891   MUSCLETTO via Roveredo 2 (direzione 
+Rivignano)
+06:33
+ 40627   ROMANS DI VARMO via delle Sorgive 26 (prov. 
+Muscletto)
+06:35
+ 40632   ROVEREDO DI VARMO via Villa 57 (provenienza 
+Romans)
+06:37
+ 40628   VARMO via G.Antonio Da Pordenone 5 
+(provenienza Roveredo)
+06:39
+ 40419   S.MARIZZA via Santa Marizza (dir.S.Marizza), 
+Casali Levata
+06:42
+ 40604   SANTA MARIZZA via Angilar (direzione Camino) 06:43
+ 40626   GRADISCUTTA DI VARMO via della Roggia 1 
+(direzione Camino)
+06:44
+ 40605   BELGRADO DI VARMO via dei Castelli 4 
+(direzione Camino)
+06:46
+ 40617   CASALI DI BELGRADO DI VARMO via Belgrado 
+44 (dir. Camino)
+06:47
+ 40709   STRACCIS piazza Sant'Andrea (direzione 
+Camino)
+06:48
+ 40703   BUGNINS piazza della Fontana (direzione 
+Camino)
+06:50
+CADENZA
+CORSA
+martedì 18 novembre 2025Pagina 1 di 2
+  [Pagina 40]
+804 2 8
+U300 U300 U300
+ 40701   CAMINO AL TAGL. via Aquileia 33 (centro, 
+direzione Codroipo)
+06:52
+ 40707   SAN VIDOTTO piazza del Varmo 26 (direzione 
+Biauzzo)
+06:55
+ 40837   BIAUZZO via San Vidotto (fronte civico 2) 06:58
+ 40802   CODROIPO via Cesare Battisti (autostazione) 07:07 07:07
+ 40823   CODROIPO viale Duodo 20 (Coop) 07:13 07:13
+ 40849   CODROIPO viale Duodo 82 (ospedale, direzione 
+Zompicchia)
+07:14 07:14
+ 40818   ZOMPICCHIA DI CODROIPO piazza Aquileia 
+(dir. Basagliapenta)
+07:14 07:15
+ 40845   RIVOLTO SS 13 (civico 65, Frecce Tricolori 
+direzione Udine)
+07:17 07:19
+ 40329   BASAGLIAPENTA piazza San Valentino 
+(direzione Udine)
+07:20 07:21
+ 40310   ORGNANO Strada Statale 13 (bivio, direzione  
+Udine)
+07:24 07:25 07:26
+ 40117   CAMPOFORMIDO largo municipio 20 
+8direzione Udine)
+07:26 07:28 07:28
+ 40120   CAMPOFORMIDO via Principe di Udine 56 
+(Monum.PAN, dir.Udine)
+07:28 07:28 07:29
+ 40104   AEROPORTO CAMPOFORMIDO via 
+Campoformido (fr.138, dir.Udine)
+07:29 07:29 07:30
+ 40222   PASIAN DI PRATO via Roma 123, Santa Caterina 07:35
+ 70C27   PASIAN DI PRATO via Leonardo da Vinci( 
+fronte 23, Enaip)
+07:37
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 07:36 07:36
+ 70C85   Udine viale Venezia 410 07:38
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 07:45
+ 70C51   UDINE via Marco Volpe 63 (piazzale Cavedalis) 07:51
+ 70191   UDINE viale Monsignor Nogara (fronte 
+Stringher)
+07:42 07:43
+ 70229   UDINE piazzale Rita Levi Montalcini 
+(Terminal Studenti)
+07:49 07:54
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:56 07:54
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 08:02 07:54
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:55
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:56
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:57
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:59
+ 70101   UDINE viale Europa Unita 37 (autostazione) 08:02 08:08 08:06
+804 2 8
+ 31601   LATISANA via Beorchia (autostazione) 1
+BANCHINE
+VALIDITÀ
+U300 Scolastica
+martedì 18 novembre 2025Pagina 2 di 2
+  [Pagina 41]
+LINEA 3PO (Andata)
+Orario valido dal 24 novembre 2025UDINE-ZUGLIANO-POZZUOLO-CAMPOFORMIDO-UDINE 
+23 1 25 5 29 7 27 9 33 35 13 15 37 41
+U274 U300 U274 U307 U306 U300 U274 U300 U274 U274 U300 U300 U281 U281
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:20 06:50 07:10 08:10 08:10 12:10 12:15 13:25 13:27 14:20 14:20 17:15
+ 70216   UDINE via Renati 28 (Area 2) 12:15
+ 70C47   UDINE via Caccia 60 (Area 3) 13:33
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 12:17 13:33
+ 70C31   UDINE piazzale 26 Luglio 25 06:24 07:14 08:15 12:20 13:29 14:25 17:20
+ 70223   UDINE viale Ledra 120 (Area 3, piazzale 
+Cavedalis)
+12:19 13:38
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 12:20 13:39
+ 70C60   UDINE piazzale Giobatta Cella 59 06:24 06:53 07:16 08:12 08:16 12:22 12:22 13:30 13:41 14:23 14:26 17:21
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+06:26 06:55 07:17 08:14 08:16 12:24 12:24 13:32 13:42 14:25 14:28 17:22
+ 70C04   SANT'OSVALDO via Adriatica 16 06:28 06:56 07:19 08:16 08:18 12:26 12:26 13:34 13:44 14:27 14:30 17:24
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+06:29 06:57 08:18 08:19 12:27 14:28 14:31 17:26
+ 38830   ZUGLIANO via Basaldella 29 07:22 12:29 13:38 13:48
+ 38812   ZUGLIANO via 24 Aprile 28 07:24 12:31 13:40 13:50
+ 38813   ZUGLIANO via Lignano (fronte civico 41, 
+bivio SR 353)
+06:30 06:59 07:24 07:42 07:42 08:20 08:21 12:29 13:40 14:29 14:33 17:28
+ 38828   TERENZANO via Giuseppe Ellero 29 (bivio SR 
+353)
+06:31 07:00 07:24 07:44 07:44 08:21 08:22 12:32 12:30 13:41 13:52 14:30 14:34 17:28
+ 38809   TERENZANO via Giuseppe Ellero 1 (angolo via 
+della Statua)
+12:34
+ 38832   TERENZANO piazza Terenzio 21 (chiesa) 06:32 07:01 07:25 07:45 07:45 08:23 08:24 12:31 13:43 13:54 14:32 14:35 17:30
+ 38826   TERENZANO via 24 Ottobre 1917 (civico 44) 06:34 07:03 07:27 07:46 07:46 08:24 08:25 12:33 13:44 13:56 14:33 14:36 17:31
+ 38831   CARGNACCO via Alessandro Manzoni 18 
+(centro)
+06:36 07:05 07:29 07:49 07:49 08:26 08:29 12:36 13:46 13:59 14:35 14:38 17:34
+ 37110   LUMIGNACCO via Giovanni Pascoli 2 (chiesa) 06:37 07:08 07:31 07:51 07:51 08:30 08:30 12:37 13:48 14:02 14:37 14:40 17:35
+ 38837   SAMMARDENCHIA DI POZZ. piazza 24 
+Maggio 7 (Lato chiesa)
+06:41 07:12 07:35 07:54 07:54 08:33 08:34 12:41 13:52 14:06 14:40 14:43 17:39
+ 38829   POZZUOLO DEL FRIULI via Madonna della 
+Salute 1
+06:44 07:15 07:37 07:57 07:57 08:36 08:36 12:43 13:54 14:09 14:42 14:45 17:41
+ 38834   POZZUOLO via IV Genova (bivio, direzione 
+Latisana)
+12:37
+ 38802   POZZUOLO via IV Genova (fr.parco Rose, 
+dir.Udine)
+07:20 07:57 07:57 14:09
+ 38832   TERENZANO piazza Terenzio 21 (chiesa) 07:24
+ 38826   TERENZANO via 24 Ottobre 1917 (civico 44) 07:25
+ 38806   CARGNACCO via San Giorgio 64 (Casa Rossa) 07:27
+ 70C36   UDINE via Lumignacco (fronte 135, bivio istituti 
+scolastici)
+07:33
+ 70C59   UDINE via Marangoni 101 07:37
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 07:37
+ 70C51   UDINE via Marco Volpe 63 (piazzale 
+Cavedalis)
+07:40
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:49
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 07:53
+ 38836   POZZUOLO DEL FRIULI piazza Julia 14 12:39
+ 38816   POZZUOLO DEL FRIULI via delle Scuole 
+(centro studi)
+07:59 07:59 12:50 14:10
+ 38834   POZZUOLO via IV Genova (bivio, direzione 
+Latisana)
+12:51 14:11
+ 38801   POZZUOLO DEL FRIULI  piazza Julia 6 06:45 07:39 08:38 08:38 12:52 12:44 13:56 14:11 14:43 14:47 17:43
+ 38843   CARPENETO via Maria Antonini 41 06:47 07:41 08:40 08:40 12:54 12:46 13:58 14:13 14:45 14:49 17:44
+ 38838   CARPENETO via Maria Antonini 11 (centro) 06:47 07:41 08:41 08:41 12:55 12:47 13:59 14:15 14:47 14:50 17:45
+ 38847   CARPENETO via Campoformido 66 06:48 07:42 08:42 08:42 12:56 12:48 14:00 14:15 14:47 14:51 17:46
+ 40111   CAMPOFORMIDO via Basaldella 1 06:51 07:45 08:46 08:45 12:59 12:50 14:02 14:19 14:50 14:53 17:49
+ 40120   CAMPOFORMIDO via Principe di Udine 56 
+(Monum.PAN, dir.Udine)
+06:52 07:45 08:47 08:45 12:59 12:51 14:03 14:19 14:50 14:54 17:51
+ 40104   AEROPORTO CAMPOFORMIDO via 
+Campoformido (fr.138, dir.Udine)
+06:54 07:48 08:49 08:47 13:00 12:54 14:05 14:21 14:52 14:55 17:52
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 06:56 07:51 08:55 08:52 13:04 12:55 14:07 14:23 14:55 14:58 17:55
+ 70C85   Udine viale Venezia 410 06:59 07:54 08:57 08:54 13:05 12:59 14:09 14:26 14:57 14:59 17:59
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:02 07:58 09:02 08:58 13:08 13:01 14:12 14:28 15:01 15:04 18:02
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:02 07:59 09:03 09:00 13:09 13:02 14:13 14:29 15:02 15:07 18:03
+CADENZA
+CORSA
+martedì 18 novembre 2025Pagina 1 di 3
+  [Pagina 42]
+23 1 25 5 29 7 27 9 33 35 13 15 37 41
+U274 U300 U274 U307 U306 U300 U274 U300 U274 U274 U300 U300 U281 U281
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:03 08:00 09:04 09:01 13:10 13:03 14:14 14:30 15:03 15:08 18:04
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:10 08:00 08:04 09:05 09:02 13:16 13:09 14:19 14:35 15:08 15:11 18:06
+23 1 25 5 29 7 27 9 33 35 13 15 37 41
+ 70101   UDINE viale Europa Unita 37 (autostazione) 16 8 8 8 8 8 24 8 8 8
+BANCHINE
+VALIDITÀ
+U274 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico escluso ferie op. agosto
+U281 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico escluso sab e ferie op. ago
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato
+martedì 18 novembre 2025Pagina 2 di 3
+  [Pagina 43]
+LINEA 3PO (Andata)
+Orario valido dal 24 novembre 2025UDINE-ZUGLIANO-POZZUOLO-CAMPOFORMIDO-UDINE 
+17 19 43 21
+U307 U307 U281 U307
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17:10 18:25 18:15 19:25
+ 70C31   UDINE piazzale 26 Luglio 25 18:20
+ 70223   UDINE viale Ledra 120 (Area 3, piazzale 
+Cavedalis)
+17:18
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 17:19
+ 70C60   UDINE piazzale Giobatta Cella 59 17:21 18:29 18:22 19:29
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+17:23 18:31 18:24 19:31
+ 70C04   SANT'OSVALDO via Adriatica 16 17:25 18:32 18:26 19:32
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+18:34 19:33
+ 38830   ZUGLIANO via Basaldella 29 17:28 18:29
+ 38812   ZUGLIANO via 24 Aprile 28 17:30 18:30
+ 38813   ZUGLIANO via Lignano (fronte civico 41, 
+bivio SR 353)
+18:36 18:30 19:35
+ 38828   TERENZANO via Giuseppe Ellero 29 (bivio SR 
+353)
+17:31 18:37 18:31 19:36
+ 38809   TERENZANO via Giuseppe Ellero 1 (angolo via 
+della Statua)
+18:38
+ 38832   TERENZANO piazza Terenzio 21 (chiesa) 17:33 18:34 19:37
+ 38826   TERENZANO via 24 Ottobre 1917 (civico 44) 17:35 18:35 19:38
+ 38831   CARGNACCO via Alessandro Manzoni 18 
+(centro)
+17:37 18:37 19:40
+ 37110   LUMIGNACCO via Giovanni Pascoli 2 (chiesa) 17:41 18:39 19:43
+ 38837   SAMMARDENCHIA DI POZZ. piazza 24 
+Maggio 7 (Lato chiesa)
+17:45 18:42 18:42 19:46
+ 38829   POZZUOLO DEL FRIULI via Madonna della 
+Salute 1
+17:47 18:44 18:44 19:49
+ 38801   POZZUOLO DEL FRIULI  piazza Julia 6 17:49 18:46 18:45 19:50
+ 38843   CARPENETO via Maria Antonini 41 17:51 18:47 18:47 19:52
+ 38838   CARPENETO via Maria Antonini 11 (centro) 17:52 18:48 18:47 19:53
+ 38847   CARPENETO via Campoformido 66 17:53 18:49 18:48 19:54
+ 40111   CAMPOFORMIDO via Basaldella 1 17:57 18:52 18:51 19:56
+ 40120   CAMPOFORMIDO via Principe di Udine 56 
+(Monum.PAN, dir.Udine)
+17:58 18:52 18:52 19:56
+ 40104   AEROPORTO CAMPOFORMIDO via 
+Campoformido (fr.138, dir.Udine)
+18:00 18:54 18:53 19:58
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 18:04 18:56 18:56 20:00
+ 70C85   Udine viale Venezia 410 18:06 18:58 18:59 20:02
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+18:11 19:02 19:02 20:05
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 18:11 19:04 19:03 20:06
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 18:11 19:05 19:04 20:08
+ 70101   UDINE viale Europa Unita 37 (autostazione) 18:15 19:10 19:09 20:13
+CADENZA
+CORSA
+17 19 43 21
+ 70101   UDINE viale Europa Unita 37 (autostazione) 8 8 8 8
+BANCHINE
+VALIDITÀ
+U274 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico escluso ferie op. agosto
+U281 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico escluso sab e ferie op. ago
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato
+martedì 18 novembre 2025Pagina 3 di 3
+  [Pagina 44]
+LINEA 3PO (Ritorno)
+Orario valido dal 24 novembre 2025UDINE-CAMPOFORMIDO-POZZUOLO-ZUGLIANO-UDINE 
+2 4 8 12 10 14 16
+U300 U300 U300 U300 U300 U300 U300
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:05 07:05 10:30 12:20 13:25 14:20
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 06:07 07:08 10:31 14:23
+ 70216   UDINE via Renati 28 (Area 2) 12:24
+ 70C47   UDINE via Caccia 60 (Area 3) 13:32
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 12:26 13:33
+ 70223   UDINE viale Ledra 120 (Area 3, piazzale 
+Cavedalis)
+12:28 13:35
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 12:29 13:37
+ 70C31   UDINE piazzale 26 Luglio 25 06:09 07:09 10:34 14:25
+ 70C86   Udine viale Venezia 401 06:11 07:11 10:36 12:31 13:39 14:27
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 06:12 07:13 10:40 12:33 13:41 14:29
+ 40116   AEROPORTO CAMPOFORMIDO via 
+Campoformido 138 (dir. Codroipo)
+06:14 07:15 10:42 12:36 13:44 14:32
+ 40114   CAMPOFORMIDO via Principe di Udine (fr. 56, 
+monumento PAN)
+06:15 07:18 10:44 12:38 13:45 14:33
+ 40118   CAMPOFORMIDO via Basaldella 06:16 07:19 10:45 12:39 13:46 14:35
+ 38827   CARPENETO via Campoformido 33 (direzione 
+Pozzuolo)
+06:18 07:22 10:47 12:41 13:49 14:37
+ 38807   CARPENETO via Maria Antonini 16 (centro, 
+direzione Pozzuolo)
+06:20 07:24 10:49 12:43 13:51 14:38
+ 38817   CARPENETO via Maria Antonini 78 (direzione 
+Pozzuolo)
+06:22 07:25 10:49 12:43 13:52 14:39
+ 38836   POZZUOLO DEL FRIULI piazza Julia 14 06:24 07:27 10:51 12:45 13:54 14:41
+ 38802   POZZUOLO via IV Genova (fr.parco Rose, 
+dir.Udine)
+07:29 12:46 13:55
+ 38816   POZZUOLO DEL FRIULI via delle Scuole 
+(centro studi)
+07:30 12:50 12:50 13:58
+ 38834   POZZUOLO via IV Genova (bivio, direzione 
+Latisana)
+12:51 12:51 14:00
+ 38849   POZZUOLO DEL FRIULI via M.della Salute 2 
+(dir.Sammardenchia)
+06:25 10:54 12:51 12:52 14:00 14:43
+ 38804   SAMMARDENCHIA DI POZZ. piazza 24 
+Maggio 12 (fronte chiesa)
+06:28 10:56 12:54 12:54 14:03 14:45
+ 37138   LUMIGNACCO via Giovanni Pascoli (fronte 4, 
+chiesa)
+11:00 12:57 14:06
+ 38825   CARGNACCO via Leonardo da Vinci 5 (Tempio, 
+direzione Udine)
+11:01 12:59 14:08
+ 38805   CARGNACCO piazza 4 Novembre 2 (centro) 11:02 13:00 14:09
+ 38846   TERENZANO via 24 Ottobre 1917 (civico 7) 11:05 13:03 14:11
+ 38832   TERENZANO piazza Terenzio 21 (chiesa) 06:31 12:57 14:48
+ 38808   TERENZANO piazza Terenzio 2 (chiesa) 13:04 14:12
+ 38839   TERENZANO via Giuseppe Ellero 2 (angolo via 
+Ellero)
+11:06
+ 38848   TERENZANO via Giuseppe Ellero 29 (bivio SR 
+353, dir. Udine)
+06:32 11:07 13:05 14:13 14:50
+ 38841   ZUGLIANO via Lignano 21 (bivio SR353, 
+direzione Udine)
+06:34 07:35 11:08 13:07 14:15 14:51
+ 40105   BASALDELLA via Adriatica 89 (rotonda San 
+Sebastiano)
+06:36 07:38 11:10 13:09 14:17 14:53
+ 70C05   SANT'OSVALDO via Pozzuolo 330 06:37 07:39 11:11 13:10 14:18 14:54
+ 70C06   UDINE via Pozzuolo 162 (bivio per sede 
+scolastica)
+06:38 07:41 11:13 13:12 14:20 14:55
+ 70C59   UDINE via Marangoni 101 07:46
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 07:47
+ 70C51   UDINE via Marco Volpe 63 (piazzale 
+Cavedalis)
+07:52
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:59
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 08:04
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 06:40 11:15 13:14 14:22 14:58
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 06:41 11:16 13:15 14:23 14:58
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:46 08:07 11:20 13:17 14:25 15:05
+CADENZA
+CORSA
+martedì 18 novembre 2025Pagina 1 di 2
+  [Pagina 45]
+2 4 8 12 10 14 16
+ 70101   UDINE viale Europa Unita 37 (autostazione) 8 15 8 8 23 7
+BANCHINE
+VALIDITÀ
+U300 Scolastica
+martedì 18 novembre 2025Pagina 2 di 2
+  [Pagina 46]
+LINEA 491 (Andata)
+Orario valido dal 24 novembre 2025PORTOGRUARO-LIGNANO 
+1 3 13
+U370 U370 U370
+ 75105   PORTOGRUARO via Galileo Galilei 5 
+(Luzzato)
+13:30 13:30 13:30
+ V2903   PORTOGRUARO viale Isonzo 48 (bar) 13:31
+ 75112   PORTOGRUARO via Camillo Valle 8  (Monsignor 
+D'Alessi)
+13:33 13:33 13:32
+ 75113   PORTOGRUARO via Camillo Valle (fronte 39, 
+Carabinieri)
+13:34 13:33 13:33
+ V2901   PORTOGRUARO via Diaz 16 (autostazione) 13:40
+ 75106   PORTOGRUARO viale Trieste 80 (supermercato, 
+dir. Latisana)
+13:35 13:35
+ 31668   LATISANA via Egregis Gaspari (fronte stadio) 13:49 13:52
+ 31603   LATISANOTTA via Roma 9 (semaforo) 13:50 13:55
+ 31658   PALUDO DI LATISANA via Tisanella 113 
+(chiesa)
+14:05
+ 31513   RONCHIS corso Italia 25 (municipio, direzione 
+Varmo)
+13:53
+ 31514   RONCHIS via Lignano 21 (trattoria) 13:56
+ 31646   LATISANA via Livelli 7 (rotonda Crosere) 13:58
+ 31601   LATISANA via Beorchia (autostazione) 14:07
+ 31608   GORGO DI LATISANA bivio SR.354 fr. 131 14:03
+ 31609   GORGO DI LATISANA via N.Tommaseo 6 
+(chiesa, direz.Pertegada)
+13:55
+ 31664   GORGO DI LATISANA via Nicolò Tommaseo 54 
+(Volton)
+13:55
+ 31630   PERTEGADA via Florida (fronte civico 88, 
+fontanina)
+13:57
+ 31661   PERTEGADA piazza Santo Spirito 10 13:59
+ 31652   PERTEGADA via Lignano Sabbiadoro 82 
+(semaforo, dir.Lignano)
+14:01
+ 31654   PERTEGADA via Lignano Sabb.(angolo via 
+Casette, dir.Lignano)
+14:02
+ 31655   PICCHI via Lignano Sud (angolo via Forte) 
+direz.Lignano
+14:07
+ 31648   APRILIA MARITTIMA v.le Aprilia Marittima 14:09
+ 31657   BEVAZZANA DI LATISANA via Lignano Sud 
+(direzione Lignano)
+14:11 14:07
+ 40H13   LIGNANO via Casa Bianca 4 (lato Green Village, 
+dir. Bibione)
+14:14
+ 40H05   LIGNANO via Casa Bianca (fronte civico 6, Golf 
+Club)
+14:17
+ 40H12   LIGNANO via Casa Bianca (fronte Green Village) 14:17
+ 40H20   LIGNANO via dei Pini 35A (market) 14:10
+ 31818   A Richiesta LIGNANO corso delle Nazioni 53 
+(agenzia Audax)
+14:12
+ 31822   LIGNANO piazza Rosa dei Venti 1 14:12
+ 40H02   LIGNANO corso degli Alisei 20 (La Botte) 14:14
+ 40H17   LIGNANO viale Centrale 33A (giardini) 14:15
+ 40H16   LIGNANO viale Centrale 29 (colonie) 14:17
+ 41809   LIGNANO via Mezzasacca 1 14:22
+ 40H19   LIGNANO viale Centrale (fronte 22A, camping 
+Sabbiadoro)
+14:24 14:17
+ 41806   LIGNANO via Sabbiadoro (fronte civico 6, Il 
+Gambero)
+14:25 14:19
+ 31801   LIGNANO via Amaranto (autostazione) 14:25 14:19
+ 41810   LIGNANO via Latisana 35 (Ufcio Turismo FVG) 14:28 14:24
+ 31808   LIGNANO viale dei Platani 92 (angolo via 
+Annia)
+14:34 14:32
+CADENZA
+CORSA
+VALIDITÀ
+U370 SCOLASTICO REGIONE VENETO
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 47]
+LINEA 491 (Ritorno)
+Orario valido dal 24 novembre 2025LIGNANO-PORTOGRUARO 
+12 2 4 802
+U370 U370 U370 U370
+ 31801   LIGNANO via Amaranto (autostazione) 06:35 06:30
+ 41810   LIGNANO via Latisana 35 (Ufcio Turismo FVG) 06:38 06:33
+ 31808   LIGNANO viale dei Platani 92 (angolo via Annia) 06:35
+ 41808   LIGNANO viale Europa (fronte civico 27,  L.HUB 
+park)
+06:42
+ 41809   LIGNANO via Mezzasacca 1 06:43
+ 40H15   LIGNANO viale Centrale 24 (colonie) 06:43
+ 40H18   LIGNANO viale Centrale 38 (giardini) 06:45
+ 40H03   LIGNANO corso degli Alisei 25 (La Botte) 06:46
+ 40H09   LIGNANO piazza Rosa dei Venti 15 06:47
+ 31804   LIGNANO corso delle Nazioni 51 (agenzia 
+Audax)
+06:50
+ 40H21   LIGNANO via dei Pini 56 (market) 06:52
+ 40H13   LIGNANO via Casa Bianca 4 (lato Green Village, 
+dir. Bibione)
+06:40
+ 40H05   LIGNANO via Casa Bianca (fronte civico 6, Golf 
+Club)
+06:42
+ 40H12   LIGNANO via Casa Bianca (fronte Green Village) 06:43
+ 31604   BEVAZZANA DI LATISANA via Lignano Sud 
+(direzione Latisana)
+06:55 06:46
+ 31648   APRILIA MARITTIMA v.le Aprilia Marittima 06:49
+ 31613   PICCHI via Lignano Sud (angolo via Forte, 
+direzione Latisana
+06:50
+ 31629   PERTEGADA via Lignano Sabb.(ang. via 
+Casette, dir. Latisana)
+06:59 06:51
+ 31653   PERTEGADA via del Molo 65 (semaforo) 07:02
+ 31611   PERTEGADA piazza Santo Spirito 18 07:02 07:00
+ 31663   PERTEGADA via Florida 88 (fontanina) 07:04 07:02
+ 31631   GORGO DI LATISANA via Nicolò Tommaseo 59 
+(Volton)
+07:05 07:04
+ 31660   GORGO DI LATISANA via Nicolò Tommaseo 
+(chiesa)
+07:06 07:05
+ 31670   GORGO DI LATISANA bivio SR.354 131 06:56
+ 31658   PALUDO DI LATISANA via Tisanella 113 
+(chiesa)
+07:11 07:10
+ 31649   LATISANA via Crosere (fronte 116, rotonda 
+Crosere)
+07:02
+ 31506   RONCHIS via Lignano (fronte civico 40, trattoria) 07:04
+ 31501   RONCHIS corso Italia 72 (municipio) 07:09
+ 31659   LATISANOTTA via Roma 6 (semaforo) 07:11 07:18
+ 31645   LATISANA via Egregis Gaspari (lato stadio) 07:19
+ 31601   LATISANA via Beorchia (autostazione) 07:06
+ 75103   PORTOGRUARO viale Trieste 91 (supermercato) 07:20 07:27 07:27 07:34
+ 75105   PORTOGRUARO via Galileo Galilei 5 
+(Luzzato)
+07:22 07:29 07:30 07:37
+ V2903   PORTOGRUARO viale Isonzo 48 (bar) 07:23
+ 75112   PORTOGRUARO via Camillo Valle 8  (Monsignor 
+D'Alessi)
+07:24 07:32 07:35 07:39
+ 75113   PORTOGRUARO via Camillo Valle (fronte 39, 
+Carabinieri)
+07:27 07:33 07:35 07:39
+ V2901   PORTOGRUARO via Diaz 16 (autostazione) 07:30
+CADENZA
+CORSA
+12 2 4 802
+ 31801   LIGNANO via Amaranto (autostazione) 8 8
+ 31601   LATISANA via Beorchia (autostazione) 8
+BANCHINE
+VALIDITÀ
+U370 SCOLASTICO REGIONE VENETO
+martedì 18 novembre 2025Pagina 1 di 1
+  [Pagina 48]
+LINEA 4BA (Andata)
+Orario valido dal 24 novembre 2025UDINE-BRESSA-BASILIANO-BLESSANO-UDINE 
+1 17 3 27 5 29 7 9 11 13 31 39 15 25
+U200 U230 U230 U240 U230 U240 U200 U200 U230 U300 U076 U135 U250 U300
+ 70101   UDINE viale Europa Unita 37 (autostazione) 05:35 06:10 06:35 06:40 07:25 07:30 08:25 09:20 11:10 12:15 12:15 12:15 13:15 13:15
+ 70216   UDINE via Renati 28 (Area 2) 12:19
+ 70219   UDINE via Caccia 44 (Area 2) 13:21
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 12:22 13:23
+ 70C49   UDINE viale Ledra 108 (Area 2) 12:24 13:25
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 13:26
+ 70C31   UDINE piazzale 26 Luglio 25 05:39 06:13 06:39 06:44 07:30 07:35 08:29 09:23 11:16 12:26 12:21 12:21 13:20
+ 70C86   Udine viale Venezia 401 05:40 06:15 06:40 06:45 07:30 07:35 08:30 09:25 11:17 12:28 12:22 12:22 13:22 13:29
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 05:41 06:16 06:42 06:47 07:33 07:38 08:33 09:28 11:20 12:29 12:24 12:24 13:23 13:30
+ 40219   PASIAN DI PRATO via cristoforo Colombo 172, 
+Santa Caterina
+05:43 06:18 06:44 06:49 07:36 07:40 08:35 09:29 11:23 12:32 12:26 12:26 13:25 13:33
+ 40112   BRESSA via 11 Febbraio 47 05:45 06:20 06:46 06:52 07:39 07:43 08:39 09:34 11:25 12:35 12:29 12:29 13:28 13:37
+ 40121   BRESSA via 11 Febbraio 13 (parcheggio) 05:45 06:21 06:47 06:52 07:40 07:44 08:39 09:34 11:26 12:36 12:29 12:29 13:28 13:38
+ 40315   VARIANO via Trieste 104 (direzione Basiliano) 05:47 06:49 06:54 07:43 07:47 08:42 09:37 11:29 12:39 12:32 12:32 13:30 13:40
+ 40309   VARIANO piazza Patriarcato 12 (direzione 
+Basiliano)
+05:49 06:51 06:57 07:44 07:49 08:44 09:39 11:30 12:41 12:34 12:34 13:32 13:41
+ 40340   BASILIANO via Battisti 71 (direzione centro) 05:50 06:24 06:52 06:58 07:46 07:50 08:45 09:40 11:31 12:43 12:35 12:35 13:33 13:43
+ 40326   BASILIANO piazza municipio (lato chiesa) 05:51 06:25 06:54 06:59 07:47 07:51 08:46 09:41 11:33 12:45 12:37 12:37 13:34 13:45
+ 40317   BASILIANO via 3 Novembre 56 (bivio, 
+provenienza Basiliano)
+05:52 06:55 06:59 07:48 07:52 08:47 09:42 11:34 12:46 12:37 12:37 13:35 13:46
+ 40311   VILLAORBA piazza della Chiesa 26 
+(direzione Tomba)
+13:38
+ 40312   VISSANDONE piazza Umberto I (civico 23) 05:53 06:57 07:01 07:50 07:54 08:49 09:43 11:36 12:47 12:41 12:41 13:43 13:48
+ 40341   VISSANDONE via dell'asilo (asilo, direzione 
+Blessano)
+05:54 06:58 07:01 07:51 07:55 08:50 09:44 11:37 12:48 12:42 12:42 13:45 13:49
+ 40343   BLESSANO via Cavour 7 (Pesa) 05:56 07:01 07:05 07:53 07:58 08:53 09:47 11:39 12:51 12:44 12:44 13:47 13:51
+ 40336   BLESSANO via Damiano Chiesa 26 05:57 07:01 07:05 07:54 07:58 08:53 09:47 11:40 12:52 12:44 12:44 13:47 13:52
+ 40320   BLESSANO via Damiano Chiesa 112 05:58 07:02 07:06 07:56 08:00 08:55 09:49 11:41 12:54 12:46 12:46 13:48 13:54
+ 40203   COLLOREDO DI PRATO via Udine 89 (scuola 
+primaria)
+06:00 07:05 07:08 07:58 08:02 08:58 09:51 11:44 12:56 12:47 12:47 13:50 13:56
+ 40211   COLLOREDO DI PRATO piazza 5 Martiri (fronte 
+civico 5)
+07:05 07:09 07:58 08:03 08:58 09:52 11:45 12:57 12:48 12:48 13:51 13:56
+ 40221   COLLOREDO DI PRATO piazza 5 Martiri 30 06:01
+ 40103   BRESSA via 11 Febbraio 14 (parcheggio) 06:04
+ 40109   BRESSA via 11 Febbraio 58 06:05
+ 40209   PASIAN DI PRATO via Cristoforo Colombo 139, 
+Santa Caterina
+06:08
+ 70C57   PASIAN DI PRATO via Roma 46 (municipio) 07:09 07:12 08:02 08:07 09:02 09:56 11:49 13:01 12:52 12:52 13:55 13:59
+ 40213   PASIAN DI PRATO via Roma 122, Santa Caterina 07:10 07:12 08:04 08:08 09:04 09:57 11:50 13:02 12:53 12:53 13:55 14:01
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 06:10 07:10 07:13 08:05 08:09 09:04 09:58 11:50 13:02 12:53 12:53 13:57 14:01
+ 70C85   Udine viale Venezia 410 06:11 07:13 07:18 08:07 08:12 09:07 09:58 11:52 13:04 12:53 12:53 13:58 14:03
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+06:14 07:17 07:18 08:14 08:15 09:11 10:04 11:57 13:09 12:59 12:59 14:02 14:06
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 06:15 07:18 07:20 08:16 08:16 09:11 10:06 11:58 13:11 13:02 13:02 14:03 14:07
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 06:16 07:20 07:20 08:18 08:19 09:12 10:07 12:00 13:12 13:02 13:02 14:04 14:08
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:20 07:25 07:30 08:25 08:25 09:19 10:10 12:01 13:14 13:05 13:05 14:05 14:10
+CADENZA
+CORSA
+1 17 3 27 5 29 7 9 11 13 31 39 15 25
+ 70101   UDINE viale Europa Unita 37 (autostazione) 5 5 5 5 5 5 6 5 5 14 16
+BANCHINE
+martedì 18 novembre 2025Pagina 1 di 3
+  [Pagina 49]
+VALIDITÀ
+U200 Feriale U264 Feriale escluso il sabato scolastico
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U076 Feriale giorni non scolastici escluso sabato inver nale
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U230 Feriale invernale (periodo scolastico)
+U300 Scolastica
+martedì 18 novembre 2025Pagina 2 di 3
+  [Pagina 50]
+LINEA 4BA (Andata)
+Orario valido dal 24 novembre 2025UDINE-BRESSA-BASILIANO-BLESSANO-UDINE 
+19 33 21 35 23 37
+U264 U306 U264 U306 U264 U306
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17:20 17:20 18:25 18:25 19:20 19:20
+ 70C31   UDINE piazzale 26 Luglio 25 17:25 17:25 18:30 18:30 19:25 19:25
+ 70C86   Udine viale Venezia 401 17:27 17:27 18:30 18:30 19:27 19:27
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 17:29 17:29 18:34 18:34 19:29 19:29
+ 40219   PASIAN DI PRATO via cristoforo Colombo 172, 
+Santa Caterina
+17:31 17:31 18:37 18:37 19:31 19:31
+ 40112   BRESSA via 11 Febbraio 47 17:34 17:34 18:40 18:40 19:34 19:34
+ 40121   BRESSA via 11 Febbraio 13 (parcheggio) 17:35 17:35 18:41 18:41 19:34 19:34
+ 40315   VARIANO via Trieste 104 (direzione Basiliano) 17:38 17:38 18:43 18:43 19:37 19:37
+ 40309   VARIANO piazza Patriarcato 12 (direzione 
+Basiliano)
+17:39 17:39 18:45 18:45 19:38 19:38
+ 40340   BASILIANO via Battisti 71 (direzione centro) 17:41 17:41 18:47 18:47 19:40 19:40
+ 40326   BASILIANO piazza municipio (lato chiesa) 17:42 17:42 18:48 18:48 19:41 19:41
+ 40317   BASILIANO via 3 Novembre 56 (bivio, 
+provenienza Basiliano)
+17:43 17:43 18:49 18:49 19:42 19:42
+ 40311   VILLAORBA piazza della Chiesa 26 
+(direzione Tomba)
+17:46 17:46 19:44 19:44
+ 40312   VISSANDONE piazza Umberto I (civico 23) 17:52 17:52 18:50 18:50 19:49 19:49
+ 40341   VISSANDONE via dell'asilo (asilo, direzione 
+Blessano)
+17:53 17:53 18:51 18:51 19:50 19:50
+ 40343   BLESSANO via Cavour 7 (Pesa) 17:55 17:55 18:54 18:54 19:53 19:53
+ 40336   BLESSANO via Damiano Chiesa 26 17:56 17:56 18:54 18:54 19:53 19:53
+ 40320   BLESSANO via Damiano Chiesa 112 17:57 17:57 18:55 18:55 19:54 19:54
+ 40203   COLLOREDO DI PRATO via Udine 89 (scuola 
+primaria)
+17:59 17:59 18:58 18:58 19:57 19:57
+ 40211   COLLOREDO DI PRATO piazza 5 Martiri (fronte 
+civico 5)
+18:01 18:01 18:58 18:58 19:58 19:58
+ 70C57   PASIAN DI PRATO via Roma 46 (municipio) 18:04 18:04 19:02 19:02 20:01 20:01
+ 40213   PASIAN DI PRATO via Roma 122, Santa Caterina 18:05 18:05 19:03 19:03 20:02 20:02
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 18:06 18:06 19:04 19:04 20:02 20:02
+ 70C85   Udine viale Venezia 410 18:08 18:08 19:07 19:07 20:03 20:03
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+18:12 18:12 19:09 19:09 20:08 20:08
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 18:14 18:14 19:11 19:11 20:09 20:09
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 18:14 18:14 19:12 19:12 20:10 20:10
+ 70101   UDINE viale Europa Unita 37 (autostazione) 18:15 18:15 19:15 19:15 20:12 20:12
+CADENZA
+CORSA
+19 33 21 35 23 37
+ 70101   UDINE viale Europa Unita 37 (autostazione) 5 5 6 6 5 5
+BANCHINE
+VALIDITÀ
+U200 Feriale U264 Feriale escluso il sabato scolastico
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U076 Feriale giorni non scolastici escluso sabato inver nale
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U230 Feriale invernale (periodo scolastico)
+U300 Scolastica
+martedì 18 novembre 2025Pagina 3 di 3
+  [Pagina 51]
+LINEA 4BA (Ritorno)
+Orario valido dal 24 novembre 2025UDINE-BLESSANO-BASILIANO-BRESSA-UDINE 
+2 16 4 6 10 12 8 14
+U230 U300 U251 U200 U230 U230 U240 U230
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:40 06:50 08:05 12:15 13:15 14:15 14:15
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 14:19 14:19
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 14:21 14:21
+ 70221   UDINE viale Ledra 98 (Area 1) 14:23 14:23
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 14:24 14:24
+ 70C49   UDINE viale Ledra 108 (Area 2) 13:21
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 13:22
+ 70C31   UDINE piazzale 26 Luglio 25 06:44 06:54 08:09 12:21
+ 70C86   Udine viale Venezia 401 06:46 06:56 08:11 12:23 13:26 14:25 14:25
+ 70C26   PASIAN DI PRATO via Santa Caterina 25 06:47 06:58 08:12 12:26 13:28 14:28 14:28
+ 40222   PASIAN DI PRATO via Roma 123, Santa Caterina 06:48 06:59 08:13 12:27 13:29 14:29 14:29
+ 40218   PASIAN DI PRATO via Roma 37 (municipio) 06:49 07:00 08:14 12:28 13:30 14:30 14:30
+ 40212   COLLOREDO DI PRATO via D'Antoni 19 (Cantine 
+Antonutti)
+06:54 07:03 08:19 12:31 13:34 14:33 14:33
+ 40223   COLLOREDO DI PRATO via Udine 84 (scuola 
+primaria)
+06:55 07:06 08:20 12:33 13:37 14:34 14:34
+ 40342   BLESSANO via Damiano Chiesa 115 06:59 07:09 08:22 12:35 13:40 14:36 14:36
+ 40335   BLESSANO via Damiano Chiesa 25 07:00 07:10 08:23 12:36 13:41 14:37 14:37
+ 40324   BLESSANO via Cavour 12 (Pesa, direzione 
+Basiliano)
+07:01 07:12 08:24 12:37 13:42 14:38 14:38
+ 40319   VISSANDONE via dell'asilo (asilo, provenienza 
+Blessano)
+07:03 07:14 08:26 12:39 13:44 14:40 14:40
+ 40313   VISSANDONE piazza Umberto I (civico 2) 07:05 07:16 08:28 12:40 13:47 14:42 14:42
+ 40327   BASILIANO via 3 Novembre 45 (bivio, direzione 
+Basiliano)
+07:07 07:17 08:30 12:42 13:47 14:43 14:43
+ 40326   BASILIANO piazza municipio (lato chiesa) 06:25
+ 40301   BASILIANO piazza Municipio 2 (lato 
+municipio)
+07:09 07:18 08:31 12:43 13:49 14:45 14:45
+ 40316   BASILIANO via Battisti 56 (direzione Variano) 06:26 07:10 07:19 08:32 12:44 13:50 14:46 14:46
+ 40338   VARIANO piazza Patriarcato 14 (direzione 
+Bressa)
+06:28 07:13 07:23 08:34 12:46 13:52 14:48 14:48
+ 40339   VARIANO via Trieste 137 (direzione Bressa) 06:29 07:14 07:25 08:35 12:47 13:53 14:49 14:49
+ 40103   BRESSA via 11 Febbraio 14 (parcheggio) 06:32 07:18 07:30 08:39 12:50 13:56 14:53 14:53
+ 40109   BRESSA via 11 Febbraio 58 06:32 07:19 07:30 08:39 12:51 13:56 14:53 14:53
+ 40209   PASIAN DI PRATO via Cristoforo Colombo 139, 
+Santa Caterina
+06:35 07:21 07:34 08:42 12:54 13:59 14:56 14:56
+ 70C29   PASIAN DI PRATO via Santa Caterina 4 06:36 07:24 07:36 08:46 12:57 14:03 14:59 14:59
+ 70C85   Udine viale Venezia 410 06:38 07:38 08:49 12:59 14:05 15:01 15:01
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+06:40 08:53 13:04 14:07 15:05 15:05
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 07:40
+ 70191   UDINE viale Monsignor Nogara (fronte 
+Stringher)
+07:29
+ 70229   UDINE piazzale Rita Levi Montalcini 
+(Terminal Studenti)
+07:33
+ 70C51   UDINE via Marco Volpe 63 (piazzale Cavedalis) 07:41
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:44 07:44
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 06:41 08:54 13:06 14:09 15:06 15:06
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 06:42 08:56 13:08 14:10 15:08 15:08
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 07:47 07:48
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:45 07:55 08:00 08:59 13:12 14:10 15:10 15:10
+CADENZA
+CORSA
+2 16 4 6 10 12 8 14
+ 70101   UDINE viale Europa Unita 37 (autostazione) 5 5 5 13 15 5 5
+BANCHINE
+martedì 18 novembre 2025Pagina 1 di 2
+  [Pagina 52]
+VALIDITÀ
+U200 Feriale U240 Feriale estiva (fne scuole-inizio scuole)
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U251 Feriale giorni non scol. del periodo scolastico
+martedì 18 novembre 2025Pagina 2 di 2
+  [Pagina 53]
+www.tplfvg.it
+TPL FVG S.c.a.r.l.
+via Caduti di An Nasiriyah, 6
+34170 Gorizia (GO)

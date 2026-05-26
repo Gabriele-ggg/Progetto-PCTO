@@ -1,0 +1,3736 @@
+  [Pagina 1]
+Sandanielese
+Orario valido 
+dal 23 febbraio 2026
+SERVIZIO 
+EXTRAURBANO
+  [Pagina 2]
+San Daniele del Friuli-Dignano-Spilimbergo
+Forgaria-Flagogna-Pinzano-Ragogna-S. Daniele
+S. Rocco-Forgaria-Cornino-S. Daniele
+S. Daniele-Cimano-Ragogna-S. Daniele
+S. Daniele-Dignano-Sedegliano-Codroipo
+Gemona-Buja-Majano-S. Daniele
+S. Daniele-Carpacco-Coseano-Fagagna
+S. Daniele-Dignano-S. Odorico-Coseano
+S. Daniele-Giavons-Rive D’Arcano-Fagagna-Udine
+S.Daniele-Rodeano-Rive D’Arcano-Fagagna-Udine
+S. Daniele-Rodeano-Fagagna-Udine
+S. Daniele-Coseano-S. Vito di Fagagna-Udine
+Udine-Torreano-Martignacco-Nogaredo-Udine
+  [Pagina 3]
+LINEA 210 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-DIGNANO-SPILIMBERGO 
+801 1 15 3 5 7 9 11
+U300 U200 U300 U200 U250 U300 U300 U207
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+07:25 07:38 09:45 11:10 12:35 13:25 14:10 18:20
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+07:27 07:40 09:47 11:12 12:37 13:27 14:12 18:22
+ 50I19   SAN DANIELE DEL FRIULI via Trento Trieste 108 
+(lato bar)
+07:28 07:41 09:48 11:13 12:38 13:28 14:13 18:23
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+07:29 07:43 09:50 11:15 12:39 13:29 14:14 18:24
+ 50I03   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Giacomo Bernè 3
+07:33 07:47 09:54 11:18 12:42 13:34 14:18 18:28
+ 50807   CARPACCO via De Gasperi 14 07:35 07:49 09:55 11:20 12:43 13:35 14:20 18:30
+ 50813   CARPACCO piazza Libertà 15 07:50 09:56 11:21 12:44 13:36 14:21 18:31
+ 50816   CARPACCO via Pasini 22 (trattoria, direzione 
+Dignano)
+07:51 09:57 11:21 12:45 13:37 14:21 18:32
+ 50811   VIDULIS via Nazionale 64 (Lupieri, direzione 
+Dignano)
+07:38 07:54 10:00 11:24 12:47 13:39 18:35
+ 50805   VIDULIS via Trieste 25 (chiesa) 14:24
+ 50715   MASERIS via della Fontana 4 (direzione 
+Cisterna)
+14:27
+ 50705   CISTERNA piazza monumento 14 (direzione 
+Flaibano)
+14:30
+ 50812   DIGNANO via San Gallo (fronte civico 1), borgo 
+Mezzoli
+07:39 07:55 10:00 11:25 12:48 13:40 18:36
+ 50801   DIGNANO piazza Cimolino fronte 8 07:40
+ 50802   DIGNANO piazza Plebiscito 14 07:41 07:57 10:03 11:27 12:50 13:41 14:33 18:37
+ P4431   SPILIMBERGO via Udine (fr.civico 22 agraria) 07:45 08:03 10:08 11:31 12:55 13:46 14:37 18:42
+ P4401   SPILIMBERGO via Udine 5 (autostazione) 07:46 08:04 10:08 11:33 12:58 13:48 14:41 18:43
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U207 Feriale escluso il sabato U300 Scolastica
+lunedì 16 febbraio 2026Pagina 1 di 1
+  [Pagina 4]
+LINEA 210 (Ritorno)
+Orario valido dal 23 febbraio 2026SPILIMBERGO-DIGNANO-S.DANIELE 
+4 16 14 6 2 8 10 12
+U230 U240 U300 U200 U300 U250 U300 U207
+ P4431   SPILIMBERGO via Udine (fr.civico 22 agraria) 12:47
+ P4401   SPILIMBERGO via Udine 5 (autostazione) 06:55 07:05 07:26 08:10 10:15 12:10 12:49 16:30
+ P4402   SPILIMBERGO via Udine 22 (agraria) 06:57 07:07 07:28 08:12 10:17 12:11 16:32
+ 50806   DIGNANO piazza Plebiscito fronte 14 07:01 07:11 07:32 08:16 10:21 12:16 12:56 16:37
+ 50818   DIGNANO via San Gallo 7 (direzione Vidulis), 
+borgo Mezzoli
+07:03 07:12 07:33 08:18 10:23 12:17 12:57 16:38
+ 50817   VIDULIS via Nazionale 27 (Lupieri) 07:04 07:13 07:34 08:18 10:24 12:18 12:58 16:39
+ 50809   CARPACCO via Pasini 43 (trattoria) 07:07 07:16 07:37 08:21 10:27 12:21 13:01 16:42
+ 50803   CARPACCO piazza Libertà 2 (direzione San 
+Daniele)
+07:08 07:17 07:38 08:23 10:28 12:22 13:02 16:43
+ 50815   CARPACCO via de Gasperi 9 (direzione 
+S.Daniele)
+07:09 07:18 07:39 08:24 10:29 12:23 13:02 16:44
+ 50I53   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Nazionale 55
+07:10 07:19 07:40 08:25 10:31 12:24 13:04 16:46
+ 50I16   SAN DANIELE DEL FRIULI via Kennedy (fronte 
+scuola media)
+07:15 07:23 08:28 10:34 12:28 13:08 16:50
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+07:44
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+07:17 07:24 07:45 08:30 10:35 12:29 13:10 16:52
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+07:18 07:25 07:47 08:32 10:37 12:30 13:11 16:53
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:18 07:28 07:49 08:33 10:38 12:33 13:13 16:53
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U207 Feriale escluso il sabato
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+lunedì 16 febbraio 2026Pagina 1 di 1
+  [Pagina 5]
+LINEA 211 (Andata)
+Orario valido dal 23 febbraio 2026FORGARIA-FLAGOGNA-PINZANO-RAGOGNA-S.DANIELE 
+61 3 15 65 17 1 21 25 27 39 67 31 33 43
+U300 U200 U300 U300 U250 U300 U300 U200 U200 U250 U300 U307 U300 U306
+ 51842   FORGARIA piazza Tre Martiri 12 (fronte 
+municipio)
+13:50
+ 51809   FORGARIA via Val 28 (scuola primaria) 13:55
+ 51801   FORGARIA piazza Tre Martiri 4 (municipio, 
+dir.Flagogna)
+06:25 07:10 07:43 08:31 13:57 14:23
+ 51841   FLAGOGNA Ponte dell'Armistizio 06:30 07:15 07:48 08:38 13:59 14:32
+ P4977   CASIACCO via del Molino 12 (centro sociale) 14:01
+ 51830   FLAGOGNA via Ponte Armistizio 10 (piazza) 06:32 07:17 07:49 14:04 14:33
+ 51839   FLAGOGNA via Garibaldi 40 14:06
+ 51832   FLAGOGNA via Stazione (fronte civico 8, angolo 
+via Scimon)
+14:08
+ 51831   FLAGOGNA via Pinzano 6 (Ponte Armistizio, 
+direzione Pinzano)
+08:39 14:09
+ 51814   FLAGOGNA via Pinzano 9 (Ponte Armistizio) 14:18
+ P3021   VALERIANO via Roma 38/via Cantore 07:32 13:38
+ P3005   PINZANO via XX Settembre 161 (fr.maglifcio) 07:37 13:42
+ P3091   PINZANO via XX Settembre (piazza) 06:30 07:39 07:40 08:45 12:00 13:55 13:55 14:30
+ 51329   SAN PIETRO DI RAGOGNA via al Ponte 7 
+(direzione S.Daniele)
+06:35 07:44 07:45 08:50 12:05 13:57 13:57 14:35
+ 51307   SAN PIETRO DI RAGOGNA via V.della Libertà 13 
+(dir.S.Daniele)
+06:36 07:44 07:46 08:50 12:06 13:58 13:58 14:35
+ 51323   SAN GIACOMO via San Daniele 2 (poste, 
+direzione S.Daniele)
+06:38 07:47 07:48 08:52 12:08 14:00 14:00 14:37
+ 51328   PIGNANO via Udine 24 (direzione San Daniele) 06:39 07:48 07:49 08:53 12:09 14:01 14:01 14:38
+ 51326   PIGNANO via Udine 42 (direzione San Daniele) 06:39 07:48 07:49 08:53 12:10 14:02 14:02 14:39
+ 50I66   SAN DANIELE DEL FRIULI via Ragogna 21 06:40 07:49 07:50 08:54 12:10 14:03 14:03 14:39
+ 50I57   SAN DANIELE DEL FRIULI via Tagliamento 61 
+(bar)
+06:41 07:51 07:51 08:56 12:11 14:05 14:05 14:40
+ 50I73   SAN DANIELE DEL FRIULI via C.Battisti 15 06:42 07:52 07:52 08:57 12:12 14:07 14:07 14:42
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+06:45 07:54 07:55 09:00 12:15 14:10 14:10 14:45
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U019 Feriale estiva e scolastica da lunedì a venerdì
+U308 Scolastica al lunedi-mercoledi-venerdi U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U312 Scolastica al martedi e al giovedi
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+U450 FESTIVA ANNUALE compreso 
+Capodanno-Pasqua-1°Maggio-Natale
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 6]
+LINEA 211 (Andata)
+Orario valido dal 23 febbraio 2026FORGARIA-FLAGOGNA-PINZANO-RAGOGNA-S.DANIELE 
+45 7 5 49 51 57 53 55 69 59 81 83 85
+U307 U308 U312 U241 U389 U307 U019 U306 U251 U307 U450 U450 U450
+ 51809   FORGARIA via Val 28 (scuola primaria) 16:52
+ 51801   FORGARIA piazza Tre Martiri 4 (municipio, 
+dir.Flagogna)
+16:45 16:53 17:42 17:42 17:42 18:52
+ 51801   FORGARIA piazza Tre Martiri 4 (municipio, 
+dir.Flagogna)
+09:08 13:08 17:08
+ 51841   FLAGOGNA Ponte dell'Armistizio 16:49 16:59 17:47 18:57
+ P4977   CASIACCO via del Molino 12 (centro sociale) 17:01
+ 51830   FLAGOGNA via Ponte Armistizio 10 (piazza) 16:50 17:01 17:48 18:57
+ 51839   FLAGOGNA via Garibaldi 40 17:48
+ 51832   FLAGOGNA via Stazione (fronte civico 8, angolo 
+via Scimon)
+17:51 09:18 13:18 17:18
+ 51831   FLAGOGNA via Pinzano 6 (Ponte Armistizio, 
+direzione Pinzano)
+17:47 17:47 17:52
+ P3010   COLLE SP1 (dir.Pinzano) loc.Pontaiba 17:54
+ P3001   PINZANO via XX Settembre 70 (piazza) 09:25 13:25 17:25
+ P3020   VALERIANO piazza (dir. Spilimbergo) 09:30 13:30 17:30
+ P4715   TRAVESIO stazione ferroviaria 09:39 13:39 17:39
+ P4791   TRAVESIO piazza (poste) 09:40 13:40 17:40
+ P2614   MEDUNO borgo Ciago 25 09:44 13:44 17:44
+ P2691   MEDUNO (poste) 09:46 13:46 17:46
+ P2003   FANNA (municipio) 09:55 13:55 17:55
+ P2501   MANIAGO (autostazione) 10:00 14:00 18:00
+ P3091   PINZANO via XX Settembre (piazza) 14:30 17:52 17:52 17:58 18:40 18:40 18:50
+ 51329   SAN PIETRO DI RAGOGNA via al Ponte 7 
+(direzione S.Daniele)
+14:35 17:58 17:58 18:02 18:44 18:44 18:55
+ 51307   SAN PIETRO DI RAGOGNA via V.della Libertà 13 
+(dir.S.Daniele)
+14:35 17:59 17:59 18:03 18:45 18:45 18:56
+ 51323   SAN GIACOMO via San Daniele 2 (poste, 
+direzione S.Daniele)
+14:37 18:01 18:01 18:05 18:47 18:47 18:58
+ 51328   PIGNANO via Udine 24 (direzione San Daniele) 14:38 18:02 18:02 18:06 18:48 18:48 18:59
+ 51326   PIGNANO via Udine 42 (direzione San Daniele) 14:39 18:02 18:02 18:07 18:48 18:48 19:00
+ 50I66   SAN DANIELE DEL FRIULI via Ragogna 21 14:39 18:03 18:03 18:08 18:49 18:49 19:01
+ 50I57   SAN DANIELE DEL FRIULI via Tagliamento 61 
+(bar)
+14:40 18:04 18:04 18:08 18:51 18:51 19:02
+ 50I73   SAN DANIELE DEL FRIULI via C.Battisti 15 14:42 18:05 18:05 18:10 18:52 18:52 19:02
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+14:45 18:10 18:10 18:15 18:55 18:55 19:05
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U019 Feriale estiva e scolastica da lunedì a venerdì
+U308 Scolastica al lunedi-mercoledi-venerdi U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U312 Scolastica al martedi e al giovedi
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+U450 FESTIVA ANNUALE compreso 
+Capodanno-Pasqua-1°Maggio-Natale
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 7]
+LINEA 211 (Ritorno)
+Orario valido dal 23 febbraio 2026S.DANIELE-RAGOGNA-PINZANO-FLAGOGNA-FORGARIA 
+58 8 10 68 12 14 6 20 24 28 26 32 30 38
+U300 U300 U300 U300 U300 U250 U300 U200 U300 U200 U250 U300 U300 U306
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+06:40 07:10 07:25 08:25 11:40 13:15 13:15 14:14
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 06:42 07:12 07:27 08:27 11:42 13:17 13:17 14:16
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+06:42 07:13 07:27 08:27 11:42 13:17 13:17 14:16
+ 50I39   SAN DANIELE DEL FRIULI via Ragogna 40 
+(direzione Pignano)
+06:43 07:14 07:28 08:28 11:44 13:18 13:18 14:17
+ 51309   PIGNANO via Udine 41 06:44 07:15 07:29 08:29 11:44 13:19 13:19 14:18
+ 51314   PIGNANO via Udine 19 06:44 07:15 07:29 08:30 11:45 13:20 13:20 14:18
+ 51305   SAN GIACOMO via San Daniele 3 (poste) 06:45 07:16 07:30 08:31 11:46 13:21 13:21 14:20
+ 51324   S.PIETRO DI RAGOGNA via Volontari della 
+Libertà (fronte 11)
+06:47 07:18 07:33 08:33 11:49 13:23 13:23 14:22
+ 51315   SAN PIETRO DI RAGOGNA via Al Ponte 18 06:48 07:19 07:33 08:34 11:49 13:24 13:24 14:22
+ P3091   PINZANO via XX Settembre (piazza) 06:55
+ P3001   PINZANO via XX Settembre 70 (piazza) 06:55 07:24 07:40 08:40 11:55 13:30 13:34 14:26
+ P3003   PINZANO via XX Settembre 124 (maglifcio) 07:24 13:36
+ P3021   VALERIANO via Roma 38/via Cantore 07:32 13:38
+ 51831   FLAGOGNA via Pinzano 6 (Ponte Armistizio, 
+direzione Pinzano)
+08:39
+ 51814   FLAGOGNA via Pinzano 9 (Ponte Armistizio) 07:01 08:39 13:41
+ 51830   FLAGOGNA via Ponte Armistizio 10 (piazza) 06:32 07:17 07:49
+ 51839   FLAGOGNA via Garibaldi 40 06:32 07:17 07:49
+ 51832   FLAGOGNA via Stazione (fronte civico 8, angolo 
+via Scimon)
+06:35 07:20 07:52
+ P4977   CASIACCO via del Molino 12 (centro sociale) 07:27
+ 51842   FORGARIA piazza Tre Martiri 12 (fronte 
+municipio)
+06:40 07:08 07:33 07:56 08:45 13:46
+ 51809   FORGARIA via Val 28 (scuola primaria) 07:37
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U019 Feriale estiva e scolastica da lunedì a venerdì
+U308 Scolastica al lunedi-mercoledi-venerdi U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U312 Scolastica al martedi e al giovedi U306 Scolastica solo al sabato
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico U450 FESTIVA ANNUALE compreso 
+Capodanno-Pasqua-1°Maggio-Natale
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 8]
+LINEA 211 (Ritorno)
+Orario valido dal 23 febbraio 2026S.DANIELE-RAGOGNA-PINZANO-FLAGOGNA-FORGARIA 
+40 16 34 2 4 50 52 78 36 80 82 84
+U307 U307 U300 U308 U312 U019 U306 U251 U307 U450 U450 U450
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+14:14 18:20 18:20 18:34
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 14:16 18:22 18:22 18:36
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+14:16 18:23 18:23 18:37
+ 50I39   SAN DANIELE DEL FRIULI via Ragogna 40 
+(direzione Pignano)
+14:17 18:24 18:24 18:38
+ 51309   PIGNANO via Udine 41 14:18 18:25 18:25 18:39
+ 51314   PIGNANO via Udine 19 14:18 18:25 18:25 18:39
+ 51305   SAN GIACOMO via San Daniele 3 (poste) 14:20 18:26 18:26 18:40
+ 51324   S.PIETRO DI RAGOGNA via Volontari della 
+Libertà (fronte 11)
+14:22 18:29 18:29 18:43
+ 51315   SAN PIETRO DI RAGOGNA via Al Ponte 18 14:22 18:29 18:29 18:43
+ P2501   MANIAGO (autostazione) 10:10 14:10 18:10
+ P2001   FANNA via Montelieto 9 (Al Fogolar) 10:15 14:15 18:15
+ P2691   MEDUNO (poste) 10:24 14:24 18:24
+ P2603   MEDUNO borgo Ciago 20 10:26 14:26 18:26
+ P4701   TRAVESIO piazza XX Settembre 1 10:30 14:30 18:30
+ P4715   TRAVESIO stazione ferroviaria 10:31 14:31 18:31
+ P3091   PINZANO via XX Settembre (piazza) 10:46 14:46 18:46
+ P3001   PINZANO via XX Settembre 70 (piazza) 14:26 18:35 18:35 18:47
+ 51814   FLAGOGNA via Pinzano 9 (Ponte Armistizio) 14:18
+ 51832   FLAGOGNA via Stazione (fronte civico 8, angolo 
+via Scimon)
+10:55 14:55 18:55
+ 51842   FORGARIA piazza Tre Martiri 12 (fronte 
+municipio)
+11:02 15:02 19:02
+ 51830   FLAGOGNA via Ponte Armistizio 10 (piazza) 14:33 16:50 17:01 18:57
+ 51839   FLAGOGNA via Garibaldi 40 14:34 16:51 17:05 18:58
+ 51832   FLAGOGNA via Stazione (fronte civico 8, angolo 
+via Scimon)
+14:37 16:54 17:07 19:02
+ 51842   FORGARIA piazza Tre Martiri 12 (fronte 
+municipio)
+14:23 14:42 17:05 17:15 19:07
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U019 Feriale estiva e scolastica da lunedì a venerdì
+U308 Scolastica al lunedi-mercoledi-venerdi U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U312 Scolastica al martedi e al giovedi U306 Scolastica solo al sabato
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico U450 FESTIVA ANNUALE compreso 
+Capodanno-Pasqua-1°Maggio-Natale
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 9]
+LINEA 212 (Andata)
+Orario valido dal 23 febbraio 2026S.ROCCO-FORGARIA-CORNINO-S.DANIELE 
+5 7 11 15 1 23 29 39 33 37 45 3 17 55
+U250 U300 U300 U250 U300 U200 U200 U240 U300 U230 U300 U308 U312 U394
+ 51835   SAN ROCCO via Vidoni 9 (piazza chiesa) 06:30 06:30 14:02 14:49 19:00
+ 51812   FORGARIA via Jogna 1 (municipio, direzione 
+centro)
+06:33 06:33 14:05 14:51 19:03
+ 51854   FORGARIA via Coletti 4 (direzione centro) 06:34 06:34 14:06 14:52 19:04
+ 51801   FORGARIA piazza Tre Martiri 4 (municipio, 
+dir.Flagogna)
+06:37 06:37 06:53 08:25 12:04 13:50 14:09 14:09 14:59 19:07
+ 51842   FORGARIA piazza Tre Martiri 12 (fronte 
+municipio)
+07:56
+ 51809   FORGARIA via Val 28 (scuola primaria) 16:23 16:23
+ 51847   FORGARIA via Cornino 2 (provenienza centro), 
+borgo Grap
+06:38 06:38 06:55 07:57 08:27 12:06 13:52 14:11 16:24 16:24 19:07
+ 51813   FORGARIA via Cornino (fronte via Prat, direzione 
+Cornino)
+06:40 06:40 06:57 07:59 08:28 16:26 16:25
+ 51840   CORNINO via Costa (bivio via Cadrovin, direzione 
+Cornino)
+12:07 13:54 14:13 19:09
+ 51806   CORNINO via Napoleonica (bivio via Costa, 
+direzione centro)
+12:08 13:54 14:13 19:10
+ 51802   CORNINO via Venier 2 (direzione Sompcornino), 
+borgo Venier
+06:42 06:42 06:58 08:01 08:30 16:28 16:28
+ 51803   CORNINO via Dante Alighieri 3 06:43 06:43 06:59 08:02 08:31 16:29 16:29
+ 51851   CORNINO via Muris 9 (direzione Sompcornino) 06:44 06:44 07:00 08:03 08:32 16:31 16:31
+ 51850   CORNINO via Sompcornino 46 (direzione 
+Cimano)
+06:45 06:48 07:02 08:04 08:33 16:33 16:33
+ 51805   CORNINO Strada Provinciale 22 (civico 24, 
+direzione Cimano)
+06:46 06:49 07:02 08:05 08:34 16:33 16:33
+ 51858   CORNINO SP 22 (fanco trattoria, direzione 
+Cimano)
+08:07 16:35 16:35
+ 51846   CORNINO via Napoleonica 26 (bivio via Costa, 
+dir. Forgaria)
+08:08 16:40 16:37
+ 51855   CORNINO via Costa (bivio via Cadrovin, direzione 
+Forgaria)
+08:09 16:42 16:38
+ 51857   FORGARIA via Cornino (direzione centro), borgo 
+Grap
+08:12 16:44 16:40
+ 51809   FORGARIA via Val 28 (scuola primaria) 08:14 16:44
+ 51801   FORGARIA piazza Tre Martiri 4 (municipio, 
+dir.Flagogna)
+08:18 16:45
+ 51824   CORNINO SP 84 (trattoria, direzione Cimano) 06:47 06:51 07:04 08:34 12:10 13:56 14:15 19:12
+ 50I07   CIMANO SP del Ponte di Cornino (Dal Piciul, 
+dir.San Daniele)
+06:51 06:52 07:09 07:09 08:38 12:13 13:59 14:18 19:15
+ 51320   MURIS via Cimano (lato via Bosco) 06:54 07:12 07:12 08:41 12:16 14:01 14:20
+ 51301   MURIS via Osoppo 7 (chiesa) 06:55 07:13 07:13 08:42 12:17 14:02 14:21
+ 51303   MURIS via Vittorio Veneto (fronte civico 1, 
+piazzetta)
+14:22
+ 51317   MURIS via Vittorio Veneto 18 07:14 07:14 08:43 12:18 14:22
+ 51325   SAN GIACOMO via Muris 43, località Cà Farra 07:15 07:15 08:44 12:18 14:23
+ 51331   SAN GIACOMO DI RAGOGNA via Muris (lato via 
+Verdi)
+07:16 07:16 08:45 12:19 14:23
+ 51323   SAN GIACOMO via San Daniele 2 (poste, 
+direzione S.Daniele)
+07:17 07:17 08:46 12:20 14:24
+ 51328   PIGNANO via Udine 24 (direzione San Daniele) 07:18 07:18 08:47 12:21 14:24
+ 51304   PIGNANO via al Lago 1 (bivio via Udine) 06:58 14:04
+ 51326   PIGNANO via Udine 42 (direzione San Daniele) 06:59 07:19 07:19 08:48 12:21 14:05 14:25
+ 50I66   SAN DANIELE DEL FRIULI via Ragogna 21 07:00 07:19 07:19 08:48 12:22 14:05 14:25
+ 50I11   SAN DANIELE DEL FRIULI via Chiamanis (fronte 
+civico 8)
+06:58 19:19
+ 50I14   SAN DANIELE DEL FRIULI via Gemona 99 (bar) 06:58
+ 50I08   SAN DANIELE DEL FRIULI via Gemona 31 
+(Jonny Luanie)
+06:59 19:20
+ 50I57   SAN DANIELE DEL FRIULI via Tagliamento 61 
+(bar)
+07:01 07:00 07:21 07:21 08:50 12:23 14:07 14:26 19:22
+ 50I73   SAN DANIELE DEL FRIULI via C.Battisti 15 07:03 07:01 07:21 07:21 08:51 12:26 14:08 14:27 19:23
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+07:08 07:04 07:25 07:25 08:57 12:31 14:10 14:29 19:26
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U308 Scolastica al lunedi-mercoledi-venerdi
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U312 Scolastica al martedi e al giovedi U394 Feriale escluso sabato e giorni non scolastici del periodo scolastico
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 10]
+LINEA 212 (Andata)
+Orario valido dal 23 febbraio 2026S.ROCCO-FORGARIA-CORNINO-S.DANIELE 
+71
+U389
+ 51835   SAN ROCCO via Vidoni 9 (piazza chiesa) 19:12
+ 51812   FORGARIA via Jogna 1 (municipio, direzione 
+centro)
+19:15
+ 51854   FORGARIA via Coletti 4 (direzione centro) 19:16
+ 51801   FORGARIA piazza Tre Martiri 4 (municipio, 
+dir.Flagogna)
+19:20
+ 51847   FORGARIA via Cornino 2 (provenienza centro), 
+borgo Grap
+19:21
+ 51840   CORNINO via Costa (bivio via Cadrovin, direzione 
+Cornino)
+19:23
+ 51806   CORNINO via Napoleonica (bivio via Costa, 
+direzione centro)
+19:24
+ 51824   CORNINO SP 84 (trattoria, direzione Cimano) 19:25
+ 50I07   CIMANO SP del Ponte di Cornino (Dal Piciul, 
+dir.San Daniele)
+19:28
+ 50I11   SAN DANIELE DEL FRIULI via Chiamanis (fronte 
+civico 8)
+19:32
+ 50I08   SAN DANIELE DEL FRIULI via Gemona 31 
+(Jonny Luanie)
+19:33
+ 50I57   SAN DANIELE DEL FRIULI via Tagliamento 61 
+(bar)
+19:35
+ 50I73   SAN DANIELE DEL FRIULI via C.Battisti 15 19:35
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+19:37
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U308 Scolastica al lunedi-mercoledi-venerdi
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U312 Scolastica al martedi e al giovedi U394 Feriale escluso sabato e giorni non scolastici del periodo scolastico
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 11]
+LINEA 212 (Ritorno)
+Orario valido dal 23 febbraio 2026S.DANIELE-CORNINO-FORGARIA-S.ROCCO 
+2 66 22 26 36 56 42 46 48 50 52 72 60 64
+U230 U240 U200 U200 U200 U300 U300 U394 U389 U241 U307 U389 U307 U241
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+08:09 11:35 13:15 14:15 17:10 17:10 18:20 18:20 18:35
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 08:11 11:37 13:17 14:17 17:12 17:12 18:22 18:22 18:37
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+08:11 11:38 13:17 14:17 17:13 17:13 18:23 18:23 18:38
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+08:12 14:19
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+08:13
+ 50I04   SAN DANIELE DEL FRIULI via Chiamanis 8 
+(direzione Cornino)
+08:13 14:20
+ 50I39   SAN DANIELE DEL FRIULI via Ragogna 40 
+(direzione Pignano)
+11:38 13:18 17:13 17:13 18:24 18:24 18:39
+ 51309   PIGNANO via Udine 41 11:39 13:19 17:14 17:14 18:25 18:25 18:40
+ 51322   PIGNANO via al Lago (fronte civico 1, bivio 
+direzione Muris)
+11:40
+ 51314   PIGNANO via Udine 19 13:20 17:15 17:15 18:25 18:25 18:40
+ 51305   SAN GIACOMO via San Daniele 3 (poste) 13:21 17:16 17:16 18:26 18:26 18:41
+ 51318   SAN GIACOMO DI RAGOGNA via Muris 42 
+(angolo via Verdi)
+13:22 17:17 17:17 18:27 18:27 18:43
+ 51308   SAN GIACOMO via Muris 44 (direzione Muris), 
+loc. Cà Farra
+13:23 17:18 17:18 18:28 18:28 18:43
+ 51330   MURIS via Vittorio Veneto 27 (direzione Cimano) 13:24 17:18 17:18 18:29 18:29 18:44
+ 51321   MURIS via Osoppo 2 (chiesa, direzione Cimano) 11:42 13:24 17:19 17:19 18:30 18:30 18:45
+ 51333   MURIS via Osoppo 58 (direzione Cimano) 11:44 13:26 17:20 17:20 18:31 18:31 18:46
+ 50I55   CIMANO SP del ponte di Cornino (Dal Piciul, 
+direz. Cornino)
+08:17 11:46 13:29 14:24 17:23 17:23 18:33 18:33 18:49
+ 51852   CORNINO Strada Provinciale 84 (trattoria, direz. 
+Forgaria)
+08:20 11:49 13:32 14:26 17:26 17:26 18:36 18:36 18:52
+ 51859   CORNINO Strada Provinciale 22 (civico 28, prov. 
+Cimano)
+11:50 13:33 14:27 17:27 17:27 18:37 18:37 18:53
+ 51820   CORNINO via Sompcornino 45 (direzione 
+Forgaria)
+11:51 13:33 14:29 17:28 17:28 18:38 18:38 18:54
+ 51821   CORNINO via Muris 21 (direzione Forgaria) 11:52 13:35 14:30 17:30 17:30 18:39 18:39 18:55
+ 51844   CORNINO via Dante Alighieri 4 (direzione 
+Forgaria)
+11:53 13:36 14:31 17:30 17:30 18:40 18:40 18:56
+ 51843   CORNINO via Venier 1 (direzione Forgaria), borgo 
+Venier
+11:54 13:37 14:32 17:31 17:31 18:41 18:41 18:57
+ 51846   CORNINO via Napoleonica 26 (bivio via Costa, 
+dir. Forgaria)
+08:21
+ 51855   CORNINO via Costa (bivio via Cadrovin, direzione 
+Forgaria)
+08:22
+ 51849   FORGARIA via Cornino (angolo via Prat, 
+direzione centro)
+11:56 13:38 14:33 17:33 17:33 18:42 18:42 18:59
+ 51857   FORGARIA via Cornino (direzione centro), borgo 
+Grap
+08:24 11:58 13:41 14:35 17:35 17:35 18:45 18:45 19:00
+ 51842   FORGARIA piazza Tre Martiri 12 (fronte 
+municipio)
+06:22 06:24 13:50 18:51 18:52
+ 51801   FORGARIA piazza Tre Martiri 4 (municipio, 
+dir.Flagogna)
+08:25 12:03 13:47 14:37 17:42 17:42 18:52 18:52 19:02
+ 51838   FORGARIA via Coletti 3 (direzione San Rocco) 06:25 06:27 13:54 14:39 18:54 18:56
+ 51848   FORGARIA via Jogna 2 (direzione San Rocco) 06:26 06:28 13:54 14:40 18:55 18:56
+ 51835   SAN ROCCO via Vidoni 9 (piazza chiesa) 06:27 06:30 13:57 14:49 18:57 18:58
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U249 Feriale escluso giorni non scolastici del periodo scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U394 Feriale escluso sabato e giorni non scolastici del periodo scolastico U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 12]
+LINEA 212 (Ritorno)
+Orario valido dal 23 febbraio 2026S.DANIELE-CORNINO-FORGARIA-S.ROCCO 
+76 54 74
+U389 U249 U251
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+19:30 19:37
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 19:32 19:39
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+19:33 19:39
+ 50I39   SAN DANIELE DEL FRIULI via Ragogna 40 
+(direzione Pignano)
+19:34 19:41
+ 51309   PIGNANO via Udine 41 19:34 19:42
+ 51314   PIGNANO via Udine 19 19:35 19:42
+ 51305   SAN GIACOMO via San Daniele 3 (poste) 19:36 19:43
+ 51318   SAN GIACOMO DI RAGOGNA via Muris 42 
+(angolo via Verdi)
+19:38 19:45
+ 51308   SAN GIACOMO via Muris 44 (direzione Muris), 
+loc. Cà Farra
+19:38 19:45
+ 51330   MURIS via Vittorio Veneto 27 (direzione Cimano) 19:39 19:46
+ 51321   MURIS via Osoppo 2 (chiesa, direzione Cimano) 19:40 19:47
+ 51333   MURIS via Osoppo 58 (direzione Cimano) 19:41 19:48
+ 50I55   CIMANO SP del ponte di Cornino (Dal Piciul, 
+direz. Cornino)
+19:44 19:51
+ 51852   CORNINO Strada Provinciale 84 (trattoria, direz. 
+Forgaria)
+19:46 19:54
+ 51859   CORNINO Strada Provinciale 22 (civico 28, prov. 
+Cimano)
+19:48 19:55
+ 51820   CORNINO via Sompcornino 45 (direzione 
+Forgaria)
+19:49 19:56
+ 51821   CORNINO via Muris 21 (direzione Forgaria) 19:50 19:58
+ 51844   CORNINO via Dante Alighieri 4 (direzione 
+Forgaria)
+19:51 19:59
+ 51843   CORNINO via Venier 1 (direzione Forgaria), borgo 
+Venier
+19:52 20:00
+ 51849   FORGARIA via Cornino (angolo via Prat, 
+direzione centro)
+19:53 20:01
+ 51857   FORGARIA via Cornino (direzione centro), borgo 
+Grap
+19:55 20:03
+ 51842   FORGARIA piazza Tre Martiri 12 (fronte 
+municipio)
+19:02
+ 51801   FORGARIA piazza Tre Martiri 4 (municipio, 
+dir.Flagogna)
+20:02 20:08
+ 51838   FORGARIA via Coletti 3 (direzione San Rocco) 19:06
+ 51848   FORGARIA via Jogna 2 (direzione San Rocco) 19:07
+ 51835   SAN ROCCO via Vidoni 9 (piazza chiesa) 19:09
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U249 Feriale escluso giorni non scolastici del periodo scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U394 Feriale escluso sabato e giorni non scolastici del periodo scolastico U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 13]
+LINEA 213 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-CIMANO-RAGOGNA-S.DANIELE 
+3 1 5
+U207 U207 U300
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+06:15 06:30
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 06:17 06:32
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+06:17 06:32
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+06:18
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+06:18
+ 50I04   SAN DANIELE DEL FRIULI via Chiamanis 8 
+(direzione Cornino)
+06:18
+ 50I39   SAN DANIELE DEL FRIULI via Ragogna 40 
+(direzione Pignano)
+06:33
+ 51309   PIGNANO via Udine 41 06:34
+ 51322   PIGNANO via al Lago (fronte civico 1, bivio 
+direzione Muris)
+06:34
+ 51303   MURIS via Vittorio Veneto (fronte civico 1, 
+piazzetta)
+06:38
+ 50I55   CIMANO SP del ponte di Cornino (Dal Piciul, 
+direz. Cornino)
+06:22
+ 50I07   CIMANO SP del Ponte di Cornino (Dal Piciul, 
+dir.San Daniele)
+06:25
+ 51320   MURIS via Cimano (lato via Bosco) 06:28
+ 51301   MURIS via Osoppo 7 (chiesa) 06:29
+ 51303   MURIS via Vittorio Veneto (fronte civico 1, 
+piazzetta)
+06:38
+ 51317   MURIS via Vittorio Veneto 18 06:30 06:40
+ 51325   SAN GIACOMO via Muris 43, località Cà Farra 06:30 06:41
+ 51331   SAN GIACOMO DI RAGOGNA via Muris (lato via 
+Verdi)
+06:31 06:41
+ 51310   VILLUZZA via Prevalin 22 (Molinaro) 06:44
+ 51323   SAN GIACOMO via San Daniele 2 (poste, 
+direzione S.Daniele)
+06:32 06:47
+ 51328   PIGNANO via Udine 24 (direzione San Daniele) 06:33 06:48
+ 51326   PIGNANO via Udine 42 (direzione San Daniele) 06:33 06:48
+ 50I66   SAN DANIELE DEL FRIULI via Ragogna 21 06:34 06:50
+ 50I57   SAN DANIELE DEL FRIULI via Tagliamento 61 
+(bar)
+06:36 06:51
+ 50I73   SAN DANIELE DEL FRIULI via C.Battisti 15 06:38 06:52
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+06:46 06:56
+CADENZA
+CORSA
+VALIDITÀ
+U207 Feriale escluso il sabato U300 Scolastica
+lunedì 16 febbraio 2026Pagina 1 di 1
+  [Pagina 14]
+LINEA 213 (Ritorno)
+Orario valido dal 23 febbraio 2026S.DANIELE-RAGOGNA-CIMANO-S.DANIELE 
+40 54 44 58 50 62 48 52
+U059 U241 U259 U307 U259 U307 U231 U231
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+14:14 14:14 15:05 15:05 17:41
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 14:16 14:16 15:07 15:07 17:43
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+14:17 14:17 15:08 15:08 17:44
+ 50I39   SAN DANIELE DEL FRIULI via Ragogna 40 
+(direzione Pignano)
+14:18 14:18 15:09 15:09 17:45
+ 51309   PIGNANO via Udine 41 14:19 14:19 15:10 15:10 17:46
+ 51314   PIGNANO via Udine 19 14:19 14:19 15:10 15:10 17:46
+ 51305   SAN GIACOMO via San Daniele 3 (poste) 14:20 14:20 15:12 15:12 17:48
+ 51310   VILLUZZA via Prevalin 22 (Molinaro) 14:22 14:22
+ 51318   SAN GIACOMO DI RAGOGNA via Muris 42 
+(angolo via Verdi)
+14:25 14:25 15:13 15:13 17:49
+ 51308   SAN GIACOMO via Muris 44 (direzione Muris), 
+loc. Cà Farra
+14:26 14:26 15:14 15:14 17:50
+ 51330   MURIS via Vittorio Veneto 27 (direzione Cimano) 14:27 14:27 15:14 15:14 17:50
+ 51306   MURIS piazzetta Zuliani 14:28 14:28
+ 51321   MURIS via Osoppo 2 (chiesa, direzione Cimano) 15:15 15:15 17:52
+ 51333   MURIS via Osoppo 58 (direzione Cimano) 15:17 15:17 17:53
+ 50I55   CIMANO SP del ponte di Cornino (Dal Piciul, 
+direz. Cornino)
+15:21 15:21 17:55
+ 50I07   CIMANO SP del Ponte di Cornino (Dal Piciul, 
+dir.San Daniele)
+15:25 15:25 18:00
+ 51306   MURIS piazzetta Zuliani 14:31 14:31
+ 51304   PIGNANO via al Lago 1 (bivio via Udine) 14:32 14:32
+ 51326   PIGNANO via Udine 42 (direzione San Daniele) 14:32 14:32
+ 50I66   SAN DANIELE DEL FRIULI via Ragogna 21 14:33 14:33
+ 50I11   SAN DANIELE DEL FRIULI via Chiamanis (fronte 
+civico 8)
+15:29 15:29 18:04
+ 50I08   SAN DANIELE DEL FRIULI via Gemona 31 
+(Jonny Luanie)
+15:30 15:30 18:05
+ 50I57   SAN DANIELE DEL FRIULI via Tagliamento 61 
+(bar)
+14:35 14:35 15:32 15:32 18:07
+ 50I73   SAN DANIELE DEL FRIULI via C.Battisti 15 14:37 14:37 15:32 15:32 18:07
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+14:38 14:38 15:33 15:33 18:09
+CADENZA
+CORSA
+VALIDITÀ
+U059 Feriale invernale e al sabato estivo U231 Feriale invernale escluso il sabato (per.scol.)
+U259 Feriale giorni non scolastici e al sabato scolasti co U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U307 Scolastica escluso il sabato
+lunedì 16 febbraio 2026Pagina 1 di 1
+  [Pagina 15]
+LINEA 220 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-DIGNANO-SEDEGLIANO-CODROIPO 
+1 5 3 7
+U300 U300 U300 U300
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+06:15 13:15 14:30 16:30
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+06:17 13:17 14:32 16:32
+ 50I19   SAN DANIELE DEL FRIULI via Trento Trieste 108 
+(lato bar)
+06:18 13:18 14:33 16:33
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+06:20 13:19 14:34 16:34
+ 50I03   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Giacomo Bernè 3
+06:23 13:23 14:37 16:39
+ 50807   CARPACCO via De Gasperi 14 06:25 13:25 14:39 16:40
+ 50813   CARPACCO piazza Libertà 15 06:26 13:26 14:40 16:41
+ 50816   CARPACCO via Pasini 22 (trattoria, direzione 
+Dignano)
+06:27 13:27 14:41 16:42
+ 50811   VIDULIS via Nazionale 64 (Lupieri, direzione 
+Dignano)
+06:30 13:30 14:44 16:45
+ 50812   DIGNANO via San Gallo (fronte civico 1), borgo 
+Mezzoli
+06:30 13:30 14:44 16:46
+ 50801   DIGNANO piazza Cimolino fronte 8 06:32 13:32 14:46 16:48
+ 50705   CISTERNA piazza monumento 14 (direzione 
+Flaibano)
+06:37 14:51
+ 41A01   FLAIBANO piazza monumento ai Caduti (fronte 
+9, dir.Codroipo)
+13:39 14:55 16:56
+ 40942   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele 1
+13:42 16:59
+ 40901   SEDEGLIANO piazza Roma (fronte 29, 
+centro direz. Codroipo)
+13:48 17:02
+ 40916   SEDEGLIANO via 4 Novembre 46 (Castelliere) 13:48 17:03
+ 40908   GRADISCA DI SEDEGLIANO via D'Azeglio 6 13:50 17:05
+ 40814   POZZO DI CODROIPO via San Daniele (fronte 
+14, dir. Codroipo)
+13:51 17:06
+ 40842   GORICIZZA via Sedegliano (direzione Codroipo) 13:52 17:07
+ 40806   GORICIZZA via Stazione 38 13:53 17:08
+ 40820   CODROIPO via Paglieri 15 (caserme, direzione 
+SR 13)
+13:54 17:11
+ 40802   CODROIPO via Cesare Battisti (autostazione) 14:03
+ 41A05   FLAIBANO via Giuseppe Garibaldi (fronte civico 
+3, chiesa)
+06:41
+ 50725   BARAZZETTO via Maggiore 97 (direzione 
+Mereto)
+06:45
+ 41115   MERETO DI TOMBA piazza della Vittoria 7 
+(chiesa, dir. Udine)
+06:47
+ 41113   PANTIANICCO via Caterina Percoto 37 06:52
+ 41116   PANTIANICCO via Piave 8 (chiesa) 06:53
+ 40937   CODERNO via Lavia (Incrocio SP 18, 
+provenienza San Lorenzo)
+06:58
+ 40903   CODERNO piazza Camillo Benso Conte di 
+Cavour 6 (chiesa)
+06:59
+ 40907   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele 7
+14:57
+ 40941   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele (fronte 7)
+07:02
+ 40913   TURRIDA piazza Cairoli 2 (centro) direzione 
+Sedegliano
+07:06
+ 40935   TURRIDA via Fogazzaro (fronte 45, hotel) 07:07
+ 40930   RIVIS DI SEDEGLIANO via Nazionale 51 
+(direzione Gradisca)
+07:09
+ 40903   CODERNO piazza Camillo Benso Conte di 
+Cavour 6 (chiesa)
+15:01
+ 40915   CODERNO via Dante Alighieri 38 (direzione 
+Sedegliano)
+15:02
+ 40901   SEDEGLIANO piazza Roma (fronte 29, 
+centro direz. Codroipo)
+15:04
+ 40916   SEDEGLIANO via 4 Novembre 46 (Castelliere) 15:05
+ 40926   GRADISCA DI SEDEGLIANO piazza Regina 
+Margherita 16
+07:12
+ 40908   GRADISCA DI SEDEGLIANO via D'Azeglio 6 15:07
+ 40923   SEDEGLIANO via 4 Novembre (fronte civico 44, 
+Castelliere)
+07:13
+ 40928   SEDEGLIANO piazza Roma 29 (centro, 
+direzione Udine)
+07:15
+ 40938   SEDEGLIANO via del Forte 28 (direzione San 
+Lorenzo)
+07:16
+ 40912   S.LORENZO DI SEDEGLIANO piazza Venezia 
+(fronte 2, centro)
+07:19
+ 40940   S.LORENZO DI SEDEGLIANO via Pietro Zorutti 
+80 (dir.Codroipo)
+07:20
+ 40836   GORICIZZA via Selva 13 07:23
+ 40815   GORICIZZA via Sedegliano 76 (direzione 
+Gradisca)
+07:24
+CADENZA
+CORSA
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 16]
+1 5 3 7
+U300 U300 U300 U300
+ 40814   POZZO DI CODROIPO via San Daniele (fronte 
+14, dir. Codroipo)
+15:08
+ 40826   POZZO DI CODROIPO via San Rocco 07:26
+ 40842   GORICIZZA via Sedegliano (direzione Codroipo) 15:09
+ 40806   GORICIZZA via Stazione 38 07:28 15:10
+ 40820   CODROIPO via Paglieri 15 (caserme, direzione 
+SR 13)
+07:28 15:11
+ 40802   CODROIPO via Cesare Battisti (autostazione) 15:18
+ 40803   CODROIPO via Circonvallazione Sud 27 
+(centro studi)
+07:34 17:16
+ 40802   CODROIPO via Cesare Battisti (autostazione) 07:43 17:20
+VALIDITÀ
+U300 Scolastica
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 17]
+LINEA 220 (Ritorno)
+Orario valido dal 23 febbraio 2026CODROIPO-SEDEGLIANO-DIGNANO-S.DANIELE 
+6 2 8 4
+U300 U300 U300 U300
+ 40803   CODROIPO via Circonvallazione Sud 27 
+(centro studi)
+13:20
+ 40802   CODROIPO via Cesare Battisti (autostazione) 06:55 13:24 15:40 17:24
+ 40852   CODROIPO via Paglieri 4 (caserme, direzione 
+Goricizza)
+07:01 13:29 15:46 17:29
+ 40830   GORICIZZA via Stazione 39 07:01 13:30 15:47 17:30
+ 40815   GORICIZZA via Sedegliano 76 (direzione 
+Gradisca)
+07:02 13:31 15:48 17:31
+ 40826   POZZO DI CODROIPO via San Rocco 13:33 17:32
+ 40835   GORICIZZA via Selva 12 13:35 17:34
+ 40922   SAN LORENZO DI SEDEGLIANO via Pietro 
+Zorutti 53
+13:38 17:37
+ 40904   SAN LORENZO DI SEDEGLIANO piazza Venezia 
+7 (centro)
+13:39 17:39
+ 40920   SEDEGLIANO via del Forte 23 (direzione centro) 13:41 17:40
+ 40901   SEDEGLIANO piazza Roma (fronte 29, 
+centro direz. Codroipo)
+13:43 17:42
+ 40916   SEDEGLIANO via 4 Novembre 46 (Castelliere) 13:44 17:43
+ 40905   GRADISCA DI SEDEGLIANO  piazza Regina 
+Margherita 19
+13:45 17:44
+ 40911   RIVIS DI SEDEGLIANO via Nazionale 28 
+(direzione Turrida)
+13:48 17:48
+ 40914   TURRIDA via Fogazzaro 41 (hotel, direzione 
+centro)
+13:49 17:49
+ 40934   TURRIDA piazza Cairoli (fronte civico 7, 
+centro)
+13:51 17:50
+ 40907   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele 7
+13:55 17:54
+ 40903   CODERNO piazza Camillo Benso Conte di 
+Cavour 6 (chiesa)
+13:58 17:57
+ 40919   CODERNO via Lavia 4 (incrocio SP 18, direzione 
+S.Lorenzo)
+13:59 17:58
+ 41103   PANTIANICCO via Piave 1 (chiesa, direzione 
+Udine)
+14:03 18:02
+ 41122   PANTIANICCO via Caterina Percoto 54 (direzione 
+Udine)
+14:05 18:04
+ 41101   MERETO DI TOMBA piazza della Vittoria 12 
+(chiesa)
+14:09 18:08
+ 50718   BARAZZETTO via Maggiore 214 14:11 18:10
+ 41A07   FLAIBANO piazza monumento ai Caduti 9 
+(dir. San Daniele)
+14:15 18:14
+ 50704   CISTERNA piazza monumento 16 (direzione 
+Coseano)
+14:19 18:18
+ 50804   DIGNANO piazza Cimolino 8 14:24 18:22
+ 50818   DIGNANO via San Gallo 7 (direzione Vidulis), 
+borgo Mezzoli
+14:25 18:23
+ 50817   VIDULIS via Nazionale 27 (Lupieri) 14:25 18:24
+ 50809   CARPACCO via Pasini 43 (trattoria) 14:28 18:27
+ 50803   CARPACCO piazza Libertà 2 (direzione San 
+Daniele)
+14:29 18:28
+ 50815   CARPACCO via de Gasperi 9 (direzione 
+S.Daniele)
+14:30 18:29
+ 50I53   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Nazionale 55
+14:31 18:30
+ 50I16   SAN DANIELE DEL FRIULI via Kennedy (fronte 
+scuola media)
+14:34 18:34
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+14:36 18:36
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+14:36 18:37
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+14:37 18:46
+ 40841   POZZO DI CODROIPO via San Daniele 16 07:03 15:49
+ 40925   GRADISCA DI SEDEGLIANO via D'Azeglio 11 07:05 15:51
+ 40923   SEDEGLIANO via 4 Novembre (fronte civico 44, 
+Castelliere)
+07:07 15:52
+ 40928   SEDEGLIANO piazza Roma 29 (centro, 
+direzione Udine)
+07:08 15:54
+ 40932   GRIONS DI SEDEGLIANO piazza Vittorio 
+Emanuele 6
+07:11 15:57
+ 41A07   FLAIBANO piazza monumento ai Caduti 9 (dir. 
+San Daniele)
+16:00
+ 41A05   FLAIBANO via Giuseppe Garibaldi (fronte civico 
+3, chiesa)
+07:14
+ 50703   BARAZZETTO via dell'Unione 4 (chiesa, 
+direzione Nogaredo)
+07:18
+ 50709   NOGAREDO DI CORNO via della Pace 43 
+(direzione Coseano)
+07:20
+ 50804   DIGNANO piazza Cimolino 8 07:27 16:09
+ 50818   DIGNANO via San Gallo 7 (direzione Vidulis), 
+borgo Mezzoli
+07:28 16:10
+CADENZA
+CORSA
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 18]
+6 2 8 4
+U300 U300 U300 U300
+ 50817   VIDULIS via Nazionale 27 (Lupieri) 07:30 16:11
+ 50809   CARPACCO via Pasini 43 (trattoria) 07:33 16:14
+ 50803   CARPACCO piazza Libertà 2 (direzione San 
+Daniele)
+07:34 16:15
+ 50815   CARPACCO via de Gasperi 9 (direzione 
+S.Daniele)
+07:36 16:16
+ 50I53   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Nazionale 55
+07:38 16:18
+ 50I16   SAN DANIELE DEL FRIULI via Kennedy (fronte 
+scuola media)
+16:21
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+07:41
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+07:44 16:23
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+07:44 16:24
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:48 16:28
+VALIDITÀ
+U300 Scolastica
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 19]
+LINEA 230 (Andata)
+Orario valido dal 23 febbraio 2026GEMONA-BUJA-MAJANO-S.DANIELE 
+1 27 43 5 7 39 9 11 45 57 403 13 47 59
+U300 U300 U300 U300 U230 U240 U300 U300 U251 U240 U200 U300 U251 U240
+ 61014   GEMONA via Roma (autostazione) 07:15
+ 61014   GEMONA via Roma (autostazione) 08:17 08:35 08:35 08:35 08:40 10:30 10:30 10:30
+ 61070   GEMONA via Osoppo (fronte civico 267, 
+semaforo Taboga)
+07:18 08:20 08:39 08:39 08:39 08:42 10:34 10:34 10:34
+ 61076   CAMPOLESSI via Lessi 141 dir. Artegna 08:22 08:41 08:41 08:41 10:36 10:36 10:36
+ 51435   TOMBA DI BUJA piazza Chiesa 11 06:55
+ 51464   SAN FLOREANO DI BUJA via Ledra (lato piazza 
+delle Acque)
+06:58
+ 51473   SOPRAMONTE DI BUJA via Ledra (lato via 
+Cjagjalot)
+06:59
+ 51480   SOPRAMONTE DI BUJA via Ledra (fronte civico 
+33)
+07:00
+ 51465   SOPRAMONTE DI BUJA via Sopramonte 21 
+(angolo via Solaris)
+07:01
+ 51471   MADONNA DI BUJA via Madonna 101 (bivio 
+Solaris)
+07:01
+ 51416   MADONNA DI BUJA piazza Madonna 2 07:02
+ 60954   ARTEGNA via Nazionale 65 (trattoria, direzione 
+Udine)
+08:24 08:42 08:42 08:42 10:37 10:37 10:37
+ 51467   URBIGNACCO piazza Urbignacco 3 08:28 08:47 08:47 08:47 10:42 10:42 10:42
+ 51440   URBIGNACCO piazza Urbignacco 12 06:15
+ 51479   URBIGNACCO via Urbignacco 96 (direzione 
+Artegna)
+07:04
+ 60956   ARTEGNA via Villa 1 (rotonda Salt) 07:08
+ 60911   ARTEGNA via Villa (rotonda Salt, direzione 
+Udine)
+07:08
+ 60901   ARTEGNA via Villa 116 (centro, direzione Udine) 07:10
+ 51467   URBIGNACCO piazza Urbignacco 3 07:13
+ 51463   MADONNA DI BUJA piazza Madonna 12 06:17
+ 51474   SANTO STEFANO DI BUJA via Arrio 25 06:19 07:14 08:30 08:49 08:49 08:49 10:43 10:43 10:43
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 06:21 07:17 07:16 07:23 07:25 08:32 08:51 08:51 08:51 10:46 10:46 10:46
+ 51452   URSININS via Santo Stefano 154 06:22 07:18 07:25 07:27 08:52 08:52 08:52 10:47 10:47 10:47
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+07:18 10:47 10:47 10:47
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+07:19 10:48 10:48 10:48
+ 51406   AVILLA via Liberazione 24 (centro, 
+direzione Tonzolano)
+07:21 10:49 10:49 10:49
+ 51408   TONZOLANO via Liberazione (fronte civico 115) 07:22 10:50 10:50 10:50
+ 51438   TONZOLANO via Tonzolano 64 (direzione San 
+Daniele)
+06:23 08:53 08:53 08:53
+ 51255   CASASOLA via Zorutti 51 (trattoria) 06:25 07:25 08:55 08:55 08:55 10:52 10:52 10:52
+ 51258   CASASOLA via Pietro Zorutti (bivio borgo 
+Schiratti)
+06:26 07:26 08:56 08:56 08:56 10:53 10:53 10:53
+ 51132   AVEACCO via Cirenaiche 47 (direzione Majano) 07:28 07:30
+ 51133   MELS via della Libertà (fronte 32, Pesa direzione 
+Majano)
+07:29 07:31
+ 51110   MELS piazza del Tiglio 12 (Là Di Petros, 
+direzione Majano)
+07:30 07:31
+ 51111   MELESONS via Melesons 20 (direzione Majano) 07:31 07:32
+ 51205   PERS via Ciro di Pers (chiesa, direzione 
+Sant'Eliseo)
+07:31 07:33
+ 51261   SANT'ELISEO (direzione Farla) 07:33 07:35
+ 51266   FARLA via Zampini 10 (trattoria) 07:36 07:37
+ 51203   MAJANO via Zorutti rotatoria dir.Centro 06:26 07:27 08:57 08:57 08:57 10:54 10:54 10:54
+ 51251   MAJANO via Udine 73 (angolo via Deveacco) 07:37 07:38
+ 51714   OSOPPO via Matteotti 15 (centro, direzione 
+Buja)
+07:22 08:45
+ 51706   OSOPPO via San Daniele 68 (Ledraplastic, 
+direzione Buja)
+07:24
+ 51723   RIVOLI Z.I. via Rivoli 26 (direzione Rivoli) 07:26
+ 51709   RIVOLI via Rivoli 96 (bar) 07:28
+ 51716   RIVOLI via Rivoli (fronte civico 77, ex stazione 
+Majano)
+07:29
+ 51240   MAJANO via Pietro Zorutti 30 (fronte parco) 06:27 07:28 08:59 08:59 08:59 10:55 10:55 10:55
+ 51201   MAJANO piazza Italia (lato parco) 07:39 07:40
+ 51204   MAJANO viale Rino Snaidero 10 (direzione 
+Susans)
+06:28 07:41 07:41 10:56 10:56 10:56
+CADENZA
+CORSA
+lunedì 16 febbraio 2026Pagina 1 di 5
+  [Pagina 20]
+1 27 43 5 7 39 9 11 45 57 403 13 47 59
+U300 U300 U300 U300 U230 U240 U300 U300 U251 U240 U200 U300 U251 U240
+ 51212   TIVERIACCO via Osoppo 109 (dir. S.Daniele), loc. 
+Ponte Ledra
+07:31
+ 51248   TIVERIACCO via Nazionale (fronte civico 201, 
+trattoria)
+07:33
+ 51243   MAJANO viale Rino Snaidero 15 07:34
+ 51240   MAJANO via Pietro Zorutti 30 (fronte parco) 07:36
+ 51268   COMERZO SR 463 via Alemagna (fronte chiesa, 
+dir.S.Daniele)
+06:30 07:40 07:42 07:42 10:58 10:58 10:58
+ 51265   MAJANO via Udine 44 (angolo via Deveacco, 
+direzione Farla)
+07:30 09:01 09:01 09:01
+ 51260   FARLA via San Daniele 2 (trattoria, 
+direzione San Daniele)
+07:31 09:02 09:02 09:02
+ 50I12   BIVIO PER BORGO SOPRAPALUDO via San 
+Daniele (dir.San Tomaso)
+09:04 09:04 09:04
+ 51256   S.TOMASO DI MAJANO via S.Zenone 10 07:43 07:43 09:05 09:05 09:05 10:59 10:59 10:59
+ 51225   S.TOMASO via San Zenone 66 (ex poste, 
+direzione San Daniele)
+07:44 07:44 09:06 09:06 09:06 11:00 11:00 11:00
+ 50I42   S.DANIELE DEL F.via Carnia 35 (pizzeria, dir. San 
+Daniele)
+06:32 07:42 07:46 07:45 09:07 09:07 09:07 11:01 11:01 11:01
+ 50I14   SAN DANIELE DEL FRIULI via Gemona 99 (bar) 06:33 07:45 07:47 07:46 09:08 09:08 09:08 11:02 11:02 11:02
+ 50I08   SAN DANIELE DEL FRIULI via Gemona 31 
+(Jonny Luanie)
+06:33 07:45 07:47 07:47 09:09 09:09 09:09 11:03 11:03 11:03
+ 50I57   SAN DANIELE DEL FRIULI via Tagliamento 61 
+(bar)
+06:35 07:46 07:51 07:48 09:10 09:10 09:10 11:05 11:05 11:05
+ 50I73   SAN DANIELE DEL FRIULI via C.Battisti 15 06:36 07:48 07:52 07:54 09:12 09:12 09:12 11:05 11:05 11:05
+ 50I12   BIVIO PER BORGO SOPRAPALUDO via San 
+Daniele (dir.San Tomaso)
+07:34
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+06:40 07:50 07:55 07:55 09:15 09:15 09:15 11:10 11:10 11:10
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:38
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+09:17
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U302 Scolastica solo al martedi U394 Feriale escluso sabato e giorni non scolastici del periodo scolastico
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 2 di 5
+  [Pagina 21]
+LINEA 230 (Andata)
+Orario valido dal 23 febbraio 2026GEMONA-BUJA-MAJANO-S.DANIELE 
+15 401 17 19 29 21 3 23 25 31 33 49 405 407
+U300 U200 U200 U300 U300 U300 U300 U300 U300 U241 U307 U389 U259 U307
+ 61014   GEMONA via Roma (autostazione) 13:27 13:27
+ 61058   GEMONA via Salcons (S. Maria degli Angeli, 
+dir.centro studi)
+12:33
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 12:38 13:31 13:31 13:33 13:34 13:32 16:15 16:15 16:15
+ 61024   GEMONA via Praviolai (centro Studi Stallo 
+Interno)
+13:33 13:33 13:36 13:35
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+12:39 13:35 16:17 16:17 16:17
+ 61014   GEMONA via Roma (autostazione) 10:55 12:42 13:35 13:36 13:38 13:38 13:38 16:20 16:20 16:20 16:30 16:30
+ 61070   GEMONA via Osoppo (fronte civico 267, 
+semaforo Taboga)
+10:57 12:44 13:38 13:39 13:40 13:41 13:40 16:23 16:23 16:23 16:32 16:32
+ 61076   CAMPOLESSI via Lessi 141 dir. Artegna 13:41 13:42
+ 61076   CAMPOLESSI via Lessi 141 dir. Artegna 12:46 13:41 16:25 16:25 16:25
+ 51411   CASALI LEDRA via Casali Ledra (fronte 5 
+direzione Buja)
+13:43 13:45
+ 51478   SOPRAMONTE DI BUJA via Campo Garzolino 9 13:45 13:47
+ 51448   SOPRAMONTE DI BUJA via Ledra 33 13:46 13:47
+ 51465   SOPRAMONTE DI BUJA via Sopramonte 21 
+(angolo via Solaris)
+13:47 13:49
+ 51471   MADONNA DI BUJA via Madonna 101 (bivio 
+Solaris)
+13:48 13:49
+ 51416   MADONNA DI BUJA piazza Madonna 2 13:49 13:51
+ 60954   ARTEGNA via Nazionale 65 (trattoria, direzione 
+Udine)
+12:48 13:43 16:26 16:26 16:26
+ 51467   URBIGNACCO piazza Urbignacco 3 12:53 13:51 13:47 13:53
+ 51440   URBIGNACCO piazza Urbignacco 12 16:31 16:31 16:31
+ 51463   MADONNA DI BUJA piazza Madonna 12 16:33 16:33 16:33
+ 51447   MADONNA DI BUJA via Madonna 34 (bivio 
+Solaris)
+16:34 16:34 16:34
+ 51425   SOPRAMONTE DI BUIA via Sopramonte 42 (lato 
+via Solaris)
+16:34 16:34 16:34
+ 51448   SOPRAMONTE DI BUJA via Ledra 33 16:35 16:35 16:35
+ 51449   SOPRAMONTE DI BUJA via Ledra 25 (angolo via 
+Cjagjalot)
+16:36 16:36 16:36
+ 51420   S.FLOREANO DI BUJA via Ledra (fronte piazza 
+delle Acque)
+16:38 16:38 16:38
+ 51474   SANTO STEFANO DI BUJA via Arrio 25 12:54 13:53 13:49 13:54
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 10:49 12:56 13:54 13:51 13:56
+ 51452   URSININS via Santo Stefano 154 10:51 12:57 13:56 13:57
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+13:56 13:53
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+13:57 13:54
+ 51477   SAN FLOREANO via San Floreano fronte 15 (bar) 13:59
+ 51458   SAN FLOREANO via San Floreano 32 (bar) 14:00
+ 51435   TOMBA DI BUJA piazza Chiesa 11 14:03 16:41 16:41 16:41
+ 51406   AVILLA via Liberazione 24 (centro, 
+direzione Tonzolano)
+13:55
+ 51408   TONZOLANO via Liberazione (fronte civico 115) 13:56
+ 51438   TONZOLANO via Tonzolano 64 (direzione San 
+Daniele)
+12:58
+ 51255   CASASOLA via Zorutti 51 (trattoria) 13:00 13:59
+ 51258   CASASOLA via Pietro Zorutti (bivio borgo 
+Schiratti)
+13:01 14:00
+ 51132   AVEACCO via Cirenaiche 47 (direzione Majano) 10:54 14:00
+ 51133   MELS via della Libertà (fronte 32, Pesa direzione 
+Majano)
+10:55 14:01
+ 51110   MELS piazza del Tiglio 12 (Là Di Petros, 
+direzione Majano)
+10:56 14:01
+ 51111   MELESONS via Melesons 20 (direzione Majano) 10:56 14:02
+ 51244   PERS via Melesons 54 (chiesa, direzione 
+Majano)
+14:03
+ 51205   PERS via Ciro di Pers (chiesa, direzione 
+Sant'Eliseo)
+10:57
+ 51207   PERS via Ciro di Pers 8 (Canale Ledra, direzione 
+Majano)
+14:04
+ 51261   SANT'ELISEO (direzione Farla) 10:59
+ 51266   FARLA via Zampini 10 (trattoria) 11:01
+ 51257   MAJANO via Ciro di Pers (fronte civico 60) 14:05
+CADENZA
+CORSA
+lunedì 16 febbraio 2026Pagina 3 di 5
+  [Pagina 22]
+15 401 17 19 29 21 3 23 25 31 33 49 405 407
+U300 U200 U200 U300 U300 U300 U300 U300 U300 U241 U307 U389 U259 U307
+ 51203   MAJANO via Zorutti rotatoria dir.Centro 13:02 14:01
+ 51714   OSOPPO via Matteotti 15 (centro, direzione 
+Buja)
+11:00 13:43 13:45
+ 51713   OSOPPO via Batterie 1 (centro) 16:37 16:37
+ 51706   OSOPPO via San Daniele 68 (Ledraplastic, 
+direzione Buja)
+13:45
+ 51723   RIVOLI Z.I. via Rivoli 26 (direzione Rivoli) 13:47
+ 51709   RIVOLI via Rivoli 96 (bar) 14:05 13:49
+ 51715   RIVOLI Z.I. via delle Ferriere(De Simon, direzione 
+Rivoli)
+16:43 16:43 16:43
+ 51716   RIVOLI via Rivoli (fronte civico 77, ex stazione 
+Majano)
+14:05 13:49
+ 51218   TIVERIACCO via Divisione Julia 161, località 
+Ponte Ledra
+14:08 13:51
+ 51240   MAJANO via Pietro Zorutti 30 (fronte parco) 13:03 14:10 14:03 13:54
+ 51201   MAJANO piazza Italia (lato parco) 13:15 14:08
+ 51204   MAJANO viale Rino Snaidero 10 (direzione 
+Susans)
+13:17 14:04
+ 51720   RIVOLI Z.I. via delle Ferriere (fronte civico 9, 
+Pittini)
+16:44 16:44 16:44
+ 51709   RIVOLI via Rivoli 96 (bar) 16:46 16:46 16:46
+ 51716   RIVOLI via Rivoli (fronte civico 77, ex stazione 
+Majano)
+16:46 16:46 16:46
+ 51212   TIVERIACCO via Osoppo 109 (dir. S.Daniele), loc. 
+Ponte Ledra
+16:49 16:49 16:49
+ 51248   TIVERIACCO via Nazionale (fronte civico 201, 
+trattoria)
+16:50 16:50 16:50
+ 51243   MAJANO viale Rino Snaidero 15 16:51 16:51 16:51
+ 51270   TIVERIACCO via del Castello 10 14:05
+ 51217   SUSANS via del Castello fronte 191 
+(monumento ai Caduti)
+14:07
+ 51268   COMERZO SR 463 via Alemagna (fronte chiesa, 
+dir.S.Daniele)
+13:18
+ 51265   MAJANO via Udine 44 (angolo via Deveacco, 
+direzione Farla)
+13:04 13:55
+ 51260   FARLA via San Daniele 2 (trattoria, 
+direzione San Daniele)
+11:02 13:06 13:57
+ 51256   S.TOMASO DI MAJANO via S.Zenone 10 13:19 14:12
+ 51225   S.TOMASO via San Zenone 66 (ex poste, 
+direzione San Daniele)
+13:20 14:12
+ 50I58   S.DANIELE DEL FR. via Osoppo 169 (pizzeria, 
+dir.San Daniele)
+14:14
+ 50I17   SAN DANIELE DEL FRIULI via Osoppo 115, 
+borgo Bronzacco
+14:14
+ 50I69   SAN DANIELE DEL FRIULI via Cerere 41 
+(incrocio via Osoppo)
+14:15
+ 50I42   S.DANIELE DEL F.via Carnia 35 (pizzeria, dir. San 
+Daniele)
+13:21
+ 50I14   SAN DANIELE DEL FRIULI via Gemona 99 (bar) 13:22
+ 50I08   SAN DANIELE DEL FRIULI via Gemona 31 
+(Jonny Luanie)
+13:22 14:17
+ 50I57   SAN DANIELE DEL FRIULI via Tagliamento 61 
+(bar)
+13:24 14:19
+ 50I73   SAN DANIELE DEL FRIULI via C.Battisti 15 13:25 14:19
+ 50I12   BIVIO PER BORGO SOPRAPALUDO via San 
+Daniele (dir.San Tomaso)
+11:04 13:08 13:59
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+13:26 14:20
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+11:08 13:15 14:04
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U302 Scolastica solo al martedi U394 Feriale escluso sabato e giorni non scolastici del periodo scolastico
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 4 di 5
+  [Pagina 23]
+LINEA 230 (Andata)
+Orario valido dal 23 febbraio 2026GEMONA-BUJA-MAJANO-S.DANIELE 
+37 53 41 35 51 55
+U394 U389 U302 U389 U241 U307
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 17:27 17:27 17:27
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+17:29 17:29 17:29
+ 61014   GEMONA via Roma (autostazione) 17:31 17:31 17:31
+ 61070   GEMONA via Osoppo (fronte civico 267, 
+semaforo Taboga)
+17:34 17:34 17:34
+ 61076   CAMPOLESSI via Lessi 141 dir. Artegna 17:36 17:36 17:36
+ 60954   ARTEGNA via Nazionale 65 (trattoria, direzione 
+Udine)
+17:37 17:37 17:37
+ 51467   URBIGNACCO piazza Urbignacco 3 17:42 17:42 17:42
+ 51474   SANTO STEFANO DI BUJA via Arrio 25 17:44 17:44 17:44
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 17:23 17:46 17:46 17:46
+ 51452   URSININS via Santo Stefano 154 17:25 17:47 17:47 17:47
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+17:26 17:47 17:47 17:47
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+17:27 17:48 17:48 17:48
+ 51406   AVILLA via Liberazione 24 (centro, 
+direzione Tonzolano)
+17:28 17:49 17:49 17:49
+ 51408   TONZOLANO via Liberazione (fronte civico 115) 17:29 17:50 17:50 17:50
+ 51255   CASASOLA via Zorutti 51 (trattoria) 17:32 17:52 17:52 17:52
+ 51258   CASASOLA via Pietro Zorutti (bivio borgo 
+Schiratti)
+17:33 17:53 17:53 17:53
+ 51203   MAJANO via Zorutti rotatoria dir.Centro 17:34 17:53 17:53 17:53
+ 51240   MAJANO via Pietro Zorutti 30 (fronte parco) 17:35 17:55 17:55 17:55
+ 51204   MAJANO viale Rino Snaidero 10 (direzione 
+Susans)
+16:54 16:54 17:56 17:56 17:56
+ 51270   TIVERIACCO via del Castello 10 16:55 16:55
+ 51217   SUSANS via del Castello fronte 191 
+(monumento ai Caduti)
+16:57 16:57
+ 51245   COMERZO via Garibaldi (fronte 85, chiesa 
+direzione Majano)
+17:59 17:59 17:59
+ 51265   MAJANO via Udine 44 (angolo via Deveacco, 
+direzione Farla)
+17:36 18:00 18:00 18:00
+ 51260   FARLA via San Daniele 2 (trattoria, 
+direzione San Daniele)
+17:38 18:02 18:02 18:02
+ 50I12   BIVIO PER BORGO SOPRAPALUDO via San 
+Daniele (dir.San Tomaso)
+18:04 18:04 18:04
+ 51256   S.TOMASO DI MAJANO via S.Zenone 10 16:57 16:57 18:05 18:05 18:05
+ 51225   S.TOMASO via San Zenone 66 (ex poste, 
+direzione San Daniele)
+16:58 16:58 18:06 18:06 18:06
+ 50I58   S.DANIELE DEL FR. via Osoppo 169 (pizzeria, 
+dir.San Daniele)
+17:00 17:00 18:08 18:08 18:08
+ 50I17   SAN DANIELE DEL FRIULI via Osoppo 115, 
+borgo Bronzacco
+17:00 17:00 18:08 18:08 18:08
+ 50I69   SAN DANIELE DEL FRIULI via Cerere 41 
+(incrocio via Osoppo)
+17:02 17:02 18:09 18:09 18:09
+ 50I08   SAN DANIELE DEL FRIULI via Gemona 31 
+(Jonny Luanie)
+17:04 17:04 18:12 18:12 18:12
+ 50I57   SAN DANIELE DEL FRIULI via Tagliamento 61 
+(bar)
+17:06 17:06 18:13 18:13 18:13
+ 50I73   SAN DANIELE DEL FRIULI via C.Battisti 15 17:07 17:07 18:15 18:15 18:15
+ 50I12   BIVIO PER BORGO SOPRAPALUDO via San 
+Daniele (dir.San Tomaso)
+17:41
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+17:08 17:08 18:16 18:16 18:16
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+17:46
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U302 Scolastica solo al martedi U394 Feriale escluso sabato e giorni non scolastici del periodo scolastico
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 5 di 5
+  [Pagina 24]
+LINEA 230 (Ritorno)
+Orario valido dal 23 febbraio 2026S.DANIELE-MAJANO-BUJA-GEMONA 
+52 44 100 2 96 78 98 46 62 76 64 40 84 6
+U300 U135 U242 U307 U241 U135 U242 U306 U389 U241 U389 U389 U241 U300
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+06:45 06:45 06:45 06:45 06:45 06:45
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 06:47 06:47 06:47 06:47 06:47 06:47
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+06:48 06:48 06:48 06:48 06:48 06:48
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+06:49 06:49 06:50 06:50 06:50 06:49
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+06:50 06:50 06:50 06:50 06:50 06:50
+ 50I68   SAN DANIELE DEL FRIULI via Carnia 66 
+(pizzeria, dir.Majano)
+06:51 06:51 06:52 06:52 06:52 06:51
+ 51254   SAN TOMASO via San Zenone 53 (ex poste, 
+direzione Majano)
+06:52 06:52 06:53 06:53 06:53 06:52
+ 51233   S.TOMASO DI MAJANO via S.Zenone fr. 10 06:53 06:53 06:54 06:54 06:54 06:53
+ 51206   COMERZO SR 463 via Nazionale 79 (direzione 
+Osoppo)
+06:54 06:54 06:56 06:56 06:56 06:54
+ 51270   TIVERIACCO via del Castello 10 07:09
+ 51217   SUSANS via del Castello fronte 191 
+(monumento ai Caduti)
+07:10
+ 51243   MAJANO viale Rino Snaidero 15 06:56 06:56 06:56 06:56 06:56 06:56 07:14
+ 51240   MAJANO via Pietro Zorutti 30 (fronte parco) 06:58 06:58 06:58 06:58 06:58
+ 51262   MAJANO via Pietro Zorutti (fronte civico 30, lato 
+parco)
+06:58 06:58 06:58 06:58 06:58
+ 51204   MAJANO viale Rino Snaidero 10 (direzione 
+Susans)
+07:00 07:00 07:00
+ 51211   TIVERIACCO via Osoppo 18 (trattoria, direzione 
+Osoppo)
+07:01 07:01 07:01
+ 51249   TIVERIACCO via Osoppo (fronte civico 109), 
+loc.Ponte Ledra
+07:02 07:02 07:02
+ 51703   RIVOLI via Rivoli 75 (ex stazione Majano, 
+direzione Osoppo)
+07:04 07:04 07:04
+ 51721   RIVOLI via Rivoli 21 (bar, direzione Osoppo) 07:05 07:05 07:05 07:05 07:05
+ 51202   MAJANO via Zorutti rotatoria dir. Buia 07:00 07:00
+ 51241   MAJANO via Ciro di Pers 10 (Esacart) 07:16
+ 51234   MAJANO via Ciro di Pers 60 (direzione Pers) 07:16
+ 51246   PERS via Ciro di Pers 136 (Canale Ledra, 
+direzione Mels)
+07:17
+ 51263   PERS via Melesons 97 (chiesa, direzione Mels) 07:18
+ 51117   MELESONS via Melesons 47 (lato chiesa) 07:19
+ 51134   MELS piazza del Tiglio 14 (Là Di Petros) 07:20
+ 51109   MELS via della Libertà 32 (Pesa) 07:20
+ 51108   AVEACCO via Cirenaiche 36 07:22
+ 51235   CASASOLA via Zorutti 120 (bivio borgo Schiratti,  
+dir.Buja)
+07:00 07:00
+ 51232   CASASOLA via Zorutti 100 (trattoria, direzione 
+Buja)
+07:01 07:01
+ 51466   TONZOLANO via Tonzolano 39 07:03 07:03
+ 51445   AVILLA SP 49 (bivio, direzione Santo Stefano di 
+Buja)
+07:09 07:09 07:09
+ 51444   URSININS Strada Provinciale 49 (civico 51) 07:09 07:09 07:09
+ 51476   URSININS via Santo Stefano 153 07:04 07:04 07:10 07:10 07:10 07:26
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 06:45 07:06 07:06 07:13 07:13 07:13
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+06:47
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+06:47
+ 51404   AVILLA via Monsignor Beinat 7 (centro, 
+direzione Tomba)
+06:48
+ 51477   SAN FLOREANO via San Floreano fronte 15 (bar) 06:49
+ 51458   SAN FLOREANO via San Floreano 32 (bar) 06:50
+ 51450   SANTO STEFANO DI BUJA via Arrio 8 07:28
+ 51435   TOMBA DI BUJA piazza Chiesa 11 06:54
+ 51463   MADONNA DI BUJA piazza Madonna 12 07:32
+ 51447   MADONNA DI BUJA via Madonna 34 (bivio 
+Solaris)
+07:33
+ 51425   SOPRAMONTE DI BUIA via Sopramonte 42 (lato 
+via Solaris)
+07:34
+ 51472   SOPRAMONTE DI BUJA via Sopramonte 116 
+(incrocio via Ledra)
+07:35
+ 51456   SOPRAMONTE DI BUJA via Campo Garzolino 30 
+(direzione Gemona)
+07:36
+CADENZA
+CORSA
+lunedì 16 febbraio 2026Pagina 1 di 7
+  [Pagina 25]
+52 44 100 2 96 78 98 46 62 76 64 40 84 6
+U300 U135 U242 U307 U241 U135 U242 U306 U389 U241 U389 U389 U241 U300
+ 51461   CASALI LEDRA via Casali Ledra 5 (direzione 
+Gemona)
+07:37
+ 61077   CAMPOLESSI via Lessi 78 prov. Artegna 07:41
+ 61053   GEMONA via Osoppo 267 (semaforo Taboga, dir. 
+stazione FS)
+07:43
+ 61014   GEMONA via Roma (autostazione) 07:47
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 07:51
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+07:52
+ 61014   GEMONA via Roma (autostazione) 07:57
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U302 Scolastica solo al martedi
+U306 Scolastica solo al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U300 Scolastica
+U307 Scolastica escluso il sabato U206 Feriale solo al sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 2 di 7
+  [Pagina 26]
+LINEA 230 (Ritorno)
+Orario valido dal 23 febbraio 2026S.DANIELE-MAJANO-BUJA-GEMONA 
+8 30 86 12 10 70 50 88 14 32 402 92 94 90
+U300 U251 U240 U300 U300 U250 U300 U240 U300 U251 U200 U240 U240 U240
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:29 09:15 09:15 09:15
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+07:20
+ 50I59   BIVIO PER BORGO SOPRAPALUDO via S.Daniele 
+(direzione Farla)
+07:25
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 07:31 09:17 09:17 09:17
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+07:32 09:18 09:18 09:18
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+07:33 09:18 09:18 09:18
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+09:19 09:19 09:19
+ 50I68   SAN DANIELE DEL FRIULI via Carnia 66 
+(pizzeria, dir.Majano)
+09:20 09:20 09:20
+ 50I44   SAN DANIELE DEL FRIULI via Cerere 30 
+(incrocio via Osoppo)
+07:35
+ 50I61   S.DANIELE DEL F.via Osoppo 96 (dir.Majano), 
+borgo Bronzacco
+07:36
+ 50I10   SAN DANIELE DEL FRIULI via Osoppo 116 
+(pizzeria, dir.Majano)
+07:37
+ 51254   SAN TOMASO via San Zenone 53 (ex poste, 
+direzione Majano)
+07:38 09:21 09:21 09:21
+ 51233   S.TOMASO DI MAJANO via S.Zenone fr. 10 07:39 09:22 09:22 09:22
+ 51206   COMERZO SR 463 via Nazionale 79 (direzione 
+Osoppo)
+07:40 09:24 09:24 09:24
+ 51243   MAJANO viale Rino Snaidero 15 07:41 09:24 09:24 09:24
+ 51238   FARLA via San Daniele 3 (trattoria) 07:28
+ 51251   MAJANO via Udine 73 (angolo via Deveacco) 07:30
+ 51262   MAJANO via Pietro Zorutti (fronte civico 30, lato 
+parco)
+07:31 07:43 09:27 09:27 09:27
+ 51252   TIVERIACCO via Divisione Julia 160, località 
+Ponte Ledra
+07:45
+ 51712   RIVOLIZ.I.  via Rivoli (fronte civico 26, direzione 
+Osoppo)
+07:50
+ 51701   OSOPPO via Matteotti (fronte civico 9, 
+centro)
+07:50 07:50 09:25
+ 51202   MAJANO via Zorutti rotatoria dir. Buia 07:32 09:27 09:27 09:27
+ 51235   CASASOLA via Zorutti 120 (bivio borgo Schiratti,  
+dir.Buja)
+07:33 09:28 09:28 09:28
+ 51232   CASASOLA via Zorutti 100 (trattoria, direzione 
+Buja)
+07:34 09:29 09:29 09:29
+ 51466   TONZOLANO via Tonzolano 39 09:32 09:32 09:32
+ 51409   TONZOLANO via Liberazione 115 07:37
+ 51460   AVILLA via Liberazione 15 (centro, direz. 
+S.Stefano di Buja)
+07:38
+ 51477   SAN FLOREANO via San Floreano fronte 15 (bar) 07:40
+ 51458   SAN FLOREANO via San Floreano 32 (bar) 07:41
+ 51476   URSININS via Santo Stefano 153 09:33 09:33 09:33
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 07:25 07:25 07:28 09:38 09:40 09:40 09:40
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+09:42 09:42 09:42
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+09:43 09:43 09:43
+ 51404   AVILLA via Monsignor Beinat 7 (centro, 
+direzione Tomba)
+09:44 09:44 09:44
+ 51477   SAN FLOREANO via San Floreano fronte 15 (bar) 09:44 09:44 09:44
+ 51458   SAN FLOREANO via San Floreano 32 (bar) 09:46 09:46 09:46 09:46
+ 51473   SOPRAMONTE DI BUJA via Ledra (lato via 
+Cjagjalot)
+09:48 09:48 09:48
+ 51480   SOPRAMONTE DI BUJA via Ledra (fronte civico 
+33)
+09:48 09:48 09:48
+ 51465   SOPRAMONTE DI BUJA via Sopramonte 21 
+(angolo via Solaris)
+09:49 09:49 09:49
+ 51471   MADONNA DI BUJA via Madonna 101 (bivio 
+Solaris)
+09:49 09:49 09:49
+ 51416   MADONNA DI BUJA piazza Madonna 2 09:50 09:50 09:50
+ 51467   URBIGNACCO piazza Urbignacco 3 09:51 09:51 09:51
+ 51474   SANTO STEFANO DI BUJA via Arrio 25 09:53 09:53 09:53
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 09:55 09:55 09:55 09:55
+ 51450   SANTO STEFANO DI BUJA via Arrio 8 07:27 07:27 07:30 09:57 09:57 09:57
+ 51473   SOPRAMONTE DI BUJA via Ledra (lato via 
+Cjagjalot)
+07:43
+ 51440   URBIGNACCO piazza Urbignacco 12 07:32
+CADENZA
+CORSA
+lunedì 16 febbraio 2026Pagina 3 di 7
+  [Pagina 27]
+8 30 86 12 10 70 50 88 14 32 402 92 94 90
+U300 U251 U240 U300 U300 U250 U300 U240 U300 U251 U200 U240 U240 U240
+ 51479   URBIGNACCO via Urbignacco 96 (direzione 
+Artegna)
+07:28 07:28 09:59 09:59 09:59
+ 60909   ARTEGNA via Nazionale (fronte 65, trattoria dir. 
+Gemona)
+07:33 07:33 10:03 10:03 10:03
+ 51463   MADONNA DI BUJA piazza Madonna 12 07:34
+ 51447   MADONNA DI BUJA via Madonna 34 (bivio 
+Solaris)
+07:34
+ 51425   SOPRAMONTE DI BUIA via Sopramonte 42 (lato 
+via Solaris)
+07:35
+ 51480   SOPRAMONTE DI BUJA via Ledra (fronte civico 
+33)
+07:43
+ 51472   SOPRAMONTE DI BUJA via Sopramonte 116 
+(incrocio via Ledra)
+07:36
+ 51456   SOPRAMONTE DI BUJA via Campo Garzolino 30 
+(direzione Gemona)
+07:44 07:37
+ 51461   CASALI LEDRA via Casali Ledra 5 (direzione 
+Gemona)
+07:46 07:38
+ 61077   CAMPOLESSI via Lessi 78 prov. Artegna 07:49 07:40
+ 61053   GEMONA via Osoppo 267 (semaforo Taboga, dir. 
+stazione FS)
+07:51 07:36 07:36 07:42 07:56 07:54 07:54 10:06 10:06 09:28 10:06
+ 61014   GEMONA via Roma (autostazione) 07:55 07:40 07:40 07:46 08:00 07:57 07:57 10:10 10:10 09:30 10:10
+ 61058   GEMONA via Salcons (S. Maria degli Angeli, 
+dir.centro studi)
+08:02
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 08:00 07:50 08:05 08:00
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+08:02 07:52 08:08 08:02
+ 61014   GEMONA via Roma (autostazione) 08:05 08:00 08:13
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U302 Scolastica solo al martedi
+U306 Scolastica solo al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U300 Scolastica
+U307 Scolastica escluso il sabato U206 Feriale solo al sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 4 di 7
+  [Pagina 28]
+LINEA 230 (Ritorno)
+Orario valido dal 23 febbraio 2026S.DANIELE-MAJANO-BUJA-GEMONA 
+16 20 22 26 66 24 406 28 404 34 408 410 36 72
+U200 U300 U300 U300 U300 U300 U206 U300 U200 U241 U259 U307 U241 U389
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+10:55
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+10:57 12:16 13:15 13:20 14:49 15:33
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+13:15
+ 50I59   BIVIO PER BORGO SOPRAPALUDO via S.Daniele 
+(direzione Farla)
+13:20
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 10:58 12:18 13:17 13:22 14:51 15:35
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+10:59 12:18 13:18 13:22 14:51 15:36
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+11:00 12:20 13:20 13:23 14:52 15:37
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+12:20 13:21 13:24 14:53 15:37
+ 50I68   SAN DANIELE DEL FRIULI via Carnia 66 
+(pizzeria, dir.Majano)
+12:21 13:22 13:25 14:54 15:38
+ 50I44   SAN DANIELE DEL FRIULI via Cerere 30 
+(incrocio via Osoppo)
+11:02
+ 50I61   S.DANIELE DEL F.via Osoppo 96 (dir.Majano), 
+borgo Bronzacco
+11:03
+ 50I10   SAN DANIELE DEL FRIULI via Osoppo 116 
+(pizzeria, dir.Majano)
+11:03
+ 51254   SAN TOMASO via San Zenone 53 (ex poste, 
+direzione Majano)
+11:05 12:22 13:27 15:40
+ 51233   S.TOMASO DI MAJANO via S.Zenone fr. 10 11:05 12:23 13:28 15:40
+ 51206   COMERZO SR 463 via Nazionale 79 (direzione 
+Osoppo)
+11:07 12:24 13:25 13:29 14:56 15:41
+ 51243   MAJANO viale Rino Snaidero 15 11:07 12:25 13:30 14:57 15:42 16:54 16:54
+ 51238   FARLA via San Daniele 3 (trattoria) 13:23
+ 51251   MAJANO via Udine 73 (angolo via Deveacco) 13:24
+ 51221   MAJANO via Udine 16 (Coop) 11:10 12:29 13:32
+ 51243   MAJANO viale Rino Snaidero 15 13:27
+ 51262   MAJANO via Pietro Zorutti (fronte civico 30, lato 
+parco)
+13:25 13:29 14:59 15:44 16:57 16:57
+ 51211   TIVERIACCO via Osoppo 18 (trattoria, direzione 
+Osoppo)
+13:34
+ 51249   TIVERIACCO via Osoppo (fronte civico 109), 
+loc.Ponte Ledra
+13:35
+ 51703   RIVOLI via Rivoli 75 (ex stazione Majano, 
+direzione Osoppo)
+13:38
+ 51721   RIVOLI via Rivoli 21 (bar, direzione Osoppo) 13:39
+ 51712   RIVOLIZ.I.  via Rivoli (fronte civico 26, direzione 
+Osoppo)
+13:41
+ 51719   OSOPPO via San Daniele 77 (Ledraplastic) 13:43
+ 51713   OSOPPO via Batterie 1 (centro) 16:37 16:37
+ 51701   OSOPPO via Matteotti (fronte civico 9, 
+centro)
+13:45 14:20 15:30
+ 51265   MAJANO via Udine 44 (angolo via Deveacco, 
+direzione Farla)
+11:10 13:33
+ 51202   MAJANO via Zorutti rotatoria dir. Buia 13:26 14:59 15:44 16:57 16:57
+ 51269   FARLA via Zampini (fronte 10, trattoria direzione 
+Pers)
+11:13 13:35
+ 51239   SANT'ELISEO (direzione Pers) 11:15 13:37
+ 51267   PERS via Ciro di Pers 58 (chiesa) 11:17 13:39
+ 51117   MELESONS via Melesons 47 (lato chiesa) 11:17 13:39
+ 51134   MELS piazza del Tiglio 14 (Là Di Petros) 11:18 13:40
+ 51109   MELS via della Libertà 32 (Pesa) 11:19 13:41
+ 51108   AVEACCO via Cirenaiche 36 11:20 13:42
+ 51235   CASASOLA via Zorutti 120 (bivio borgo Schiratti,  
+dir.Buja)
+13:27 15:00 15:45 16:58 16:58
+ 51232   CASASOLA via Zorutti 100 (trattoria, direzione 
+Buja)
+13:28 15:01 15:46 16:59 16:59
+ 51466   TONZOLANO via Tonzolano 39 15:03
+ 51409   TONZOLANO via Liberazione 115 11:24 13:31 15:48 17:01 17:01
+ 51460   AVILLA via Liberazione 15 (centro, direz. 
+S.Stefano di Buja)
+11:25 13:32 15:49 17:03 17:03
+ 51407   AVILLA via Avilla 71 (centro) 17:03 17:03
+ 51445   AVILLA SP 49 (bivio, direzione Santo Stefano di 
+Buja)
+11:26 13:33 15:50 17:04 17:04
+ 51444   URSININS Strada Provinciale 49 (civico 51) 11:27 13:33 15:50 17:04 17:04
+ 51476   URSININS via Santo Stefano 153 11:27 13:45 15:04 15:51 17:05 17:05
+CADENZA
+CORSA
+lunedì 16 febbraio 2026Pagina 5 di 7
+  [Pagina 29]
+16 20 22 26 66 24 406 28 404 34 408 410 36 72
+U200 U300 U300 U300 U300 U300 U206 U300 U200 U241 U259 U307 U241 U389
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 11:29 13:05 13:37 13:50 15:09 15:52 17:06 17:06
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+13:39
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+13:39
+ 51404   AVILLA via Monsignor Beinat 7 (centro, 
+direzione Tomba)
+13:40
+ 51477   SAN FLOREANO via San Floreano fronte 15 (bar) 13:41
+ 51458   SAN FLOREANO via San Floreano 32 (bar) 13:43
+ 51473   SOPRAMONTE DI BUJA via Ledra (lato via 
+Cjagjalot)
+13:44
+ 51480   SOPRAMONTE DI BUJA via Ledra (fronte civico 
+33)
+13:45
+ 51465   SOPRAMONTE DI BUJA via Sopramonte 21 
+(angolo via Solaris)
+13:46
+ 51471   MADONNA DI BUJA via Madonna 101 (bivio 
+Solaris)
+13:47
+ 51416   MADONNA DI BUJA piazza Madonna 2 13:47
+ 51479   URBIGNACCO via Urbignacco 96 (direzione 
+Artegna)
+13:49
+ 60956   ARTEGNA via Villa 1 (rotonda Salt) 13:53
+ 60911   ARTEGNA via Villa (rotonda Salt, direzione 
+Udine)
+13:53
+ 60901   ARTEGNA via Villa 116 (centro, direzione Udine) 13:55
+ 51467   URBIGNACCO piazza Urbignacco 3 13:59
+ 51474   SANTO STEFANO DI BUJA via Arrio 25 13:59
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 14:03
+ 51450   SANTO STEFANO DI BUJA via Arrio 8 11:31 13:07 15:10 15:54 17:09 17:09
+ 51416   MADONNA DI BUJA piazza Madonna 2 15:12
+ 51440   URBIGNACCO piazza Urbignacco 12 11:32 13:09
+ 51479   URBIGNACCO via Urbignacco 96 (direzione 
+Artegna)
+15:56 17:10 17:10
+ 51467   URBIGNACCO piazza Urbignacco 3 15:13
+ 60909   ARTEGNA via Nazionale (fronte 65, trattoria dir. 
+Gemona)
+16:02 17:15 17:15
+ 51463   MADONNA DI BUJA piazza Madonna 12 11:34 13:11
+ 51447   MADONNA DI BUJA via Madonna 34 (bivio 
+Solaris)
+11:35 13:12
+ 51425   SOPRAMONTE DI BUIA via Sopramonte 42 (lato 
+via Solaris)
+11:35 13:12
+ 51472   SOPRAMONTE DI BUJA via Sopramonte 116 
+(incrocio via Ledra)
+11:36 13:13
+ 51456   SOPRAMONTE DI BUJA via Campo Garzolino 30 
+(direzione Gemona)
+11:37 13:14
+ 51461   CASALI LEDRA via Casali Ledra 5 (direzione 
+Gemona)
+11:38 13:15
+ 61077   CAMPOLESSI via Lessi 78 prov. Artegna 11:41 13:18 17:16 17:16
+ 61053   GEMONA via Osoppo 267 (semaforo Taboga, dir. 
+stazione FS)
+11:43 13:20 13:49 14:23 15:33 16:05 16:41 16:41 17:19 17:19
+ 61014   GEMONA via Roma (autostazione) 11:50 13:25 13:53 14:25 15:35 16:09 16:44 16:44 17:22 17:22
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 16:13 17:25 17:25
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U302 Scolastica solo al martedi
+U306 Scolastica solo al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U300 Scolastica
+U307 Scolastica escluso il sabato U206 Feriale solo al sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 6 di 7
+  [Pagina 30]
+LINEA 230 (Ritorno)
+Orario valido dal 23 febbraio 2026S.DANIELE-MAJANO-BUJA-GEMONA 
+74 48 38
+U307 U302 U307
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+16:55 18:24
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 16:57 18:26
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+16:58 18:27
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+17:00 18:28
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+17:01 18:29
+ 50I68   SAN DANIELE DEL FRIULI via Carnia 66 
+(pizzeria, dir.Majano)
+17:02 18:30
+ 51254   SAN TOMASO via San Zenone 53 (ex poste, 
+direzione Majano)
+17:04 18:31
+ 51233   S.TOMASO DI MAJANO via S.Zenone fr. 10 17:04 18:32
+ 51206   COMERZO SR 463 via Nazionale 79 (direzione 
+Osoppo)
+17:06 18:33
+ 51243   MAJANO viale Rino Snaidero 15 16:54 17:07 18:34
+ 51262   MAJANO via Pietro Zorutti (fronte civico 30, lato 
+parco)
+16:57 17:09 18:36
+ 51202   MAJANO via Zorutti rotatoria dir. Buia 16:57 17:10 18:36
+ 51235   CASASOLA via Zorutti 120 (bivio borgo Schiratti,  
+dir.Buja)
+16:58 17:11 18:37
+ 51232   CASASOLA via Zorutti 100 (trattoria, direzione 
+Buja)
+16:59 17:12 18:38
+ 51409   TONZOLANO via Liberazione 115 17:01 17:15 18:40
+ 51460   AVILLA via Liberazione 15 (centro, direz. 
+S.Stefano di Buja)
+17:03 17:16 18:41
+ 51407   AVILLA via Avilla 71 (centro) 17:03
+ 51445   AVILLA SP 49 (bivio, direzione Santo Stefano di 
+Buja)
+17:04 17:17 18:42
+ 51444   URSININS Strada Provinciale 49 (civico 51) 17:04 17:18 18:43
+ 51476   URSININS via Santo Stefano 153 17:05 17:18 18:43
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 17:06 17:20 18:45
+ 51450   SANTO STEFANO DI BUJA via Arrio 8 17:09 18:47
+ 51479   URBIGNACCO via Urbignacco 96 (direzione 
+Artegna)
+17:10 18:48
+ 60909   ARTEGNA via Nazionale (fronte 65, trattoria dir. 
+Gemona)
+17:15 18:53
+ 61077   CAMPOLESSI via Lessi 78 prov. Artegna 17:16
+ 61053   GEMONA via Osoppo 267 (semaforo Taboga, dir. 
+stazione FS)
+17:19 18:57
+ 61014   GEMONA via Roma (autostazione) 17:22 19:00
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 17:25
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U302 Scolastica solo al martedi
+U306 Scolastica solo al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U300 Scolastica
+U307 Scolastica escluso il sabato U206 Feriale solo al sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 7 di 7
+  [Pagina 31]
+LINEA 340 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-CARPACCO-COSEANO- FAGAGNA 
+1 7 43 9 13 21 25 35 37 45 41 3 39 47
+U200 U230 U240 U200 U200 U200 U250 U300 U240 U251 U300 U242 U257 U300
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+05:45 06:15 06:20 08:00 08:35 10:38 13:10 14:10 18:10 18:10 18:18 19:20 19:20 19:20
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+05:47 06:16 06:21 08:02 08:37 10:40 13:12 14:12 18:12 18:12 18:20 19:21 19:21 19:21
+ 50I19   SAN DANIELE DEL FRIULI via Trento Trieste 108 
+(lato bar)
+05:47 06:17 06:22 08:03 08:38 10:41 13:13 14:13 18:13 18:13 18:21 19:22 19:22 19:22
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+05:49 08:04 08:39 10:42 13:14 18:14 18:14 18:22 19:24 19:24 19:24
+ 50I03   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Giacomo Bernè 3
+05:52 08:08 08:42 10:46 13:17 18:18 18:18 18:26 19:27 19:27 19:27
+ 50I50   SAN DANIELE DEL FRIULI via Kennedy 104 
+(direzione Rodeano)
+06:18 06:23 14:14
+ 50807   CARPACCO via De Gasperi 14 05:54 08:09 08:44 10:48 13:19 18:19 18:19 18:28 19:29 19:29 19:29
+ 50813   CARPACCO piazza Libertà 15 05:55 08:10 08:45 10:49 13:20 18:21 18:21 18:28 19:30 19:30 19:30
+ 50816   CARPACCO via Pasini 22 (trattoria, direzione 
+Dignano)
+05:55 08:46 10:49 13:20 18:21 18:21 18:29
+ 51A22   RODEANO ALTO via Carnia 1 (chiesa) 06:21 06:27 14:17
+ 51A30   RODEANO ALTO via Carpacco 13 (chiesa) 08:14 19:34 19:34 19:34
+ 50805   VIDULIS via Trieste 25 (chiesa) 05:58 08:49 10:52 13:23 18:24 18:24 18:32
+ 50715   MASERIS via della Fontana 4 (direzione 
+Cisterna)
+06:02 08:52 10:55 13:26 18:28 18:28 18:35
+ 50704   CISTERNA piazza monumento 16 (direzione 
+Coseano)
+06:04 06:25 06:31 08:55 10:58 13:29 18:30 18:30 18:38
+ 50723   COSEANO via Centro Studi (fronte via del Cristo) 06:06 06:27 06:33 08:57 11:00 13:31 18:32 18:32 18:40
+ 50701   COSEANO via del Commercio 93 06:08 06:28 06:34 08:17 08:58 11:01 13:32 14:20 18:33 18:33 18:41 19:36 19:36 19:36
+ 50604   SILVELLA via Nuova 165 (direzione Udine) 06:11 06:31 06:38 08:20 09:01 11:05 13:36 14:24 18:36 18:36 18:44 19:40 19:40 19:40
+ 50613   RUSCLETTO via Unica 17 (chiesa) 09:03 14:26
+ 50601   SAN VITO DI FAGAGNA piazza Umberto I (civico 
+4, dir.Udine)
+06:13 06:33 06:40 08:21 11:06 13:37 18:38 18:38 18:46 19:42 19:42 19:42
+ 50612   SAN VITO DI FAG. via San Daniele 5 (chiesa, 
+direzione Udine)
+09:06 14:29
+ 50531   FAGAGNA via Pecile 14 (bar) 06:22 08:30 09:14 11:14 13:47 14:34 18:47 18:47 18:52 19:50 19:50 19:50
+ 50501   FAGAGNA via Pecile 10 (bar, direzione 
+Rodeano)
+06:40 06:45
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U257 Feriale giorni non scolastici escluso il sabato U240 Feriale estiva (fne scuole-inizio scuole)
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U251 Feriale giorni non scol. del periodo scolastico
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 32]
+LINEA 340 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-CARPACCO-COSEANO- FAGAGNA 
+49
+U135
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+19:20
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+19:21
+ 50I19   SAN DANIELE DEL FRIULI via Trento Trieste 108 
+(lato bar)
+19:22
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+19:24
+ 50I03   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Giacomo Bernè 3
+19:27
+ 50807   CARPACCO via De Gasperi 14 19:29
+ 50813   CARPACCO piazza Libertà 15 19:30
+ 51A30   RODEANO ALTO via Carpacco 13 (chiesa) 19:34
+ 50701   COSEANO via del Commercio 93 19:36
+ 50604   SILVELLA via Nuova 165 (direzione Udine) 19:40
+ 50601   SAN VITO DI FAGAGNA piazza Umberto I (civico 
+4, dir.Udine)
+19:42
+ 50531   FAGAGNA via Pecile 14 (bar) 19:50
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U257 Feriale giorni non scolastici escluso il sabato U240 Feriale estiva (fne scuole-inizio scuole)
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U251 Feriale giorni non scol. del periodo scolastico
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 33]
+LINEA 340 (Ritorno)
+Orario valido dal 23 febbraio 2026FAGAGNA-COSEANO-CARPACCO-S.DANIELE 
+2 4 12 14 20 26 32 34 6 36 38 40
+U200 U200 U200 U200 U250 U300 U249 U251 U242 U300 U257 U135
+ 50531   FAGAGNA via Pecile 14 (bar) 06:30 08:47 09:26 11:28 13:54 14:45 19:05 19:05 20:00 20:00 20:00 20:00
+ 50603   SAN VITO DI FAGAGNA via San Daniele 8 
+(chiesa)
+06:34 08:52 14:50 19:10 19:10
+ 50602   SAN VITO DI FAGAGNA piazza Umberto I 
+(fronte 4, dir. Udine)
+09:31 11:33 13:59 20:03 20:03 20:03 20:03
+ 50610   RUSCLETTO via Unica 10 (chiesa, direzione 
+Silvella)
+06:36 08:54 14:52 19:12 19:12
+ 50605   SILVELLA via Nuova 126 06:38 08:56 09:32 11:34 14:01 14:54 19:13 19:13 20:05 20:05 20:05 20:05
+ 50719   COSEANO via del Commercio 84 (direzione 
+Cisterna)
+06:41 08:59 09:36 11:38 14:05 14:58 19:16 19:16 20:08 20:08 20:08 20:08
+ 50716   COSEANO via Centro Studi 118 06:42 09:37 11:39 14:06 14:59 19:17 19:17
+ 50704   CISTERNA piazza monumento 16 (direzione 
+Coseano)
+06:45 09:40 11:41 14:09 15:01 19:20 19:20
+ 50722   MASERIS via della Fontana 7 06:48 09:43 11:44 14:12 15:04 19:22 19:22
+ 50814   VIDULIS via Trieste 1 (chiesa) 06:50 09:46 11:47 14:15 15:07 19:25 19:25
+ 51A09   RODEANO ALTO via Carpacco 8 (chiesa) 09:02 20:11 20:11 20:11 20:11
+ 50809   CARPACCO via Pasini 43 (trattoria) 06:53 09:49 11:49 14:18 15:10 19:27 19:27
+ 50803   CARPACCO piazza Libertà 2 (direzione San 
+Daniele)
+06:54 09:07 09:50 11:50 14:19 15:11 19:28 19:28 20:13 20:13 20:13 20:13
+ 50815   CARPACCO via de Gasperi 9 (direzione 
+S.Daniele)
+06:55 09:08 09:51 11:52 14:21 15:12 19:29 19:29 20:15 20:15 20:15 20:15
+ 50I53   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Nazionale 55
+06:58 09:10 09:52 11:53 14:22 15:14 19:30 19:30 20:17 20:17 20:17 20:17
+ 50I16   SAN DANIELE DEL FRIULI via Kennedy (fronte 
+scuola media)
+07:01 09:13 09:55 11:56 14:26 15:17 19:34 19:34 20:20 20:20 20:20 20:20
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+07:03 09:15 09:58 11:58 14:27 15:18 19:35 19:35 20:22 20:22 20:22 20:22
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+07:04 09:16 09:59 11:59 14:28 15:19 19:36 19:36 20:23 20:23 20:23 20:23
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:10 09:19 10:00 12:02 14:29 15:24 19:44 19:44 20:25 20:25 20:25 20:25
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U249 Feriale escluso giorni non scolastici del periodo scolastico
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U257 Feriale giorni non scolastici escluso il sabato
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U300 Scolastica U251 Feriale giorni non scol. del periodo scolastico
+lunedì 16 febbraio 2026Pagina 1 di 1
+  [Pagina 34]
+LINEA 341 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-DIGNANO-S.ODORICO-COSEANO 
+1
+U300
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+13:15
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+13:17
+ 50I19   SAN DANIELE DEL FRIULI via Trento Trieste 108 
+(lato bar)
+13:18
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+13:20
+ 50I54   AONEDIS via Aonedis 60 (trattoria, direzione 
+Villanova)
+13:24
+ 50I03   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Giacomo Bernè 3
+13:26
+ 50807   CARPACCO via De Gasperi 14 13:28
+ 50813   CARPACCO piazza Libertà 15 13:29
+ 50816   CARPACCO via Pasini 22 (trattoria, direzione 
+Dignano)
+13:30
+ 50811   VIDULIS via Nazionale 64 (Lupieri, direzione 
+Dignano)
+13:33
+ 50812   DIGNANO via San Gallo (fronte civico 1), borgo 
+Mezzoli
+13:34
+ 50801   DIGNANO piazza Cimolino fronte 8 13:35
+ 50810   BONZICCO via Venezia (fronte civico 7, direzione 
+S.Odorico)
+13:37
+ 41A08   SAN ODORICO DI FLAIBANO via Garzarolli 16 13:40
+ 41A01   FLAIBANO piazza monumento ai Caduti (fronte 
+9, dir.Codroipo)
+13:44
+ 41A05   FLAIBANO via Giuseppe Garibaldi (fronte civico 
+3, chiesa)
+13:45
+ 50703   BARAZZETTO via dell'Unione 4 (chiesa, 
+direzione Nogaredo)
+13:48
+ 50709   NOGAREDO DI CORNO via della Pace 43 
+(direzione Coseano)
+13:49
+ 50719   COSEANO via del Commercio 84 (direzione 
+Cisterna)
+13:58
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+lunedì 16 febbraio 2026Pagina 1 di 1
+  [Pagina 35]
+LINEA 341 (Ritorno)
+Orario valido dal 23 febbraio 2026COSEANO-S.ODORICO-DIGNANO-S.DANIELE 
+2
+U300
+ 50701   COSEANO via del Commercio 93 06:36
+ 50721   NOGAREDO DI CORNO via della Pace 44 06:40
+ 50720   BARAZZETTO via dell'Unione 5 (chiesa) 06:41
+ 41A07   FLAIBANO piazza monumento ai Caduti 9 (dir. 
+San Daniele)
+06:45
+ 41A04   SAN ODORICO DI FLAIBANO via Garzarolli 15 06:49
+ 50808   BONZICCO via Venezia 7 (direzione Dignano) 06:52
+ 50804   DIGNANO piazza Cimolino 8 06:54
+ 50818   DIGNANO via San Gallo 7 (direzione Vidulis), 
+borgo Mezzoli
+06:55
+ 50817   VIDULIS via Nazionale 27 (Lupieri) 06:56
+ 50809   CARPACCO via Pasini 43 (trattoria) 07:00
+ 50803   CARPACCO piazza Libertà 2 (direzione San 
+Daniele)
+07:01
+ 50815   CARPACCO via de Gasperi 9 (direzione 
+S.Daniele)
+07:02
+ 50I53   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Nazionale 55
+07:04
+ 50I05   AONEDIS via Aonedis 59 (trattoria, direzione San 
+Daniele)
+07:06
+ 50I16   SAN DANIELE DEL FRIULI via Kennedy (fronte 
+scuola media)
+07:10
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+07:12
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+07:13
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:19
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+lunedì 16 febbraio 2026Pagina 1 di 1
+  [Pagina 36]
+LINEA 350 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-GIAVONS-RIVE D'ARCANO-FAGAGNA-UDINE 
+7 5 105 103 21 51 59 1 69 3 101
+U300 U300 U251 U240 U300 U300 U250 U300 U300 U300 U308
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+06:42 06:45 06:50
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+06:44 06:46 06:51
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+06:44 06:47 06:52
+ 50I68   SAN DANIELE DEL FRIULI via Carnia 66 
+(pizzeria, dir.Majano)
+06:45 06:49 06:54
+ 51254   SAN TOMASO via San Zenone 53 (ex poste, 
+direzione Majano)
+06:47 06:50
+ 51256   S.TOMASO DI MAJANO via S.Zenone 10 06:55
+ 51233   S.TOMASO DI MAJANO via S.Zenone fr. 10 06:47 06:51
+ 51225   S.TOMASO via San Zenone 66 (ex poste, 
+direzione San Daniele)
+06:56
+ 50I58   S.DANIELE DEL FR. via Osoppo 169 (pizzeria, 
+dir.San Daniele)
+06:48 06:53 06:58
+ 50I17   SAN DANIELE DEL FRIULI via Osoppo 115, 
+borgo Bronzacco
+06:49 06:54 06:59
+ 50I69   SAN DANIELE DEL FRIULI via Cerere 41 
+(incrocio via Osoppo)
+06:50 06:55 07:00
+ 50I08   SAN DANIELE DEL FRIULI via Gemona 31 
+(Jonny Luanie)
+06:51 06:56 07:01
+ 50I57   SAN DANIELE DEL FRIULI via Tagliamento 61 
+(bar)
+06:54 06:58 07:03
+ 50I73   SAN DANIELE DEL FRIULI via C.Battisti 15 06:54 06:59 07:04
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+06:56 06:56 07:00 07:05 07:10 12:25 12:25
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+13:15
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 13:17
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+06:57 06:58 07:01 07:06 07:12 12:27 12:26
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+13:20 16:38
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+13:21 16:40
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+13:22 16:41
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+13:15 13:25 16:30 16:43
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+13:17 13:26 16:32 16:44
+ 50I37   S.DANIELE DEL F.via Rive S.Luca 50 (alimentari, 
+dir.Giavons)
+06:58 06:59 07:02 07:07 07:12 12:28 12:27 13:18 13:27 16:33 16:45
+ 51A28   GIAVONS via San Daniele (fronte civico 16, 
+chiesa)
+07:01 07:02 07:06 07:11 07:15 12:30 12:31 13:21 13:30 16:36 16:48
+ 51A23   RAUCICCO via Giovanni XXIII 15 (birreria) 07:16 16:53
+ 51A03   RAUCICCO via Giovanni XXIII (fronte civico 18, 
+piazza)
+07:03 07:04 07:08 07:13 12:32 12:33 13:22 13:31 16:37
+ 51A15   RIVOTTA via Fagagna 18 07:18
+ 51A25   RIVE D'ARCANO via Roma 31 (direzione 
+Fagagna)
+07:04 07:05 07:09 07:14 12:33 12:34 13:23 13:33 16:38
+ 51A20   POZZALIS via Principale 14 (direzione Fagagna) 07:06 07:07 07:10 07:15 12:35 12:35 13:25 13:35 16:40
+ 50542   MADRISIO DI FAGAGNA via Battaglia 23 
+(scuole, direz.Fagagna)
+07:09 07:09 07:12 07:17 12:37 12:37 13:37
+ 50510   BATTAGLIA via Tagliamento (ang.via Principale, 
+dir.Fagagna)
+07:10 07:10 07:13 07:18 12:37 12:38 13:38
+ 50612   SAN VITO DI FAG. via San Daniele 5 
+(chiesa, direzione Udine)
+13:32 16:47
+ 50528   S.GIOVANNI IN COLLE via Friuli (incr.via 
+Codarut, dir.Fagagn
+07:10 07:11 07:14 07:19 12:38 12:39 13:39
+ 50531   FAGAGNA via Pecile 14 (bar) 07:15 07:15 07:18 07:23 12:42 13:44
+ 50501   FAGAGNA via Pecile 10 (bar, direzione 
+Rodeano)
+07:24 12:43
+ 50503   FAGAGNA via Udine 64 (direzione Udine), borgo 
+Peraria
+07:16 07:16 07:19 07:24 12:43 13:45
+ 50516   CICONICCO via Spilimbergo (bivio Chiarandis, 
+direz. Udine)
+07:18 07:18 07:21 07:26 12:45 13:35 13:47 16:50
+ 50517   VILLALTA via Spilimbergo 53 (bivio Castello, 
+direz. Udine)
+07:18 07:19 07:23 07:28 12:46 13:36 13:48 16:51
+ 50108   MARTIGNACCO via Spilimbergo 287 
+(semaforo, direzione Udine)
+07:20 07:21 07:25 07:30 12:48 13:38 13:50 16:53
+ 50102   CASANOVA DI MART. via Spilimbergo 1542 
+(Freud, dir. Udine)
+07:24 07:24 07:29 07:34 12:51 13:42 13:53 16:57
+ 50111   CASANOVA DI MARTIGNACCO via Spilimbergo 
+137 (dir. Udine)
+07:25 07:25 07:30 07:35 12:52 13:43 13:54 16:58
+ 40206   PASSONS via Spilimbergo 7 (direzione Udine) 07:27 07:27 07:31 07:36 12:53 13:44 13:56 17:00
+ 70C16   UDINE via Martignacco 170 (Villaggio del Sole) 07:30 07:29 07:33 07:38 12:55 13:46 13:57 17:02
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:32 07:33
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 07:36 07:40 13:00 13:48 14:00 17:04
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:49
+CADENZA
+CORSA
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 37]
+7 5 105 103 21 51 59 1 69 3 101
+U300 U300 U251 U240 U300 U300 U250 U300 U300 U300 U308
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 07:53
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:38 07:40 07:42 13:02 13:50 14:03 17:06
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:39 07:44 07:45 13:03 13:52 14:06 17:10
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:40 07:45 07:46 13:04 13:53 14:07 17:10
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:45 07:55 07:48 07:48 13:08 13:55 14:08 17:12
+VALIDITÀ
+U308 Scolastica al lunedi-mercoledi-venerdi U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U300 Scolastica
+U251 Feriale giorni non scol. del periodo scolastico
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 38]
+LINEA 350 (Ritorno)
+Orario valido dal 23 febbraio 2026UDINE-FAGAGNA-RIVE D'ARCANO-GIAVONS-S.DANIELE 
+18 28 58 70 2 72 74 80 76 78
+U300 U300 U250 U300 U300 U300 U307 U306 U240 U251
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:25 12:20 13:25 15:45 17:35 18:30 18:30
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 12:25
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 06:29 13:31 15:50 17:42 18:35 18:35
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 12:26
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+06:31 12:30 15:53 17:44 18:38 18:38
+ 70C72   UDINE viale Leonardo da Vinci 57 (Area 1, fronte 
+Malignani)
+13:34
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+06:33 12:33 13:37 15:55 17:48 18:41 18:41
+ 40205   PASSONS via Spilimbergo 10 06:34 12:34 13:39 15:57 17:50 18:42 18:42
+ 50107   CASANOVA DI MARTIGNACCO via Spilimbergo 
+104
+06:35 12:36 13:40 15:58 17:51 18:44 18:44
+ 50138   CASANOVA DI MARTIGNACCO via Spilimbergo 
+154 (Cosatto)
+06:36 12:36 13:41 15:59 17:52 18:45 18:45
+ 50101   MARTIGNACCO via Spilimbergo 246 
+(semaforo)
+06:40 12:41 13:45 16:03 17:58 18:49 18:49
+ 50520   VILLALTA via Spilimbergo (fronte civico 39, bivio 
+castello)
+06:42 12:42 13:46 16:05 17:59 18:50 18:50
+ 50515   CICONICCO via Spilimbergo 122 (bivio 
+Chiarandis, dir.Fagagna
+06:43 12:44 13:48 16:06 18:00 18:54 18:54
+ 50533   FAGAGNA via Udine (fronte civico 64), borgo 
+Peraria
+06:45 12:46 13:50 18:02 18:54 18:54
+ 50501   FAGAGNA via Pecile 10 (bar, direzione 
+Rodeano)
+06:48 12:47 12:48 13:51 18:03 18:57 18:57 19:00 19:00
+ 50541   S.GIOVANNI IN COLLE via del Tennis 32 
+(direzione Madrisio)
+06:51 12:51 12:52 13:54 18:07 19:00 19:00 19:04 19:04
+ 50537   BATTAGLIA via Tagliamento (ang.via Principale, 
+dir.Madrisio)
+06:51 12:52 12:53 13:55 18:07 19:01 19:01 19:05 19:05
+ 50530   MADRISIO DI FAGAGNA via Battaglia 48 
+(scuole)
+06:53 12:53 12:54 13:56 18:08 19:02 19:02 19:06 19:06
+ 50603   SAN VITO DI FAGAGNA via San Daniele 8 
+(chiesa)
+16:10
+ 51A21   POZZALIS via Principale (direzione Rive 
+D'Arcano)
+06:55 12:54 12:55 13:58 16:16 18:10 19:03 19:03 19:07 19:07
+ 51A01   RIVE D'ARCANO via Roma 19 (piazza, direzione 
+Rodeano)
+06:57 12:57 12:57 14:00 16:19 18:12 19:06 19:06 19:09 19:09
+ 51A27   RAUCICCO via Giovanni XXIII 14 (piazza) 06:58 12:58 12:58 14:01 16:20 18:13 19:08 19:08 19:10 19:10
+ 51A05   GIAVONS via San Daniele 18 (chiesa) 07:00 13:00 13:00 14:03 16:21 18:15 19:09 19:09 19:12 19:12
+ 50I64   SAN DANIELE DEL FRIULI via Rive San Luca 31 
+(alimentari)
+07:03 13:03 13:04 14:06 16:25 18:18 19:13 19:13 19:16 19:16
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+07:04 13:04 13:05 14:07 16:26 18:20 19:14 19:14 19:17 19:17
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:08 13:05 13:06 14:08 16:26 18:21 19:15 19:15 19:18 19:18
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+14:12
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 14:13
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+14:14
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+14:16
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+14:17
+ 50I68   SAN DANIELE DEL FRIULI via Carnia 66 
+(pizzeria, dir.Majano)
+14:18
+ 51256   S.TOMASO DI MAJANO via S.Zenone 10 14:20
+ 51225   S.TOMASO via San Zenone 66 (ex poste, 
+direzione San Daniele)
+14:20
+ 50I58   S.DANIELE DEL FR. via Osoppo 169 (pizzeria, 
+dir.San Daniele)
+14:21
+ 50I17   SAN DANIELE DEL FRIULI via Osoppo 115, 
+borgo Bronzacco
+14:21
+ 50I69   SAN DANIELE DEL FRIULI via Cerere 41 
+(incrocio via Osoppo)
+14:23
+ 50I08   SAN DANIELE DEL FRIULI via Gemona 31 
+(Jonny Luanie)
+14:31
+CADENZA
+CORSA
+18 28 58 70 2 72 74 80 76 78
+ 70101   UDINE viale Europa Unita 37 (autostazione) 14 14 11 11 12 11 11
+BANCHINE
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 39]
+VALIDITÀ
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 40]
+LINEA 351 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-RODEANO-RIVE D'ARCANO-FAGAGNA-UDINE 
+1 3 7 9 801 31 29 39 41 63 75 87 79 81
+U200 U300 U240 U251 U307 U300 U200 U200 U300 U250 U250 U242 U378 U200
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+05:43 06:00 06:20 06:20 07:27 08:10 09:40 11:00 13:30 14:15 14:30 15:42
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+05:45 06:02 06:21 06:21 07:29 08:12 09:42 11:01 13:31 14:17 14:32 15:44
+ 50I19   SAN DANIELE DEL FRIULI via Trento Trieste 108 
+(lato bar)
+05:46 06:02 06:22 06:22 07:30 08:13 09:43 11:02 13:32 14:18 14:33 15:45
+ 50I50   SAN DANIELE DEL FRIULI via Kennedy 104 
+(direzione Rodeano)
+05:47 06:03 06:22 06:22 07:31 08:14 09:44 11:02 13:32 14:19 14:34 15:46
+ 51A22   RODEANO ALTO via Carnia 1 (chiesa) 05:50 06:05 06:26 06:26 07:35 08:18 09:47 11:06 13:36 14:22 14:37 15:49
+ 51A29   RODEANO BASSO via Nazionale 33 05:52 06:07 06:27 06:27 07:36 08:19 09:48 11:07 13:37 14:24 14:39 15:51
+ 51A03   RAUCICCO via Giovanni XXIII (fronte civico 18, 
+piazza)
+07:39
+ 51A16   RIVOTTA via San Martino (ang.via Fagagna, 
+dir.Rive D'Arcano)
+05:53 06:07 06:28 06:28 08:20 09:50 11:08 13:38 14:25 14:40 15:52
+ 51A25   RIVE D'ARCANO via Roma 31 (direzione 
+Fagagna)
+05:55 06:09 06:33 06:33 07:40 08:23 09:52 11:13 13:43 14:27 14:42 15:54
+ 51A20   POZZALIS via Principale 14 (direzione Fagagna) 05:57 06:11 06:34 06:34 07:42 08:25 09:54 11:14 13:44 14:29 14:44 15:56
+ 50542   MADRISIO DI FAGAGNA via Battaglia 23 
+(scuole, direz.Fagagna)
+05:58 06:12 06:36 06:36 07:44 08:26 09:55 11:16 13:46 14:31 14:46 15:58
+ 50510   BATTAGLIA via Tagliamento (ang.via Principale, 
+dir.Fagagna)
+05:59 06:13 06:37 06:37 07:44 08:27 09:56 11:17 13:47 14:32 14:47 15:58
+ 50528   S.GIOVANNI IN COLLE via Friuli (incr.via 
+Codarut, dir.Fagagn
+05:59 06:13 06:38 06:38 07:45 08:28 09:56 11:18 13:48 14:33 14:48 15:59
+ 50525   VILLAVERDE via delle Acacie (fronte 1, 
+fronte Resort)
+06:58 07:17
+ 50531   FAGAGNA via Pecile 14 (bar) 06:04 06:17 06:42 06:42 07:00 07:23 07:49 08:33 10:01 11:22 13:52 14:37 14:52 16:04
+ 50503   FAGAGNA via Udine 64 (direzione Udine), borgo 
+Peraria
+06:05 06:20 06:43 06:43 07:02 07:24 07:51 08:34 10:02 11:23 13:53 14:38 14:53 16:04
+ 50516   CICONICCO via Spilimbergo (bivio Chiarandis, 
+direz. Udine)
+06:07 06:22 06:45 06:45 07:05 07:26 07:53 08:36 10:04 11:25 13:55 14:40 14:55 16:07
+ 50517   VILLALTA via Spilimbergo 53 (bivio Castello, 
+direz. Udine)
+06:08 06:23 06:47 06:47 07:08 07:27 07:55 08:37 10:05 11:27 13:57 14:41 14:56 16:08
+ 50108   MARTIGNACCO via Spilimbergo 287 
+(semaforo, direzione Udine)
+06:10 06:25 07:10 07:30 07:57 08:39 10:07 11:29 13:59 14:43 14:58 16:10
+ 50114   MARTIGNACCO piazza Vittorio Veneto 
+(fronte 2, dir. Torreano)
+06:51 06:51
+ 50102   CASANOVA DI MART. via Spilimbergo 1542 
+(Freud, dir. Udine)
+06:13 06:29 07:16 07:34 08:00 08:42 10:10 11:33 14:03 14:47 15:02 16:14
+ 50111   CASANOVA DI MARTIGNACCO via Spilimbergo 
+137 (dir. Udine)
+06:14 06:30 07:17 07:35 08:01 08:44 10:12 11:34 14:04 14:49 15:04 16:15
+ 40206   PASSONS via Spilimbergo 7 (direzione Udine) 06:15 06:31 07:18 07:36 08:02 08:47 10:13 11:35 14:05 14:50 15:05 16:17
+ 50117   MARTIGNACCO via Cividina 100 (San Carlo, 
+direzione Torreano)
+06:53 06:53
+ 50110   CERESETTO via Cividina (fronte civico 265, 
+parcheggio)
+06:54 06:54
+ 50143   TORREANO DI MARTIGNACCO via Cividina 
+366
+06:56 06:56
+ 50312   PLAINO via Cividina 8 (provenienza centro) 06:59 06:59
+ 50335   PLAINO via dei Platani 110 (provenienza centro) 06:59 06:59
+ 50338   COLUGNA viale San Daniele 57 (direzione 
+Udine)
+07:00 07:00
+ 70C16   UDINE via Martignacco 170 (Villaggio del Sole) 06:17 06:32 07:05 07:05 07:20 07:37 08:04 08:49 10:15 11:37 14:07 14:52 15:07 16:19
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:23 07:40
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 06:19 06:34 07:08 07:08 08:08 08:50 10:19 11:39 14:09 14:55 15:10 16:23
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 06:21 06:38 07:10 07:10 07:26 07:48 08:13 08:54 10:21 11:41 14:11 14:57 15:12 16:26
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 06:22 06:39 07:13 07:13 07:28 07:50 08:14 08:56 10:22 11:44 14:14 14:58 15:13 16:28
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 06:23 06:40 07:14 07:14 07:30 07:52 08:16 08:57 10:23 11:45 14:15 14:59 15:14 16:29
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:30 06:47 07:16 07:16 07:31 08:03 08:19 08:59 10:27 11:47 14:17 15:02 15:17 16:30
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U062 Feriale giorni non scolastici del periodo scolastico e al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U378 Feriale escluso sabato del periodo estivo U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U400 FESTIVA escluso Cap/anno-Pasqua-1°Maggio-Natale
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 41]
+LINEA 351 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-RODEANO-RIVE D'ARCANO-FAGAGNA-UDINE 
+83 89 91 85 201 203
+U062 U307 U241 U200 U400 U400
+ 50I73   SAN DANIELE DEL FRIULI via C.Battisti 15 07:35 17:30
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+16:43 16:43 16:43 18:35 07:37 17:33
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+16:45 16:45 16:45 18:37 07:39 17:34
+ 50I19   SAN DANIELE DEL FRIULI via Trento Trieste 108 
+(lato bar)
+16:46 16:46 16:46 18:38 07:40 17:36
+ 50I50   SAN DANIELE DEL FRIULI via Kennedy 104 
+(direzione Rodeano)
+16:46 16:46 16:46 18:39 07:40 17:37
+ 51A22   RODEANO ALTO via Carnia 1 (chiesa) 16:50 16:50 16:50 18:42 07:44 17:40
+ 51A29   RODEANO BASSO via Nazionale 33 16:51 16:51 16:51 18:43 07:45 17:41
+ 51A16   RIVOTTA via San Martino (ang.via Fagagna, 
+dir.Rive D'Arcano)
+16:52 16:52 16:52 18:44 07:46 17:42
+ 51A25   RIVE D'ARCANO via Roma 31 (direzione 
+Fagagna)
+16:55 16:55 16:55 18:46 07:48 17:44
+ 51A20   POZZALIS via Principale 14 (direzione Fagagna) 16:56 16:56 16:56 18:48 07:50 17:47
+ 50542   MADRISIO DI FAGAGNA via Battaglia 23 
+(scuole, direz.Fagagna)
+16:58 16:58 16:58 18:50 07:52 17:49
+ 50510   BATTAGLIA via Tagliamento (ang.via Principale, 
+dir.Fagagna)
+16:58 16:58 16:58 18:50 07:53 17:50
+ 50528   S.GIOVANNI IN COLLE via Friuli (incr.via 
+Codarut, dir.Fagagn
+16:59 16:59 16:59 18:51 07:53 17:51
+ 50531   FAGAGNA via Pecile 14 (bar) 17:03 17:03 17:03 18:55 07:58 17:55
+ 50503   FAGAGNA via Udine 64 (direzione Udine), borgo 
+Peraria
+17:04 17:04 17:04 18:56 07:59 17:56
+ 50516   CICONICCO via Spilimbergo (bivio Chiarandis, 
+direz. Udine)
+17:06 17:06 17:06 18:58 08:01 17:58
+ 50517   VILLALTA via Spilimbergo 53 (bivio Castello, 
+direz. Udine)
+17:08 17:08 17:08 18:59 08:02 17:58
+ 50108   MARTIGNACCO via Spilimbergo 287 
+(semaforo, direzione Udine)
+17:11 17:11 17:11 19:01 08:04 18:01
+ 50102   CASANOVA DI MART. via Spilimbergo 1542 
+(Freud, dir. Udine)
+17:15 17:15 17:15 19:05 08:08 18:04
+ 50111   CASANOVA DI MARTIGNACCO via Spilimbergo 
+137 (dir. Udine)
+17:16 17:16 17:16 19:05 08:08 18:05
+ 40206   PASSONS via Spilimbergo 7 (direzione Udine) 17:18 17:18 17:18 19:06 08:09 18:06
+ 70C16   UDINE via Martignacco 170 (Villaggio del Sole) 17:19 17:19 17:19 19:08 08:11 18:08
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 17:23 17:23 17:23 19:11 08:12 18:11
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 17:25 17:25 17:25 19:13 08:13 18:12
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 17:28 17:28 17:28 19:15 08:15 18:14
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 17:29 17:29 17:29 19:16 08:16 18:15
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17:30 17:30 17:30 19:19 08:19 18:16
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U062 Feriale giorni non scolastici del periodo scolastico e al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U378 Feriale escluso sabato del periodo estivo U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U400 FESTIVA escluso Cap/anno-Pasqua-1°Maggio-Natale
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 42]
+LINEA 351 (Ritorno)
+Orario valido dal 23 febbraio 2026UDINE-FAGAGNA-RIVE D'ARCANO-RODEANO-S.DANIELE 
+10 8 14 12 16 32 40 68 66 74 80 88 102 100
+U300 U250 U300 U200 U200 U200 U250 U250 U300 U200 U200 U230 U240 U200
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:50 06:40 07:33 08:30 09:30 10:45 13:20 13:25 14:15 15:30 16:45 17:30 20:30
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 08:33
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 06:54 06:46 07:38 08:35 09:36 10:51 13:24 13:31 14:20 15:35 16:51 17:34 20:35
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+06:56 06:48 07:41 08:37 09:38 10:53 13:28 14:22 15:38 16:54 17:38 20:37
+ 70C72   UDINE viale Leonardo da Vinci 57 (Area 1, fronte 
+Malignani)
+13:33
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+06:57 06:50 07:44 08:39 09:40 10:55 13:30 13:35 14:24 15:39 16:56 17:40 20:40
+ 50319   COLUGNA viale San Daniele 64 06:55 20:43
+ 50314   PLAINO via dei Platani 155 (direzione centro) 06:56 20:45
+ 50334   PLAINO via Cividina 7 (direzione centro) 06:57 20:46
+ 50113   TORREANO DI MART. via Cividina (fronte 
+366, dir.Martignacco)
+07:00 20:49
+ 50142   CERESETTO via Cividina 265 (tabacchino, direz. 
+Martignacco)
+07:02 20:50
+ 50147   MARTIGNACCO via Cividina 99 (San Carlo) 07:03 20:51
+ 40205   PASSONS via Spilimbergo 10 06:59 07:45 08:41 09:42 10:57 13:32 13:37 14:25 15:41 16:59 17:42
+ 50107   CASANOVA DI MARTIGNACCO via Spilimbergo 
+104
+07:00 07:46 08:42 09:44 10:58 13:33 13:38 14:27 15:43 17:01 17:43
+ 50138   CASANOVA DI MARTIGNACCO via Spilimbergo 
+154 (Cosatto)
+07:01 07:47 08:43 09:45 10:59 13:34 13:39 14:28 15:44 17:02 17:44
+ 50144   MARTIGNACCO piazza Vittorio Veneto 2 07:05 20:53
+ 50101   MARTIGNACCO via Spilimbergo 246 
+(semaforo)
+07:04 07:52 08:47 09:49 11:03 13:38 13:44 14:32 15:48 17:07 17:48
+ 50520   VILLALTA via Spilimbergo (fronte civico 39, bivio 
+castello)
+07:05 07:09 07:54 08:48 09:50 11:05 13:40 13:45 14:34 15:49 17:09 17:50 20:55
+ 50515   CICONICCO via Spilimbergo 122 (bivio 
+Chiarandis, dir.Fagagna
+07:06 07:11 07:55 08:50 09:51 11:07 13:42 13:46 14:35 15:50 17:11 17:52 20:56
+ 50533   FAGAGNA via Udine (fronte civico 64), borgo 
+Peraria
+07:08 07:13 07:57 08:52 09:53 11:09 13:44 13:48 14:37 15:52 17:13 17:54 20:58
+ 50501   FAGAGNA via Pecile 10 (bar, direzione 
+Rodeano)
+07:08 07:14 07:25 07:58 08:54 09:55 11:10 13:45 13:49 14:40 15:53 17:17 17:55 21:00
+ 50540   VILLAVERDE via delle Acacie 1 (lato 
+Resort)
+07:17 13:54
+ 50541   S.GIOVANNI IN COLLE via del Tennis 32 
+(direzione Madrisio)
+07:18 07:29 08:02 08:57 09:58 11:14 13:49 14:42 15:58 17:21 17:59 21:03
+ 50537   BATTAGLIA via Tagliamento (ang.via Principale, 
+dir.Madrisio)
+07:19 07:30 08:02 08:58 09:58 11:15 13:50 14:44 15:58 17:22 18:00 21:03
+ 50530   MADRISIO DI FAGAGNA via Battaglia 48 
+(scuole)
+07:20 07:31 08:03 08:59 09:59 11:16 13:51 14:45 15:59 17:23 18:01 21:04
+ 51A21   POZZALIS via Principale (direzione Rive 
+D'Arcano)
+07:21 07:32 08:05 09:01 10:01 11:17 13:52 14:47 16:02 17:25 18:02 21:06
+ 51A01   RIVE D'ARCANO via Roma 19 (piazza, direzione 
+Rodeano)
+07:23 07:35 08:08 09:03 10:03 11:19 13:54 14:48 16:04 17:27 18:04 21:08
+ 51A31   RIVOTTA via Fagagna 7 14:01
+ 51A32   RIVOTTA via San Martino (angolo via Fagagna, 
+dir. Rodeano)
+07:28 07:37 08:10 09:05 10:05 11:24 13:59 14:52 16:06 17:30 18:09 21:10
+ 51A08   RODEANO BASSO via Nazionale (fronte civico 
+33)
+07:29 07:38 08:11 09:06 10:06 11:25 14:00 14:02 14:53 16:08 17:31 18:10 21:11
+ 51A04   RODEANO ALTO via Carnia 4 (chiesa) 07:30 07:39 08:13 09:07 10:07 11:26 14:01 14:04 14:54 16:09 17:33 18:11 21:12
+ 50I71   SAN DANIELE DEL FRIULI via Kennedy 8fronte 
+civico 104)
+07:34 07:42 08:16 09:11 10:11 11:30 14:05 14:06 14:57 16:12 17:37 18:14 21:15
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+07:34 07:44 08:18 09:11 10:12 11:30 14:05 14:08 14:59 16:14 17:38 18:14 21:16
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+07:35 07:44 08:19 09:13 10:14 11:31 14:06 14:09 15:00 16:15 17:40 18:16 21:17
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:36 07:46 08:20 09:17 10:17 11:32 14:07 14:09 15:02 16:17 17:41 18:17 21:25
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 07:47
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+07:50
+CADENZA
+CORSA
+10 8 14 12 16 32 40 68 66 74 80 88 102 100
+ 70101   UDINE viale Europa Unita 37 (autostazione) 13 14 14 14 13 13 11 11 14
+BANCHINE
+lunedì 16 febbraio 2026Pagina 1 di 3
+  [Pagina 43]
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U400 FESTIVA escluso Cap/anno-Pasqua-1°Maggio-Natale
+lunedì 16 febbraio 2026Pagina 2 di 3
+  [Pagina 44]
+LINEA 351 (Ritorno)
+Orario valido dal 23 febbraio 2026UDINE-FAGAGNA-RIVE D'ARCANO-RODEANO-S.DANIELE 
+200 202
+U400 U400
+ 70101   UDINE viale Europa Unita 37 (autostazione) 09:55 18:40
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 10:00 18:45
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+10:02 18:47
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+10:05 18:50
+ 40205   PASSONS via Spilimbergo 10 10:06 18:51
+ 50107   CASANOVA DI MARTIGNACCO via Spilimbergo 
+104
+10:07 18:53
+ 50138   CASANOVA DI MARTIGNACCO via Spilimbergo 
+154 (Cosatto)
+10:08 18:53
+ 50101   MARTIGNACCO via Spilimbergo 246 
+(semaforo)
+10:13 18:58
+ 50520   VILLALTA via Spilimbergo (fronte civico 39, bivio 
+castello)
+10:14 19:00
+ 50515   CICONICCO via Spilimbergo 122 (bivio 
+Chiarandis, dir.Fagagna
+10:15 19:02
+ 50533   FAGAGNA via Udine (fronte civico 64), borgo 
+Peraria
+10:17 19:03
+ 50501   FAGAGNA via Pecile 10 (bar, direzione 
+Rodeano)
+10:19 19:05
+ 50541   S.GIOVANNI IN COLLE via del Tennis 32 
+(direzione Madrisio)
+10:22 19:08
+ 50537   BATTAGLIA via Tagliamento (ang.via Principale, 
+dir.Madrisio)
+10:22 19:09
+ 50530   MADRISIO DI FAGAGNA via Battaglia 48 
+(scuole)
+10:23 19:09
+ 51A21   POZZALIS via Principale (direzione Rive 
+D'Arcano)
+10:24 19:11
+ 51A01   RIVE D'ARCANO via Roma 19 (piazza, direzione 
+Rodeano)
+10:27 19:14
+ 51A32   RIVOTTA via San Martino (angolo via Fagagna, 
+dir. Rodeano)
+10:29 19:16
+ 51A08   RODEANO BASSO via Nazionale (fronte civico 
+33)
+10:30 19:17
+ 51A04   RODEANO ALTO via Carnia 4 (chiesa) 10:31 19:18
+ 50I71   SAN DANIELE DEL FRIULI via Kennedy 8fronte 
+civico 104)
+10:35 19:22
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+10:36 19:22
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+10:36 19:24
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+10:38 19:25
+ 50I74   SAN DANIELE DEL FRIULI via C.Battisti 10 10:39 19:26
+CADENZA
+CORSA
+200 202
+ 70101   UDINE viale Europa Unita 37 (autostazione) 11 11
+BANCHINE
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U230 Feriale invernale (periodo scolastico)
+U300 Scolastica U400 FESTIVA escluso Cap/anno-Pasqua-1°Maggio-Natale
+lunedì 16 febbraio 2026Pagina 3 di 3
+  [Pagina 45]
+LINEA 352 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-RODEANO-FAGAGNA-UDINE 
+13 9 11 17 15 101 201 47 401 55 65 67 69 85
+U300 U250 U300 U300 U300 U240 U251 U200 U200 U300 U200 U307 U306 U300
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+06:48 06:50 06:50 07:05 07:09 07:10 07:10 09:00 09:50 11:10 12:31 13:27 13:27 15:00
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+06:50 06:51 06:52 07:07 07:11 07:11 07:11 09:02 09:52 11:12 12:33 13:29 13:29 15:02
+ 50I19   SAN DANIELE DEL FRIULI via Trento Trieste 108 
+(lato bar)
+06:51 06:52 06:53 07:08 07:12 07:12 07:12 09:03 09:53 11:13 12:34 13:29 13:29 15:03
+ 50I50   SAN DANIELE DEL FRIULI via Kennedy 104 
+(direzione Rodeano)
+06:52 06:52 06:54 07:09 07:13 07:12 07:12 09:04 09:53 11:14 12:34 13:30 13:30 15:03
+ 51A22   RODEANO ALTO via Carnia 1 (chiesa) 06:55 06:56 06:58 07:13 07:16 07:16 07:16 09:07 09:57 11:18 12:38 13:34 13:34 15:07
+ 51A29   RODEANO BASSO via Nazionale 33 06:57 06:57 06:59 07:14 07:18 07:17 07:17 09:09 09:58 11:19 12:40 13:35 13:35 15:08
+ 51A15   RIVOTTA via Fagagna 18 06:58 06:58 07:00 07:16 07:19 07:18 07:18 09:10 09:59 11:20 12:41 13:36 13:36 15:09
+ 50531   FAGAGNA via Pecile 14 (bar) 07:03 07:05 07:05 07:21 07:23 07:25 07:25 09:14 10:05 11:25 12:46 13:41 13:41 15:15
+ 50503   FAGAGNA via Udine 64 (direzione Udine), borgo 
+Peraria
+07:04 07:06 07:07 07:21 07:25 07:26 07:26 09:16 10:06 11:26 12:47 13:42 13:42 15:16
+ 50516   CICONICCO via Spilimbergo (bivio Chiarandis, 
+direz. Udine)
+07:06 07:08 07:09 07:24 07:27 07:28 07:28 09:18 10:08 11:28 12:49 13:44 13:44 15:18
+ 50517   VILLALTA via Spilimbergo 53 (bivio Castello, 
+direz. Udine)
+07:07 07:10 07:10 07:25 07:28 07:30 07:30 09:19 10:09 11:29 12:50 13:45 13:45 15:19
+ 50108   MARTIGNACCO via Spilimbergo 287 
+(semaforo, direzione Udine)
+07:09 07:12 07:12 07:28 07:30 07:32 07:32 09:21 10:11 11:31 12:52 13:47 13:47 15:21
+ 50102   CASANOVA DI MART. via Spilimbergo 1542 
+(Freud, dir. Udine)
+07:12 07:16 07:15 07:31 07:33 07:36 07:36 09:24 10:14 11:35 12:56 13:50 13:50 15:24
+ 50111   CASANOVA DI MARTIGNACCO via Spilimbergo 
+137 (dir. Udine)
+07:13 07:17 07:16 07:32 07:34 07:37 07:37 09:26 10:15 11:36 12:57 13:51 13:51 15:25
+ 40206   PASSONS via Spilimbergo 7 (direzione Udine) 07:14 07:18 07:18 07:33 07:36 07:38 07:38 09:27 10:16 11:38 12:59 13:53 13:53 15:26
+ 70C16   UDINE via Martignacco 170 (Villaggio del Sole) 07:16 07:20 07:19 07:34 07:37 07:40 07:40 09:29 10:19 11:39 13:00 13:55 13:55 15:29
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:19 07:37 07:41
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 07:22 07:42 07:44 09:32 10:23 11:43 13:58 13:58 15:33
+ 70223   UDINE viale Ledra 120 (Area 3, piazzale 
+Cavedalis)
+13:04
+ 70C54   UDINE viale della Vittoria 6 (piazzale 
+Osoppo)
+07:27 07:23 07:56 07:47 07:50
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 07:29 07:59 07:49 07:52
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:23 07:46 09:34 10:25 11:44 13:05 13:59 13:59 15:35
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:25 07:48 09:35 10:26 11:46 13:07 14:01 14:01 15:36
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:25 07:50 09:36 10:29 11:47 13:10 14:02 14:02 15:39
+ 70216   UDINE via Renati 28 (Area 2) 07:25
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:28 07:33 08:04 07:54 07:53 07:58 09:40 10:30 11:50 13:12 14:07 14:07 15:40
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U231 Feriale invernale escluso il sabato (per.scol.)
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U257 Feriale giorni non scolastici escluso il sabato
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 46]
+LINEA 352 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-RODEANO-FAGAGNA-UDINE 
+403 1 93 95 103 99
+U231 U242 U257 U300 U135 U200
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+16:20 17:41 17:41 17:41 17:41 19:50
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+16:22 17:43 17:43 17:43 17:43 19:52
+ 50I19   SAN DANIELE DEL FRIULI via Trento Trieste 108 
+(lato bar)
+16:23 17:44 17:44 17:44 17:44 19:53
+ 50I50   SAN DANIELE DEL FRIULI via Kennedy 104 
+(direzione Rodeano)
+16:23 17:44 17:44 17:44 17:44 19:53
+ 51A22   RODEANO ALTO via Carnia 1 (chiesa) 16:27 17:48 17:48 17:48 17:48 19:57
+ 51A29   RODEANO BASSO via Nazionale 33 16:28 17:50 17:50 17:50 17:50 19:58
+ 51A15   RIVOTTA via Fagagna 18 16:29 17:51 17:51 17:51 17:51 19:59
+ 50531   FAGAGNA via Pecile 14 (bar) 16:35 17:56 17:56 17:56 17:56 20:04
+ 50503   FAGAGNA via Udine 64 (direzione Udine), borgo 
+Peraria
+16:36 17:57 17:57 17:57 17:57 20:05
+ 50516   CICONICCO via Spilimbergo (bivio Chiarandis, 
+direz. Udine)
+16:38 18:00 18:00 18:00 18:00 20:07
+ 50517   VILLALTA via Spilimbergo 53 (bivio Castello, 
+direz. Udine)
+16:39 18:01 18:01 18:01 18:01 20:08
+ 50108   MARTIGNACCO via Spilimbergo 287 
+(semaforo, direzione Udine)
+16:41 20:10
+ 50114   MARTIGNACCO piazza Vittorio Veneto 
+(fronte 2, dir. Torreano)
+18:04 18:04 18:04 18:04
+ 50102   CASANOVA DI MART. via Spilimbergo 1542 
+(Freud, dir. Udine)
+16:44 20:14
+ 50111   CASANOVA DI MARTIGNACCO via Spilimbergo 
+137 (dir. Udine)
+16:45 20:15
+ 40206   PASSONS via Spilimbergo 7 (direzione Udine) 16:46 20:16
+ 50117   MARTIGNACCO via Cividina 100 (San Carlo, 
+direzione Torreano)
+18:05 18:05 18:05 18:05
+ 50110   CERESETTO via Cividina (fronte civico 265, 
+parcheggio)
+18:06 18:06 18:06 18:06
+ 50143   TORREANO DI MARTIGNACCO via Cividina 
+366
+18:07 18:07 18:07 18:07
+ 50312   PLAINO via Cividina 8 (provenienza centro) 18:10 18:10 18:10 18:10
+ 50335   PLAINO via dei Platani 110 (provenienza centro) 18:11 18:11 18:11 18:11
+ 50338   COLUGNA viale San Daniele 57 (direzione 
+Udine)
+18:13 18:13 18:13 18:13
+ 70C16   UDINE via Martignacco 170 (Villaggio del Sole) 16:49 18:16 18:16 18:16 18:16 20:18
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 16:53 18:20 18:20 18:20 18:20 20:21
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 16:55 18:22 18:22 18:22 18:22 20:22
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 16:56 18:24 18:24 18:24 18:24 20:24
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 16:59 18:26 18:26 18:26 18:26 20:25
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17:00 18:30 18:30 18:30 18:30 20:30
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U231 Feriale invernale escluso il sabato (per.scol.)
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U257 Feriale giorni non scolastici escluso il sabato
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 47]
+LINEA 352 (Ritorno)
+Orario valido dal 23 febbraio 2026UDINE-FAGAGNA-RODEANO-S.DANIELE 
+10 12 14 18 16 400 46 54 62 72 402 56 58 2
+U300 U300 U249 U251 U300 U200 U200 U300 U300 U300 U241 U307 U306 U242
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:45 07:55 08:55 08:55 10:30 11:30 12:20 12:40 13:25 13:25 14:30 17:35 17:35 18:30
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 13:30
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 06:50 08:01 09:01 09:01 10:36 11:36 12:26 12:46 13:31 14:36 17:41 17:41 18:35
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 13:33
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+06:52 08:03 09:03 09:03 10:38 11:38 12:29 12:49 14:38 17:44 17:44 18:38
+ 70C72   UDINE viale Leonardo da Vinci 57 (Area 1, fronte 
+Malignani)
+13:36 13:34
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+06:54 08:07 09:05 09:05 10:41 11:40 12:32 12:51 13:38 13:36 14:40 17:46 17:46 18:40
+ 40205   PASSONS via Spilimbergo 10 06:56 08:09 09:07 09:07 10:43 11:42 12:34 12:53 13:41 13:38 14:42 17:49 17:49 18:42
+ 50107   CASANOVA DI MARTIGNACCO via Spilimbergo 
+104
+06:57 08:10 09:08 09:08 10:45 11:43 12:35 12:54 13:42 13:39 14:43 17:50 17:50 18:43
+ 50138   CASANOVA DI MARTIGNACCO via Spilimbergo 
+154 (Cosatto)
+06:58 08:11 09:09 09:09 10:46 11:44 12:36 12:55 13:43 13:40 14:44 17:51 17:51 18:44
+ 50101   MARTIGNACCO via Spilimbergo 246 
+(semaforo)
+07:03 08:16 09:13 09:13 10:49 11:48 12:41 12:59 13:47 13:44 14:48 17:56 17:56 18:50
+ 50520   VILLALTA via Spilimbergo (fronte civico 39, bivio 
+castello)
+07:04 08:17 09:14 09:14 10:51 11:49 12:42 13:00 13:49 13:46 14:49 17:59 17:59 18:51
+ 50515   CICONICCO via Spilimbergo 122 (bivio 
+Chiarandis, dir.Fagagna
+07:07 08:18 09:16 09:16 10:52 11:51 12:43 13:01 13:51 13:48 14:51 18:00 18:00 18:52
+ 50533   FAGAGNA via Udine (fronte civico 64), borgo 
+Peraria
+07:08 08:20 09:18 09:18 10:54 11:53 12:45 13:02 13:53 13:50 14:53 18:03 18:03 18:54
+ 50501   FAGAGNA via Pecile 10 (bar, direzione 
+Rodeano)
+07:10 08:21 09:20 09:20 10:56 11:55 12:47 13:04 13:54 13:51 14:55 18:04 18:04 18:56
+ 51A31   RIVOTTA via Fagagna 7 07:16 08:25 09:24 09:24 11:00 11:59 12:51 13:08 14:00 13:56 14:59 18:08 18:08 19:01
+ 51A08   RODEANO BASSO via Nazionale (fronte civico 
+33)
+07:17 08:27 09:25 09:25 11:02 12:00 12:53 13:10 14:01 13:58 15:00 18:10 18:10 19:02
+ 51A04   RODEANO ALTO via Carnia 4 (chiesa) 07:19 08:28 09:26 09:26 11:03 12:01 12:54 13:11 14:05 13:59 15:01 18:11 18:11 19:04
+ 50I71   SAN DANIELE DEL FRIULI via Kennedy 8fronte 
+civico 104)
+07:22 08:31 09:29 09:29 11:07 12:04 12:58 13:14 14:09 14:02 15:04 18:15 18:15 19:07
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+07:23 08:32 09:30 09:30 11:07 12:05 12:58 13:15 14:10 14:03 15:05 18:16 18:16 19:08
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+07:25 08:33 09:31 09:31 11:09 12:06 13:00 13:16 14:12 14:05 15:06 18:17 18:17 19:09
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:25 08:35 09:35 09:35 11:10 12:10 13:03 13:19 14:12 14:06 15:10 18:18 18:18 19:10
+CADENZA
+CORSA
+10 12 14 18 16 400 46 54 62 72 402 56 58 2
+ 70101   UDINE viale Europa Unita 37 (autostazione) 14 13 14 14 12 14 13 14 12 12A 11 11
+BANCHINE
+VALIDITÀ
+U200 Feriale U249 Feriale escluso giorni non scolastici del periodo scolastico
+U257 Feriale giorni non scolastici escluso il sabato U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U306 Scolastica solo al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 48]
+LINEA 352 (Ritorno)
+Orario valido dal 23 febbraio 2026UDINE-FAGAGNA-RODEANO-S.DANIELE 
+92 94 96 100 404
+U257 U300 U135 U200 U200
+ 70101   UDINE viale Europa Unita 37 (autostazione) 18:30 18:30 18:30 19:30 21:30
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 18:35 18:35 18:35 19:36 21:36
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+18:38 18:38 18:38 19:38 21:38
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+18:40 18:40 18:40 19:41 21:40
+ 50319   COLUGNA viale San Daniele 64 19:44
+ 50314   PLAINO via dei Platani 155 (direzione centro) 19:46
+ 50334   PLAINO via Cividina 7 (direzione centro) 19:48
+ 50113   TORREANO DI MART. via Cividina (fronte 
+366, dir.Martignacco)
+19:51
+ 50142   CERESETTO via Cividina 265 (tabacchino, direz. 
+Martignacco)
+19:52
+ 50147   MARTIGNACCO via Cividina 99 (San Carlo) 19:53
+ 40205   PASSONS via Spilimbergo 10 18:42 18:42 18:42 21:42
+ 50107   CASANOVA DI MARTIGNACCO via Spilimbergo 
+104
+18:43 18:43 18:43 21:43
+ 50138   CASANOVA DI MARTIGNACCO via Spilimbergo 
+154 (Cosatto)
+18:44 18:44 18:44 21:44
+ 50144   MARTIGNACCO piazza Vittorio Veneto 2 19:54
+ 50101   MARTIGNACCO via Spilimbergo 246 
+(semaforo)
+18:50 18:50 18:50 21:48
+ 50520   VILLALTA via Spilimbergo (fronte civico 39, bivio 
+castello)
+18:51 18:51 18:51 19:56 21:49
+ 50515   CICONICCO via Spilimbergo 122 (bivio 
+Chiarandis, dir.Fagagna
+18:52 18:52 18:52 19:57 21:51
+ 50533   FAGAGNA via Udine (fronte civico 64), borgo 
+Peraria
+18:54 18:54 18:54 20:00 21:53
+ 50501   FAGAGNA via Pecile 10 (bar, direzione 
+Rodeano)
+18:56 18:56 18:56 20:00 21:55
+ 51A31   RIVOTTA via Fagagna 7 19:01 19:01 19:01 20:06 21:59
+ 51A08   RODEANO BASSO via Nazionale (fronte civico 
+33)
+19:02 19:02 19:02 20:07 22:00
+ 51A04   RODEANO ALTO via Carnia 4 (chiesa) 19:04 19:04 19:04 20:08 22:01
+ 50I71   SAN DANIELE DEL FRIULI via Kennedy 8fronte 
+civico 104)
+19:07 19:07 19:07 20:11 22:04
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+19:08 19:08 19:08 20:12 22:05
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+19:09 19:09 19:09 20:13 22:06
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+19:10 19:10 19:10 20:18 22:10
+CADENZA
+CORSA
+92 94 96 100 404
+ 70101   UDINE viale Europa Unita 37 (autostazione) 12 13
+BANCHINE
+VALIDITÀ
+U200 Feriale U249 Feriale escluso giorni non scolastici del periodo scolastico
+U257 Feriale giorni non scolastici escluso il sabato U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U306 Scolastica solo al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 49]
+LINEA 353 (Andata)
+Orario valido dal 23 febbraio 2026S.DANIELE-COSEANO- S.VITO DI FAG.-UDINE 
+15 41 43 45 23 33
+U300 U250 U300 U300 U250 U300
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+06:46 06:50 06:45 12:15 12:20 13:29
+ 50I02   SAN DANIELE DEL FRIULI via Trento Trieste 33 
+(lato ospedale)
+06:48 06:52 06:47 12:17 12:22 13:31
+ 50I19   SAN DANIELE DEL FRIULI via Trento Trieste 108 
+(lato bar)
+06:48 06:53 06:47 12:18 12:23 13:31
+ 50I20   SAN DANIELE DEL FRIULI via Kennedy 11 (lato 
+scuola media)
+06:50 06:54 06:49 12:19 12:24 13:32
+ 50I54   AONEDIS via Aonedis 60 (trattoria, direzione 
+Villanova)
+06:53
+ 50I03   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Giacomo Bernè 3
+06:55 06:57 06:56 12:23 12:27 13:36
+ 50807   CARPACCO via De Gasperi 14 06:56 06:58 06:58 12:24 12:29 13:37
+ 50813   CARPACCO piazza Libertà 15 06:58 06:59 06:59 12:26 12:30 13:38
+ 50816   CARPACCO via Pasini 22 (trattoria, direzione 
+Dignano)
+07:00 12:27 12:31 13:39
+ 51A30   RODEANO ALTO via Carpacco 13 (chiesa) 07:01 07:03
+ 50805   VIDULIS via Trieste 25 (chiesa) 07:03 13:42
+ 50811   VIDULIS via Nazionale 64 (Lupieri, direzione 
+Dignano)
+12:29 12:34
+ 50715   MASERIS via della Fontana 4 (direzione 
+Cisterna)
+07:06 13:45
+ 50812   DIGNANO via San Gallo (fronte civico 1), borgo 
+Mezzoli
+12:30 12:34
+ 50801   DIGNANO piazza Cimolino fronte 8 12:32 12:36
+ 50704   CISTERNA piazza monumento 16 (direzione 
+Coseano)
+07:09 12:37 12:41 13:49
+ 50723   COSEANO via Centro Studi (fronte via del Cristo) 07:11 12:39 12:43 13:51
+ 50701   COSEANO via del Commercio 93 07:04 07:06 07:13 12:41 12:45 13:52
+ 50604   SILVELLA via Nuova 165 (direzione Udine) 07:08 07:10 07:16 12:44 12:49 13:55
+ 50613   RUSCLETTO via Unica 17 (chiesa) 07:19 12:46 12:51 13:57
+ 50601   SAN VITO DI FAGAGNA piazza Umberto I (civico 
+4, dir.Udine)
+07:09 07:11
+ 50612   SAN VITO DI FAG. via San Daniele 5 (chiesa, 
+direzione Udine)
+07:21 12:47 12:52 13:59
+ 50516   CICONICCO via Spilimbergo (bivio Chiarandis, 
+direz. Udine)
+07:12 07:14 07:25 12:50 12:55 14:02
+ 50517   VILLALTA via Spilimbergo 53 (bivio Castello, 
+direz. Udine)
+07:14 07:16 07:26 12:51 12:56 14:05
+ 50108   MARTIGNACCO via Spilimbergo 287 (semaforo, 
+direzione Udine)
+07:16 07:18 07:28 12:53 12:58 14:06
+ 50102   CASANOVA DI MART. via Spilimbergo 1542 
+(Freud, dir. Udine)
+07:19 07:22 07:33 12:57 13:01 14:09
+ 50111   CASANOVA DI MARTIGNACCO via Spilimbergo 
+137 (dir. Udine)
+07:20 07:23 07:34 12:58 13:02 14:10
+ 40206   PASSONS via Spilimbergo 7 (direzione Udine) 07:21 07:24 07:35 12:59 13:04 14:11
+ 70C16   UDINE via Martignacco 170 (Villaggio del Sole) 07:23 07:25 07:37 13:01 13:05 14:13
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:26 07:41
+ 70C24   UDINE viale Monsignor Nogara (fronte civico 2, 
+Marinoni)
+07:43
+ 70C22   UDINE viale Cadore 48 (Bertoni) 07:43
+ 70204   UDINE viale Cadore (lato Malignani) 07:47
+ 70C15   UDINE viale Bassi 56 (piazzale P.Diacono) 13:04
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 07:28 13:07 14:15
+ 70C49   UDINE viale Ledra 108 (Area 2) 07:30 07:29 13:05 13:08 14:15
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:31 07:29 13:09 13:09 14:16
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:32 07:30 13:09 13:10 14:17
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:33 07:31 13:11 13:11 14:21
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:34 07:33 13:12 13:12 14:22
+ 70C54   UDINE viale della Vittoria 6 (piazzale 
+Osoppo)
+08:01
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 08:06
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:37 07:38 08:09 13:14 13:17 14:23
+CADENZA
+CORSA
+VALIDITÀ
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U300 Scolastica
+lunedì 16 febbraio 2026Pagina 1 di 1
+  [Pagina 50]
+LINEA 353 (Ritorno)
+Orario valido dal 23 febbraio 2026UDINE- S.VITO DI FAG.-COSEANO-S.DANIELE 
+2 6 48 10 22 30 32 34 36
+U300 U300 U250 U200 U300 U300 U240 U389 U135
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:50 12:15 12:15 13:25 13:25 17:30 17:30 17:33 17:33
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 12:20 13:30
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 12:22 13:32
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 12:18 13:27 17:33 17:33 17:37 17:37
+ 70C59   UDINE via Marangoni 101 12:19 13:28 17:34 17:34 17:38 17:38
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 06:54 12:20 13:30 17:36 17:36 17:41 17:41
+ 70194   UDINE via Marco Volpe 45 12:21 13:30 17:36 17:36 17:41 17:41
+ 70C51   UDINE via Marco Volpe 63 (piazzale Cavedalis) 12:21 13:31 17:42 17:42
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+06:56 12:25 12:22 17:38 17:38 17:43 17:43
+ 70C72   UDINE viale Leonardo da Vinci 57 (Area 1, fronte 
+Malignani)
+13:32 13:35
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+06:58 12:28 12:25 13:34 13:37 17:42 17:42 17:45 17:45
+ 40205   PASSONS via Spilimbergo 10 06:59 12:29 12:26 13:36 13:38 17:43 17:43 17:46 17:46
+ 50107   CASANOVA DI MARTIGNACCO via Spilimbergo 
+104
+07:00 12:31 12:28 13:37 13:40 17:45 17:45 17:48 17:48
+ 50138   CASANOVA DI MARTIGNACCO via Spilimbergo 
+154 (Cosatto)
+07:01 12:32 12:29 13:38 13:40 17:46 17:46 17:49 17:49
+ 50101   MARTIGNACCO via Spilimbergo 246 (semaforo) 07:07 12:37 12:33 13:43 13:46 17:52 17:52 17:54 17:54
+ 50520   VILLALTA via Spilimbergo (fronte civico 39, bivio 
+castello)
+07:09 12:38 12:34 13:45 13:48 17:53 17:53 17:55 17:55
+ 50515   CICONICCO via Spilimbergo 122 (bivio 
+Chiarandis, dir.Fagagna
+07:10 12:41 12:35 13:46 13:49 17:54 17:54 17:56 17:56
+ 50533   FAGAGNA via Udine (fronte civico 64), borgo 
+Peraria
+17:59 17:59
+ 50501   FAGAGNA via Pecile 10 (bar, direzione 
+Rodeano)
+18:00 18:00
+ 50603   SAN VITO DI FAGAGNA via San Daniele 8 
+(chiesa)
+07:14 12:43 12:38 13:49 17:58 17:58 18:04 18:04
+ 50602   SAN VITO DI FAGAGNA piazza Umberto I 
+(fronte 4, dir. Udine)
+13:52
+ 50610   RUSCLETTO via Unica 10 (chiesa, direzione 
+Silvella)
+07:16 12:45 12:40 13:51 18:01 18:01 18:06 18:06
+ 50605   SILVELLA via Nuova 126 07:18 12:47 12:41 13:53 13:53 18:03 18:03 18:07 18:07
+ 50719   COSEANO via del Commercio 84 (direzione 
+Cisterna)
+07:22 12:52 12:46 13:56 13:57 18:06 18:06 18:11 18:11
+ 50716   COSEANO via Centro Studi 118 07:22 13:58 18:07 18:07 18:12 18:12
+ 50704   CISTERNA piazza monumento 16 (direzione 
+Coseano)
+07:25 14:00 18:09 18:09 18:14 18:14
+ 50722   MASERIS via della Fontana 7 07:28 14:03 18:12 18:12 18:17 18:17
+ 50814   VIDULIS via Trieste 1 (chiesa) 07:31 14:06 18:15 18:15 18:19 18:19
+ 51A09   RODEANO ALTO via Carpacco 8 (chiesa) 12:55 12:49 13:59
+ 50809   CARPACCO via Pasini 43 (trattoria) 07:34 14:10 18:18 18:18 18:22 18:22
+ 50803   CARPACCO piazza Libertà 2 (direzione San 
+Daniele)
+07:35 12:59 12:53 14:02 14:10 18:19 18:19 18:23 18:23
+ 50815   CARPACCO via de Gasperi 9 (direzione 
+S.Daniele)
+07:36 13:00 12:54 14:05 14:10 18:20 18:20 18:25 18:25
+ 50I53   VILLANOVA DI SAN DANIELE DEL FRIULI via 
+Nazionale 55
+07:38 13:02 12:56 14:06 14:12 18:23 18:23 18:26 18:26
+ 50I05   AONEDIS via Aonedis 59 (trattoria, direzione San 
+Daniele)
+14:14
+ 50I16   SAN DANIELE DEL FRIULI via Kennedy (fronte 
+scuola media)
+07:42 13:07 12:59 14:10 14:18 18:27 18:27 18:30 18:30
+ 50I63   SAN DANIELE DEL FRIULI via Trento Trieste 145 
+(fronte bar)
+07:43 13:08 13:01 14:12 14:19 18:28 18:28 18:31 18:31
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+07:44 13:09 13:02 14:13 14:20 18:30 18:30 18:32 18:32
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:45 13:13 13:05 14:15 14:23 18:30 18:30 18:33 18:33
+CADENZA
+CORSA
+2 6 48 10 22 30 32 34 36
+ 70101   UDINE viale Europa Unita 37 (autostazione) 14 11 11 13 11A 13 13 13 13
+BANCHINE
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 51]
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U300 Scolastica U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 52]
+LINEA 355 (Andata)
+Orario valido dal 23 febbraio 2026UDINE-TORREANO-MARTIGNACCO-NOGAREDO-UDINE 
+1 3 5 103 35 43 53 45 57 73 77 7 83 11
+U307 U306 U307 U300 U230 U300 U300 U250 U200 U200 U300 U307 U259 U307
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:15 06:15 10:50 12:30 12:35 12:40 13:15 14:19 14:30 17:25 17:25
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 12:44 13:19 14:24 17:30 17:30
+ 70216   UDINE via Renati 28 (Area 2) 07:34
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 06:19 06:19 10:56 12:36 12:40 14:35
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:37 12:45 13:24 14:26 17:32 17:32
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+06:20 06:20 07:39 10:58 12:39 12:43 12:51 13:26 14:28 14:37 17:35 17:35
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+06:22 06:22 07:41 11:01 12:40 12:46 12:53 13:30 14:30 14:39 17:37 17:37
+ 50319   COLUGNA viale San Daniele 64 06:30 06:30 07:46 11:04 12:43 12:50 12:59 13:34 14:34 14:42 17:41 17:41
+ 50314   PLAINO via dei Platani 155 (direzione centro) 06:30 06:30 07:47 11:05 12:59 13:34 14:35 14:44 17:43 17:43
+ 50334   PLAINO via Cividina 7 (direzione centro) 06:30 06:30 07:49 11:08 13:00 13:36 14:37 14:46 17:46 17:46
+ 50318   PLAINO via dei Brazzà 29 (direzione 
+Martignacco)
+12:45 12:51
+ 50150   PLAINO via dei Brazzà 13 (incrocio Fiera) 12:46 12:52
+ 50113   TORREANO DI MART. via Cividina (fronte 
+366, dir.Martignacco)
+06:31 06:31 07:53 11:10 12:48 12:54 13:03 13:40 14:41 14:49 17:49 17:49
+ 50142   CERESETTO via Cividina 265 (tabacchino, direz. 
+Martignacco)
+06:32 06:32 07:54 11:11 12:49 12:55 13:05 13:41 14:42 14:50 17:50 17:50
+ 50147   MARTIGNACCO via Cividina 99 (San Carlo) 06:33 06:33 07:56 11:13 12:50 12:56 13:06 13:43 14:43 14:51 17:51 17:51
+ 50145   MARTIGNACCO via Udine 64 (corsia ingresso 
+scuole)
+07:59 12:59 13:45
+ 50144   MARTIGNACCO piazza Vittorio Veneto 2 06:35 06:35 08:03 11:15 12:52 13:01 13:08 13:48 14:44 14:52 17:53 17:53
+ 50106   MARTIGNACCO via Faugnacco (fronte civico 
+15, semaforo)
+06:42 06:43 06:43 11:20 13:06 13:52 14:49 17:56 17:59 17:59
+ 50108   MARTIGNACCO via Spilimbergo 287 
+(semaforo, direzione Udine)
+08:06 12:55 13:10 14:57
+ 50102   CASANOVA DI MART. via Spilimbergo 1542 
+(Freud, dir. Udine)
+08:10
+ 50111   CASANOVA DI MARTIGNACCO via Spilimbergo 
+137 (dir. Udine)
+08:12
+ 50118   MARTIGNACCO via Faugnacco 68 06:44 06:44 11:21 13:07 13:54 14:49 18:00 18:00
+ 50112   FAUGNACCO via Piave 68 (Villa Totis) 06:46 06:46 11:23 13:09 13:55 14:51 18:02 18:02
+ 50104   FAUGNACCO via del Mulino 32 (direzione 
+Udine)
+06:47 06:47 11:24 13:10 13:56 14:52 18:03 18:03
+ 50152   NOGAREDO DI PRATO via IV Novembre 28 06:48 06:48 11:25 13:11 13:57 14:52 18:04 18:04
+ 50149   NOGAREDO DI PRATO via I Maggio 46 (cimitero, 
+direz. Udine)
+06:49 06:49 11:25 13:13 13:57 14:53 18:04 18:04
+ 70C20   PASSONS via Angoria 78 13:17
+ 70C21   PASSONS via Dante Alighieri 84 06:53 06:53 11:29 14:01 14:57 18:08 18:08
+ 50133   CASANOVA DI MARTIGNACCO via Cotonifcio 
+80 (dir. Fiera)
+13:19
+ 40206   PASSONS via Spilimbergo 7 (direzione Udine) 08:13 13:21
+ 70C16   UDINE via Martignacco 170 (Villaggio del Sole) 06:54 06:54 08:14 11:30 13:23 14:03 14:59 18:10 18:10
+ 70C15   UDINE viale Bassi 56 (piazzale P.Diacono) 13:25
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 06:56 06:56 08:17 11:33 14:06 15:01 18:12 18:12
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+13:27
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 06:58 06:58 08:20 11:34 14:07 15:03 18:14 18:14
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 06:59 06:59 08:21 11:36 14:08 15:05 18:16 18:16
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:00 07:00 08:23 11:37 14:09 15:05 18:17 18:17
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:04 07:04 08:27 11:38 14:10 15:07 18:19 18:19
+CADENZA
+CORSA
+1 3 5 103 35 43 53 45 57 73 77 7 83 11
+ 70101   UDINE viale Europa Unita 37 (autostazione) 13 13 12 12 11 10 11 12 11 11
+BANCHINE
+lunedì 16 febbraio 2026Pagina 1 di 3
+  [Pagina 53]
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U306 Scolastica solo al sabato
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato
+lunedì 16 febbraio 2026Pagina 2 di 3
+  [Pagina 54]
+LINEA 355 (Andata)
+Orario valido dal 23 febbraio 2026UDINE-TORREANO-MARTIGNACCO-NOGAREDO-UDINE 
+9 91 13
+U307 U259 U307
+ 70101   UDINE viale Europa Unita 37 (autostazione) 18:25 18:25
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 18:30 18:30
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 18:32 18:32
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+18:35 18:35
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+18:37 18:37
+ 50319   COLUGNA viale San Daniele 64 18:41 18:41
+ 50314   PLAINO via dei Platani 155 (direzione centro) 18:43 18:43
+ 50334   PLAINO via Cividina 7 (direzione centro) 18:44 18:44
+ 50113   TORREANO DI MART. via Cividina (fronte 
+366, dir.Martignacco)
+18:47 18:47
+ 50142   CERESETTO via Cividina 265 (tabacchino, direz. 
+Martignacco)
+18:48 18:48
+ 50147   MARTIGNACCO via Cividina 99 (San Carlo) 18:49 18:49
+ 50144   MARTIGNACCO piazza Vittorio Veneto 2 18:52 18:52
+ 50106   MARTIGNACCO via Faugnacco (fronte civico 
+15, semaforo)
+18:55 18:55 18:55
+ 50118   MARTIGNACCO via Faugnacco 68 18:56 18:56
+ 50112   FAUGNACCO via Piave 68 (Villa Totis) 18:57 18:57
+ 50104   FAUGNACCO via del Mulino 32 (direzione 
+Udine)
+18:58 18:58
+ 50152   NOGAREDO DI PRATO via IV Novembre 28 19:00 19:00
+ 50149   NOGAREDO DI PRATO via I Maggio 46 (cimitero, 
+direz. Udine)
+19:00 19:00
+ 70C21   PASSONS via Dante Alighieri 84 19:03 19:03
+ 70C16   UDINE via Martignacco 170 (Villaggio del Sole) 19:05 19:05
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 19:07 19:07
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 19:09 19:09
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 19:10 19:10
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 19:11 19:11
+ 70101   UDINE viale Europa Unita 37 (autostazione) 19:16 19:16
+CADENZA
+CORSA
+9 91 13
+ 70101   UDINE viale Europa Unita 37 (autostazione) 11 11
+BANCHINE
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U306 Scolastica solo al sabato
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato
+lunedì 16 febbraio 2026Pagina 3 di 3
+  [Pagina 55]
+LINEA 355 (Ritorno)
+Orario valido dal 23 febbraio 2026UDINE-NOGAREDO-MARTIGNACCO-TORREANO-UDINE 
+2 10 8 12 6 14 20 22 26 24 64 104 60 84
+U300 U300 U307 U306 U307 U300 U240 U251 U250 U300 U300 U250 U300 U300
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:15 07:05 07:05 07:22 07:35 07:35 08:05 08:05
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 06:19 07:09 07:09 07:27 07:41 07:41
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+06:21 07:11 07:11 07:29 07:43 07:43
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+06:23 07:13 07:13 07:31 07:45 07:45
+ 40205   PASSONS via Spilimbergo 10 06:24 07:15 07:15 07:33
+ 50107   CASANOVA DI MARTIGNACCO via Spilimbergo 
+104
+07:35
+ 50148   CASANOVA DI MARTIGNACCO via Cotonifcio 
+51
+07:36
+ 50107   CASANOVA DI MARTIGNACCO via Spilimbergo 
+104
+06:25 07:16 07:16 07:38
+ 50138   CASANOVA DI MARTIGNACCO via Spilimbergo 
+154 (Cosatto)
+06:26 07:17 07:17 07:39
+ 50101   MARTIGNACCO via Spilimbergo 246 
+(semaforo)
+06:33
+ 50114   MARTIGNACCO piazza Vittorio Veneto 
+(fronte 2, dir. Torreano)
+06:36
+ 50117   MARTIGNACCO via Cividina 100 (San Carlo, 
+direzione Torreano)
+06:36
+ 50110   CERESETTO via Cividina (fronte civico 265, 
+parcheggio)
+06:37
+ 50143   TORREANO DI MARTIGNACCO via Cividina 
+366
+06:38
+ 50312   PLAINO via Cividina 8 (provenienza centro) 06:41
+ 50335   PLAINO via dei Platani 110 (provenienza centro) 06:42
+ 50338   COLUGNA viale San Daniele 57 (direzione 
+Udine)
+06:45
+ 70C16   UDINE via Martignacco 170 (Villaggio del Sole) 06:47
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 06:50
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 06:53 06:57
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 06:59 08:09 08:09
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:01 08:12 08:12
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+07:03 08:14 08:14 13:27
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+07:05 08:17 08:17 13:30
+ 70C19   PASSONS via Dante Alighieri 63 07:06 07:47 07:47 08:19 08:19 13:32
+ 50135   NOGAREDO DI PRATO via I Maggio (fronte civico 
+48, cimitero)
+07:11 07:44 07:50 07:50 08:24 08:24 13:36
+ 50140   NOGAREDO DI PRATO piazza San Martino 1 07:12 07:46 07:51 07:51 08:25 08:25 13:37
+ 50139   FAUGNACCO via del Mulino 21 07:14 07:47 07:53 07:53 08:26 08:26 13:38
+ 50131   FAUGNACCO via Piave 17 (bivio chiesa) 07:16 07:49 07:54 07:54 08:28 08:28 13:40
+ 50136   MARTIGNACCO via Faugnacco 111 07:17 07:50 07:55 07:55 08:29 08:29 13:41
+ 50141   MARTIGNACCO via Faugnacco 11 (semaforo, 
+direzione Udine)
+07:19
+ 50101   MARTIGNACCO via Spilimbergo 246 
+(semaforo)
+07:19 07:23 07:23 07:21 07:53 08:02 08:02 08:31 08:33 13:42
+ 50108   MARTIGNACCO via Spilimbergo 287 
+(semaforo, direzione Udine)
+12:57 13:10 14:57
+ 50114   MARTIGNACCO piazza Vittorio Veneto 
+(fronte 2, dir. Torreano)
+07:22 07:26 07:26 07:56 08:04 08:04 08:32 08:36 13:42
+ 50145   MARTIGNACCO via Udine 64 (corsia ingresso 
+scuole)
+07:58
+ 50115   MARTIGNACCO via Udine 41 (fronte scuole) 13:01 13:13 15:00
+ 50102   CASANOVA DI MART. via Spilimbergo 1542 
+(Freud, dir. Udine)
+08:02
+ 50111   CASANOVA DI MARTIGNACCO via Spilimbergo 
+137 (dir. Udine)
+08:03
+ 40206   PASSONS via Spilimbergo 7 (direzione Udine) 08:05
+ 50117   MARTIGNACCO via Cividina 100 (San Carlo, 
+direzione Torreano)
+07:23 07:27 07:27 08:06 08:06 08:34 08:37 13:02 13:14 13:44 15:01
+ 50110   CERESETTO via Cividina (fronte civico 265, 
+parcheggio)
+07:25 07:29 07:29 08:07 08:07 08:35 08:38 13:03 13:15 13:45 15:02
+ 50143   TORREANO DI MARTIGNACCO via Cividina 
+366
+07:26 07:30 07:30 08:09 08:09 08:37 08:39 13:05 13:17 13:46 15:03
+ 50151   PLAINO via dei Brazzà (fronte civico 13, incrocio 
+Fiera)
+13:06 13:18
+ 50337   PLAINO via dei Brazzà (fronte civico 29) 13:07 13:19
+ 50312   PLAINO via Cividina 8 (provenienza centro) 07:29 07:34 07:34 08:12 08:12 08:40 08:42 13:49 15:06
+ 50335   PLAINO via dei Platani 110 (provenienza centro) 07:31 07:35 07:35 08:12 08:12 08:40 08:44 13:50 15:08
+ 50338   COLUGNA viale San Daniele 57 (direzione 
+Udine)
+07:34 07:39 07:39 08:13 08:13 08:41 08:47 13:10 13:21 13:52 15:10
+CADENZA
+CORSA
+lunedì 16 febbraio 2026Pagina 1 di 2
+  [Pagina 56]
+2 10 8 12 6 14 20 22 26 24 64 104 60 84
+U300 U300 U307 U306 U307 U300 U240 U251 U250 U300 U300 U250 U300 U300
+ 70C16   UDINE via Martignacco 170 (Villaggio del Sole) 07:37 07:41 07:41 08:06 08:19 08:19 08:47 08:48 13:12 13:25 13:55 15:13
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:40 07:44 07:44
+ 70C70   UDINE viale Monsignor Nogara (lato Stringher) 13:58
+ 70C17   UDINE viale Leonardo da Vinci 2 (Zanon) 08:10 08:21 08:21 08:49 08:53 13:27 14:03 15:16
+ 70223   UDINE viale Ledra 120 (Area 3, piazzale 
+Cavedalis)
+13:17
+ 70C49   UDINE viale Ledra 108 (Area 2) 07:46
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 08:01 08:01 08:57
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 08:07 08:07 09:00
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:48 08:11 08:23 08:23 08:51 13:19 13:31 14:03 15:18
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:50 08:12 08:26 08:26 08:54 13:21 13:32 14:06 15:20
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:52 08:14 08:27 08:27 08:55 13:23 13:33 14:07 15:20
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:55 08:11 08:11 08:20 08:29 08:29 08:57 09:04 13:24 13:35 14:08 15:24
+2 10 8 12 6 14 20 22 26 24 64 104 60 84
+ 70101   UDINE viale Europa Unita 37 (autostazione) 14 13 13 14 13 13
+BANCHINE
+VALIDITÀ
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+lunedì 16 febbraio 2026Pagina 2 di 2
+  [Pagina 57]
+www.tplfvg.it
+TPL FVG S.c.a.r.l.
+via Caduti di An Nasiriyah, 6
+34170 Gorizia (GO)

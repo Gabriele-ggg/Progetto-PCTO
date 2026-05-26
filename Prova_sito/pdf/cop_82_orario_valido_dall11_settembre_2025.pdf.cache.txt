@@ -1,0 +1,82 @@
+  [Pagina 1]
+Servizio urbano
+UDINE
+Linea 82
+Orario valido 
+dall’11 settembre 2025
+  [Pagina 2]
+LINEA 82 (Andata)
+Orario valido dall'11 settembre 2025Via Luzzatto - Centro - Stazione FS 
+FERIALE ANNUALE
+1 3 5 7 9 11 13 15 17 19 21 23 25 27
+U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500
+ 70C37   UDINE viale Europa Unita 99 (fronte stazione 
+FS)
+07:30 08:00 08:30 09:00 09:30 10:00 10:30 11:00 11:30 12:00 12:30 13:00 13:30 14:00
+ UD345   UDINE via Manzoni 2 (tribunale) 07:32 08:02 08:32 09:02 09:32 10:02 10:32 11:02 11:32 12:02 12:32 13:02 13:32 14:02
+ UD048   UDINE piazza Garibaldi (fronte civico 14) 07:34 08:04 08:34 09:04 09:34 10:04 10:34 11:04 11:34 12:04 12:34 13:04 13:34 14:04
+ UD218   UDINE via del Gelso 14 07:35 08:05 08:35 09:05 09:35 10:05 10:35 11:05 11:35 12:05 12:35 13:05 13:35 14:05
+ 70C31   UDINE piazzale 26 Luglio 25 07:37 08:07 08:37 09:07 09:37 10:07 10:37 11:07 11:37 12:07 12:37 13:07 13:37 14:07
+ UD397   UDINE via Moretti 23 (angolo via Mentana) 07:39 08:09 08:39 09:09 09:39 10:09 10:39 11:09 11:39 12:09 12:39 13:09 13:39 14:09
+ UD340   UDINE via Luzzatto (entrata cimitero San Vito, 
+dir.cimitero)
+07:43 08:13 08:43 09:13 09:43 10:13 10:43 11:13 11:43 12:13 12:43 13:13 13:43 14:13
+ UD375   UDINE via Mentana (fronte civico 47, angolo via 
+Moretti)
+07:46 08:16 08:46 09:16 09:46 10:16 10:46 11:16 11:46 12:16 12:46 13:16 13:46 14:16
+ UD062   UDINE piazzale 26 Luglio 62 07:49 08:19 08:49 09:19 09:49 10:19 10:49 11:19 11:49 12:19 12:49 13:19 13:49 14:19
+ UD422   UDINE via Poscolle 8 07:51 08:21 08:51 09:21 09:51 10:21 10:51 11:21 11:51 12:21 12:51 13:21 13:51 14:21
+ UD196   UDINE via Crispi 5 (piazza Garibaldi) 07:52 08:22 08:52 09:22 09:52 10:22 10:52 11:22 11:52 12:22 12:52 13:22 13:52 14:22
+ UD276   UDINE via Gorghi 18 (tribunale) 07:53 08:23 08:53 09:23 09:53 10:23 10:53 11:23 11:53 12:23 12:53 13:23 13:53 14:23
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 07:54 08:24 08:54 09:24 09:54 10:24 10:54 11:24 11:54 12:24 12:54 13:24 13:54 14:24
+ UD770   UDINE via Aquileia 45 07:55 08:25 08:55 09:25 09:55 10:25 10:55 11:25 11:55 12:25 12:55 13:25 13:55 14:25
+ 70C37   UDINE viale Europa Unita 99 (fronte stazione 
+FS)
+07:56 08:26 08:56 09:26 09:56 10:26 10:56 11:26 11:56 12:26 12:56 13:26 13:56 14:26
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale
+venerdì 29 agosto 2025Pagina 1 di 2
+  [Pagina 3]
+LINEA 82 (Andata)
+Orario valido dall'11 settembre 2025Via Luzzatto - Centro - Stazione FS 
+FERIALE ANNUALE
+29 31 33 35 37 39 41 43 45 47
+U500 U500 U500 U500 U500 U500 U500 U500 U500 U500
+ 70C37   UDINE viale Europa Unita 99 (fronte stazione 
+FS)
+14:30 15:00 15:30 16:00 16:30 17:00 17:30 18:00 18:30 19:00
+ UD345   UDINE via Manzoni 2 (tribunale) 14:32 15:02 15:32 16:02 16:32 17:02 17:32 18:02 18:32 19:02
+ UD048   UDINE piazza Garibaldi (fronte civico 14) 14:34 15:04 15:34 16:04 16:34 17:04 17:34 18:04 18:34 19:04
+ UD218   UDINE via del Gelso 14 14:35 15:05 15:35 16:05 16:35 17:05 17:35 18:05 18:35 19:05
+ 70C31   UDINE piazzale 26 Luglio 25 14:37 15:07 15:37 16:07 16:37 17:07 17:37 18:07 18:37 19:07
+ UD397   UDINE via Moretti 23 (angolo via Mentana) 14:39 15:09 15:39 16:09 16:39 17:09 17:39 18:09 18:39 19:09
+ UD340   UDINE via Luzzatto (entrata cimitero San Vito, 
+dir.cimitero)
+14:43 15:13 15:43 16:13 16:43 17:13 17:43 18:13 18:43 19:13
+ UD375   UDINE via Mentana (fronte civico 47, angolo via 
+Moretti)
+14:46 15:16 15:46 16:16 16:46 17:16 17:46 18:16 18:46 19:16
+ UD062   UDINE piazzale 26 Luglio 62 14:49 15:19 15:49 16:19 16:49 17:19 17:49 18:19 18:49 19:19
+ UD422   UDINE via Poscolle 8 14:51 15:21 15:51 16:21 16:51 17:21 17:51 18:21 18:51 19:21
+ UD196   UDINE via Crispi 5 (piazza Garibaldi) 14:52 15:22 15:52 16:22 16:52 17:22 17:52 18:22 18:52 19:22
+ UD276   UDINE via Gorghi 18 (tribunale) 14:53 15:23 15:53 16:23 16:53 17:23 17:53 18:23 18:53 19:23
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 14:54 15:24 15:54 16:24 16:54 17:24 17:54 18:24 18:54 19:24
+ UD770   UDINE via Aquileia 45 14:55 15:25 15:55 16:25 16:55 17:25 17:55 18:25 18:55 19:25
+ 70C37   UDINE viale Europa Unita 99 (fronte stazione 
+FS)
+14:56 15:26 15:56 16:26 16:56 17:26 17:56 18:26 18:56 19:26
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale
+venerdì 29 agosto 2025Pagina 2 di 2
+  [Pagina 4]
+www.tplfvg.it
+TPL FVG S.c.a.r.l.
+via Caduti di An Nasiriyah 6
+34170 Gorizia (GO)
+e-mail info@tplfvg.it

@@ -1,0 +1,1046 @@
+  [Pagina 1]
+Servizio urbano
+UDINE
+Linea 3
+Orario valido 
+dall’11 settembre 2025
+  [Pagina 2]
+LINEA 3 (Andata)
+Orario valido dall'11 settembre 2025Molin Nuovo-Paderno-Chiavris-1°Maggio-FS-Cella-Zugliano (solo 
+se specifcato )/Basaldella 
+FERIALE ANNUALE
+1 3 7 9 13 15 17 19 21 23 25 27 29 31
+U500 U500 U550 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500
+ UD005   Adegliacco via Centrale fronte 63 06:14 06:47 07:02 07:33 07:53 08:13 08:33 08:53 09:13 09:33 09:53 10:13 10:38
+ UD071   ADEGLIACCO via Centrale 66 06:15 06:48 07:03 07:34 07:54 08:14 08:34 08:54 09:14 09:34 09:54 10:14 10:39
+ UD065   MOLIN NUOVO via Molin Nuovo 20 06:16 06:49 07:04 07:35 07:55 08:15 08:35 08:55 09:15 09:35 09:55 10:15 10:40
+ 70106   MOLIN NUOVO via Molin Nuovo (fronte 93, 
+direzione Udine)
+06:17 06:50 07:05 07:36 07:56 08:16 08:36 08:56 09:16 09:36 09:56 10:16 10:41
+ UD693   UDINE via Molin Nuovo (fronte civico 85, ex 
+Bertoli)
+06:19 06:52 07:07 07:38 07:58 08:18 08:38 08:58 09:18 09:38 09:58 10:18 10:43
+ UD386   UDINE via Molin Nuovo 88 06:20 06:53 07:08 07:39 07:59 08:19 08:39 08:59 09:19 09:39 09:59 10:19 10:44
+ UD385   UDINE via Molin Nuovo 46 06:20 06:53 07:08 07:40 08:00 08:20 08:40 09:00 09:20 09:40 10:00 10:20 10:45
+ UD384   UDINE via Molin Nuovo 18 (scuola materna Di 
+Rosa)
+06:21 06:54 07:09 07:40 08:00 08:20 08:40 09:00 09:20 09:40 10:00 10:20 10:45
+ UD235   UDINE via Alessandria 76 (Paderno) 06:22 06:55 07:10 07:25 07:42 08:02 08:22 08:42 09:02 09:22 09:42 10:02 10:22 10:47
+ UD097   UDINE via Alessandria 20 (Rugby Stadium) 06:22 06:55 07:10 07:25 07:42 08:02 08:22 08:42 09:02 09:22 09:42 10:02 10:22 10:47
+ UD570   UDINE viale Vat 20 (mercato) 06:23 06:56 07:11 07:26 07:43 08:03 08:23 08:43 09:03 09:23 09:43 10:03 10:23 10:48
+ 70C09   UDINE viale Vat 2 (parco piazzale Chiavris) 06:23 06:57 07:12 07:27 07:44 08:04 08:24 08:44 09:04 09:24 09:44 10:04 10:24 10:49
+ UD080   UDINE viale Volontari della Libertà 46 06:24 06:58 07:13 07:28 07:45 08:05 08:25 08:45 09:05 09:25 09:45 10:05 10:25 10:50
+ UD081   UDINE viale Volontari della Libertà 6 
+(piazzale Osoppo)
+06:25 06:59 07:14 07:29 07:46 08:06 08:26 08:46 09:06 09:26 09:46 10:06 10:26 10:51
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 06:25 07:00 07:15 07:31 07:48 08:08 08:28 08:48 09:08 09:28 09:48 10:08 10:28 10:53
+ UD730   UDINE viale della Vittoria 12D (Sello) 06:26 07:01 07:16 07:32 07:49 08:09 08:29 08:49 09:09 09:29 09:49 10:09 10:29 10:54
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+06:27 07:02 07:17 07:33 07:50 08:10 08:30 08:50 09:10 09:30 09:50 10:10 10:30 10:55
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+06:27 07:02 07:17 07:34 07:51 08:11 08:31 08:50 09:10 09:30 09:50 10:10 10:30 10:55
+ UD703   UDINE viale Ungheria (fronte ex distretto 
+militare)
+06:28 07:03 07:18 07:35 07:52 08:12 08:32 08:51 09:11 09:31 09:51 10:11 10:31 10:56
+ UD705   UDINE viale Ungheria 61 06:29 07:04 07:19 07:36 07:53 08:13 08:33 08:52 09:12 09:32 09:52 10:12 10:32 10:57
+ UD707   UDINE viale Ungheria 133 06:29 07:04 07:19 07:37 07:54 08:14 08:34 08:53 09:13 09:33 09:53 10:13 10:33 10:58
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+06:31
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+06:36 07:06 07:21 07:40 07:57 08:17 08:37 08:55 09:15 09:35 09:55 10:15 10:35 11:00
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 06:36 07:06 07:21 07:41 07:58 08:18 08:38 08:56 09:16 09:36 09:56 10:16 10:36 11:01
+ UD522   UDINE viale delle Ferriere (fronte civico 6) 06:37 07:07 07:22 07:42 07:59 08:19 08:39 08:57 09:17 09:37 09:57 10:17 10:37 11:02
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 06:37 07:07 07:22 07:42 07:59 08:19 08:39 08:57 09:17 09:37 09:57 10:17 10:37 11:02
+ 70C60   UDINE piazzale Giobatta Cella 59 06:38 07:08 07:23 07:43 08:00 08:20 08:40 08:58 09:18 09:38 09:58 10:18 10:38 11:03
+ UD432   UDINE via Pozzuolo (fronte civico 60) 06:39 07:09 07:24 07:44 08:01 08:21 08:41 08:59 09:19 09:39 09:59 10:19 10:39 11:04
+ UD433   UDINE via Pozzuolo (fronte civico 84) 06:39 07:10 07:25 07:45 08:02 08:22 08:42 09:00 09:20 09:40 10:00 10:20 10:40 11:05
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+06:40 07:11 07:26 07:46 08:03 08:23 08:43 09:01 09:21 09:41 10:01 10:21 10:41 11:06
+ UD634   UDINE via Pozzuolo 187 (chiesa Sant'Osvaldo) 06:40 07:12 07:27 07:47 08:04 08:24 08:44 09:02 09:22 09:42 10:02 10:22 10:42 11:07
+ UD427   UDINE via Pozzuolo 249 (distributore) 06:41 07:13 07:28 07:48 08:05 08:25 08:45 09:03 09:23 09:43 10:03 10:23 10:43 11:08
+ UD429   UDINE via Pozzuolo 301 06:41 07:13 07:28 07:48 08:05 08:25 08:45 09:03 09:23 09:43 10:03 10:23 10:43 11:08
+ 70C04   SANT'OSVALDO via Adriatica 16 06:42 07:14 07:29 07:49 08:06 08:26 08:46 09:04 09:24 09:44 10:04 10:24 10:44 11:09
+ UD002   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica 120 (parco)
+06:43 07:15 07:30 07:50 08:07 08:27 08:47 09:05 09:25 09:45 10:05 10:25 10:45 11:10
+ UD004   BASALDELLA DI CAMPOFORMIDO via Verdi 
+125 (rot. S.Sebastiano)
+06:44 07:16 07:51 08:08 08:48 09:06 09:46 10:06 10:46 11:11
+ UD006   BASALDELLA DI CAMPOFORMIDO via Verdi 
+87
+06:44 07:16 07:51 08:08 08:48 09:06 09:46 10:06 10:46 11:11
+ UD001   BASALDELLA DI CAMPOFORMIDO piazza 4 
+Novembre 5
+06:47 07:20 07:58 08:15 08:55 09:13 09:53 10:13 10:53 11:18
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+07:31 08:28 09:26 10:26
+ 70C61   ZUGLIANO via 24 Aprile 15 07:35 08:35 09:33 10:33
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio U511 URBANO festiva annuale escl. Capodanno e I Maggio
+U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 1 di 7
+  [Pagina 3]
+LINEA 3 (Andata)
+Orario valido dall'11 settembre 2025Molin Nuovo-Paderno-Chiavris-1°Maggio-FS-Cella-Zugliano (solo 
+se specifcato )/Basaldella 
+FERIALE ANNUALE
+33 35 37 39 41 43 47 49 51 53 55 57 59 61
+U500 U500 U500 U500 U500 U500 U550 U500 U500 U500 U500 U500 U500 U500
+ UD005   Adegliacco via Centrale fronte 63 11:03 11:23 11:43 12:03 12:23 12:43 13:03 13:23 13:43 14:03 14:23 14:43 15:03 15:23
+ UD071   ADEGLIACCO via Centrale 66 11:04 11:24 11:44 12:04 12:24 12:44 13:04 13:24 13:44 14:04 14:24 14:44 15:04 15:24
+ UD065   MOLIN NUOVO via Molin Nuovo 20 11:05 11:25 11:45 12:05 12:25 12:45 13:05 13:25 13:45 14:05 14:25 14:45 15:05 15:25
+ 70106   MOLIN NUOVO via Molin Nuovo (fronte 93, 
+direzione Udine)
+11:06 11:26 11:46 12:06 12:26 12:46 13:06 13:26 13:46 14:06 14:26 14:46 15:06 15:26
+ UD693   UDINE via Molin Nuovo (fronte civico 85, ex 
+Bertoli)
+11:08 11:28 11:48 12:08 12:28 12:48 13:08 13:28 13:48 14:08 14:28 14:48 15:08 15:28
+ UD386   UDINE via Molin Nuovo 88 11:09 11:29 11:49 12:09 12:29 12:49 13:09 13:29 13:49 14:09 14:29 14:49 15:09 15:29
+ UD385   UDINE via Molin Nuovo 46 11:10 11:30 11:50 12:10 12:30 12:50 13:10 13:30 13:50 14:10 14:30 14:50 15:10 15:30
+ UD384   UDINE via Molin Nuovo 18 (scuola materna Di 
+Rosa)
+11:10 11:30 11:50 12:10 12:30 12:50 13:10 13:30 13:50 14:10 14:30 14:50 15:10 15:30
+ UD235   UDINE via Alessandria 76 (Paderno) 11:12 11:32 11:52 12:12 12:32 12:52 13:12 13:32 13:52 14:12 14:32 14:52 15:12 15:32
+ UD097   UDINE via Alessandria 20 (Rugby Stadium) 11:12 11:32 11:52 12:12 12:32 12:52 13:12 13:32 13:52 14:12 14:32 14:52 15:12 15:32
+ UD570   UDINE viale Vat 20 (mercato) 11:13 11:33 11:53 12:13 12:33 12:53 13:13 13:33 13:53 14:13 14:33 14:53 15:13 15:33
+ 70C09   UDINE viale Vat 2 (parco piazzale Chiavris) 11:14 11:34 11:54 12:14 12:34 12:54 13:14 13:34 13:54 14:14 14:34 14:54 15:14 15:34
+ UD080   UDINE viale Volontari della Libertà 46 11:15 11:35 11:55 12:15 12:35 12:55 13:15 13:35 13:55 14:15 14:35 14:55 15:15 15:35
+ UD081   UDINE viale Volontari della Libertà 6 
+(piazzale Osoppo)
+11:16 11:36 11:56 12:16 12:36 12:56 13:16 13:36 13:56 14:16 14:36 14:56 15:16 15:36
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 11:18 11:38 11:58 12:18 12:38 12:58 13:18 13:38 13:58 14:18 14:38 14:58 15:18 15:38
+ UD730   UDINE viale della Vittoria 12D (Sello) 11:19 11:39 11:59 12:19 12:39 12:59 13:19 13:39 13:59 14:19 14:39 14:59 15:19 15:39
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+11:20 11:40 12:00 12:20 12:40 13:00 13:20 13:40 14:00 14:20 14:40 15:00 15:20 15:40
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+11:20 11:40 12:00 12:20 12:40 13:00 13:20 13:40 14:00 14:20 14:40 15:00 15:20 15:40
+ UD703   UDINE viale Ungheria (fronte ex distretto 
+militare)
+11:21 11:41 12:01 12:21 12:41 13:01 13:21 13:41 14:01 14:21 14:41 15:01 15:21 15:41
+ UD705   UDINE viale Ungheria 61 11:22 11:42 12:02 12:22 12:42 13:02 13:22 13:42 14:02 14:22 14:42 15:02 15:22 15:42
+ UD707   UDINE viale Ungheria 133 11:23 11:43 12:03 12:23 12:43 13:03 13:23 13:43 14:03 14:23 14:43 15:03 15:23 15:43
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+11:25 11:45 12:05 12:25 12:45 13:05 13:25 13:45 14:05 14:25 14:45 15:05 15:25 15:45
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 11:26 11:46 12:06 12:26 12:46 13:06 13:26 13:46 14:06 14:26 14:46 15:06 15:26 15:46
+ UD522   UDINE viale delle Ferriere (fronte civico 6) 11:27 11:47 12:07 12:27 12:47 13:07 13:27 13:47 14:07 14:27 14:47 15:07 15:27 15:47
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 11:27 11:47 12:07 12:27 12:47 13:07 13:27 13:47 14:07 14:27 14:47 15:07 15:27 15:47
+ 70C60   UDINE piazzale Giobatta Cella 59 11:28 11:48 12:08 12:28 12:48 13:08 13:28 13:48 14:08 14:28 14:48 15:08 15:28 15:48
+ UD432   UDINE via Pozzuolo (fronte civico 60) 11:29 11:49 12:09 12:29 12:49 13:09 13:29 13:49 14:09 14:29 14:49 15:09 15:29 15:49
+ UD433   UDINE via Pozzuolo (fronte civico 84) 11:30 11:50 12:10 12:30 12:50 13:10 13:30 13:50 14:10 14:30 14:50 15:10 15:30 15:50
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+11:31 11:51 12:11 12:31 12:51 13:11 13:31 13:51 14:11 14:31 14:51 15:11 15:31 15:51
+ UD634   UDINE via Pozzuolo 187 (chiesa Sant'Osvaldo) 11:32 11:52 12:12 12:32 12:52 13:12 13:32 13:52 14:12 14:32 14:52 15:12 15:32 15:52
+ UD427   UDINE via Pozzuolo 249 (distributore) 11:33 11:53 12:13 12:33 12:53 13:13 13:33 13:53 14:13 14:33 14:53 15:13 15:33 15:53
+ UD429   UDINE via Pozzuolo 301 11:33 11:53 12:13 12:33 12:53 13:13 13:33 13:53 14:13 14:33 14:53 15:13 15:33 15:53
+ 70C04   SANT'OSVALDO via Adriatica 16 11:34 11:54 12:14 12:34 12:54 13:14 13:34 13:54 14:14 14:34 14:54 15:14 15:34 15:54
+ UD002   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica 120 (parco)
+11:35 11:55 12:15 12:35 12:55 13:15 13:35 13:55 14:15 14:35 14:55 15:15 15:35 15:55
+ UD004   BASALDELLA DI CAMPOFORMIDO via Verdi 
+125 (rot. S.Sebastiano)
+11:56 12:16 12:56 13:16 13:56 14:16 14:56 15:16 15:56
+ UD006   BASALDELLA DI CAMPOFORMIDO via Verdi 
+87
+11:56 12:16 12:56 13:16 13:56 14:16 14:56 15:16 15:56
+ UD001   BASALDELLA DI CAMPOFORMIDO piazza 4 
+Novembre 5
+12:03 12:23 13:03 13:23 14:03 14:23 15:03 15:23 16:03
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+11:36 12:36 13:36 14:36 15:36
+ 70C61   ZUGLIANO via 24 Aprile 15 11:43 12:43 13:43 14:43 15:43
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio U511 URBANO festiva annuale escl. Capodanno e I Maggio
+U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 2 di 7
+  [Pagina 4]
+LINEA 3 (Andata)
+Orario valido dall'11 settembre 2025Molin Nuovo-Paderno-Chiavris-1°Maggio-FS-Cella-Zugliano (solo 
+se specifcato )/Basaldella 
+FERIALE ANNUALE
+63 65 67 69 71 73 75 77 79 81 83 85 87 89
+U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500
+ UD005   Adegliacco via Centrale fronte 63 15:43 16:03 16:23 16:43 17:03 17:23 17:43 18:03 18:23 18:43 19:02 19:22 19:47 20:02
+ UD071   ADEGLIACCO via Centrale 66 15:44 16:04 16:24 16:44 17:04 17:24 17:44 18:04 18:24 18:44 19:03 19:23 19:48 20:03
+ UD065   MOLIN NUOVO via Molin Nuovo 20 15:45 16:05 16:25 16:45 17:05 17:25 17:45 18:05 18:25 18:45 19:04 19:24 19:49 20:04
+ 70106   MOLIN NUOVO via Molin Nuovo (fronte 93, 
+direzione Udine)
+15:46 16:06 16:26 16:46 17:06 17:26 17:46 18:06 18:26 18:46 19:05 19:25 19:50 20:05
+ UD693   UDINE via Molin Nuovo (fronte civico 85, ex 
+Bertoli)
+15:48 16:08 16:28 16:48 17:08 17:28 17:48 18:08 18:28 18:48 19:07 19:27 19:52 20:07
+ UD386   UDINE via Molin Nuovo 88 15:49 16:09 16:29 16:49 17:09 17:29 17:49 18:09 18:29 18:49 19:08 19:28 19:53 20:08
+ UD385   UDINE via Molin Nuovo 46 15:50 16:10 16:30 16:50 17:10 17:30 17:50 18:10 18:30 18:50 19:08 19:28 19:53 20:08
+ UD384   UDINE via Molin Nuovo 18 (scuola materna Di 
+Rosa)
+15:50 16:10 16:30 16:50 17:10 17:30 17:50 18:10 18:30 18:50 19:09 19:29 19:54 20:09
+ UD235   UDINE via Alessandria 76 (Paderno) 15:52 16:12 16:32 16:52 17:12 17:32 17:52 18:12 18:32 18:52 19:10 19:30 19:55 20:10
+ UD097   UDINE via Alessandria 20 (Rugby Stadium) 15:52 16:12 16:32 16:52 17:12 17:32 17:52 18:12 18:32 18:52 19:10 19:30 19:55 20:10
+ UD570   UDINE viale Vat 20 (mercato) 15:53 16:13 16:33 16:53 17:13 17:33 17:53 18:13 18:33 18:53 19:11 19:31 19:56 20:11
+ 70C09   UDINE viale Vat 2 (parco piazzale Chiavris) 15:54 16:14 16:34 16:54 17:14 17:34 17:54 18:14 18:34 18:54 19:12 19:32 19:57 20:12
+ UD080   UDINE viale Volontari della Libertà 46 15:55 16:15 16:35 16:55 17:15 17:35 17:55 18:15 18:35 18:55 19:13 19:33 19:58 20:13
+ UD081   UDINE viale Volontari della Libertà 6 
+(piazzale Osoppo)
+15:56 16:16 16:36 16:56 17:16 17:36 17:56 18:16 18:36 18:56 19:14 19:34 19:59 20:14
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 15:58 16:18 16:38 16:58 17:18 17:38 17:58 18:18 18:38 18:58 19:15 19:35 20:00 20:15
+ UD730   UDINE viale della Vittoria 12D (Sello) 15:59 16:19 16:39 16:59 17:19 17:39 17:59 18:19 18:39 18:59 19:16 19:36 20:01 20:16
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+16:00 16:20 16:40 17:00 17:20 17:40 18:00 18:20 18:40 19:00 19:17 19:37 20:02 20:17
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+16:00 16:20 16:40 17:00 17:20 17:40 18:00 18:20 18:40 19:00 19:17 19:37 20:02 20:17
+ UD703   UDINE viale Ungheria (fronte ex distretto 
+militare)
+16:01 16:21 16:41 17:01 17:21 17:41 18:01 18:21 18:41 19:01 19:18 19:38 20:03 20:18
+ UD705   UDINE viale Ungheria 61 16:02 16:22 16:42 17:02 17:22 17:42 18:02 18:22 18:42 19:02 19:19 19:39 20:04 20:19
+ UD707   UDINE viale Ungheria 133 16:03 16:23 16:43 17:03 17:23 17:43 18:03 18:23 18:43 19:03 19:19 19:39 20:04 20:19
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+16:05 16:25 16:45 17:05 17:25 17:45 18:05 18:25 18:45 19:05 19:21 19:41 20:06 20:21
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 16:06 16:26 16:46 17:06 17:26 17:46 18:06 18:26 18:46 19:06 19:21 19:41 20:06 20:21
+ UD522   UDINE viale delle Ferriere (fronte civico 6) 16:07 16:27 16:47 17:07 17:27 17:47 18:07 18:27 18:47 19:07 19:22 19:42 20:07 20:22
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 16:07 16:27 16:47 17:07 17:27 17:47 18:07 18:27 18:47 19:07 19:22 19:42 20:07 20:22
+ 70C60   UDINE piazzale Giobatta Cella 59 16:08 16:28 16:48 17:08 17:28 17:48 18:08 18:28 18:48 19:08 19:23 19:43 20:08 20:23
+ UD432   UDINE via Pozzuolo (fronte civico 60) 16:09 16:29 16:49 17:09 17:29 17:49 18:09 18:29 18:49 19:09 19:24 19:44 20:09 20:24
+ UD433   UDINE via Pozzuolo (fronte civico 84) 16:10 16:30 16:50 17:10 17:30 17:50 18:10 18:30 18:50 19:10 19:25 19:45 20:10 20:25
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+16:11 16:31 16:51 17:11 17:31 17:51 18:11 18:31 18:51 19:11 19:26 19:46 20:11 20:26
+ UD634   UDINE via Pozzuolo 187 (chiesa Sant'Osvaldo) 16:12 16:32 16:52 17:12 17:32 17:52 18:12 18:32 18:52 19:12 19:27 19:47 20:12 20:27
+ UD427   UDINE via Pozzuolo 249 (distributore) 16:13 16:33 16:53 17:13 17:33 17:53 18:13 18:33 18:53 19:13 19:28 19:48 20:13 20:28
+ UD429   UDINE via Pozzuolo 301 16:13 16:33 16:53 17:13 17:33 17:53 18:13 18:33 18:53 19:13 19:28 19:48 20:13 20:28
+ 70C04   SANT'OSVALDO via Adriatica 16 16:14 16:34 16:54 17:14 17:34 17:54 18:14 18:34 18:54 19:14 19:29 19:49 20:14 20:29
+ UD002   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica 120 (parco)
+16:15 16:35 16:55 17:15 17:35 17:55 18:15 18:35 18:55 19:15 19:30 19:50 20:15 20:30
+ UD004   BASALDELLA DI CAMPOFORMIDO via Verdi 
+125 (rot. S.Sebastiano)
+16:16 16:56 17:16 17:56 18:16 18:56 19:16 19:51 20:16 20:31
+ UD006   BASALDELLA DI CAMPOFORMIDO via Verdi 
+87
+16:16 16:56 17:16 17:56 18:16 18:56 19:16 19:51 20:16 20:31
+ UD001   BASALDELLA DI CAMPOFORMIDO piazza 4 
+Novembre 5
+16:23 17:03 17:23 18:03 18:23 19:03 19:23 19:55 20:20 20:35
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+16:36 17:36 18:36 19:31
+ 70C61   ZUGLIANO via 24 Aprile 15 16:43 17:43 18:43 19:35
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio U511 URBANO festiva annuale escl. Capodanno e I Maggio
+U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 3 di 7
+  [Pagina 5]
+LINEA 3 (Andata)
+Orario valido dall'11 settembre 2025Molin Nuovo-Paderno-Chiavris-1°Maggio-FS-Cella-Zugliano (solo 
+se specifcato )/Basaldella 
+FERIALE ANNU FESTIVO ANNUALE
+91 93 601 603 605 607 609 611 613 615 617 619 621 623
+U500 U500 U511 U511 U511 U510 U510 U510 U510 U510 U510 U510 U510 U512
+ UD005   Adegliacco via Centrale fronte 63 20:17 20:37
+ UD071   ADEGLIACCO via Centrale 66 20:18 20:38
+ UD065   MOLIN NUOVO via Molin Nuovo 20 20:19 20:39
+ 70106   MOLIN NUOVO via Molin Nuovo (fronte 93, 
+direzione Udine)
+20:20 20:40
+ UD031   MOLIN NUOVO via Cividina 48 (Nuova 
+Siderurgica)
+06:30 07:00 07:35 08:10 08:45 09:25 10:00 10:40 11:15 11:55 12:30 13:10
+ UD693   UDINE via Molin Nuovo (fronte civico 85, ex 
+Bertoli)
+20:22 20:42 06:30 07:00 07:35 08:10 08:45 09:25 10:00 10:40 11:15 11:55 12:30 13:10
+ UD386   UDINE via Molin Nuovo 88 20:23 20:43 06:31 07:01 07:36 08:11 08:46 09:26 10:01 10:41 11:16 11:56 12:31 13:11
+ UD385   UDINE via Molin Nuovo 46 20:23 20:43 06:32 07:02 07:37 08:12 08:47 09:27 10:02 10:42 11:17 11:57 12:32 13:12
+ UD384   UDINE via Molin Nuovo 18 (scuola materna Di 
+Rosa)
+20:24 20:44 06:33 07:03 07:38 08:13 08:48 09:28 10:03 10:43 11:18 11:58 12:33 13:13
+ UD235   UDINE via Alessandria 76 (Paderno) 20:25 20:45 06:34 07:04 07:39 08:14 08:49 09:29 10:04 10:44 11:19 11:59 12:34 13:14
+ UD097   UDINE via Alessandria 20 (Rugby Stadium) 20:25 20:45 06:34 07:04 07:39 08:15 08:50 09:30 10:05 10:45 11:20 12:00 12:35 13:15
+ UD570   UDINE viale Vat 20 (mercato) 20:26 20:46 06:35 07:05 07:40 08:16 08:51 09:31 10:06 10:46 11:21 12:01 12:36 13:16
+ 70C09   UDINE viale Vat 2 (parco piazzale Chiavris) 20:27 20:46 06:35 07:05 07:40 08:16 08:51 09:31 10:06 10:46 11:21 12:01 12:36 13:16
+ UD080   UDINE viale Volontari della Libertà 46 20:28 20:47 06:37 07:07 07:42 08:18 08:53 09:33 10:08 10:48 11:23 12:03 12:38 13:18
+ UD081   UDINE viale Volontari della Libertà 6 
+(piazzale Osoppo)
+20:29 20:48 06:38 07:08 07:43 08:19 08:54 09:34 10:09 10:49 11:24 12:04 12:39 13:19
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 20:30 20:48 06:39 07:09 07:44 08:20 08:55 09:35 10:10 10:50 11:25 12:05 12:40 13:20
+ UD730   UDINE viale della Vittoria 12D (Sello) 20:31 20:49 06:40 07:10 07:45 08:21 08:56 09:36 10:11 10:51 11:26 12:06 12:41 13:21
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+20:32 20:50 06:41 07:11 07:46 08:22 08:57 09:37 10:12 10:52 11:27 12:07 12:42 13:22
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+20:32 20:50 06:42 07:12 07:47 08:23 08:58 09:38 10:13 10:53 11:28 12:08 12:43 13:23
+ UD703   UDINE viale Ungheria (fronte ex distretto 
+militare)
+20:33 20:51 06:43 07:13 07:48 08:24 08:59 09:39 10:14 10:54 11:29 12:09 12:44 13:24
+ UD705   UDINE viale Ungheria 61 20:34 20:52 06:43 07:13 07:48 08:24 08:59 09:39 10:14 10:54 11:29 12:09 12:44 13:24
+ UD707   UDINE viale Ungheria 133 20:34 20:52 06:44 07:14 07:49 08:25 09:00 09:40 10:15 10:55 11:30 12:10 12:45 13:25
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+20:36 20:54 06:45 07:15 07:50 08:27 09:02 09:42 10:17 10:57 11:32 12:12 12:47 13:27
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 20:36 20:54 06:46 07:16 07:51 08:28 09:03 09:43 10:18 10:58 11:33 12:13 12:48 13:28
+ UD522   UDINE viale delle Ferriere (fronte civico 6) 20:37 20:55 06:47 07:17 07:52 08:29 09:04 09:44 10:19 10:59 11:34 12:14 12:49 13:29
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 20:37 20:55 06:47 07:17 07:52 08:29 09:04 09:44 10:19 10:59 11:34 12:14 12:49 13:29
+ 70C60   UDINE piazzale Giobatta Cella 59 20:38 20:56 06:48 07:18 07:53 08:30 09:05 09:45 10:20 11:00 11:35 12:15 12:50 13:30
+ UD432   UDINE via Pozzuolo (fronte civico 60) 20:39 20:57 06:49 07:19 07:54 08:31 09:06 09:46 10:21 11:01 11:36 12:16 12:51 13:31
+ UD433   UDINE via Pozzuolo (fronte civico 84) 20:40 20:57 06:49 07:19 07:54 08:31 09:06 09:46 10:21 11:01 11:36 12:16 12:51 13:31
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+20:41 20:58 06:50 07:20 07:55 08:32 09:07 09:47 10:22 11:02 11:37 12:17 12:52 13:32
+ UD634   UDINE via Pozzuolo 187 (chiesa Sant'Osvaldo) 20:42 20:58 06:50 07:20 07:55 08:32 09:07 09:47 10:22 11:02 11:37 12:17 12:52 13:32
+ UD427   UDINE via Pozzuolo 249 (distributore) 20:43 20:59 06:51 07:21 07:56 08:33 09:08 09:48 10:23 11:03 11:38 12:18 12:53 13:33
+ UD429   UDINE via Pozzuolo 301 20:43 20:59 06:51 07:21 07:56 08:33 09:08 09:48 10:23 11:03 11:38 12:18 12:53 13:33
+ 70C04   SANT'OSVALDO via Adriatica 16 20:44 21:00 06:52 07:22 07:57 08:34 09:09 09:49 10:24 11:04 11:39 12:19 12:54 13:34
+ UD002   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica 120 (parco)
+20:45 21:01 06:53 07:23 07:58 08:35 09:10 09:50 10:25 11:05 11:40 12:20 12:55 13:35
+ UD004   BASALDELLA DI CAMPOFORMIDO via Verdi 
+125 (rot. S.Sebastiano)
+21:02 06:54 07:24 07:59 08:36 09:11 09:51 10:26 11:06 11:41 12:21 12:56 13:36
+ UD006   BASALDELLA DI CAMPOFORMIDO via Verdi 
+87
+21:02 06:54 07:24 07:59 08:36 09:11 09:51 10:26 11:06 11:41 12:21 12:56 13:36
+ UD001   BASALDELLA DI CAMPOFORMIDO piazza 4 
+Novembre 5
+21:05 06:57 07:27 08:02 08:40 09:15 09:55 10:30 11:10 11:45 12:25 13:00 13:40
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+20:46
+ 70C61   ZUGLIANO via 24 Aprile 15 20:50
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio U511 URBANO festiva annuale escl. Capodanno e I Maggio
+U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 4 di 7
+  [Pagina 6]
+LINEA 3 (Andata)
+Orario valido dall'11 settembre 2025Molin Nuovo-Paderno-Chiavris-1°Maggio-FS-Cella-Zugliano (solo 
+se specifcato )/Basaldella 
+FESTIVO ANNUALE FERIALE GIORNI 
+625 627 629 631 633 635 637 639 641 643 645 647 95 5
+U512 U512 U512 U512 U512 U512 U512 U512 U512 U512 U512 U512 U507 U530
+ UD005   Adegliacco via Centrale fronte 63 06:57
+ UD071   ADEGLIACCO via Centrale 66 06:58
+ UD065   MOLIN NUOVO via Molin Nuovo 20 06:59
+ 70106   MOLIN NUOVO via Molin Nuovo (fronte 93, 
+direzione Udine)
+07:00
+ UD031   MOLIN NUOVO via Cividina 48 (Nuova 
+Siderurgica)
+13:50 14:30 15:05 15:45 16:20 17:00 17:35 18:15 18:55 19:30 20:10 20:45
+ UD693   UDINE via Molin Nuovo (fronte civico 85, ex 
+Bertoli)
+13:50 14:30 15:05 15:45 16:20 17:00 17:35 18:15 18:55 19:30 20:10 20:45 07:02
+ UD386   UDINE via Molin Nuovo 88 13:51 14:31 15:06 15:46 16:21 17:01 17:36 18:16 18:56 19:31 20:11 20:46 07:03
+ UD385   UDINE via Molin Nuovo 46 13:52 14:32 15:07 15:47 16:22 17:02 17:37 18:17 18:57 19:32 20:12 20:47 07:03
+ UD384   UDINE via Molin Nuovo 18 (scuola materna Di 
+Rosa)
+13:53 14:33 15:08 15:48 16:23 17:03 17:38 18:18 18:58 19:33 20:13 20:48 07:04
+ UD235   UDINE via Alessandria 76 (Paderno) 13:54 14:34 15:09 15:49 16:24 17:04 17:39 18:18 18:59 19:34 20:14 20:49 07:05
+ UD097   UDINE via Alessandria 20 (Rugby Stadium) 13:55 14:35 15:10 15:50 16:25 17:05 17:40 18:20 19:00 19:35 20:15 20:50 07:05
+ UD570   UDINE viale Vat 20 (mercato) 13:56 14:36 15:11 15:51 16:26 17:06 17:41 18:21 19:01 19:36 20:16 20:51 07:06
+ 70C09   UDINE viale Vat 2 (parco piazzale Chiavris) 13:56 14:36 15:11 15:51 16:26 17:06 17:41 18:21 19:01 19:36 20:16 20:51 07:07
+ UD080   UDINE viale Volontari della Libertà 46 13:58 14:38 15:13 15:53 16:28 17:08 17:43 18:23 19:03 19:38 20:18 20:53 07:08
+ UD081   UDINE viale Volontari della Libertà 6 
+(piazzale Osoppo)
+13:59 14:39 15:14 15:54 16:29 17:09 17:44 18:24 19:04 19:39 20:19 20:54 07:09
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 14:00 14:40 15:15 15:55 16:30 17:10 17:45 18:25 19:05 19:40 20:20 20:55 07:10
+ UD730   UDINE viale della Vittoria 12D (Sello) 14:01 14:41 15:16 15:56 16:31 17:11 17:46 18:26 19:06 19:41 20:21 20:56 07:11
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+14:02 14:42 15:17 15:57 16:32 17:12 17:47 18:27 19:07 19:42 20:22 20:57 07:12
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+14:03 14:43 15:18 15:58 16:33 17:13 17:48 18:28 19:08 19:43 20:23 20:58 07:12
+ UD703   UDINE viale Ungheria (fronte ex distretto 
+militare)
+14:04 14:44 15:19 15:59 16:34 17:14 17:49 18:29 19:09 19:44 20:24 20:59 07:13
+ UD705   UDINE viale Ungheria 61 14:04 14:44 15:19 15:59 16:34 17:14 17:49 18:29 19:09 19:44 20:24 20:59 07:14
+ UD707   UDINE viale Ungheria 133 14:05 14:45 15:20 16:00 16:35 17:15 17:50 18:30 19:10 19:45 20:25 21:00 07:14
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+14:07 14:47 15:22 16:02 16:37 17:17 17:52 18:32 19:12 19:47 20:27 21:02 07:50 07:16
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 14:08 14:48 15:23 16:03 16:38 17:18 17:53 18:33 19:13 19:48 20:28 21:03 07:51 07:16
+ UD522   UDINE viale delle Ferriere (fronte civico 6) 14:09 14:49 15:24 16:04 16:39 17:19 17:54 18:34 19:14 19:49 20:29 21:04 07:52 07:17
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 14:09 14:49 15:24 16:04 16:39 17:19 17:54 18:34 19:14 19:49 20:29 21:04 07:52 07:17
+ 70C60   UDINE piazzale Giobatta Cella 59 14:10 14:50 15:25 16:05 16:40 17:20 17:55 18:35 19:15 19:50 20:30 21:05 07:53 07:18
+ UD432   UDINE via Pozzuolo (fronte civico 60) 14:11 14:51 15:26 16:06 16:41 17:21 17:56 18:36 19:16 19:51 20:31 21:06 07:54 07:19
+ UD433   UDINE via Pozzuolo (fronte civico 84) 14:11 14:51 15:26 16:06 16:41 17:21 17:56 18:36 19:16 19:51 20:31 21:06 07:55 07:20
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+14:12 14:52 15:27 16:07 16:42 17:22 17:57 18:37 19:17 19:52 20:32 21:07 07:21
+ UD652   UDINE via Popone 67 (motorizzazione) 08:00
+ UD634   UDINE via Pozzuolo 187 (chiesa Sant'Osvaldo) 14:12 14:52 15:27 16:07 16:42 17:22 17:57 18:37 19:17 19:52 20:32 21:07 07:22
+ UD427   UDINE via Pozzuolo 249 (distributore) 14:13 14:53 15:28 16:08 16:43 17:23 17:58 18:38 19:18 19:53 20:33 21:08 07:23
+ UD429   UDINE via Pozzuolo 301 14:13 14:53 15:28 16:08 16:43 17:23 17:58 18:38 19:18 19:53 20:33 21:08 07:23
+ 70C04   SANT'OSVALDO via Adriatica 16 14:14 14:54 15:29 16:09 16:44 17:24 17:59 18:39 19:19 19:54 20:34 21:09 07:24
+ UD002   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica 120 (parco)
+14:15 14:55 15:30 16:10 16:45 17:25 18:00 18:40 19:20 19:55 20:35 21:10 07:25
+ UD004   BASALDELLA DI CAMPOFORMIDO via Verdi 
+125 (rot. S.Sebastiano)
+14:16 14:56 15:31 16:11 16:46 17:26 18:01 18:41 19:21 19:56 20:36 21:11
+ UD006   BASALDELLA DI CAMPOFORMIDO via Verdi 
+87
+14:16 14:56 15:31 16:11 16:46 17:26 18:01 18:41 19:21 19:56 20:36 21:11
+ UD001   BASALDELLA DI CAMPOFORMIDO piazza 4 
+Novembre 5
+14:20 15:00 15:35 16:15 16:50 17:30 18:05 18:45 19:25 20:00 20:40 21:15
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+07:26
+ 70C61   ZUGLIANO via 24 Aprile 15 07:30
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio U511 URBANO festiva annuale escl. Capodanno e I Maggio
+U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 5 di 7
+  [Pagina 7]
+LINEA 3 (Andata)
+Orario valido dall'11 settembre 2025Molin Nuovo-Paderno-Chiavris-1°Maggio-FS-Cella-Zugliano (solo 
+se specifcato )/Basaldella 
+GIORNI DI SCUO
+11 45
+U530 U530
+ UD005   Adegliacco via Centrale fronte 63 07:23 13:03
+ UD071   ADEGLIACCO via Centrale 66 07:24 13:04
+ UD065   MOLIN NUOVO via Molin Nuovo 20 07:25 13:05
+ 70106   MOLIN NUOVO via Molin Nuovo (fronte 93, 
+direzione Udine)
+07:26 13:06
+ UD693   UDINE via Molin Nuovo (fronte civico 85, ex 
+Bertoli)
+07:28 13:08
+ UD386   UDINE via Molin Nuovo 88 07:29 13:09
+ UD385   UDINE via Molin Nuovo 46 07:30 13:10
+ UD384   UDINE via Molin Nuovo 18 (scuola materna Di 
+Rosa)
+07:30 13:10
+ UD235   UDINE via Alessandria 76 (Paderno) 07:32 13:12
+ UD097   UDINE via Alessandria 20 (Rugby Stadium) 07:32 13:12
+ UD570   UDINE viale Vat 20 (mercato) 07:33 13:13
+ 70C09   UDINE viale Vat 2 (parco piazzale Chiavris) 07:34 13:14
+ UD080   UDINE viale Volontari della Libertà 46 07:35 13:15
+ UD081   UDINE viale Volontari della Libertà 6 
+(piazzale Osoppo)
+07:36 13:16
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:38 13:18
+ UD730   UDINE viale della Vittoria 12D (Sello) 13:19
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+13:20
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+13:20
+ UD703   UDINE viale Ungheria (fronte ex distretto 
+militare)
+13:21
+ UD705   UDINE viale Ungheria 61 13:22
+ UD707   UDINE viale Ungheria 133 13:23
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 07:40
+ UD561   UDINE viale Trieste (fronte 46, parcheggio 
+Teatro Nuovo)
+07:41
+ UD563   UDINE viale Trieste 113 07:42
+ UD502   UDINE viale 23 Marzo 3 (Giudice di Pace) 07:43
+ UD506   UDINE viale 23 Marzo (fronte civico 44, piazzale 
+D'Annunzio)
+07:44
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+07:47
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+13:25
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 13:26
+ UD611   UDINE via De Rubeis fronte 1 (farmacia) 13:27
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 13:27
+ 70C60   UDINE piazzale Giobatta Cella 59 13:28
+ UD432   UDINE via Pozzuolo (fronte civico 60) 13:29
+ UD433   UDINE via Pozzuolo (fronte civico 84) 13:30
+ 70C03   UDINE via Pozzuolo 95 (bivio per sede 
+scolastica)
+13:31
+ UD634   UDINE via Pozzuolo 187 (chiesa Sant'Osvaldo) 13:32
+ UD427   UDINE via Pozzuolo 249 (distributore) 13:33
+ UD429   UDINE via Pozzuolo 301 13:33
+ 70C04   SANT'OSVALDO via Adriatica 16 13:34
+ UD002   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica 120 (parco)
+13:35
+ 70C71   BASALDELLA via Adriatica 182 (rotonda 
+S.Sebastiano)
+13:36
+ 70C61   ZUGLIANO via 24 Aprile 15 13:43
+CADENZA
+CORSA
+GRUPPO CADENZE
+venerdì 29 agosto 2025Pagina 6 di 7
+  [Pagina 8]
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio U511 URBANO festiva annuale escl. Capodanno e I Maggio
+U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 7 di 7
+  [Pagina 9]
+LINEA 3 (Ritorno)
+Orario valido dall'11 settembre 2025Zugliano/Basaldella-Cella-FS-1°Maggio-Chiavris-Paderno-Molin 
+Nuovo 
+FERIALE ANNUALE
+2 4 6 8 14 16 18 20 22 24 26 28 30 32
+U500 U500 U500 U500 U550 U500 U500 U500 U500 U500 U500 U500 U500 U500
+ 70C61   ZUGLIANO via 24 Aprile 15 07:40 08:37 09:45 10:50
+ 70C62   ZUGLIANO via Basaldella 66 07:40 08:37 09:45 10:50
+ UD710   BASALDELLA DI CAMPOFORMIDO via del 
+Molino (fronte civico 40)
+07:41 08:38 09:46 10:51
+ UD001   BASALDELLA DI CAMPOFORMIDO piazza 4 
+Novembre 5
+06:08 06:50 07:10 07:20 08:00 08:20 09:00 09:20 10:10 10:30
+ UD007   BASALDELLA DI CAMPOFORMIDO via Verdi 
+(fronte civico 87)
+06:08 06:50 07:10 07:21 08:01 08:21 09:01 09:21 10:11 10:31
+ 70C79   BASALDELLA via Verdi 80 (rotonda 
+S.Sebastiano)
+06:09 06:51 07:11 07:22 07:42 08:02 08:22 08:39 09:02 09:22 09:47 10:12 10:32 10:52
+ UD003   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica (fronte 120, parco)
+06:10 06:52 07:12 07:23 07:43 08:03 08:23 08:40 09:03 09:23 09:48 10:13 10:33 10:53
+ 70C05   SANT'OSVALDO via Pozzuolo 330 06:11 06:54 07:14 07:24 07:44 08:04 08:24 08:41 09:04 09:24 09:49 10:14 10:34 10:54
+ UD428   UDINE via Pozzuolo 294 06:12 06:54 07:14 07:24 07:44 08:04 08:24 08:41 09:04 09:24 09:49 10:14 10:34 10:54
+ UD426   UDINE via Pozzuolo 246 (distributore) 06:13 06:55 07:15 07:25 07:45 08:05 08:25 08:42 09:05 09:25 09:50 10:15 10:35 10:55
+ UD425   UDINE via Pozzuolo 208 (chiesa Sant'Osvaldo) 06:13 06:55 07:15 07:26 07:46 08:06 08:26 08:43 09:06 09:26 09:51 10:16 10:36 10:56
+ 70C06   UDINE via Pozzuolo 162 (bivio per sede 
+scolastica)
+06:14 06:56 07:16 07:27 07:47 08:07 08:27 08:44 09:07 09:27 09:52 10:17 10:37 10:57
+ UD452   UDINE via San Paolo 5 06:14 06:57 07:17 07:28 07:48 08:08 08:28 08:45 09:08 09:28 09:53 10:18 10:38 10:58
+ UD093   UDINE via Agrigento 48 (chiesa San Paolo) 06:15 06:58 07:18 07:29 07:49 08:09 08:29 08:46 09:09 09:29 09:54 10:19 10:39 10:59
+ UD092   UDINE via Agrigento (fronte civico 5) 06:15 06:58 07:18 07:30 07:49 08:09 08:29 08:46 09:09 09:29 09:54 10:19 10:39 10:59
+ UD332   UDINE via Lumignacco 2 06:16 06:59 07:19 07:31 07:50 08:10 08:30 08:47 09:10 09:30 09:55 10:20 10:40 11:00
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 06:17 07:00 07:20 07:32 07:51 08:11 08:31 08:48 09:11 09:31 09:56 10:21 10:41 11:01
+ UD521   UDINE viale delle Ferriere 4C 06:17 07:01 07:21 07:33 07:52 08:12 08:32 08:49 09:12 09:32 09:57 10:22 10:42 11:02
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 06:18 07:02 07:22 07:34 07:53 08:13 08:33 08:50 09:13 09:33 09:58 10:23 10:43 11:03
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+06:19 07:03 07:23 07:36 07:54 08:14 08:34 08:51 09:14 09:34 09:59 10:24 10:44 11:04
+ UD706   UDINE viale Ungheria 84 06:20 07:04 07:24 07:37 07:55 08:15 08:35 08:52 09:15 09:35 10:00 10:25 10:45 11:05
+ UD704   UDINE viale Ungheria (fronte civico 61) 06:20 07:05 07:25 07:38 07:56 08:16 08:36 08:53 09:16 09:36 10:01 10:26 10:46 11:06
+ UD702   UDINE viale Ungheria (lato ex distretto militare) 06:21 07:05 07:25 07:39 07:57 08:17 08:37 08:54 09:17 09:37 10:02 10:27 10:47 11:07
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+06:22 07:06 07:26 07:40 07:58 08:18 08:38 08:55 09:18 09:38 10:03 10:28 10:48 11:08
+ UD736   UDINE piazza I Maggio 37 06:23 07:07 07:27 07:41 07:59 08:19 08:39 08:56 09:19 09:39 10:04 10:29 10:49 11:09
+ UD051   UDINE piazza I Maggio 26 (Stellini) 06:24 07:07 07:27 07:42 07:59 08:19 08:39 08:56 09:19 09:39 10:04 10:29 10:49 11:09
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+06:24 07:08 07:28 07:43 08:00 08:20 08:40 08:57 09:20 09:40 10:05 10:30 10:50 11:10
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 06:25 07:09 07:29 07:44 08:01 08:21 08:41 08:58 09:21 09:41 10:06 10:31 10:51 11:11
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+06:26 07:10 07:30 07:45 08:02 08:22 08:42 08:59 09:22 09:42 10:07 10:32 10:52 11:12
+ UD082   UDINE viale Volontari della Libertà 61 (piazzale 
+Chiavris)
+06:26 07:11 07:31 07:46 08:03 08:23 08:43 09:00 09:23 09:43 10:08 10:33 10:53 11:13
+ UD571   UDINE viale Vat 23 (mercato) 06:27 07:12 07:32 07:48 08:04 08:24 08:44 09:01 09:24 09:44 10:09 10:34 10:54 11:14
+ UD096   UDINE via Alessandria 17 (Rugby Stadium) 06:27 07:12 07:32 07:49 08:05 08:25 08:45 09:02 09:25 09:45 10:10 10:35 10:55 11:15
+ UD236   UDINE via Alessandria (fronte civico 64), 
+Paderno
+06:28 07:13 07:33 07:50 08:06 08:26 08:46 09:03 09:26 09:46 10:11 10:36 10:56 11:16
+ UD472   UDINE via Torino 47 (campo atletica Dal Dan) 06:28 07:13 07:33 07:50 08:06 08:26 08:46 09:03 09:26 09:46 10:11 10:36 10:56 11:16
+ UD473   UDINE via Torino (fronte civico 108, angolo via 
+Biella)
+06:29 07:14 07:34 07:51 08:07 08:27 08:47 09:04 09:27 09:47 10:12 10:37 10:57 11:17
+ UD732   UDINE via Biella 29 06:30 07:15 07:35 07:52 08:07 08:27 08:47 09:04 09:27 09:47 10:12 10:37 10:57 11:17
+ UD731   UDINE via Biella 61 06:30 07:15 07:35 07:52 08:08 08:28 08:48 09:05 09:28 09:48 10:13 10:38 10:58 11:18
+ UD138   UDINE via Biella 79 (Nautilus) 06:31 07:16 07:36 07:53 08:09 08:29 08:49 09:06 09:29 09:49 10:14 10:39 10:59 11:19
+ UD052   UDINE via Molin Nuovo 91 06:32 07:17 07:37 07:54 08:10 08:30 08:50 09:07 09:30 09:50 10:15 10:40 11:00 11:20
+ 70173   MOLIN NUOVO via Molin Nuovo 93 06:33 07:18 07:38 07:56 08:12 08:32 08:52 09:09 09:32 09:52 10:17 10:42 11:02 11:22
+ UD061   MOLIN NUOVO via Molin Nuovo 23 06:34 07:19 07:39 07:57 08:13 08:33 08:53 09:10 09:33 09:53 10:18 10:43 11:03 11:23
+ UD066   ADEGLIACCO via Centrale 75 06:34 07:19 07:39 07:58 08:14 08:34 08:54 09:11 09:34 09:54 10:19 10:44 11:04 11:24
+ UD005   Adegliacco via Centrale fronte 63 06:40 07:27 07:47 08:05 08:23 08:43 09:03 09:20 09:43 10:03 10:28 10:53 11:13 11:33
+CADENZA
+CORSA
+GRUPPO CADENZE
+venerdì 29 agosto 2025Pagina 1 di 11
+  [Pagina 10]
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U535 URBANO feriale al lunedi e al mercoledi
+U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 2 di 11
+  [Pagina 11]
+LINEA 3 (Ritorno)
+Orario valido dall'11 settembre 2025Zugliano/Basaldella-Cella-FS-1°Maggio-Chiavris-Paderno-Molin 
+Nuovo 
+FERIALE ANNUALE
+34 36 38 40 42 44 46 48 50 52 54 56 58 60
+U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500
+ 70C61   ZUGLIANO via 24 Aprile 15 11:50 12:50 13:50 14:50
+ 70C62   ZUGLIANO via Basaldella 66 11:50 12:50 13:50 14:50
+ UD710   BASALDELLA DI CAMPOFORMIDO via del 
+Molino (fronte civico 40)
+11:51 12:51 13:51 14:51
+ UD001   BASALDELLA DI CAMPOFORMIDO piazza 4 
+Novembre 5
+11:10 11:30 12:10 12:30 13:10 13:30 14:10 14:30 15:10 15:30
+ UD007   BASALDELLA DI CAMPOFORMIDO via Verdi 
+(fronte civico 87)
+11:11 11:31 12:11 12:31 13:11 13:31 14:11 14:31 15:11 15:31
+ 70C79   BASALDELLA via Verdi 80 (rotonda 
+S.Sebastiano)
+11:12 11:32 11:52 12:12 12:32 12:52 13:12 13:32 13:52 14:12 14:32 14:52 15:12 15:32
+ UD003   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica (fronte 120, parco)
+11:13 11:33 11:53 12:13 12:33 12:53 13:13 13:33 13:53 14:13 14:33 14:53 15:13 15:33
+ 70C05   SANT'OSVALDO via Pozzuolo 330 11:14 11:34 11:54 12:14 12:34 12:54 13:14 13:34 13:54 14:14 14:34 14:54 15:14 15:34
+ UD428   UDINE via Pozzuolo 294 11:14 11:34 11:54 12:14 12:34 12:54 13:14 13:34 13:54 14:14 14:34 14:54 15:14 15:34
+ UD426   UDINE via Pozzuolo 246 (distributore) 11:15 11:35 11:55 12:15 12:35 12:55 13:15 13:35 13:55 14:15 14:35 14:55 15:15 15:35
+ UD425   UDINE via Pozzuolo 208 (chiesa Sant'Osvaldo) 11:16 11:36 11:56 12:16 12:36 12:56 13:16 13:36 13:56 14:16 14:36 14:56 15:16 15:36
+ 70C06   UDINE via Pozzuolo 162 (bivio per sede 
+scolastica)
+11:17 11:37 11:57 12:17 12:37 12:57 13:17 13:37 13:57 14:17 14:37 14:57 15:17 15:37
+ UD452   UDINE via San Paolo 5 11:18 11:38 11:58 12:18 12:38 12:58 13:18 13:38 13:58 14:18 14:38 14:58 15:18 15:38
+ UD093   UDINE via Agrigento 48 (chiesa San Paolo) 11:19 11:39 11:59 12:19 12:39 12:59 13:19 13:39 13:59 14:19 14:39 14:59 15:19 15:39
+ UD092   UDINE via Agrigento (fronte civico 5) 11:19 11:39 11:59 12:19 12:39 12:59 13:19 13:39 13:59 14:19 14:39 14:59 15:19 15:39
+ UD332   UDINE via Lumignacco 2 11:20 11:40 12:00 12:20 12:40 13:00 13:20 13:40 14:00 14:20 14:40 15:00 15:20 15:40
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 11:21 11:41 12:01 12:21 12:41 13:01 13:21 13:41 14:01 14:21 14:41 15:01 15:21 15:41
+ UD521   UDINE viale delle Ferriere 4C 11:22 11:42 12:02 12:22 12:42 13:02 13:22 13:42 14:02 14:22 14:42 15:02 15:22 15:42
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 11:23 11:43 12:03 12:23 12:43 13:03 13:23 13:43 14:03 14:23 14:43 15:03 15:23 15:43
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+11:24 11:44 12:04 12:24 12:44 13:04 13:24 13:44 14:04 14:24 14:44 15:04 15:24 15:44
+ UD706   UDINE viale Ungheria 84 11:25 11:45 12:05 12:25 12:45 13:05 13:25 13:45 14:05 14:25 14:45 15:05 15:25 15:45
+ UD704   UDINE viale Ungheria (fronte civico 61) 11:26 11:46 12:06 12:26 12:46 13:06 13:26 13:46 14:06 14:26 14:46 15:06 15:26 15:46
+ UD702   UDINE viale Ungheria (lato ex distretto militare) 11:27 11:47 12:07 12:27 12:47 13:07 13:27 13:47 14:07 14:27 14:47 15:07 15:27 15:47
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+11:28 11:48 12:08 12:28 12:48 13:08 13:28 13:48 14:08 14:28 14:48 15:08 15:28 15:48
+ UD736   UDINE piazza I Maggio 37 11:29 11:49 12:09 12:29 12:49 13:09 13:29 13:49 14:09 14:29 14:49 15:09 15:29 15:49
+ UD051   UDINE piazza I Maggio 26 (Stellini) 11:29 11:49 12:09 12:29 12:49 13:09 13:29 13:49 14:09 14:29 14:49 15:09 15:29 15:49
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+11:30 11:50 12:10 12:30 12:50 13:10 13:30 13:50 14:10 14:30 14:50 15:10 15:30 15:50
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 11:31 11:51 12:11 12:31 12:51 13:11 13:31 13:51 14:11 14:31 14:51 15:11 15:31 15:51
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+11:32 11:52 12:12 12:32 12:52 13:12 13:32 13:52 14:12 14:32 14:52 15:12 15:32 15:52
+ UD082   UDINE viale Volontari della Libertà 61 (piazzale 
+Chiavris)
+11:33 11:53 12:13 12:33 12:53 13:13 13:33 13:53 14:13 14:33 14:53 15:13 15:33 15:53
+ UD571   UDINE viale Vat 23 (mercato) 11:34 11:54 12:14 12:34 12:54 13:14 13:34 13:54 14:14 14:34 14:54 15:14 15:34 15:54
+ UD096   UDINE via Alessandria 17 (Rugby Stadium) 11:35 11:55 12:15 12:35 12:55 13:15 13:35 13:55 14:15 14:35 14:55 15:15 15:35 15:55
+ UD236   UDINE via Alessandria (fronte civico 64), 
+Paderno
+11:36 11:56 12:16 12:36 12:56 13:16 13:36 13:56 14:16 14:36 14:56 15:16 15:36 15:56
+ UD472   UDINE via Torino 47 (campo atletica Dal Dan) 11:36 11:56 12:16 12:36 12:56 13:16 13:36 13:56 14:16 14:36 14:56 15:16 15:36 15:56
+ UD473   UDINE via Torino (fronte civico 108, angolo via 
+Biella)
+11:37 11:57 12:17 12:37 12:57 13:17 13:37 13:57 14:17 14:37 14:57 15:17 15:37 15:57
+ UD732   UDINE via Biella 29 11:37 11:57 12:17 12:37 12:57 13:17 13:37 13:57 14:17 14:37 14:57 15:17 15:37 15:57
+ UD731   UDINE via Biella 61 11:38 11:58 12:18 12:38 12:58 13:18 13:38 13:58 14:18 14:38 14:58 15:18 15:38 15:58
+ UD138   UDINE via Biella 79 (Nautilus) 11:39 11:59 12:19 12:39 12:59 13:19 13:39 13:59 14:19 14:39 14:59 15:19 15:39 15:59
+ UD052   UDINE via Molin Nuovo 91 11:40 12:00 12:20 12:40 13:00 13:20 13:40 14:00 14:20 14:40 15:00 15:20 15:40 16:00
+ 70173   MOLIN NUOVO via Molin Nuovo 93 11:42 12:02 12:22 12:42 13:02 13:22 13:42 14:02 14:22 14:42 15:02 15:22 15:42 16:02
+ UD061   MOLIN NUOVO via Molin Nuovo 23 11:43 12:03 12:23 12:43 13:03 13:23 13:43 14:03 14:23 14:43 15:03 15:23 15:43 16:03
+ UD066   ADEGLIACCO via Centrale 75 11:44 12:04 12:24 12:44 13:04 13:24 13:44 14:04 14:24 14:44 15:04 15:24 15:44 16:04
+ UD005   Adegliacco via Centrale fronte 63 11:53 12:13 12:33 12:53 13:13 13:33 13:53 14:13 14:33 14:53 15:13 15:33 15:53 16:13
+CADENZA
+CORSA
+GRUPPO CADENZE
+venerdì 29 agosto 2025Pagina 3 di 11
+  [Pagina 12]
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U535 URBANO feriale al lunedi e al mercoledi
+U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 4 di 11
+  [Pagina 13]
+LINEA 3 (Ritorno)
+Orario valido dall'11 settembre 2025Zugliano/Basaldella-Cella-FS-1°Maggio-Chiavris-Paderno-Molin 
+Nuovo 
+FERIALE ANNUALE
+62 64 66 68 70 72 74 76 78 80 82 84 86 88
+U500 U500 U500 U500 U500 U535 U500 U500 U500 U500 U500 U500 U500 U500
+ 70C61   ZUGLIANO via 24 Aprile 15 15:50 16:50 17:50 18:50 19:50
+ 70C62   ZUGLIANO via Basaldella 66 15:50 16:50 17:50 18:50 19:50
+ UD710   BASALDELLA DI CAMPOFORMIDO via del 
+Molino (fronte civico 40)
+15:51 16:51 17:51 18:51 19:51
+ UD001   BASALDELLA DI CAMPOFORMIDO piazza 4 
+Novembre 5
+16:10 16:30 17:10 17:30 18:10 18:30 19:10 19:30
+ UD007   BASALDELLA DI CAMPOFORMIDO via Verdi 
+(fronte civico 87)
+16:11 16:31 17:11 17:31 18:11 18:31 19:10 19:30
+ 70C79   BASALDELLA via Verdi 80 (rotonda 
+S.Sebastiano)
+15:52 16:12 16:32 16:52 17:12 17:32 17:52 18:12 18:32 18:52 19:11 19:31 19:51
+ UD003   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica (fronte 120, parco)
+15:53 16:13 16:33 16:53 17:13 17:33 17:53 18:13 18:33 18:53 19:12 19:32 19:52
+ 70C05   SANT'OSVALDO via Pozzuolo 330 15:54 16:14 16:34 16:54 17:14 17:34 17:54 18:14 18:34 18:54 19:14 19:34 19:54
+ UD428   UDINE via Pozzuolo 294 15:54 16:14 16:34 16:54 17:14 17:34 17:54 18:14 18:34 18:54 19:14 19:34 19:54
+ UD426   UDINE via Pozzuolo 246 (distributore) 15:55 16:15 16:35 16:55 17:15 17:35 17:55 18:15 18:35 18:55 19:15 19:35 19:55
+ UD425   UDINE via Pozzuolo 208 (chiesa Sant'Osvaldo) 15:56 16:16 16:36 16:56 17:16 17:36 17:56 18:16 18:36 18:56 19:15 19:35 19:55
+ 70C06   UDINE via Pozzuolo 162 (bivio per sede 
+scolastica)
+15:57 16:17 16:37 16:57 17:17 17:37 17:57 18:17 18:37 18:57 19:16 19:36 19:56
+ UD652   UDINE via Popone 67 (motorizzazione) 17:35
+ UD452   UDINE via San Paolo 5 15:58 16:18 16:38 16:58 17:18 17:36 17:38 17:58 18:18 18:38 18:58 19:17 19:37 19:57
+ UD093   UDINE via Agrigento 48 (chiesa San Paolo) 15:59 16:19 16:39 16:59 17:19 17:37 17:39 17:59 18:19 18:39 18:59 19:18 19:38 19:58
+ UD092   UDINE via Agrigento (fronte civico 5) 15:59 16:19 16:39 16:59 17:19 17:37 17:39 17:59 18:19 18:39 18:59 19:18 19:38 19:58
+ UD332   UDINE via Lumignacco 2 16:00 16:20 16:40 17:00 17:20 17:38 17:40 18:00 18:20 18:40 19:00 19:19 19:39 19:59
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 16:01 16:21 16:41 17:01 17:21 17:39 17:41 18:01 18:21 18:41 19:01 19:20 19:40 20:00
+ UD521   UDINE viale delle Ferriere 4C 16:02 16:22 16:42 17:02 17:22 17:40 17:42 18:02 18:22 18:42 19:02 19:21 19:41 20:01
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 16:03 16:23 16:43 17:03 17:23 17:41 17:43 18:03 18:23 18:43 19:03 19:22 19:42 20:02
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+16:04 16:24 16:44 17:04 17:24 17:43 17:44 18:04 18:24 18:44 19:04 19:23 19:43 20:03
+ UD706   UDINE viale Ungheria 84 16:05 16:25 16:45 17:05 17:25 17:45 18:05 18:25 18:45 19:05 19:24 19:44 20:04
+ UD704   UDINE viale Ungheria (fronte civico 61) 16:06 16:26 16:46 17:06 17:26 17:46 18:06 18:26 18:46 19:06 19:25 19:45 20:05
+ UD702   UDINE viale Ungheria (lato ex distretto militare) 16:07 16:27 16:47 17:07 17:27 17:47 18:07 18:27 18:47 19:07 19:25 19:45 20:05
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+16:08 16:28 16:48 17:08 17:28 17:48 18:08 18:28 18:48 19:08 19:26 19:46 20:06
+ UD736   UDINE piazza I Maggio 37 16:09 16:29 16:49 17:09 17:29 17:49 18:09 18:29 18:49 19:09 19:27 19:47 20:07
+ UD051   UDINE piazza I Maggio 26 (Stellini) 16:09 16:29 16:49 17:09 17:29 17:49 18:09 18:29 18:49 19:09 19:27 19:47 20:07
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+16:10 16:30 16:50 17:10 17:30 17:50 18:10 18:30 18:50 19:10 19:28 19:48 20:08
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 16:11 16:31 16:51 17:11 17:31 17:51 18:11 18:31 18:51 19:11 19:29 19:49 20:09
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+16:12 16:32 16:52 17:12 17:32 17:52 18:12 18:32 18:52 19:12 19:30 19:50 20:10
+ UD082   UDINE viale Volontari della Libertà 61 (piazzale 
+Chiavris)
+16:13 16:33 16:53 17:13 17:33 17:53 18:13 18:33 18:53 19:13 19:31 19:51 20:11
+ UD571   UDINE viale Vat 23 (mercato) 16:14 16:34 16:54 17:14 17:34 17:54 18:14 18:34 18:54 19:14 19:32 19:52 20:12
+ UD096   UDINE via Alessandria 17 (Rugby Stadium) 16:15 16:35 16:55 17:15 17:35 17:55 18:15 18:35 18:55 19:15 19:32 19:52 20:12
+ UD236   UDINE via Alessandria (fronte civico 64), 
+Paderno
+16:16 16:36 16:56 17:16 17:36 17:56 18:16 18:36 18:56 19:16 19:33 19:53 20:13
+ UD472   UDINE via Torino 47 (campo atletica Dal Dan) 16:16 16:36 16:56 17:16 17:36 17:56 18:16 18:36 18:56 19:16 19:33 19:53 20:13
+ UD473   UDINE via Torino (fronte civico 108, angolo via 
+Biella)
+16:17 16:37 16:57 17:17 17:37 17:57 18:17 18:37 18:57 19:17 19:34 19:54 20:14
+ UD732   UDINE via Biella 29 16:17 16:37 16:57 17:17 17:37 17:57 18:17 18:37 18:57 19:17 19:35 19:55 20:15
+ UD731   UDINE via Biella 61 16:18 16:38 16:58 17:18 17:38 17:58 18:18 18:38 18:58 19:18 19:35 19:55 20:15
+ UD138   UDINE via Biella 79 (Nautilus) 16:19 16:39 16:59 17:19 17:39 17:59 18:19 18:39 18:59 19:19 19:36 19:56 20:16
+ UD052   UDINE via Molin Nuovo 91 16:20 16:40 17:00 17:20 17:40 18:00 18:20 18:40 19:00 19:20 19:37 19:57 20:17
+ 70173   MOLIN NUOVO via Molin Nuovo 93 16:22 16:42 17:02 17:22 17:42 18:02 18:22 18:42 19:02 19:22 19:38 19:58 20:18
+ UD061   MOLIN NUOVO via Molin Nuovo 23 16:23 16:43 17:03 17:23 17:43 18:03 18:23 18:43 19:03 19:23 19:39 19:59 20:19
+ UD066   ADEGLIACCO via Centrale 75 16:24 16:44 17:04 17:24 17:44 18:04 18:24 18:44 19:04 19:24 19:39 19:59 20:19
+ UD005   Adegliacco via Centrale fronte 63 16:33 16:53 17:13 17:33 17:53 18:13 18:33 18:53 19:13 19:33 19:47 20:07 20:27
+CADENZA
+CORSA
+GRUPPO CADENZE
+venerdì 29 agosto 2025Pagina 5 di 11
+  [Pagina 14]
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U535 URBANO feriale al lunedi e al mercoledi
+U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 6 di 11
+  [Pagina 15]
+LINEA 3 (Ritorno)
+Orario valido dall'11 settembre 2025Zugliano/Basaldella-Cella-FS-1°Maggio-Chiavris-Paderno-Molin 
+Nuovo 
+FERIALE ANNU FESTIVO ANNUALE
+90 92 602 604 606 608 610 612 614 616 618 620 622 624
+U500 U500 U511 U511 U511 U510 U510 U510 U510 U510 U510 U510 U510 U512
+ UD001   BASALDELLA DI CAMPOFORMIDO piazza 4 
+Novembre 5
+20:10 20:30 06:30 07:00 07:35 08:10 08:45 09:25 10:00 10:40 11:15 11:55 12:30 13:10
+ UD007   BASALDELLA DI CAMPOFORMIDO via Verdi 
+(fronte civico 87)
+20:10 20:30 06:30 07:00 07:35 08:10 08:45 09:25 10:00 10:40 11:15 11:55 12:30 13:10
+ 70C79   BASALDELLA via Verdi 80 (rotonda 
+S.Sebastiano)
+20:11 20:31 06:31 07:01 07:36 08:11 08:46 09:26 10:01 10:41 11:16 11:56 12:31 13:11
+ UD003   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica (fronte 120, parco)
+20:12 20:32 06:32 07:02 07:37 08:12 08:47 09:27 10:02 10:42 11:17 11:57 12:32 13:12
+ 70C05   SANT'OSVALDO via Pozzuolo 330 20:14 20:34 06:33 07:03 07:38 08:14 08:49 09:29 10:04 10:44 11:19 11:59 12:34 13:14
+ UD428   UDINE via Pozzuolo 294 20:14 20:34 06:33 07:03 07:38 08:14 08:49 09:29 10:04 10:44 11:19 11:59 12:34 13:14
+ UD426   UDINE via Pozzuolo 246 (distributore) 20:15 20:35 06:34 07:04 07:39 08:15 08:50 09:30 10:05 10:45 11:20 12:00 12:35 13:15
+ UD425   UDINE via Pozzuolo 208 (chiesa Sant'Osvaldo) 20:15 20:35 06:34 07:04 07:39 08:15 08:50 09:30 10:05 10:45 11:20 12:00 12:35 13:15
+ 70C06   UDINE via Pozzuolo 162 (bivio per sede 
+scolastica)
+20:16 20:36 06:35 07:05 07:40 08:16 08:51 09:31 10:06 10:46 11:21 12:01 12:36 13:16
+ UD452   UDINE via San Paolo 5 20:17 20:37 06:35 07:05 07:40 08:16 08:51 09:31 10:06 10:46 11:21 12:01 12:36 13:16
+ UD093   UDINE via Agrigento 48 (chiesa San Paolo) 20:18 20:38 06:36 07:06 07:41 08:17 08:52 09:32 10:07 10:47 11:22 12:02 12:37 13:17
+ UD092   UDINE via Agrigento (fronte civico 5) 20:18 20:38 06:36 07:06 07:41 08:17 08:52 09:32 10:07 10:47 11:22 12:02 12:37 13:17
+ UD332   UDINE via Lumignacco 2 20:19 20:39 06:37 07:07 07:42 08:18 08:53 09:33 10:08 10:48 11:23 12:03 12:38 13:18
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 20:20 20:40 06:38 07:08 07:43 08:19 08:54 09:34 10:09 10:49 11:24 12:04 12:39 13:19
+ UD521   UDINE viale delle Ferriere 4C 20:21 20:41 06:38 07:08 07:43 08:19 08:54 09:34 10:09 10:49 11:24 12:04 12:39 13:19
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 20:22 20:42 06:40 07:10 07:45 08:21 08:56 09:36 10:11 10:51 11:26 12:06 12:41 13:21
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+20:23 20:43 06:41 07:11 07:46 08:22 08:57 09:37 10:12 10:52 11:27 12:07 12:42 13:22
+ UD706   UDINE viale Ungheria 84 20:24 20:44 06:42 07:12 07:47 08:23 08:58 09:38 10:13 10:53 11:28 12:08 12:43 13:23
+ UD704   UDINE viale Ungheria (fronte civico 61) 20:25 20:45 06:42 07:12 07:47 08:24 08:59 09:39 10:14 10:54 11:29 12:09 12:44 13:24
+ UD702   UDINE viale Ungheria (lato ex distretto militare) 20:25 20:45 06:43 07:13 07:48 08:25 09:00 09:40 10:15 10:55 11:30 12:10 12:45 13:25
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+20:26 20:46 06:44 07:14 07:49 08:26 09:01 09:41 10:16 10:56 11:31 12:11 12:46 13:26
+ UD736   UDINE piazza I Maggio 37 20:27 20:47 06:45 07:15 07:50 08:27 09:02 09:42 10:17 10:57 11:32 12:12 12:47 13:27
+ UD051   UDINE piazza I Maggio 26 (Stellini) 20:27 20:47 06:46 07:16 07:51 08:28 09:03 09:43 10:18 10:58 11:33 12:13 12:48 13:28
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+20:28 20:48 06:46 07:16 07:51 08:29 09:04 09:44 10:19 10:59 11:34 12:14 12:49 13:29
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 20:29 20:49 06:47 07:17 07:52 08:30 09:05 09:45 10:20 11:00 11:35 12:15 12:50 13:30
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+20:30 20:50 06:48 07:18 07:53 08:31 09:06 09:46 10:21 11:01 11:36 12:16 12:51 13:31
+ UD082   UDINE viale Volontari della Libertà 61 (piazzale 
+Chiavris)
+20:31 20:51 06:48 07:18 07:53 08:32 09:07 09:47 10:22 11:02 11:37 12:17 12:52 13:32
+ UD571   UDINE viale Vat 23 (mercato) 20:32 20:52 06:49 07:19 07:54 08:33 09:08 09:48 10:23 11:03 11:38 12:18 12:53 13:33
+ UD096   UDINE via Alessandria 17 (Rugby Stadium) 20:32 20:52 06:49 07:19 07:54 08:33 09:08 09:48 10:23 11:03 11:38 12:18 12:53 13:33
+ UD236   UDINE via Alessandria (fronte civico 64), 
+Paderno
+20:33 20:53 06:50 07:20 07:55 08:34 09:09 09:49 10:24 11:04 11:39 12:19 12:54 13:34
+ UD472   UDINE via Torino 47 (campo atletica Dal Dan) 20:33 20:53 06:50 07:20 07:55 08:34 09:09 09:49 10:24 11:04 11:39 12:19 12:54 13:34
+ UD473   UDINE via Torino (fronte civico 108, angolo via 
+Biella)
+20:34 20:54 06:51 07:21 07:56 08:35 09:10 09:50 10:25 11:05 11:40 12:20 12:55 13:35
+ UD732   UDINE via Biella 29 20:35 20:55 06:52 07:22 07:57 08:36 09:11 09:51 10:26 11:06 11:41 12:21 12:56 13:36
+ UD731   UDINE via Biella 61 20:35 20:55 06:52 07:22 07:57 08:36 09:11 09:51 10:26 11:06 11:41 12:21 12:56 13:36
+ UD138   UDINE via Biella 79 (Nautilus) 20:36 20:56 06:52 07:22 07:57 08:36 09:11 09:51 10:26 11:06 11:41 12:21 12:56 13:36
+ UD135   UDINE via Biella 119 (Top Service) 06:52 07:22 07:57 08:36 09:11 09:51 10:26 11:06 11:41 12:21 12:56 13:36
+ UD031   MOLIN NUOVO via Cividina 48 (Nuova 
+Siderurgica)
+06:57 07:27 08:02 08:40 09:15 09:55 10:30 11:10 11:45 12:25 13:00 13:40
+ UD052   UDINE via Molin Nuovo 91 20:37 20:57
+ 70173   MOLIN NUOVO via Molin Nuovo 93 20:38 20:58
+ UD061   MOLIN NUOVO via Molin Nuovo 23 20:39 20:59
+ UD066   ADEGLIACCO via Centrale 75 20:39 20:59
+ UD005   Adegliacco via Centrale fronte 63 20:47 21:07
+CADENZA
+CORSA
+GRUPPO CADENZE
+venerdì 29 agosto 2025Pagina 7 di 11
+  [Pagina 16]
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U535 URBANO feriale al lunedi e al mercoledi
+U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 8 di 11
+  [Pagina 17]
+LINEA 3 (Ritorno)
+Orario valido dall'11 settembre 2025Zugliano/Basaldella-Cella-FS-1°Maggio-Chiavris-Paderno-Molin 
+Nuovo 
+FESTIVO ANNUALE FERIALE GIORNI 
+626 628 630 632 634 636 638 640 642 644 646 648 802 10
+U512 U512 U512 U512 U512 U512 U512 U512 U512 U512 U512 U512 U507 U530
+ UD001   BASALDELLA DI CAMPOFORMIDO piazza 4 
+Novembre 5
+13:50 14:30 15:05 15:45 16:20 17:00 17:35 18:15 18:55 19:30 20:10 20:45 07:28
+ UD007   BASALDELLA DI CAMPOFORMIDO via Verdi 
+(fronte civico 87)
+13:50 14:30 15:05 15:45 16:20 17:00 17:35 18:15 18:55 19:30 20:10 20:45 07:29
+ 70C79   BASALDELLA via Verdi 80 (rotonda 
+S.Sebastiano)
+13:51 14:31 15:06 15:46 16:21 17:01 17:36 18:16 18:56 19:31 20:11 20:46 07:30
+ UD003   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica (fronte 120, parco)
+13:52 14:32 15:07 15:47 16:22 17:02 17:37 18:17 18:57 19:32 20:12 20:47 07:31
+ 70C05   SANT'OSVALDO via Pozzuolo 330 13:54 14:34 15:09 15:49 16:24 17:04 17:39 18:19 18:59 19:34 20:14 20:49 07:32
+ UD428   UDINE via Pozzuolo 294 13:54 14:34 15:09 15:49 16:24 17:04 17:39 18:19 18:59 19:34 20:14 20:49 07:32
+ UD426   UDINE via Pozzuolo 246 (distributore) 13:55 14:35 15:10 15:50 16:25 17:05 17:40 18:20 19:00 19:35 20:15 20:50 07:33
+ UD425   UDINE via Pozzuolo 208 (chiesa Sant'Osvaldo) 13:55 14:35 15:10 15:50 16:25 17:05 17:40 18:20 19:00 19:35 20:15 20:50 07:34
+ 70C06   UDINE via Pozzuolo 162 (bivio per sede 
+scolastica)
+13:56 14:36 15:11 15:51 16:26 17:06 17:41 18:21 19:01 19:36 20:16 20:51 07:35
+ UD652   UDINE via Popone 67 (motorizzazione) 14:01
+ UD452   UDINE via San Paolo 5 13:56 14:36 15:11 15:51 16:26 17:06 17:41 18:21 19:01 19:36 20:16 20:51 14:02 07:36
+ UD093   UDINE via Agrigento 48 (chiesa San Paolo) 13:57 14:37 15:12 15:52 16:27 17:07 17:42 18:22 19:02 19:37 20:17 20:52 14:03 07:37
+ UD092   UDINE via Agrigento (fronte civico 5) 13:57 14:37 15:12 15:52 16:27 17:07 17:42 18:22 19:02 19:37 20:17 20:52 14:03 07:38
+ UD332   UDINE via Lumignacco 2 13:58 14:38 15:13 15:53 16:28 17:08 17:44 18:23 19:03 19:38 20:18 20:53 14:04 07:39
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 13:59 14:39 15:14 15:54 16:29 17:09 17:44 18:24 19:04 19:39 20:19 20:54 14:05 07:40
+ UD521   UDINE viale delle Ferriere 4C 13:59 14:39 15:14 15:54 16:29 17:09 17:44 18:24 19:04 19:39 20:19 20:54 14:06
+ UD610   UDINE via De Rubeis 1 (farmacia) 07:41
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 14:01 14:41 15:16 15:56 16:31 17:11 17:46 18:26 19:06 19:41 20:21 20:56 14:07 07:42
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+14:02 14:42 15:17 15:57 16:32 17:12 17:47 18:27 19:07 19:42 20:22 20:57 14:09 07:44
+ UD706   UDINE viale Ungheria 84 14:03 14:43 15:18 15:58 16:33 17:13 17:48 18:28 19:08 19:43 20:23 20:58 07:45
+ UD704   UDINE viale Ungheria (fronte civico 61) 14:04 14:44 15:19 15:59 16:34 17:14 17:49 18:28 19:09 19:44 20:24 20:59 07:46
+ UD702   UDINE viale Ungheria (lato ex distretto militare) 14:05 14:45 15:20 16:00 16:35 17:15 17:50 18:30 19:10 19:45 20:25 21:00 07:47
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+14:06 14:46 15:21 16:01 16:36 17:16 17:51 18:31 19:11 19:46 20:26 21:01 07:48
+ UD736   UDINE piazza I Maggio 37 14:07 14:47 15:22 16:02 16:37 17:17 17:52 18:32 19:12 19:47 20:27 21:02 07:49
+ UD051   UDINE piazza I Maggio 26 (Stellini) 14:08 14:48 15:23 16:03 16:38 17:18 17:53 18:33 19:13 19:48 20:28 21:03 07:50
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+14:09 14:49 15:24 16:04 16:39 17:19 17:54 18:34 19:14 19:49 20:29 21:04 07:51
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 14:10 14:50 15:25 16:05 16:40 17:20 17:55 18:35 19:15 19:50 20:30 21:05 07:52
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+14:11 14:51 15:26 16:06 16:41 17:21 17:56 18:36 19:16 19:51 20:31 21:06 07:53
+ UD082   UDINE viale Volontari della Libertà 61 (piazzale 
+Chiavris)
+14:12 14:52 15:27 16:07 16:42 17:22 17:57 18:37 19:17 19:52 20:32 21:07 07:54
+ UD571   UDINE viale Vat 23 (mercato) 14:13 14:53 15:28 16:08 16:43 17:23 17:58 18:38 19:18 19:53 20:33 21:08 07:56
+ UD096   UDINE via Alessandria 17 (Rugby Stadium) 14:13 14:53 15:28 16:08 16:43 17:23 17:58 18:38 19:18 19:53 20:33 21:08 07:57
+ UD236   UDINE via Alessandria (fronte civico 64), 
+Paderno
+14:14 14:54 15:29 16:09 16:44 17:24 17:59 18:39 19:19 19:54 20:34 21:09 07:58
+ UD472   UDINE via Torino 47 (campo atletica Dal Dan) 14:14 14:54 15:29 16:09 16:44 17:24 17:59 18:39 19:19 19:54 20:34 21:09 07:58
+ UD473   UDINE via Torino (fronte civico 108, angolo via 
+Biella)
+14:15 14:55 15:30 16:10 16:45 17:25 18:00 18:40 19:20 19:55 20:35 21:10 07:59
+ UD732   UDINE via Biella 29 14:16 14:56 15:31 16:11 16:46 17:26 18:01 18:41 19:21 19:56 20:36 21:11 08:00
+ UD731   UDINE via Biella 61 14:16 14:56 15:31 16:11 16:46 17:26 18:01 18:41 19:21 19:56 20:36 21:11 08:00
+ UD138   UDINE via Biella 79 (Nautilus) 14:16 14:56 15:31 16:11 16:46 17:26 18:01 18:41 19:21 19:56 20:36 21:11 08:01
+ UD135   UDINE via Biella 119 (Top Service) 14:16 14:56 15:31 16:11 16:46 17:26 18:01 18:41 19:21 19:56 20:36 21:11
+ UD031   MOLIN NUOVO via Cividina 48 (Nuova 
+Siderurgica)
+14:20 15:00 15:35 16:15 16:50 17:30 18:05 18:45 19:25 20:00 20:40 21:15
+ UD052   UDINE via Molin Nuovo 91 08:02
+ 70173   MOLIN NUOVO via Molin Nuovo 93 08:04
+ UD061   MOLIN NUOVO via Molin Nuovo 23 08:05
+ UD066   ADEGLIACCO via Centrale 75 08:06
+ UD005   Adegliacco via Centrale fronte 63 08:13
+CADENZA
+CORSA
+GRUPPO CADENZE
+venerdì 29 agosto 2025Pagina 9 di 11
+  [Pagina 18]
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U535 URBANO feriale al lunedi e al mercoledi
+U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 10 di 11
+  [Pagina 19]
+LINEA 3 (Ritorno)
+Orario valido dall'11 settembre 2025Zugliano/Basaldella-Cella-FS-1°Maggio-Chiavris-Paderno-Molin 
+Nuovo 
+GIORNI DI SCUO
+12 804
+U530 U530
+ 70C61   ZUGLIANO via 24 Aprile 15 07:30
+ 70C62   ZUGLIANO via Basaldella 66 07:31
+ UD710   BASALDELLA DI CAMPOFORMIDO via del 
+Molino (fronte civico 40)
+07:32
+ 70C79   BASALDELLA via Verdi 80 (rotonda 
+S.Sebastiano)
+07:35
+ UD003   BASALDELLA DI CAMPOFORMIDO via 
+Adriatica (fronte 120, parco)
+07:36
+ 70C05   SANT'OSVALDO via Pozzuolo 330 07:37
+ UD428   UDINE via Pozzuolo 294 07:37
+ UD426   UDINE via Pozzuolo 246 (distributore) 07:38
+ UD425   UDINE via Pozzuolo 208 (chiesa Sant'Osvaldo) 07:39
+ 70C06   UDINE via Pozzuolo 162 (bivio per sede 
+scolastica)
+07:40
+ UD452   UDINE via San Paolo 5 07:41
+ UD093   UDINE via Agrigento 48 (chiesa San Paolo) 07:42
+ UD092   UDINE via Agrigento (fronte civico 5) 07:43
+ UD332   UDINE via Lumignacco 2 07:44
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:45
+ UD521   UDINE viale delle Ferriere 4C 07:46
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:47
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+07:49
+ 70C80   UDINE viale Leonardo da Vinci 11 (Area 3, 
+fronte Zanon)
+13:21
+ 70C72   UDINE viale Leonardo da Vinci 57 (Area 1, fronte 
+Malignani)
+13:22
+ UD571   UDINE viale Vat 23 (mercato) 13:25
+ UD096   UDINE via Alessandria 17 (Rugby Stadium) 13:26
+ UD236   UDINE via Alessandria (fronte civico 64), 
+Paderno
+13:28
+ UD472   UDINE via Torino 47 (campo atletica Dal Dan) 13:30
+ UD473   UDINE via Torino (fronte civico 108, angolo via 
+Biella)
+13:31
+ UD732   UDINE via Biella 29 13:32
+ UD731   UDINE via Biella 61 13:32
+ UD138   UDINE via Biella 79 (Nautilus) 13:33
+ UD052   UDINE via Molin Nuovo 91 13:34
+ 70173   MOLIN NUOVO via Molin Nuovo 93 13:35
+ UD061   MOLIN NUOVO via Molin Nuovo 23 13:36
+ UD066   ADEGLIACCO via Centrale 75 13:36
+ UD005   Adegliacco via Centrale fronte 63 13:40
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U535 URBANO feriale al lunedi e al mercoledi
+U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+venerdì 29 agosto 2025Pagina 11 di 11
+  [Pagina 20]
+www.tplfvg.it
+TPL FVG S.c.a.r.l.
+via Caduti di An Nasiriyah 6
+34170 Gorizia (GO)
+e-mail info@tplfvg.it
