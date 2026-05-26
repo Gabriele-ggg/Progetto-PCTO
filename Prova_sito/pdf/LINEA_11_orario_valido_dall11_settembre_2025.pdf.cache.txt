@@ -1,0 +1,284 @@
+  [Pagina 1]
+Servizio urbano
+UDINE
+Linea 11
+Orario valido 
+dall’11 settembre 2025
+  [Pagina 2]
+LINEA 11 (Andata)
+Orario valido dall'11 settembre 2025Laipacco-Valeggio-FS -Garibaldi-Cavedalis-Centro Studi-Cormor 
+Alto-Cormor Basso 
+FERIALE ANNUALE
+1 3 5 7 9 11 13 15 17 19 21 23 25 27
+U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500
+ UD293   UDINE via Laipacco (fronte civico 173, 
+trattoria)
+06:55 07:25 08:00 08:45 09:15 09:52 10:20 10:57 11:30 12:08 12:35 13:10 13:45 14:15
+ UD290   UDINE via Laipacco 114 06:55 07:25 08:00 08:45 09:15 09:52 10:20 10:57 11:30 12:08 12:35 13:10 13:45 14:15
+ UD715   UDINE via Laipacco (fronte civico 83) 06:56 07:26 08:01 08:46 09:16 09:53 10:21 10:58 11:31 12:09 12:36 13:11 13:46 14:16
+ UD291   UDINE via Laipacco 12 (rotonda via Buttrio) 06:57 07:27 08:02 08:47 09:17 09:54 10:22 10:59 11:32 12:10 12:37 13:12 13:47 14:17
+ UD139   UDINE via Buttrio 48 (passaggi a livello) 06:58 07:28 08:03 08:48 09:18 09:55 10:23 11:00 11:33 12:11 12:38 13:13 13:48 14:18
+ UD485   UDINE via Valeggio 31 06:59 07:29 08:04 08:49 09:19 09:56 10:24 11:01 11:34 12:12 12:39 13:14 13:49 14:19
+ UD487   UDINE via Valeggio 65 06:59 07:29 08:04 08:49 09:19 09:56 10:24 11:01 11:34 12:12 12:39 13:14 13:49 14:19
+ UD208   UDINE via del Bon (fronte civico 99) 07:00 07:30 08:05 08:50 09:20 09:57 10:25 11:02 11:35 12:13 12:40 13:15 13:50 14:20
+ UD207   UDINE via del Bon 72 (Eurospar) 07:01 07:31 08:06 08:51 09:21 09:58 10:26 11:03 11:36 12:14 12:41 13:16 13:51 14:21
+ UD563   UDINE viale Trieste 113 07:02 07:32 08:07 08:52 09:22 09:59 10:27 11:04 11:37 12:15 12:42 13:17 13:52 14:22
+ UD502   UDINE viale 23 Marzo 3 (Giudice di Pace) 07:03 07:33 08:08 08:53 09:23 10:00 10:28 11:05 11:38 12:16 12:43 13:18 13:53 14:23
+ UD506   UDINE viale 23 Marzo (fronte civico 44, piazzale 
+D'Annunzio)
+07:04 07:34 08:09 08:54 09:24 10:01 10:29 11:06 11:39 12:17 12:44 13:19 13:54 14:24
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+07:06 07:36 08:11 08:56 09:26 10:03 10:31 11:08 11:41 12:19 12:46 13:21 13:56 14:26
+ UD153   UDINE via Caterina Percoto 2 07:07 07:37 08:12 08:57 09:27 10:04 10:32 11:09 11:42 12:20 12:47 13:22 13:57 14:27
+ UD345   UDINE via Manzoni 2 (tribunale) 07:08 07:38 08:13 08:58 09:28 10:05 10:33 11:10 11:43 12:21 12:48 13:23 13:58 14:28
+ UD048   UDINE piazza Garibaldi (fronte civico 14) 07:09 07:39 08:14 08:59 09:29 10:06 10:34 11:11 11:44 12:22 12:49 13:24 13:59 14:29
+ UD218   UDINE via del Gelso 14 07:11 07:41 08:16 09:01 09:31 10:08 10:36 11:13 11:46 12:24 12:51 13:26 14:01 14:31
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 07:13 07:43 08:18 09:03 09:33 10:10 10:38 11:15 11:48 12:26 12:53 13:28 14:03 14:33
+ UD110   UDINE via Marco Volpe 43 (semaforo via 
+Castellana)
+07:14 07:44 08:19 09:04 09:34 10:11 10:39 11:16 11:49 12:27 12:54 13:29 14:04 14:34
+ 70C80   UDINE viale Leonardo da Vinci 11 (Area 3, 
+fronte Zanon)
+07:16 07:46 08:21 09:06 09:36 10:13 10:41 11:18 11:51 12:29 12:56 13:31 14:06 14:36
+ 70C72   UDINE viale Leonardo da Vinci 57 (Area 1, 
+fronte Malignani)
+07:17 07:47 08:22 09:07 09:37 10:14 10:42 11:19 11:52 12:30 12:57 13:32 14:07 14:37
+ UD512   UDINE viale Cadore 47 (semaforo viale 
+Leonardo)
+07:18 07:48 08:23 09:08 09:38 10:15 10:43 11:20 11:53 12:31 12:58 13:33 14:08 14:38
+ 70C18   UDINE viale Cadore 61 (Bertoni) 07:19 07:49 08:24 09:09 09:39 10:16 10:44 11:21 11:54 12:32 12:59 13:34 14:09 14:39
+ UD638   UDINE viale Mons.Nogara (fronte cimitero 
+S.Vito)
+07:20 07:50 08:25 09:10 09:40 10:17 10:45 11:22 11:55 12:33 13:00 13:35 14:10 14:40
+ UD192   UDINE via Cormor Alto 276 07:21 07:51 08:26 09:11 09:41 10:18 10:46 11:23 11:56 12:34 13:01 13:36 14:11 14:41
+ UD190   UDINE via Cormor Alto 162 (chiesa 
+B.Vergine della Salute)
+07:21 07:51 08:26 09:11 09:41 10:18 10:46 11:23 11:56 12:34 13:01 13:36 14:11 14:41
+ UD656   UDINE via Cormor Basso 27 07:21 08:26 09:41 10:46 11:23 12:34 13:36 14:11
+ UD745   UDINE via Cormor Basso (fronte civico 69) 07:25 08:30 09:45 10:50 11:27 12:38 13:40 14:15
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale
+venerdì 29 agosto 2025Pagina 1 di 2
+  [Pagina 3]
+LINEA 11 (Andata)
+Orario valido dall'11 settembre 2025Laipacco-Valeggio-FS -Garibaldi-Cavedalis-Centro Studi-Cormor 
+Alto-Cormor Basso 
+FERIALE ANNUALE
+29 31 33 35 37 39
+U500 U500 U500 U500 U500 U500
+ UD293   UDINE via Laipacco (fronte civico 173, 
+trattoria)
+15:15 16:20 17:25 18:37 19:39 20:30
+ UD290   UDINE via Laipacco 114 15:15 16:20 17:25 18:37 19:39 20:30
+ UD715   UDINE via Laipacco (fronte civico 83) 15:16 16:21 17:26 18:38 19:40 20:31
+ UD291   UDINE via Laipacco 12 (rotonda via Buttrio) 15:17 16:22 17:27 18:39 19:41 20:32
+ UD623   UDINE via Buttrio (fronte 128, scalo Udine 
+Parco)
+20:32
+ UD713   UDINE via Buttrio (fronte civico 154) 20:32
+ UD624   UDINE via Buttrio 177 (angolo via Prasingel) 20:33
+ UD712   UDINE via Buttrio 265 20:34
+ UD139   UDINE via Buttrio 48 (passaggi a livello) 15:18 16:23 17:28 18:40 19:42
+ UD485   UDINE via Valeggio 31 15:19 16:24 17:29 18:41 19:43
+ UD487   UDINE via Valeggio 65 15:19 16:24 17:29 18:41 19:43
+ UD208   UDINE via del Bon (fronte civico 99) 15:20 16:25 17:30 18:42 19:44
+ UD207   UDINE via del Bon 72 (Eurospar) 15:21 16:26 17:31 18:43 19:45
+ UD563   UDINE viale Trieste 113 15:22 16:27 17:32 18:44 19:46
+ UD502   UDINE viale 23 Marzo 3 (Giudice di Pace) 15:23 16:28 17:33 18:45 19:46
+ UD506   UDINE viale 23 Marzo (fronte civico 44, piazzale 
+D'Annunzio)
+15:24 16:29 17:34 18:46 19:47
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+15:26 16:31 17:36 18:48 19:49
+ UD153   UDINE via Caterina Percoto 2 15:27 16:32 17:37 18:49 19:50
+ UD345   UDINE via Manzoni 2 (tribunale) 15:28 16:33 17:38 18:50 19:51
+ UD048   UDINE piazza Garibaldi (fronte civico 14) 15:29 16:34 17:39 18:51 19:52
+ UD218   UDINE via del Gelso 14 15:31 16:36 17:41 18:53 19:53
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 15:33 16:38 17:43 18:55 19:54
+ UD110   UDINE via Marco Volpe 43 (semaforo via 
+Castellana)
+15:34 16:39 17:44 18:56 19:55
+ 70C80   UDINE viale Leonardo da Vinci 11 (Area 3, 
+fronte Zanon)
+15:36 16:41 17:46 18:58 19:56
+ 70C72   UDINE viale Leonardo da Vinci 57 (Area 1, 
+fronte Malignani)
+15:37 16:42 17:47 18:59 19:57
+ UD512   UDINE viale Cadore 47 (semaforo viale 
+Leonardo)
+15:38 16:43 17:48 19:00 19:58
+ 70C18   UDINE viale Cadore 61 (Bertoni) 15:39 16:44 17:49 19:01 19:59
+ UD638   UDINE viale Mons.Nogara (fronte cimitero 
+S.Vito)
+15:40 16:45 17:50 19:02 20:00
+ UD192   UDINE via Cormor Alto 276 15:41 16:46 17:51 19:03 20:01
+ UD190   UDINE via Cormor Alto 162 (chiesa 
+B.Vergine della Salute)
+15:41 16:46 17:51 19:03 20:01
+ UD656   UDINE via Cormor Basso 27 15:41 16:46 17:51 20:01
+ UD745   UDINE via Cormor Basso (fronte civico 69) 15:45 16:50 17:55 20:04
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale
+venerdì 29 agosto 2025Pagina 2 di 2
+  [Pagina 4]
+LINEA 11 (Ritorno)
+Orario valido dall'11 settembre 2025Cormor Basso-Cormor Alto-Centro Studi-Cavedalis-Garibaldi-FS - 
+Valeggio-Laipacco 
+FERIALE ANNUALE
+2 4 6 8 10 12 14 16 18 20 22 24 26 28
+U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500
+ UD745   UDINE via Cormor Basso (fronte civico 69) 06:55 07:25 08:35 09:46 10:52 11:30 12:38 13:42 14:15
+ UD655   UDINE via Cormor Basso 16 06:55 07:25 08:35 09:46 10:52 11:30 12:38 13:42 14:15
+ UD189   UDINE via Cormor Alto 133 (chiesa B.Vergine 
+della Salute)
+06:56 07:26 08:36 09:47 10:53 11:31 12:39 13:43 14:16
+ UD191   UDINE via Cormor Alto 209 06:57 07:27 08:37 09:48 10:54 11:32 12:40 13:44 14:17
+ UD190   UDINE via Cormor Alto 162 (chiesa 
+B.Vergine della Salute)
+08:00 09:15 10:20 12:00 13:05
+ UD711   UDINE via Cormor Alto (fronte civico 288) 08:01 09:16 10:21 12:01 13:06
+ UD619   UDINE via Cormor Alto (lato entrata cimitero 
+San Vito)
+06:57 07:27 08:02 08:37 09:17 09:48 10:22 10:54 11:32 12:02 12:40 13:07 13:44 14:17
+ 70C83   UDINE via Muris (fronte Stringher) 06:58 07:28 08:03 08:38 09:18 09:49 10:23 10:55 11:33 12:03 12:41 13:08 13:45 14:18
+ 70C24   UDINE viale Monsignor Nogara (fronte civico 2, 
+Marinoni)
+06:58 07:28 08:03 08:38 09:18 09:49 10:23 10:55 11:33 12:03 12:41 13:09 13:45 14:18
+ 70C22   UDINE viale Cadore 48 (Bertoni) 06:59 07:29 08:04 08:39 09:19 09:50 10:24 10:56 11:34 12:04 12:42 13:10 13:46 14:19
+ UD515   UDINE viale Cadore (fronte 47, semaforo viale 
+Leonardo)
+07:00 07:30 08:05 08:40 09:20 09:51 10:25 10:57 11:35 12:05 12:43 13:11 13:47 14:20
+ 70C73   UDINE viale Leonardo da Vinci 16 
+(Malignani)
+07:01 07:31 08:06 08:41 09:21 09:52 10:26 10:58 11:36 12:06 12:44 13:13 13:48 14:21
+ UD529   UDINE viale Leonardo 4 (Marinelli) 07:02 07:32 08:07 08:42 09:22 09:53 10:27 10:59 11:37 12:07 12:45 13:14 13:49 14:22
+ 70C49   UDINE viale Ledra 108 (Area 2) 07:03 07:33 08:08 08:43 09:23 09:54 10:28 11:00 11:38 12:08 12:46 13:16 13:50 14:23
+ UD540   UDINE viale Ledra 58 (semaforo via Castellana) 07:04 07:34 08:09 08:44 09:24 09:55 10:29 11:01 11:39 12:09 12:47 13:17 13:51 14:24
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:05 07:35 08:10 08:45 09:25 09:56 10:30 11:02 11:40 12:10 12:48 13:18 13:52 14:25
+ UD422   UDINE via Poscolle 8 07:07 07:37 08:12 08:47 09:27 09:58 10:32 11:04 11:42 12:12 12:50 13:20 13:54 14:27
+ UD196   UDINE via Crispi 5 (piazza Garibaldi) 07:08 07:38 08:13 08:48 09:28 09:59 10:33 11:05 11:43 12:13 12:51 13:21 13:55 14:28
+ UD346   UDINE via Manzoni 3 (tribunale) 07:09 07:39 08:14 08:49 09:29 10:00 10:34 11:06 11:44 12:14 12:52 13:22 13:56 14:29
+ UD152   UDINE via Caterina Percoto 7 07:10 07:40 08:15 08:50 09:30 10:01 10:35 11:07 11:45 12:15 12:53 13:23 13:57 14:30
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+07:12 07:42 08:17 08:52 09:32 10:03 10:37 11:09 11:47 12:17 12:55 13:25 13:59 14:32
+ UD068   UDINE piazzale D'Annunzio 30 07:13 07:43 08:18 08:53 09:33 10:04 10:38 11:10 11:48 12:18 12:56 13:26 14:00 14:33
+ UD501   UDINE viale 23 Marzo 4 (Giudice di Pace) 07:14 07:44 08:19 08:54 09:34 10:05 10:39 11:11 11:49 12:19 12:57 13:27 14:01 14:34
+ UD564   UDINE viale Trieste 156 07:15 07:45 08:20 08:55 09:35 10:06 10:40 11:12 11:50 12:20 12:58 13:28 14:02 14:35
+ UD206   UDINE via del Bon 67 (Eurospar) 07:16 07:46 08:21 08:56 09:36 10:07 10:41 11:13 11:51 12:21 12:59 13:29 14:03 14:36
+ UD209   UDINE via del Bon 99 07:17 07:47 08:22 08:57 09:37 10:08 10:42 11:14 11:52 12:22 13:00 13:30 14:04 14:37
+ UD488   UDINE via Valeggio 82 07:18 07:48 08:23 08:58 09:38 10:09 10:43 11:15 11:53 12:23 13:01 13:31 14:05 14:38
+ UD486   UDINE via Valeggio 50 07:19 07:49 08:24 08:59 09:39 10:10 10:44 11:16 11:54 12:24 13:02 13:32 14:06 14:39
+ UD140   UDINE via Buttrio 75 (passaggi a livello) 07:20 07:50 08:25 09:00 09:40 10:11 10:45 11:17 11:55 12:25 13:03 13:33 14:07 14:40
+ UD623   UDINE via Buttrio (fronte 128, scalo Udine 
+Parco)
+08:26 09:41 10:46 12:26 13:34
+ UD713   UDINE via Buttrio (fronte civico 154) 08:26 09:41 10:46 12:26 13:34
+ UD624   UDINE via Buttrio 177 (angolo via Prasingel) 08:26 09:41 10:46 12:26 13:34
+ UD712   UDINE via Buttrio 265 08:26 09:41 10:46 12:26 13:34
+ UD716   UDINE via Laipacco 13 (rotonda via 
+Buttrio)
+07:21 07:51 08:28 09:01 09:43 10:12 10:48 11:18 11:56 12:28 13:04 13:36 14:08 14:41
+ UD298   UDINE via Laipacco 81 07:22 07:52 08:29 09:02 09:44 10:13 10:49 11:19 11:57 12:29 13:05 13:37 14:09 14:42
+ UD292   UDINE via Laipacco 149 07:22 07:52 08:29 09:02 09:44 10:13 10:49 11:19 11:57 12:29 13:05 13:37 14:09 14:42
+ UD294   UDINE via Laipacco 173 (trattoria) 07:22 07:52 08:29 09:02 09:44 10:13 10:49 11:19 11:57 12:29 13:05 13:37 14:09 14:42
+ UD295   UDINE via Laipacco 253 (scuola 
+elementare Deledda)
+07:22 07:52 08:29 09:02 09:44 10:13 10:49 11:19 11:57 12:29 13:05 13:37 14:09 14:42
+ UD293   UDINE via Laipacco (fronte civico 173, 
+trattoria)
+07:23 07:53 08:31 09:03 09:46 10:14 10:51 11:20 11:58 12:31 13:06 13:41 14:10 14:43
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale
+venerdì 29 agosto 2025Pagina 1 di 2
+  [Pagina 5]
+LINEA 11 (Ritorno)
+Orario valido dall'11 settembre 2025Cormor Basso-Cormor Alto-Centro Studi-Cavedalis-Garibaldi-FS - 
+Valeggio-Laipacco 
+FERIALE ANNUALE
+30 32 34 36 38 40
+U500 U500 U500 U500 U500 U500
+ UD745   UDINE via Cormor Basso (fronte civico 69) 15:45 16:50 17:57 20:05
+ UD655   UDINE via Cormor Basso 16 15:45 16:50 17:57 20:05
+ UD189   UDINE via Cormor Alto 133 (chiesa B.Vergine 
+della Salute)
+15:46 16:51 17:58 20:06
+ UD191   UDINE via Cormor Alto 209 15:47 16:52 17:58 20:07
+ UD190   UDINE via Cormor Alto 162 (chiesa 
+B.Vergine della Salute)
+14:42 19:07
+ UD711   UDINE via Cormor Alto (fronte civico 288) 14:43 19:08
+ UD619   UDINE via Cormor Alto (lato entrata cimitero 
+San Vito)
+14:44 15:47 16:52 17:59 19:09 20:07
+ 70C83   UDINE via Muris (fronte Stringher) 14:45 15:48 16:53 18:00 19:10 20:08
+ 70C24   UDINE viale Monsignor Nogara (fronte civico 2, 
+Marinoni)
+14:45 15:48 16:53 18:00 19:10 20:08
+ 70C22   UDINE viale Cadore 48 (Bertoni) 14:46 15:49 16:54 18:01 19:11 20:08
+ UD515   UDINE viale Cadore (fronte 47, semaforo viale 
+Leonardo)
+14:47 15:50 16:55 18:02 19:12 20:09
+ 70C73   UDINE viale Leonardo da Vinci 16 
+(Malignani)
+14:48 15:51 16:56 18:03 19:13 20:10
+ UD529   UDINE viale Leonardo 4 (Marinelli) 14:49 15:52 16:57 18:04 19:14 20:10
+ 70C49   UDINE viale Ledra 108 (Area 2) 14:50 15:53 16:58 18:05 19:15 20:12
+ UD540   UDINE viale Ledra 58 (semaforo via Castellana) 14:51 15:54 16:59 18:06 19:16 20:13
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 14:52 15:55 17:00 18:07 19:17 20:13
+ UD422   UDINE via Poscolle 8 14:54 15:57 17:02 18:09 19:19 20:15
+ UD196   UDINE via Crispi 5 (piazza Garibaldi) 14:55 15:58 17:03 18:10 19:20 20:16
+ UD346   UDINE via Manzoni 3 (tribunale) 14:56 15:59 17:04 18:11 19:21 20:17
+ UD152   UDINE via Caterina Percoto 7 14:57 16:00 17:05 18:12 19:22 20:18
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+14:59 16:02 17:07 18:14 19:24 20:20
+ UD068   UDINE piazzale D'Annunzio 30 15:00 16:03 17:08 18:15 19:25 20:21
+ UD501   UDINE viale 23 Marzo 4 (Giudice di Pace) 15:01 16:04 17:09 18:16 19:26 20:22
+ UD564   UDINE viale Trieste 156 15:02 16:05 17:10 18:17 19:27 20:23
+ UD206   UDINE via del Bon 67 (Eurospar) 15:03 16:06 17:11 18:18 19:28 20:24
+ UD209   UDINE via del Bon 99 15:04 16:07 17:12 18:19 19:29 20:25
+ UD488   UDINE via Valeggio 82 15:05 16:08 17:13 18:20 19:30 20:26
+ UD486   UDINE via Valeggio 50 15:06 16:09 17:14 18:21 19:31 20:26
+ UD140   UDINE via Buttrio 75 (passaggi a livello) 15:07 16:10 17:15 18:22 19:32 20:27
+ UD623   UDINE via Buttrio (fronte 128, scalo Udine 
+Parco)
+15:08 18:23 19:33
+ UD713   UDINE via Buttrio (fronte civico 154) 15:08 18:23 19:33
+ UD624   UDINE via Buttrio 177 (angolo via Prasingel) 15:08 18:23 19:33
+ UD712   UDINE via Buttrio 265 15:08 18:23 19:33
+ UD716   UDINE via Laipacco 13 (rotonda via 
+Buttrio)
+15:10 16:11 17:16 18:25 19:35 20:28
+ UD298   UDINE via Laipacco 81 15:11 16:12 17:17 18:26 19:36 20:28
+ UD292   UDINE via Laipacco 149 15:11 16:12 17:17 18:26 19:36 20:28
+ UD294   UDINE via Laipacco 173 (trattoria) 15:11 16:12 17:17 18:26 19:36 20:28
+ UD295   UDINE via Laipacco 253 (scuola 
+elementare Deledda)
+15:11 16:12 17:17 18:26 19:36 20:28
+ UD293   UDINE via Laipacco (fronte civico 173, 
+trattoria)
+15:13 16:13 17:18 18:28 19:38 20:30
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale
+venerdì 29 agosto 2025Pagina 2 di 2
+  [Pagina 6]
+www.tplfvg.it
+TPL FVG S.c.a.r.l.
+via Caduti di An Nasiriyah 6
+34170 Gorizia (GO)
+e-mail info@tplfvg.it

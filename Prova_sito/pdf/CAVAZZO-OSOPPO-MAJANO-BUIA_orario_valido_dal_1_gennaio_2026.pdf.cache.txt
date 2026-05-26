@@ -1,0 +1,3299 @@
+  [Pagina 1]
+Cavazzo
+Osoppo 
+Majano 
+Buja
+Orario valido 
+dal 1° gennaio 2026
+SERVIZIO 
+EXTRAURBANO
+  [Pagina 2]
+Tolmezzo-Verzegnis-Cavazzo-Tolmezzo
+Cavazzo-Interneppo-Bordano-Osoppo-Gemona del Friuli
+Forgaria-Peonis-Bordano-Osoppo-Gemona del Friuli
+Tolmezzo-Cavazzo-Osoppo-Majano-Pagnacco-Udine
+Udine-Plaino-Lazzacco-Pagnacco-Udine
+Buja-Majano-Moruzzo-Udine
+Buja-Treppo Grande-Tricesimo-Udine
+Buja-Pagnacco-Udine
+Buja-Colloredo Monte Albano-Lauzzana-Majano
+Buja-Tomba-Sopramonte-Buja-Tarcento
+Gemona del Friuli-Buja-Majano-S. Daniele del Friuli
+  [Pagina 3]
+LINEA 160 (Andata)
+Orario valido dal 1 gennaio 2026TOLMEZZO-VERZEGNIS-CAVAZZO-TOLMEZZO 
+19 13 1 5 7 9 11 15 17
+U230 U230 U240 U200 U200 U230 U200 U200 U200
+ 81201   TOLMEZZO via Carnia Libera 1944 
+(autostazione)
+06:18 07:05 07:10 09:15 12:10 13:15 14:15 17:15 19:15
+ 81249   TOLMEZZO via Val di Gorto 100 (Centrale Enel, 
+direz. Udine)
+19:18
+ 81270   TOLMEZZO via dell'Industria 14 (direzione 
+Udine)
+19:19
+ 81015   CAVAZZO via Zorutti 7 (albergo) 19:24
+ 81113   CHIAULIS via Udine 2 (municipio) 06:24 07:16 07:21 09:22 12:16 13:22 14:21 17:22 19:30
+ 81102   SANTO STEFANO DI VERZEGNIS via Tolmezzo 6 06:25 07:19 07:24 09:24 12:17 13:24 14:23 17:24 19:32
+ 81106   VERZEGNIS Riviasio fronte 15 06:25 07:19 07:24 09:24 12:19 13:24 14:23 17:24 19:32
+ 81103   VILLA DI VERZEGNIS Strada Provinciale 72 06:27 07:20 07:25 09:25 12:19 13:27 14:24 17:25 19:34
+ 81104   CHIAICIS via Vittorio Veneto 06:32 07:24 07:29 09:29 12:24 13:31 14:28 17:31 19:38
+ 81111   MARZOVALLIS via Pordenone 06:33 07:24 07:29 09:29 12:24 13:31 14:29 17:31 19:39
+ 81105   INTISSANS via Pordenone 06:34 07:26 07:31 09:31 12:26 13:33 14:30 17:32 19:42
+ 81112   CHIAULIS via San Francesco (chiesa) 06:35 07:26 07:31 09:33 12:27 13:34 14:31 17:33 19:43
+ 81001   CAVAZZO via Zorutti 14 (albergo) 06:50
+ 80904   AMARO via Valli di Carnia 2 (rotonda 
+autostrada)
+06:54
+ 81244   TOLMEZZO via dell'Industria (fronte civico 14) 06:59
+ 81204   TOLMEZZO via Val di Gorto (fronte civico 100, 
+Centrale Enel)
+07:00
+ 81203   TOLMEZZO via 25 Aprile 23 (centro studi) 07:02 07:31 07:36 09:38 12:33 13:39 14:37 17:39 19:49
+ 81201   TOLMEZZO via Carnia Libera 1944 
+(autostazione)
+07:05 07:35 07:40 09:45 12:40 13:45 14:45 17:45 19:56
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U240 Feriale estiva (fne scuole-inizio scuole)
+U230 Feriale invernale (periodo scolastico)
+martedì 23 dicembre 2025Pagina 1 di 1
+  [Pagina 4]
+LINEA 160 (Ritorno)
+Orario valido dal 1 gennaio 2026TOLMEZZO-AMARO-CAVAZZO 
+16
+U230
+ 81201   TOLMEZZO via Carnia Libera 1944 
+(autostazione)
+13:45
+ 81249   TOLMEZZO via Val di Gorto 100 (Centrale Enel, 
+direz. Udine)
+13:48
+ 81270   TOLMEZZO via dell'Industria 14 (direzione 
+Udine)
+13:50
+ 80904   AMARO via Valli di Carnia 2 (rotonda 
+autostrada)
+13:58
+ 80901   AMARO via Roma (pensilina esterna 
+rotonda)
+14:01
+ 81015   CAVAZZO via Zorutti 7 (albergo) 14:06
+CADENZA
+CORSA
+VALIDITÀ
+U230 Feriale invernale (periodo scolastico)
+martedì 23 dicembre 2025Pagina 1 di 1
+  [Pagina 5]
+LINEA 162 (Andata)
+Orario valido dal 1 gennaio 2026CAVAZZO-INTERNEPPO-BORDANO-OSOPPO-GEMONA 
+13 15 1 3 11 27 33 35 37 39 45 67 43 69
+U307 U306 U300 U251 U240 U300 U249 U251 U230 U240 U240 U251 U300 U300
+ 81001   CAVAZZO via Zorutti 14 (albergo) 06:55 07:10 07:10
+ 81006   CESCLANS via della Fontana 10 07:00
+ 81005   CESCLANS Strada Statale 512 (bivio) 07:04
+ 81016   MENA Strada Regionale 512 (bivio, direzione 
+Somplago)
+07:04 07:12 07:12
+ 81019   SOMPLAGO SR 512 (fronte civico 23, bar 
+direzione Osoppo)
+07:04 07:14 07:14
+ 52A06   INTERNEPPO SR 512 Lago di Cavazzo (stallo 
+nord, dir.Gemona)
+07:06 07:16 07:16
+ 52A10   INTERNEPPO via Chiesa Interneppo 3 
+(fontana)
+06:32 06:32 07:08 07:18 07:18 13:52
+ 52A01   BORDANO via Campo Sportivo (fronte 
+civico 2, municipio)
+09:25 09:25 12:49 12:49 14:48
+ 52A11   BORDANO via Roma 11 (municipio, 
+direzione Braulins)
+13:38 13:38
+ 52A05   BORDANO via Roma 91 (direzione Braulins) 06:37 06:37 13:56
+ 52A13   BORDANO via Roma (fronte civico 97) 09:27 09:27 12:50 12:50 14:49
+ 52A12   INTERNEPPO via Principale 28 (fontana) 09:30 09:30 12:54 12:54 14:53
+ 52A03   INTERNEPPO via Principale 60 (bivio Strada 
+Regionale 512)
+07:09 07:18 07:18 09:31 09:31 12:55 12:55
+ 51I21   ALESSO via Lago 81 (direzione Trasaghis) 07:10 07:20 07:20 09:33 09:33 12:56 12:56
+ 51I20   ALESSO piazza I Maggio 26 (direzione 
+Trasaghis)
+07:14 07:24 07:24 09:35 09:35 12:58 12:58
+ 51I18   BORGO ONCEDIS via Borgo Oncedis 41 
+(direzione Avasinis)
+07:16 07:26 07:26 09:36 09:36 12:59 12:59
+ 51I01   TRASAGHIS piazza Unità d'Italia 2 (direzione 
+Braulins)
+07:23 07:30 07:30 09:39 09:39 13:05 13:05
+ 52A11   BORDANO via Roma 11 (municipio, direzione 
+Braulins)
+06:38 06:38 07:35 13:57
+ 52A14   BORDANO viale Udine (fronte civico 4, albergo) 06:39 06:39 07:37 13:40 13:40 13:58
+ 51I10   BRAULINS via Ponte 06:42 06:42 07:25 07:33 07:33 07:40 09:44 09:44 13:08 13:08 13:43 13:44 14:01
+ 51718   OSOPPO via Volontari della Libertà (dir.Osoppo), 
+loc.Pineta
+06:44 06:43 07:34 07:34 09:46 09:46 13:44 13:46 14:02
+ 51713   OSOPPO via Batterie 1 (centro) 06:50 07:39 07:39 09:50 09:50 13:47 14:04
+ 61070   GEMONA via Osoppo (fronte civico 267, 
+semaforo Taboga)
+07:43 07:43 09:54 09:54
+ 61003   GEMONA via Trasaghis 159 (semaforo 
+Campagnola)
+07:28 07:46 07:46 07:43 09:56 09:56 13:11 13:11
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 07:33 07:50 07:50 07:48 10:00 10:00
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+07:34 07:49
+ 61014   GEMONA via Roma (autostazione) 07:39 07:57 07:57 07:53 10:07 10:07
+ 61058   GEMONA via Salcons (S. Maria degli Angeli, 
+dir.centro studi)
+07:56
+ 61014   GEMONA via Roma (autostazione) 08:00 13:20 13:20
+ 51714   OSOPPO via Matteotti 15 (centro, direzione Buja) 06:48 13:48
+ 51706   OSOPPO via San Daniele 68 (Ledraplastic, 
+direzione Buja)
+06:49
+ 51708   RIVOLI Z.I. via delle Ferriere 9 (Pittini, direzione 
+Osoppo)
+06:55
+CADENZA
+CORSA
+VALIDITÀ
+U249 Feriale escluso giorni non scolastici del periodo scolastico U264 Feriale escluso il sabato scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+martedì 23 dicembre 2025Pagina 1 di 2
+  [Pagina 6]
+LINEA 162 (Andata)
+Orario valido dal 1 gennaio 2026CAVAZZO-INTERNEPPO-BORDANO-OSOPPO-GEMONA 
+7 19 9 61
+U230 U240 U306 U264
+ 81015   CAVAZZO via Zorutti 7 (albergo) 15:05 15:05
+ 81016   MENA Strada Regionale 512 (bivio, direzione 
+Somplago)
+15:08 15:08
+ 81019   SOMPLAGO SR 512 (fronte civico 23, bar 
+direzione Osoppo)
+15:10 15:10
+ 52A06   INTERNEPPO SR 512 Lago di Cavazzo (stallo 
+nord, dir.Gemona)
+15:13 15:13
+ 52A10   INTERNEPPO via Chiesa Interneppo 3 
+(fontana)
+15:14 15:14
+ 52A11   BORDANO via Roma 11 (municipio, 
+direzione Braulins)
+19:59 19:59
+ 52A03   INTERNEPPO via Principale 60 (bivio Strada 
+Regionale 512)
+15:15 15:15
+ 51I21   ALESSO via Lago 81 (direzione Trasaghis) 15:16 15:16
+ 51I20   ALESSO piazza I Maggio 26 (direzione 
+Trasaghis)
+15:18 15:18
+ 51I18   BORGO ONCEDIS via Borgo Oncedis 41 
+(direzione Avasinis)
+15:19 15:19
+ 51I01   TRASAGHIS piazza Unità d'Italia 2 (direzione 
+Braulins)
+15:25 15:25
+ 52A14   BORDANO viale Udine (fronte civico 4, albergo) 20:01 20:01
+ 51I10   BRAULINS via Ponte 15:28 15:28 20:03 20:03
+ 51718   OSOPPO via Volontari della Libertà (dir.Osoppo), 
+loc.Pineta
+20:04 20:04
+ 51713   OSOPPO via Batterie 1 (centro) 20:08 20:08
+ 61003   GEMONA via Trasaghis 159 (semaforo 
+Campagnola)
+15:31 15:31
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 15:35 15:35
+ 61014   GEMONA via Roma (autostazione) 15:42 15:42
+CADENZA
+CORSA
+VALIDITÀ
+U249 Feriale escluso giorni non scolastici del periodo scolastico U264 Feriale escluso il sabato scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U306 Scolastica solo al sabato
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+martedì 23 dicembre 2025Pagina 2 di 2
+  [Pagina 7]
+LINEA 162 (Ritorno)
+Orario valido dal 1 gennaio 2026GEMONA-OSOPPO-BORDANO-INTERNEPPO-CAVAZZO 
+10 12 14 2 24 20 16 32 18 34 28 4 6 26
+U300 U307 U306 U249 U251 U307 U249 U251 U230 U240 U250 U300 U251 U240
+ 51708   RIVOLI Z.I. via delle Ferriere 9 (Pittini, direzione 
+Osoppo)
+06:55
+ 51702   RIVOLI Z.I. via delle Ferriere (De Simon, direzione 
+Osoppo)
+06:57
+ 51719   OSOPPO via San Daniele 77 (Ledraplastic) 06:58
+ 51701   OSOPPO via Matteotti (fronte civico 9, centro) 06:59 13:15
+ 61014   GEMONA via Roma (autostazione) 08:05 08:05 07:45 12:05 12:05 13:25 13:25 13:25
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 08:08 08:08 12:08 12:08 13:28 13:28 13:28
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+08:09 08:09 12:09 12:09 13:29 13:29 13:29
+ 61070   GEMONA via Osoppo (fronte civico 267, 
+semaforo Taboga)
+07:50
+ 61076   CAMPOLESSI via Lessi 141 dir. Artegna 07:51
+ 60954   ARTEGNA via Nazionale 65 (trattoria, direzione 
+Udine)
+07:52
+ 60952   ARTEGNA via Nazionale 33 (bivio Buja, direzione 
+Udine)
+07:53
+ 60808   MAGNANO IN RIVIERA via Nazionale (bivio, 
+direzione Udine)
+07:56
+ 60805   MAGNANO IN RIVIERA via Nazionale 76 (bivio, 
+direzione Udine)
+07:57
+ 51450   SANTO STEFANO DI BUJA via Arrio 8 08:00
+ 51479   URBIGNACCO via Urbignacco 96 (direzione 
+Artegna)
+08:04
+ 60909   ARTEGNA via Nazionale (fronte 65, trattoria dir. 
+Gemona)
+08:09
+ 61077   CAMPOLESSI via Lessi 78 prov. Artegna 08:11
+ 61070   GEMONA via Osoppo (fronte civico 267, 
+semaforo Taboga)
+08:14
+ 61059   GEMONA via Trasaghis 298 (semaforo 
+Campagnola)
+08:12 08:12 12:12 12:12 13:32 13:32 13:32
+ 61061   GEMONA via Taboga 305 (semaforo 
+Campagnola, dir. Udine)
+12:13 12:13
+ 51713   OSOPPO via Batterie 1 (centro) 07:25 12:17 12:17
+ 51705   OSOPPO via Vol.della Libertà (dir.Braulins), loc. 
+Pineta
+07:02 07:28 12:21 12:21 13:18
+ 51I10   BRAULINS via Ponte 06:20 07:05 07:30 08:15 08:15 08:17 12:24 12:24 13:20 13:35 13:35 13:35
+ 52A08   BORDANO viale Udine 4 (direzione Interneppo) 06:23 07:09 07:33
+ 52A01   BORDANO via Campo Sportivo (fronte civico 2, 
+municipio)
+06:25 07:10 07:35
+ 52A13   BORDANO via Roma (fronte civico 97) 06:25
+ 51I25   TRASAGHIS piazza Unità d'Italia 9 (direzione 
+Avasinis)
+08:16 08:16 08:19 12:26 12:26 13:22 13:36 13:37 13:37
+ 51I05   BORGO ONCEDIS via Borgo Oncedis 23 
+(direzione Alesso)
+08:22 08:22 12:31 12:31 13:44 13:42 13:42
+ 51I07   ALESSO piazza I Maggio 38 (direzione 
+Tolmezzo)
+08:24 08:24 12:34 12:34 13:47 13:44 13:44
+ 51I08   ALESSO via Lago (fronte civico 81, direzione 
+Tolmezzo)
+08:26 08:26 08:21 12:35 12:35 13:26 13:49 13:46 13:46
+ 52A07   INTERNEPPO SR 512 Lago di Cavazzo 
+(stallo sud, dir.Tolmezzo)
+08:28 08:28 08:23 12:37 12:37 13:28 13:51 13:47 13:47
+ 52A10   INTERNEPPO via Chiesa Interneppo 3 
+(fontana)
+08:24 13:52 13:48 13:48
+ 52A12   INTERNEPPO via Principale 28 (fontana) 06:32
+ 52A02   INTERNEPPO via Principale 45 (fontana, 
+direzione Bordano)
+08:33 08:33 08:33 08:33 12:38 12:38 13:28
+ 52A15   INTERNEPPO via Principale 48 (scuole) 08:25
+ 52A05   BORDANO via Roma 91 (direzione Braulins) 08:37 08:37 12:43 12:43 13:33
+ 52A11   BORDANO via Roma 11 (municipio, 
+direzione Braulins)
+08:38 08:38 12:49 12:49 13:33
+ 52A03   INTERNEPPO via Principale 60 (bivio 
+Strada Regionale 512)
+13:52 13:49 13:49
+ 81008   SOMPLAGO Strada Regionale 512 (bar, 
+direzione Cavazzo)
+13:55 13:52 13:52
+ 81007   MENA Strada Regionale 512 (bivio, direzione 
+Cavazzo)
+13:56 13:53 13:53
+ 81005   CESCLANS Strada Statale 512 (bivio) 13:58
+ 81006   CESCLANS via della Fontana 10 14:00
+ 81005   CESCLANS Strada Statale 512 (bivio) 14:04 13:54 13:54
+ 81001   CAVAZZO via Zorutti 14 (albergo) 14:12 14:04 14:04
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 1 di 3
+  [Pagina 8]
+VALIDITÀ
+U249 Feriale escluso giorni non scolastici del periodo scolastico U231 Feriale invernale escluso il sabato (per.scol.)
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U306 Scolastica solo al sabato
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+martedì 23 dicembre 2025Pagina 2 di 3
+  [Pagina 9]
+LINEA 162 (Ritorno)
+Orario valido dal 1 gennaio 2026GEMONA-OSOPPO-BORDANO-INTERNEPPO-CAVAZZO 
+30 22 8 36 38 40 42
+U300 U307 U135 U306 U231 U241 U242
+ 52A15   INTERNEPPO via Principale 48 (scuole) 16:30
+ 52A03   INTERNEPPO via Principale 60 (bivio Strada 
+Regionale 512)
+16:31
+ 51I21   ALESSO via Lago 81 (direzione Trasaghis) 16:33
+ 51I01   TRASAGHIS piazza Unità d'Italia 2 (direzione 
+Braulins)
+16:36
+ 51I10   BRAULINS via Ponte 16:38
+ 61003   GEMONA via Trasaghis 159 (semaforo 
+Campagnola)
+16:41
+ 61014   GEMONA via Roma (autostazione) 13:27 16:45 18:00 18:00 18:00
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 13:29 18:02 18:02 18:02
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+13:31 18:03 18:03 18:03
+ 61070   GEMONA via Osoppo (fronte civico 267, 
+semaforo Taboga)
+16:50
+ 61076   CAMPOLESSI via Lessi 141 dir. Artegna 16:51
+ 60954   ARTEGNA via Nazionale 65 (trattoria, direzione 
+Udine)
+16:52
+ 60952   ARTEGNA via Nazionale 33 (bivio Buja, direzione 
+Udine)
+16:53
+ 60808   MAGNANO IN RIVIERA via Nazionale (bivio, 
+direzione Udine)
+16:56
+ 60805   MAGNANO IN RIVIERA via Nazionale 76 (bivio, 
+direzione Udine)
+16:57
+ 51450   SANTO STEFANO DI BUJA via Arrio 8 17:00
+ 51479   URBIGNACCO via Urbignacco 96 (direzione 
+Artegna)
+17:03
+ 60909   ARTEGNA via Nazionale (fronte 65, trattoria dir. 
+Gemona)
+17:06
+ 61077   CAMPOLESSI via Lessi 78 prov. Artegna 17:08
+ 61053   GEMONA via Osoppo 267 (semaforo Taboga, dir. 
+stazione FS)
+17:10
+ 61059   GEMONA via Trasaghis 298 (semaforo 
+Campagnola)
+13:36 18:07 18:07 18:07
+ 51I10   BRAULINS via Ponte 18:10 18:10 18:10
+ 51I10   BRAULINS via Ponte 13:39 18:11 18:11 18:11 18:11 18:11
+ 52A08   BORDANO viale Udine 4 (direzione Interneppo) 13:41 18:18 18:18 18:18 18:18 18:18
+ 52A01   BORDANO via Campo Sportivo (fronte civico 2, 
+municipio)
+13:44 18:19 18:19 18:19 18:19 18:19
+ 52A13   BORDANO via Roma (fronte civico 97) 13:45 18:21 18:21 18:21 18:21 18:21
+ 52A12   INTERNEPPO via Principale 28 (fontana) 13:48 18:25 18:25 18:25 18:25 18:25
+ 52A03   INTERNEPPO via Principale 60 (bivio 
+Strada Regionale 512)
+18:29 18:29 18:29 18:29 18:29
+CADENZA
+CORSA
+VALIDITÀ
+U249 Feriale escluso giorni non scolastici del periodo scolastico U231 Feriale invernale escluso il sabato (per.scol.)
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U306 Scolastica solo al sabato
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+martedì 23 dicembre 2025Pagina 3 di 3
+  [Pagina 10]
+LINEA 163 (Andata)
+Orario valido dal 1 gennaio 2026FORGARIA-PEONIS-BORDANO-OSOPPO-GEMONA 
+805 5 1 27 3 29 7 11 31 13 15 23 33 19
+U300 U300 U241 U389 U242 U135 U300 U240 U251 U300 U240 U300 U251 U389
+ 51842   FORGARIA piazza Tre Martiri 12 (fronte 
+municipio)
+06:10 07:10 14:11
+ 51847   FORGARIA via Cornino 2 (provenienza centro), 
+borgo Grap
+06:12 07:12 14:13
+ 51813   FORGARIA via Cornino (fronte via Prat, direzione 
+Cornino)
+06:13 07:14 14:14
+ 51802   CORNINO via Venier 2 (direzione Sompcornino), 
+borgo Venier
+06:15 07:16 14:16
+ 51803   CORNINO via Dante Alighieri 3 06:15 07:16 14:17
+ 51851   CORNINO via Muris 9 (direzione 
+Sompcornino)
+06:16 06:16 06:25 06:25 06:25 06:25 07:17 14:17 17:45
+ 51850   CORNINO via Sompcornino 46 (direzione 
+Cimano)
+06:18 06:27 06:27 06:27 06:27 07:18 14:18 17:47
+ 51I23   PEONIS via Ottavio Bottecchia 25 06:23 06:32 06:32 06:33 06:33 07:25 07:30 07:30 14:24 14:55 14:55 14:55 17:53
+ 51I01   TRASAGHIS piazza Unità d'Italia 2 
+(direzione Braulins)
+06:37 06:37 06:37 06:37 07:30 07:36 07:36 15:01 15:01 15:01 18:03
+ 51I16   TRASAGHIS piazza Unità d'Italia 3 (lato 
+farmacia)
+06:28 14:28
+ 51I10   BRAULINS via Ponte 06:39 06:39 06:40 06:40 07:32 07:39 07:39 15:03 15:03 18:06
+ 52A08   BORDANO viale Udine 4 (direzione Interneppo) 06:42 06:42 06:43 06:43 07:42 07:42 15:06 15:06
+ 52A01   BORDANO via Campo Sportivo (fronte civico 2, 
+municipio)
+06:44 06:44 06:45 06:45 07:43 07:43 15:08 15:08
+ 52A14   BORDANO viale Udine (fronte civico 4, albergo) 06:45 06:45 06:47 06:47 07:45 07:45 15:09 15:09
+ 51I10   BRAULINS via Ponte 06:49 06:49 06:50 06:50 07:48 07:48 15:12 15:02 15:12
+ 51718   OSOPPO via Volontari della Libertà (dir.Osoppo), 
+loc.Pineta
+06:50 06:50 06:51 06:51 07:33
+ 51714   OSOPPO via Matteotti 15 (centro, direzione 
+Buja)
+06:53 06:53
+ 51706   OSOPPO via San Daniele 68 (Ledraplastic, 
+direzione Buja)
+06:54 06:54
+ 51708   RIVOLI Z.I. via delle Ferriere 9 (Pittini, direzione 
+Osoppo)
+07:00 07:00
+ 51713   OSOPPO via Batterie 1 (centro) 06:55 06:55 07:37
+ 61053   GEMONA via Osoppo 267 (semaforo Taboga, dir. 
+stazione FS)
+07:41
+ 61014   GEMONA via Roma (autostazione) 07:45
+ 61003   GEMONA via Trasaghis 159 (semaforo 
+Campagnola)
+07:51 07:51 15:15 15:05 15:15
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 07:48 07:55 07:55 15:19 15:08 15:19
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+07:49
+ 61014   GEMONA via Roma (autostazione) 07:57 07:57 15:23 15:18 15:23
+CADENZA
+CORSA
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+U450 FESTIVA ANNUALE compreso 
+Capodanno-Pasqua-1°Maggio-Natale
+martedì 23 dicembre 2025Pagina 1 di 2
+  [Pagina 11]
+LINEA 163 (Andata)
+Orario valido dal 1 gennaio 2026FORGARIA-PEONIS-BORDANO-OSOPPO-GEMONA 
+35 17 61 63 65
+U241 U307 U450 U450 U450
+ 51842   FORGARIA piazza Tre Martiri 12 (fronte 
+municipio)
+17:44 11:02 15:02 19:02
+ 51847   FORGARIA via Cornino 2 (provenienza centro), 
+borgo Grap
+17:46
+ 51813   FORGARIA via Cornino (fronte via Prat, direzione 
+Cornino)
+17:47
+ 51802   CORNINO via Venier 2 (direzione Sompcornino), 
+borgo Venier
+17:49
+ 51803   CORNINO via Dante Alighieri 3 17:50
+ 51851   CORNINO via Muris 9 (direzione 
+Sompcornino)
+17:45 17:50
+ 51824   CORNINO SP 84 (trattoria, direzione Cimano) 11:09 15:09 19:09
+ 51850   CORNINO via Sompcornino 46 (direzione 
+Cimano)
+17:47 17:51
+ 51I23   PEONIS via Ottavio Bottecchia 25 17:53 17:57
+ 51I01   TRASAGHIS piazza Unità d'Italia 2 
+(direzione Braulins)
+18:03 18:03
+ 51I10   BRAULINS via Ponte 18:06 18:06
+ 51701   OSOPPO via Matteotti (fronte civico 9, centro) 11:19 15:19 19:19
+ 61014   GEMONA via Roma (autostazione) 11:25 15:25 19:25
+CADENZA
+CORSA
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U300 Scolastica U307 Scolastica escluso il sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+U450 FESTIVA ANNUALE compreso 
+Capodanno-Pasqua-1°Maggio-Natale
+martedì 23 dicembre 2025Pagina 2 di 2
+  [Pagina 12]
+LINEA 163 (Ritorno)
+Orario valido dal 1 gennaio 2026GEMONA-OSOPPO-BORDANO-PEONIS-FORGARIA 
+2 4 6 24 26 10 8 28 14 16 18 30 20 22
+U300 U241 U242 U389 U135 U300 U240 U251 U300 U307 U389 U241 U240 U230
+ 61014   GEMONA via Roma (autostazione) 13:23 13:25 13:25 16:38 16:45 16:45 18:00 18:00
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 13:26 13:27 13:27 16:41 18:02 18:02
+ 61024   GEMONA via Praviolai (centro Studi Stallo 
+Interno)
+13:28
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+13:28 13:28 16:42 18:03 18:03
+ 61059   GEMONA via Trasaghis 298 (semaforo 
+Campagnola)
+13:31 13:31 18:07 18:07
+ 61014   GEMONA via Roma (autostazione) 13:32 16:45
+ 61070   GEMONA via Osoppo (fronte civico 267, 
+semaforo Taboga)
+13:35 16:48 16:48 16:48
+ 51713   OSOPPO via Batterie 1 (centro) 07:05 07:05 13:39
+ 51714   OSOPPO via Matteotti 15 (centro, direzione 
+Buja)
+16:52 16:51 16:51
+ 51706   OSOPPO via San Daniele 68 (Ledraplastic, 
+direzione Buja)
+16:53 16:52 16:52
+ 51708   RIVOLI Z.I. via delle Ferriere 9 (Pittini, direzione 
+Osoppo)
+07:00 07:00 16:56 16:57 16:57
+ 51702   RIVOLI Z.I. via delle Ferriere (De Simon, 
+direzione Osoppo)
+07:02 07:02 16:58 16:59 16:59
+ 51719   OSOPPO via San Daniele 77 (Ledraplastic) 07:03 07:03 16:59 17:01 17:01
+ 51701   OSOPPO via Matteotti (fronte civico 9, 
+centro)
+07:04 07:04 17:00 17:02 17:02
+ 51705   OSOPPO via Vol.della Libertà (dir.Braulins), loc. 
+Pineta
+07:06 07:08 07:06 07:08 13:43 17:03 17:04 17:04
+ 51I10   BRAULINS via Ponte 07:09 07:10 07:09 07:10 13:45 13:34 13:34 17:05 17:06 17:06 18:09 18:10
+ 52A08   BORDANO viale Udine 4 (direzione Interneppo) 13:36 13:36 17:08 17:10 17:10
+ 52A01   BORDANO via Campo Sportivo (fronte 
+civico 2, municipio)
+13:38 13:38 17:11 17:12 17:12
+ 52A14   BORDANO viale Udine (fronte civico 4, albergo) 13:40 13:40 17:12 17:13 17:13
+ 51I10   BRAULINS via Ponte 13:43 13:43 17:16 17:17 17:17 18:09 18:10
+ 51I25   TRASAGHIS piazza Unità d'Italia 9 (direzione 
+Avasinis)
+07:10 07:11 07:10 07:11 13:47 13:46 13:46 17:18 17:20 17:20 18:14 18:14
+ 51I16   TRASAGHIS piazza Unità d'Italia 3 (lato 
+farmacia)
+06:43 14:34
+ 51I12   PEONIS via Ottavio Bottecchia 30 (direzione 
+Forgaria)
+06:50 07:20 07:20 07:20 07:20 13:52 13:53 13:53 14:39 17:24 17:26 17:26 18:19 18:19
+ 51820   CORNINO via Sompcornino 45 (direzione 
+Forgaria)
+06:56 13:59 17:30 17:32 17:32 18:26 18:26
+ 51821   CORNINO via Muris 21 (direzione Forgaria) 06:57 14:03 17:32 17:35 17:35 18:35 18:35
+ 51844   CORNINO via Dante Alighieri 4 (direzione 
+Forgaria)
+06:58 14:04 17:33
+ 51843   CORNINO via Venier 1 (direzione Forgaria), borgo 
+Venier
+06:59 14:06 17:34
+ 51849   FORGARIA via Cornino (angolo via Prat, 
+direzione centro)
+07:01 14:07 17:35
+ 51857   FORGARIA via Cornino (direzione centro), borgo 
+Grap
+07:02 14:09 17:37
+ 51801   FORGARIA piazza Tre Martiri 4 (municipio, 
+dir.Flagogna)
+07:02 14:09 17:40
+CADENZA
+CORSA
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+U450 FESTIVA ANNUALE compreso 
+Capodanno-Pasqua-1°Maggio-Natale
+martedì 23 dicembre 2025Pagina 1 di 2
+  [Pagina 13]
+LINEA 163 (Ritorno)
+Orario valido dal 1 gennaio 2026GEMONA-OSOPPO-BORDANO-PEONIS-FORGARIA 
+60 62 64
+U450 U450 U450
+ 61014   GEMONA via Roma (autostazione) 08:45 12:45 16:45
+ 51852   CORNINO Strada Provinciale 84 (trattoria, direz. 
+Forgaria)
+09:02 13:02 17:02
+ 51846   CORNINO via Napoleonica 26 (bivio via Costa, 
+dir. Forgaria)
+09:03 13:03 17:03
+ 51801   FORGARIA piazza Tre Martiri 4 (municipio, 
+dir.Flagogna)
+09:08 13:08 17:08
+CADENZA
+CORSA
+VALIDITÀ
+U240 Feriale estiva (fne scuole-inizio scuole) U241 Feriale estiva escluso il sabato (fne-iniz.scol)
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO
+U230 Feriale invernale (periodo scolastico) U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+U450 FESTIVA ANNUALE compreso 
+Capodanno-Pasqua-1°Maggio-Natale
+martedì 23 dicembre 2025Pagina 2 di 2
+  [Pagina 14]
+LINEA 170 (Andata)
+Orario valido dal 1 gennaio 2026TOLMEZZO-CAVAZZO-OSOPPO-MAJANO-PAGNACCO-UDINE 
+1 5 9 65 17 19 23 25 7 11 73 3 39 27
+U200 U300 U250 U250 U250 U300 U300 U300 U300 U300 U300 U307 U207 U200
+ 81201   TOLMEZZO via Carnia Libera 1944 
+(autostazione)
+05:50 06:05 07:20 07:40 09:10
+ 81249   TOLMEZZO via Val di Gorto 100 (Centrale Enel, 
+direz. Udine)
+07:43
+ 81270   TOLMEZZO via dell'Industria 14 (direzione 
+Udine)
+07:45
+ 81015   CAVAZZO via Zorutti 7 (albergo) 07:27 07:50
+ 81001   CAVAZZO via Zorutti 14 (albergo) 05:57 06:13 09:18
+ 81006   CESCLANS via della Fontana 10 07:34 09:23
+ 81012   CESCLANS via Plantas (fronte civico 8, 
+campo giochi)
+09:24
+ 81005   CESCLANS Strada Statale 512 (bivio) 09:28
+ 81016   MENA Strada Regionale 512 (bivio, direzione 
+Somplago)
+06:01 06:17 07:53 09:29
+ 81019   SOMPLAGO SR 512 (fronte civico 23, bar 
+direzione Osoppo)
+06:03 06:19 09:33
+ 81018   SOMPLAGO via Alessandro Volta (bar, 
+direzione centrale)
+07:55
+ 81011   SOMPLAGO via Alessandro Volta (fronte 21, 
+Centrale Enel)
+07:58
+ 52A06   INTERNEPPO SR 512 Lago di Cavazzo (stallo 
+nord, dir.Gemona)
+06:05 06:21
+ 51I21   ALESSO via Lago 81 (direzione Trasaghis) 06:06 06:23
+ 51I20   ALESSO piazza I Maggio 26 (direzione 
+Trasaghis)
+06:10 06:26 06:31
+ 51I18   BORGO ONCEDIS via Borgo Oncedis 41 
+(direzione Avasinis)
+06:12 06:28 06:34
+ 51I01   TRASAGHIS piazza Unità d'Italia 2 (direzione 
+Braulins)
+06:19 06:36 06:39
+ 51I10   BRAULINS via Ponte 06:21 06:39 06:41
+ 51718   OSOPPO via Volontari della Libertà (dir.Osoppo), 
+loc.Pineta
+06:24 06:41 06:43
+ 51714   OSOPPO via Matteotti 15 (centro, direzione Buja) 06:10 06:26 06:45 06:55 06:50 06:45 07:15
+ 51706   OSOPPO via San Daniele 68 (Ledraplastic, 
+direzione Buja)
+06:12 06:28 06:57 06:52 07:17
+ 51723   RIVOLI Z.I. via Rivoli 26 (direzione Rivoli) 06:12 06:29 06:58
+ 51715   RIVOLI Z.I. via delle Ferriere(De Simon, direzione 
+Rivoli)
+06:47 07:18
+ 51720   RIVOLI Z.I. via delle Ferriere (fronte civico 9, 
+Pittini)
+06:52 07:19
+ 51709   RIVOLI via Rivoli 96 (bar) 06:13 06:31 06:59 06:52 07:20
+ 51716   RIVOLI via Rivoli (fronte civico 77, ex stazione 
+Majano)
+06:13 06:31 07:00 06:55 07:20
+ 51212   TIVERIACCO via Osoppo 109 (dir. S.Daniele), loc. 
+Ponte Ledra
+06:15 06:33 07:02 06:57 07:22
+ 51248   TIVERIACCO via Nazionale (fronte civico 201, 
+trattoria)
+06:16 06:34 07:03 06:58 07:24
+ 51217   SUSANS via del Castello fronte 191 
+(monumento ai Caduti)
+07:00 06:57
+ 51245   COMERZO via Garibaldi (fronte 85, chiesa 
+direzione Majano)
+06:17 06:35 07:04 07:01
+ 51243   MAJANO viale Rino Snaidero 15 07:03 06:59 06:59 07:24
+ 51241   MAJANO via Ciro di Pers 10 (Esacart) 06:20 06:38 07:05 07:06 07:04 07:01 07:00
+ 51234   MAJANO via Ciro di Pers 60 (direzione Pers) 06:21 06:38 07:06 07:07 07:05
+ 51262   MAJANO via Pietro Zorutti (fronte civico 30, lato 
+parco)
+07:30
+ 51246   PERS via Ciro di Pers 136 (Canale Ledra, 
+direzione Mels)
+06:21 06:39 07:07 07:08 07:06
+ 51263   PERS via Melesons 97 (chiesa, direzione Mels) 06:22 06:40 07:08 07:08 07:04
+ 51117   MELESONS via Melesons 47 (lato chiesa) 06:23 06:41 07:08 07:09 07:05
+ 51134   MELS piazza del Tiglio 14 (Là Di Petros) 06:24 06:42 07:09 07:10 07:06
+ 51109   MELS via della Libertà 32 (Pesa) 06:25 06:43 07:10 07:11 07:07
+ 51108   AVEACCO via Cirenaiche 36 06:26 06:44 07:11 07:12 07:10
+ 51112   LAIBACCO via Laibacco (direzione Colloredo) 06:28 06:46 07:12 07:14 07:09
+ 51107   COLLOREDO DI M.A. via Ippolito Nievo 36 
+(poste)
+07:15
+ 51131   LAUZZANA via Lauzzana 3 (direzione 
+Caporiacco)
+07:16
+ 51105   LAUZZANA via Lauzzana 6 (direzione 
+Colloredo)
+07:17 07:09
+ 51101   COLLOREDO DI M.A. via Ippolito Nievo 39 
+(municipio)
+07:17 07:11
+ 51129   COLLOREDO DI M.A. piazza Castello 2 
+(direzione Vendoglio)
+06:30 06:48 07:14 07:18 07:13
+ 51115   COLLOREDO DI M.A. via Pradis (direz. 
+Pagnacco), loc. Pradis
+06:31 06:49 07:15 07:21 07:12
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 1 di 6
+  [Pagina 15]
+1 5 9 65 17 19 23 25 7 11 73 3 39 27
+U200 U300 U250 U250 U250 U300 U300 U300 U300 U300 U300 U307 U207 U200
+ 51116   PAGNACCO SP Osovana (direzione Pagnacco), 
+Casali Liola
+06:34 06:50 07:16 07:23 07:12
+ 50307   PAGNACCO via Colloredo (direz. 
+Pagnacco), Casali Modoletto
+06:34 06:51 07:17 07:24 07:16
+ 50308   PAGNACCO via Colloredo (direz. Pagnacco), 
+Casali Marolins
+06:35 06:52 07:18 07:25 07:17
+ 50326   PAGNACCO via dei Colli 10 (provenienza centro) 06:36 07:27 07:20 07:19
+ 50343   ZAMPIS via Fruch (lato scuola) 07:27
+ 50328   ZAMPIS via Cesare Freschi 07:28
+ 50323   LAZZACCO via della Coda 07:29
+ 50343   ZAMPIS via Fruch (lato scuola) 06:38 07:29 07:16
+ 50340   ZAMPIS via Divisione Julia 8 (direzione Plaino) 06:38 07:30 07:20
+ 50327   PAGNACCO via Udine (direzione Udine) 06:54 07:20
+ 50339   PAGNACCO via Castellerio (direzione Udine) 06:39 07:32 07:22
+ 50333   PAGNACCO via Castellerio 74 (Tabacchi, 
+direzione Udine)
+06:40 07:32 07:22
+ 50220   FELETTO UMBERTO via Udine (angolo via 
+Cadore, dir. centro)
+07:25
+ 70C08   FELETTO UMBERTO piazza Indipendenza 11 
+(municipio)
+07:26
+ 70C41   UDINE via Feletto 136 (trattoria) 06:47 06:59 07:30 07:39 07:30 07:28 07:27 07:29
+ 50315   PLAINO via dei Platani (Chittaro) 07:22
+ 50324   PLAINO via Colugna (provenienza centro) 07:24
+ 50312   PLAINO via Cividina 8 (provenienza centro) 07:25
+ 50335   PLAINO via dei Platani 110 (provenienza centro) 07:27
+ 50338   COLUGNA viale San Daniele 57 (direzione 
+Udine)
+07:30
+ 70C56   UDINE piazzale Chiavris 45 06:48 07:01 07:32 07:40 07:32 07:30 07:30 07:35 07:32
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:03 07:34 07:35 07:33 07:33 07:36 07:36
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:40 07:41 07:41 07:43 07:44
+ 70223   UDINE viale Ledra 120 (Area 3, piazzale 
+Cavedalis)
+07:05 07:36
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:06 07:38 07:47 07:48 07:47 07:49 07:50
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:07 07:38
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:08 07:40 07:49 07:50 07:50 07:52 07:53
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:09 07:41 07:52 07:52 07:51 07:53 07:55
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 06:50 07:43
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 06:52 07:45
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:55 07:20 07:45 07:50 07:55 07:55 07:55 07:56 07:57
+VALIDITÀ
+U200 Feriale U282 Feriale invernale escluso sabato scolastico
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U257 Feriale giorni non scolastici escluso il sabato U306 Scolastica solo al sabato
+U378 Feriale escluso sabato del periodo estivo U207 Feriale escluso il sabato
+U300 Scolastica U307 Scolastica escluso il sabato
+U206 Feriale solo al sabato
+martedì 23 dicembre 2025Pagina 2 di 6
+  [Pagina 16]
+LINEA 170 (Andata)
+Orario valido dal 1 gennaio 2026TOLMEZZO-CAVAZZO-OSOPPO-MAJANO-PAGNACCO-UDINE 
+31 35 29 41 13 15 49 51 101 43 53 45 55 61
+U200 U200 U378 U250 U300 U300 U300 U250 U300 U306 U282 U306 U282 U240
+ 81201   TOLMEZZO via Carnia Libera 1944 
+(autostazione)
+12:10 13:08 13:15 13:15
+ 81249   TOLMEZZO via Val di Gorto 100 (Centrale Enel, 
+direz. Udine)
+13:18
+ 81270   TOLMEZZO via dell'Industria 14 (direzione 
+Udine)
+13:19
+ 81015   CAVAZZO via Zorutti 7 (albergo) 13:23
+ 81001   CAVAZZO via Zorutti 14 (albergo) 12:17 13:16 13:24
+ 81006   CESCLANS via della Fontana 10 12:22 13:20 13:29
+ 81012   CESCLANS via Plantas (fronte civico 8, 
+campo giochi)
+12:23 13:22 13:32
+ 81005   CESCLANS Strada Statale 512 (bivio) 12:28 13:24
+ 81016   MENA Strada Regionale 512 (bivio, direzione 
+Somplago)
+12:29 13:25 13:28
+ 81019   SOMPLAGO SR 512 (fronte civico 23, bar 
+direzione Osoppo)
+12:31 13:27 13:30
+ 52A06   INTERNEPPO SR 512 Lago di Cavazzo (stallo 
+nord, dir.Gemona)
+13:29 13:33
+ 52A10   INTERNEPPO via Chiesa Interneppo 3 
+(fontana)
+16:40 16:40
+ 52A03   INTERNEPPO via Principale 60 (bivio Strada 
+Regionale 512)
+16:41 16:41
+ 51I21   ALESSO via Lago 81 (direzione Trasaghis) 13:30 13:34 16:43 16:43
+ 51I20   ALESSO piazza I Maggio 26 (direzione 
+Trasaghis)
+13:33 13:37 16:45 16:45 16:45 16:45 16:45
+ 51I18   BORGO ONCEDIS via Borgo Oncedis 41 
+(direzione Avasinis)
+13:35 13:38 16:47 16:47 16:47
+ 51I01   TRASAGHIS piazza Unità d'Italia 2 (direzione 
+Braulins)
+13:42 13:45 16:52 16:52 16:52
+ 51I10   BRAULINS via Ponte 13:44 13:47 16:54 16:54 16:54
+ 51718   OSOPPO via Volontari della Libertà (dir.Osoppo), 
+loc.Pineta
+13:46 13:48 16:56 16:56 16:56
+ 51714   OSOPPO via Matteotti 15 (centro, direzione Buja) 09:15 11:00 13:55 13:58 16:59 16:59 16:59
+ 51713   OSOPPO via Batterie 1 (centro) 13:50 13:54
+ 51706   OSOPPO via San Daniele 68 (Ledraplastic, 
+direzione Buja)
+09:17 11:02 13:57 14:00 17:00 17:00 17:00
+ 51723   RIVOLI Z.I. via Rivoli 26 (direzione Rivoli) 09:18 11:03 13:58 14:01
+ 51715   RIVOLI Z.I. via delle Ferriere(De Simon, direzione 
+Rivoli)
+17:01 17:01 17:01
+ 51720   RIVOLI Z.I. via delle Ferriere (fronte civico 9, 
+Pittini)
+17:02 17:02 17:02
+ 51709   RIVOLI via Rivoli 96 (bar) 09:20 11:05 14:00 14:03 17:04 17:04 17:04
+ 51716   RIVOLI via Rivoli (fronte civico 77, ex stazione 
+Majano)
+09:20 11:05 14:01 14:03 17:04 17:04 17:04
+ 51212   TIVERIACCO via Osoppo 109 (dir. S.Daniele), loc. 
+Ponte Ledra
+09:22 11:07 14:02 14:05 17:06 17:06 17:06
+ 51248   TIVERIACCO via Nazionale (fronte civico 201, 
+trattoria)
+09:23 11:08 14:04 14:06 17:08 17:08 17:08
+ 51217   SUSANS via del Castello fronte 191 
+(monumento ai Caduti)
+14:10
+ 51245   COMERZO via Garibaldi (fronte 85, chiesa 
+direzione Majano)
+09:25 11:09 14:05 14:08
+ 51243   MAJANO viale Rino Snaidero 15 14:13 17:09 17:09 17:09
+ 51221   MAJANO via Udine 16 (Coop) 14:20
+ 51241   MAJANO via Ciro di Pers 10 (Esacart) 09:28 11:13 14:08 14:10 17:11 17:11 17:11
+ 51234   MAJANO via Ciro di Pers 60 (direzione Pers) 09:28 11:13 14:09 14:11 17:12 17:12 17:12
+ 51246   PERS via Ciro di Pers 136 (Canale Ledra, 
+direzione Mels)
+09:29 11:14 14:10 14:12 17:13 17:13 17:13
+ 51263   PERS via Melesons 97 (chiesa, direzione Mels) 09:30 11:15 14:11 14:13 17:14 17:14 17:14
+ 51117   MELESONS via Melesons 47 (lato chiesa) 09:30 11:15 14:11 14:13 17:16 17:16 17:16
+ 51134   MELS piazza del Tiglio 14 (Là Di Petros) 09:31 11:16 14:12 14:14 17:18 17:18 17:18
+ 51109   MELS via della Libertà 32 (Pesa) 09:32 11:17 14:13 14:14 17:18 17:18 17:18
+ 51108   AVEACCO via Cirenaiche 36 09:33 11:18 14:14 14:16 17:20 17:20 17:20
+ 51112   LAIBACCO via Laibacco (direzione Colloredo) 09:35 11:19 14:15 14:17 17:21 17:21 17:21
+ 51129   COLLOREDO DI M.A. piazza Castello 2 
+(direzione Vendoglio)
+09:37 11:21 14:17 14:19 17:23 17:23 17:23
+ 51115   COLLOREDO DI M.A. via Pradis (direz. 
+Pagnacco), loc. Pradis
+09:38 11:23 14:18 14:21 17:24 17:24 17:24
+ 51116   PAGNACCO SP Osovana (direzione Pagnacco), 
+Casali Liola
+09:40 11:24 14:20 14:22 17:26 17:26 17:26
+ 50307   PAGNACCO via Colloredo (direz. 
+Pagnacco), Casali Modoletto
+09:41 11:26 14:21 14:24 17:28 17:28 17:28
+ 50308   PAGNACCO via Colloredo (direz. Pagnacco), 
+Casali Marolins
+09:42 11:27 14:22 14:24 17:28 17:28 17:28
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 3 di 6
+  [Pagina 17]
+31 35 29 41 13 15 49 51 101 43 53 45 55 61
+U200 U200 U378 U250 U300 U300 U300 U250 U300 U306 U282 U306 U282 U240
+ 50326   PAGNACCO via dei Colli 10 (provenienza centro) 09:43 11:29 14:23 14:26 17:30 17:30 17:30
+ 50343   ZAMPIS via Fruch (lato scuola) 09:44 11:30 14:27
+ 50328   ZAMPIS via Cesare Freschi 09:45 11:30 14:27
+ 50323   LAZZACCO via della Coda 09:46 11:31 14:28
+ 50343   ZAMPIS via Fruch (lato scuola) 09:47 11:32 14:25 14:29 17:31 17:31 17:31
+ 50340   ZAMPIS via Divisione Julia 8 (direzione Plaino) 09:48 11:33 14:25 14:30 17:32 17:32 17:32
+ 50339   PAGNACCO via Castellerio (direzione Udine) 09:49 11:35 14:27 14:31 17:33 17:33 17:33
+ 50333   PAGNACCO via Castellerio 74 (Tabacchi, 
+direzione Udine)
+09:50 11:36 14:28 14:32 17:34 17:34 17:34
+ 50220   FELETTO UMBERTO via Udine (angolo via 
+Cadore, dir. centro)
+09:56
+ 70C08   FELETTO UMBERTO piazza Indipendenza 11 
+(municipio)
+09:58
+ 70C41   UDINE via Feletto 136 (trattoria) 10:03 11:43 14:35 14:38 17:41 17:41 17:41
+ 70C56   UDINE piazzale Chiavris 45 10:05 11:45 14:37 14:40 17:44 17:44 17:44
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 10:09 11:49 14:41 14:44 17:47 17:47 17:47
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 10:12 11:51 14:43 14:46 17:50 17:50 17:50
+ 70101   UDINE viale Europa Unita 37 (autostazione) 10:14 12:00 14:50 14:50 17:55 17:55 17:55
+VALIDITÀ
+U200 Feriale U282 Feriale invernale escluso sabato scolastico
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U257 Feriale giorni non scolastici escluso il sabato U306 Scolastica solo al sabato
+U378 Feriale escluso sabato del periodo estivo U207 Feriale escluso il sabato
+U300 Scolastica U307 Scolastica escluso il sabato
+U206 Feriale solo al sabato
+martedì 23 dicembre 2025Pagina 4 di 6
+  [Pagina 18]
+LINEA 170 (Andata)
+Orario valido dal 1 gennaio 2026TOLMEZZO-CAVAZZO-OSOPPO-MAJANO-PAGNACCO-UDINE 
+33 37 57 59 67 21 103
+U257 U307 U207 U207 U206 U200 U307
+ 81201   TOLMEZZO via Carnia Libera 1944 
+(autostazione)
+17:05 17:10 18:10
+ 81249   TOLMEZZO via Val di Gorto 100 (Centrale Enel, 
+direz. Udine)
+18:13
+ 81270   TOLMEZZO via dell'Industria 14 (direzione 
+Udine)
+18:14
+ 81015   CAVAZZO via Zorutti 7 (albergo) 18:19
+ 81001   CAVAZZO via Zorutti 14 (albergo) 17:13 17:18
+ 81006   CESCLANS via della Fontana 10 17:18 17:23 18:24
+ 81012   CESCLANS via Plantas (fronte civico 8, 
+campo giochi)
+17:20 17:25 18:26
+ 81005   CESCLANS Strada Statale 512 (bivio) 17:23 17:28 18:28
+ 81016   MENA Strada Regionale 512 (bivio, direzione 
+Somplago)
+17:23 17:29 18:28
+ 81019   SOMPLAGO SR 512 (fronte civico 23, bar 
+direzione Osoppo)
+18:30
+ 81018   SOMPLAGO via Alessandro Volta (bar, 
+direzione centrale)
+17:25 17:31
+ 81011   SOMPLAGO via Alessandro Volta (fronte 21, 
+Centrale Enel)
+17:29 17:32
+ 81019   SOMPLAGO SR 512 (fronte civico 23, bar 
+direzione Osoppo)
+17:33
+ 52A06   INTERNEPPO SR 512 Lago di Cavazzo (stallo 
+nord, dir.Gemona)
+17:36 18:35
+ 52A10   INTERNEPPO via Chiesa Interneppo 3 
+(fontana)
+17:37 17:25
+ 52A03   INTERNEPPO via Principale 60 (bivio Strada 
+Regionale 512)
+17:27
+ 51I21   ALESSO via Lago 81 (direzione Trasaghis) 17:28 18:37
+ 51I20   ALESSO piazza I Maggio 26 (direzione 
+Trasaghis)
+17:29 18:39
+ 51I18   BORGO ONCEDIS via Borgo Oncedis 41 
+(direzione Avasinis)
+17:31 18:40
+ 51I01   TRASAGHIS piazza Unità d'Italia 2 (direzione 
+Braulins)
+17:35 18:47
+ 51I10   BRAULINS via Ponte 17:38 18:49
+ 52A08   BORDANO viale Udine 4 (direzione Interneppo) 18:53
+ 52A01   BORDANO via Campo Sportivo (fronte 
+civico 2, municipio)
+18:55
+ 52A14   BORDANO viale Udine (fronte civico 4, albergo) 18:57
+ 51I10   BRAULINS via Ponte 19:00
+ 51718   OSOPPO via Volontari della Libertà (dir.Osoppo), 
+loc.Pineta
+17:39 19:02
+ 51714   OSOPPO via Matteotti 15 (centro, direzione Buja) 17:42
+ 51713   OSOPPO via Batterie 1 (centro) 19:06
+ 51706   OSOPPO via San Daniele 68 (Ledraplastic, 
+direzione Buja)
+17:43
+ 51723   RIVOLI Z.I. via Rivoli 26 (direzione Rivoli) 17:45
+ 51709   RIVOLI via Rivoli 96 (bar) 17:46
+ 51716   RIVOLI via Rivoli (fronte civico 77, ex stazione 
+Majano)
+17:48
+ 51212   TIVERIACCO via Osoppo 109 (dir. S.Daniele), loc. 
+Ponte Ledra
+17:50
+ 51248   TIVERIACCO via Nazionale (fronte civico 201, 
+trattoria)
+17:52
+ 51217   SUSANS via del Castello fronte 191 
+(monumento ai Caduti)
+18:10
+ 51243   MAJANO viale Rino Snaidero 15 17:53
+ 51241   MAJANO via Ciro di Pers 10 (Esacart) 18:00 18:00 18:00
+ 51234   MAJANO via Ciro di Pers 60 (direzione Pers) 18:01 18:01
+ 51246   PERS via Ciro di Pers 136 (Canale Ledra, 
+direzione Mels)
+18:02 18:02
+ 51263   PERS via Melesons 97 (chiesa, direzione Mels) 18:03 18:03
+ 51117   MELESONS via Melesons 47 (lato chiesa) 18:03 18:03
+ 51134   MELS piazza del Tiglio 14 (Là Di Petros) 18:04 18:04
+ 51109   MELS via della Libertà 32 (Pesa) 18:05 18:05
+ 51108   AVEACCO via Cirenaiche 36 18:06 18:06
+ 51112   LAIBACCO via Laibacco (direzione Colloredo) 18:08 18:08
+ 51129   COLLOREDO DI M.A. piazza Castello 2 
+(direzione Vendoglio)
+18:09 18:09
+ 51115   COLLOREDO DI M.A. via Pradis (direz. 
+Pagnacco), loc. Pradis
+18:10 18:10
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 5 di 6
+  [Pagina 19]
+33 37 57 59 67 21 103
+U257 U307 U207 U207 U206 U200 U307
+ 51116   PAGNACCO SP Osovana (direzione Pagnacco), 
+Casali Liola
+18:12 18:12
+ 50307   PAGNACCO via Colloredo (direz. 
+Pagnacco), Casali Modoletto
+18:13 18:13
+ 50308   PAGNACCO via Colloredo (direz. Pagnacco), 
+Casali Marolins
+18:14 18:14
+ 50326   PAGNACCO via dei Colli 10 (provenienza centro) 18:15 18:15
+ 50343   ZAMPIS via Fruch (lato scuola) 18:16 18:16
+ 50340   ZAMPIS via Divisione Julia 8 (direzione Plaino) 18:17 18:17
+ 50339   PAGNACCO via Castellerio (direzione Udine) 18:18 18:18
+ 50333   PAGNACCO via Castellerio 74 (Tabacchi, 
+direzione Udine)
+18:19 18:19
+ 50220   FELETTO UMBERTO via Udine (angolo via 
+Cadore, dir. centro)
+18:24 18:24
+ 70C08   FELETTO UMBERTO piazza Indipendenza 11 
+(municipio)
+18:27 18:27
+ 70C41   UDINE via Feletto 136 (trattoria) 18:31 18:31
+ 70C56   UDINE piazzale Chiavris 45 18:34 18:34
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 18:37 18:37
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 18:40 18:40 18:45
+ 70101   UDINE viale Europa Unita 37 (autostazione) 18:45 18:45
+VALIDITÀ
+U200 Feriale U282 Feriale invernale escluso sabato scolastico
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U257 Feriale giorni non scolastici escluso il sabato U306 Scolastica solo al sabato
+U378 Feriale escluso sabato del periodo estivo U207 Feriale escluso il sabato
+U300 Scolastica U307 Scolastica escluso il sabato
+U206 Feriale solo al sabato
+martedì 23 dicembre 2025Pagina 6 di 6
+  [Pagina 20]
+LINEA 170 (Ritorno)
+Orario valido dal 1 gennaio 2026UDINE-PAGNACCO-MAJANO-OSOPPO-CAVAZZO-TOLMEZZO 
+2 6 108 104 4 70 10 68 16 14 12 24 22 72
+U240 U251 U300 U240 U307 U306 U200 U307 U207 U200 U200 U250 U300 U378
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:00 08:30 12:20 12:20
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 07:03 08:34 12:24
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 12:25
+ 70C51   UDINE via Marco Volpe 63 (piazzale Cavedalis) 12:26
+ 70148   UDINE piazzale Chiavris 64 07:06 08:38 12:28 12:31
+ 70C01   UDINE via Feletto 113 (trattoria) 07:07 08:39 12:30 12:33
+ 70C07   FELETTO UMBERTO piazza Indipendenza 4 
+(municipio)
+08:43 12:34 12:39
+ 50237   FELETTO UMBERTO via Udine (fr. 141, ang.via 
+Cadore dir.Udine
+08:44 12:34 12:40
+ 50311   PAGNACCO via Castellerio 57 (Tabacchi, 
+direzione Pagnacco)
+07:13 08:49 12:39
+ 50320   PAGNACCO via Castellerio 25 (direzione piazza) 07:14 08:51 12:40
+ 50301   PAGNACCO via Udine (direzione Colloredo) 12:46
+ 50310   ZAMPIS via Plaino 14 (direzione Plaino) 07:15 08:52 12:41
+ 50322   ZAMPIS via Divisione Julia 13 (provenienza 
+Plaino)
+07:15 08:52 12:41
+ 50329   ZAMPIS via Fruch (lato stadio) 07:16 08:53
+ 50328   ZAMPIS via Cesare Freschi 12:42
+ 50323   LAZZACCO via della Coda 12:42
+ 50342   PAGNACCO via dei Colli 9 (direzione centro) 07:17 08:54 12:43
+ 50331   PAGNACCO via Colloredo (direz. Colloredo), 
+Casali Marolins
+07:18 08:56 12:45 12:47
+ 50330   PAGNACCO via Colloredo (direz. Colloredo), 
+Casali Modoletto
+07:18 08:57 12:46 12:48
+ 51138   PAGNACCO SP Osovana (direzione Colloredo), 
+Casali Liola
+07:19 08:57 12:47 12:49
+ 51137   COLLOREDO DI M.A. via Pradis 25 (direz. centro), 
+loc. Pradis
+07:21 08:59 12:49 12:51
+ 51102   COLLOREDO DI M.A. piazza Castello 5 
+(direzione Lauzzana)
+07:22 09:00 12:50 12:53
+ 51127   COLLOREDO DI M.A. via Ippolito Nievo 20 
+(trattoria)
+07:23 09:01 12:51 12:54
+ 51135   LAIBACCO via Laibacco (direzione Buja) 07:24 09:01 12:51 12:55
+ 51132   AVEACCO via Cirenaiche 47 (direzione Majano) 07:25 09:03 12:53 12:57
+ 51133   MELS via della Libertà (fronte 32, Pesa direzione 
+Majano)
+07:26 09:04 12:54 12:58
+ 51110   MELS piazza del Tiglio 12 (Là Di Petros, direzione 
+Majano)
+07:27 09:05 12:55 12:59
+ 51111   MELESONS via Melesons 20 (direzione Majano) 07:28 09:06 12:56 13:00
+ 51244   PERS via Melesons 54 (chiesa, direzione 
+Majano)
+07:28 09:06 12:56 13:01
+ 51207   PERS via Ciro di Pers 8 (Canale Ledra, direzione 
+Majano)
+07:29 09:07 12:57 13:02
+ 51257   MAJANO via Ciro di Pers (fronte civico 60) 07:30 09:09 12:58 13:04
+ 51201   MAJANO piazza Italia (lato parco) 06:52 06:55 07:33 09:10 13:00 13:04
+ 51204   MAJANO viale Rino Snaidero 10 (direzione 
+Susans)
+06:54 06:57 07:35
+ 51264   COMERZO via Garibaldi 85 (chiesa, provenienza 
+Majano)
+09:13 13:03 13:08
+ 51270   TIVERIACCO via del Castello 10 06:55 06:58
+ 51217   SUSANS via del Castello fronte 191 
+(monumento ai Caduti)
+06:57 07:00
+ 51211   TIVERIACCO via Osoppo 18 (trattoria, direzione 
+Osoppo)
+07:36 09:14 13:03 13:10
+ 51249   TIVERIACCO via Osoppo (fronte civico 109), 
+loc.Ponte Ledra
+07:37 09:15 13:04 13:11
+ 51703   RIVOLI via Rivoli 75 (ex stazione Majano, 
+direzione Osoppo)
+07:39 09:17 13:07 13:12
+ 51721   RIVOLI via Rivoli 21 (bar, direzione Osoppo) 07:40 09:18 13:07 13:12
+ 51708   RIVOLI Z.I. via delle Ferriere 9 (Pittini, direzione 
+Osoppo)
+07:42 09:19
+ 51702   RIVOLI Z.I. via delle Ferriere (De Simon, direzione 
+Osoppo)
+07:43 09:20
+ 51712   RIVOLIZ.I.  via Rivoli (fronte civico 26, direzione 
+Osoppo)
+13:09 13:14
+ 51719   OSOPPO via San Daniele 77 (Ledraplastic) 07:45 09:22 13:11 13:16
+ 51701   OSOPPO via Matteotti (fronte civico 9, centro) 06:15 06:50 06:55 06:55 07:50 09:25 13:15 13:18
+ 51705   OSOPPO via Vol.della Libertà (dir.Braulins), loc. 
+Pineta
+06:18 06:53 06:58 06:58
+ 51I10   BRAULINS via Ponte 06:20 07:00 07:00
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 1 di 6
+  [Pagina 21]
+2 6 108 104 4 70 10 68 16 14 12 24 22 72
+U240 U251 U300 U240 U307 U306 U200 U307 U207 U200 U200 U250 U300 U378
+ 52A08   BORDANO viale Udine 4 (direzione Interneppo) 06:22 07:02 07:02
+ 52A01   BORDANO via Campo Sportivo (fronte 
+civico 2, municipio)
+06:24 07:06 07:06
+ 52A14   BORDANO viale Udine (fronte civico 4, albergo) 06:24 07:07 07:07
+ 51I10   BRAULINS via Ponte 06:26 06:54 07:10 07:10
+ 51I25   TRASAGHIS piazza Unità d'Italia 9 (direzione 
+Avasinis)
+06:29 06:56 07:12 07:12
+ 51I05   BORGO ONCEDIS via Borgo Oncedis 23 
+(direzione Alesso)
+06:36 07:01 07:18 07:18
+ 51I07   ALESSO piazza I Maggio 38 (direzione 
+Tolmezzo)
+06:39 07:02 07:22 07:22
+ 51I08   ALESSO via Lago (fronte civico 81, direzione 
+Tolmezzo)
+06:41 07:04 07:24 07:24
+ 52A07   INTERNEPPO SR 512 Lago di Cavazzo 
+(stallo sud, dir.Tolmezzo)
+06:43 07:06 07:25 07:25
+ 81011   SOMPLAGO via Alessandro Volta (fronte 21, 
+Centrale Enel)
+08:00
+ 81008   SOMPLAGO Strada Regionale 512 (bar, 
+direzione Cavazzo)
+06:46 07:09 07:28 07:28 09:35 12:35
+ 81017   SOMPLAGO via Alessandro Volta 
+(provenienza centrale)
+08:02
+ 81007   MENA Strada Regionale 512 (bivio, direzione 
+Cavazzo)
+06:47 07:10 07:31 07:29 08:03 09:37 12:37
+ 81005   CESCLANS Strada Statale 512 (bivio) 06:49 07:11 07:31 08:04 09:38 12:38
+ 81006   CESCLANS via della Fontana 10 06:51 07:15 07:34 07:34
+ 81012   CESCLANS via Plantas (fronte civico 8, 
+campo giochi)
+06:52 07:15 07:35 07:35
+ 81005   CESCLANS Strada Statale 512 (bivio) 06:56 07:19 07:32 07:36 07:36
+ 81015   CAVAZZO via Zorutti 7 (albergo) 06:59 07:20 07:35 07:42 07:42 08:07 09:41 12:40
+ 81203   TOLMEZZO via 25 Aprile 23 (centro studi) 07:07 07:27 07:42 07:47 07:47 08:13 09:47 12:46
+ 81201   TOLMEZZO via Carnia Libera 1944 
+(autostazione)
+07:10 07:32 07:45 07:50 07:50 08:16 09:50 12:50
+VALIDITÀ
+U200 Feriale U264 Feriale escluso il sabato scolastico
+U259 Feriale giorni non scolastici e al sabato scolasti co U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U257 Feriale giorni non scolastici escluso il sabato
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U306 Scolastica solo al sabato
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U378 Feriale escluso sabato del periodo estivo
+U207 Feriale escluso il sabato U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+martedì 23 dicembre 2025Pagina 2 di 6
+  [Pagina 22]
+LINEA 170 (Ritorno)
+Orario valido dal 1 gennaio 2026UDINE-PAGNACCO-MAJANO-OSOPPO-CAVAZZO-TOLMEZZO 
+40 58 32 34 76 36 18 20 78 42 66 38 44 48
+U300 U300 U251 U241 U242 U300 U300 U200 U242 U200 U300 U251 U207 U259
+ 70101   UDINE viale Europa Unita 37 (autostazione) 13:20 13:20 13:25 13:25 13:25 13:23 14:35 17:10
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 13:29 13:29 13:29 14:39 17:14
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 13:25 13:25 13:27
+ 70C51   UDINE via Marco Volpe 63 (piazzale Cavedalis) 13:27 13:26 13:29
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 13:29 13:28 13:32
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 13:31 13:30 13:34
+ 70148   UDINE piazzale Chiavris 64 13:35 13:34 13:33 13:33 13:33 13:37 14:43 17:18
+ 70C01   UDINE via Feletto 113 (trattoria) 13:36 13:35 13:34 13:34 13:34 13:39 14:45 17:19
+ 70C07   FELETTO UMBERTO piazza Indipendenza 4 
+(municipio)
+13:38 13:38 13:38 13:42 17:23
+ 50237   FELETTO UMBERTO via Udine (fr. 141, ang.via 
+Cadore dir.Udine
+13:39 13:39 13:39 13:43 17:24
+ 50311   PAGNACCO via Castellerio 57 (Tabacchi, 
+direzione Pagnacco)
+13:44 13:44 13:44 14:52 17:29
+ 50320   PAGNACCO via Castellerio 25 (direzione piazza) 13:44 13:44 13:44 14:52 17:30
+ 50301   PAGNACCO via Udine (direzione Colloredo) 13:43 13:42 13:49
+ 50310   ZAMPIS via Plaino 14 (direzione Plaino) 13:45 13:45 13:45 14:53 17:31
+ 50322   ZAMPIS via Divisione Julia 13 (provenienza 
+Plaino)
+13:46 13:46 13:46 14:54 17:31
+ 50329   ZAMPIS via Fruch (lato stadio) 13:46 13:46 13:46 14:54 17:32
+ 50342   PAGNACCO via dei Colli 9 (direzione centro) 13:47 13:47 13:47 14:55 17:33
+ 50331   PAGNACCO via Colloredo (direz. Colloredo), 
+Casali Marolins
+13:43 13:48 13:48 13:48 13:50 14:56 17:34
+ 50330   PAGNACCO via Colloredo (direz. Colloredo), 
+Casali Modoletto
+13:45 13:49 13:49 13:49 13:51 14:57 17:35
+ 51138   PAGNACCO SP Osovana (direzione Colloredo), 
+Casali Liola
+13:46 13:50 13:50 13:50 13:51 14:58 17:36
+ 51137   COLLOREDO DI M.A. via Pradis 25 (direz. centro), 
+loc. Pradis
+13:48 13:52 13:52 13:52 13:53 15:00 17:38
+ 51102   COLLOREDO DI M.A. piazza Castello 5 
+(direzione Lauzzana)
+13:50 13:54 13:54 13:54 13:55 15:02 17:40
+ 51127   COLLOREDO DI M.A. via Ippolito Nievo 20 
+(trattoria)
+13:51 13:54 13:54 13:54 13:55 15:02 17:40
+ 51107   COLLOREDO DI M.A. via Ippolito Nievo 36 
+(poste)
+13:52
+ 51131   LAUZZANA via Lauzzana 3 (direzione 
+Caporiacco)
+13:53
+ 51105   LAUZZANA via Lauzzana 6 (direzione 
+Colloredo)
+13:54
+ 51101   COLLOREDO DI M.A. via Ippolito Nievo 39 
+(municipio)
+13:55
+ 51135   LAIBACCO via Laibacco (direzione Buja) 13:56 13:55 13:55 13:55 13:56 15:03 17:41
+ 51132   AVEACCO via Cirenaiche 47 (direzione Majano) 13:58 13:56 13:56 13:56 13:58 15:05 17:43
+ 51133   MELS via della Libertà (fronte 32, Pesa direzione 
+Majano)
+13:59 13:58 13:58 13:58 13:59 15:06 17:44
+ 51110   MELS piazza del Tiglio 12 (Là Di Petros, direzione 
+Majano)
+14:00 13:58 13:58 13:58 14:00 15:06 17:45
+ 51111   MELESONS via Melesons 20 (direzione Majano) 14:01 13:59 13:59 13:59 14:00 15:07 17:45
+ 51244   PERS via Melesons 54 (chiesa, direzione 
+Majano)
+13:56 14:02 13:59 13:59 13:59 14:01 15:08 17:46
+ 51207   PERS via Ciro di Pers 8 (Canale Ledra, direzione 
+Majano)
+13:57 14:03 14:00 14:00 14:00 14:02 15:09 17:47
+ 51257   MAJANO via Ciro di Pers (fronte civico 60) 13:58 14:04 14:01 14:01 14:01 14:03 15:10 17:48
+ 51201   MAJANO piazza Italia (lato parco) 14:00 14:03 14:03 14:03 14:05 15:12 16:50 17:50
+ 51204   MAJANO viale Rino Snaidero 10 (direzione 
+Susans)
+16:52
+ 51264   COMERZO via Garibaldi 85 (chiesa, provenienza 
+Majano)
+14:03 14:06 14:06 14:06 14:07 15:14 17:52
+ 51270   TIVERIACCO via del Castello 10 14:07
+ 51217   SUSANS via del Castello fronte 191 
+(monumento ai Caduti)
+14:08
+ 51211   TIVERIACCO via Osoppo 18 (trattoria, direzione 
+Osoppo)
+14:07 14:07 14:07 14:09 15:15 16:53 17:53
+ 51249   TIVERIACCO via Osoppo (fronte civico 109), 
+loc.Ponte Ledra
+14:08 14:08 14:08 14:10 15:16 16:54 17:55
+ 51703   RIVOLI via Rivoli 75 (ex stazione Majano, 
+direzione Osoppo)
+14:10 14:10 14:10 14:12 15:19 16:56 17:57
+ 51721   RIVOLI via Rivoli 21 (bar, direzione Osoppo) 14:11 14:11 14:11 14:13 15:19 16:57 17:58
+ 51708   RIVOLI Z.I. via delle Ferriere 9 (Pittini, direzione 
+Osoppo)
+16:58
+ 51702   RIVOLI Z.I. via delle Ferriere (De Simon, direzione 
+Osoppo)
+17:01
+ 51712   RIVOLIZ.I.  via Rivoli (fronte civico 26, direzione 
+Osoppo)
+14:13 14:13 14:13 14:15 15:21 17:59
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 3 di 6
+  [Pagina 23]
+40 58 32 34 76 36 18 20 78 42 66 38 44 48
+U300 U300 U251 U241 U242 U300 U300 U200 U242 U200 U300 U251 U207 U259
+ 51719   OSOPPO via San Daniele 77 (Ledraplastic) 14:14 14:14 14:14 14:17 15:23 17:02 18:01
+ 51701   OSOPPO via Matteotti (fronte civico 9, centro) 14:19 14:19 14:19 14:18 14:19 15:30 17:04 18:01
+ 51713   OSOPPO via Batterie 1 (centro) 13:55
+ 51705   OSOPPO via Vol.della Libertà (dir.Braulins), loc. 
+Pineta
+14:21 14:21 14:21 13:58 14:21 17:06 18:04
+ 51I10   BRAULINS via Ponte 14:24 14:24 14:24 14:00 14:24 17:09 18:07
+ 51I25   TRASAGHIS piazza Unità d'Italia 9 (direzione 
+Avasinis)
+14:25 14:25 14:26 14:01 14:25 17:11 18:11
+ 51I05   BORGO ONCEDIS via Borgo Oncedis 23 
+(direzione Alesso)
+14:31 14:31 14:31 14:05 14:31 17:17 18:17
+ 51I07   ALESSO piazza I Maggio 38 (direzione 
+Tolmezzo)
+14:35 14:35 14:33 14:07 14:35 14:35 14:38 17:19 18:20
+ 51I08   ALESSO via Lago (fronte civico 81, direzione 
+Tolmezzo)
+14:09 14:38 14:41 17:21 18:26
+ 52A07   INTERNEPPO SR 512 Lago di Cavazzo 
+(stallo sud, dir.Tolmezzo)
+14:11 14:39 14:42 17:22 18:30
+ 52A10   INTERNEPPO via Chiesa Interneppo 3 
+(fontana)
+17:25
+ 52A02   INTERNEPPO via Principale 45 (fontana, 
+direzione Bordano)
+14:39
+ 52A05   BORDANO via Roma 91 (direzione Braulins) 14:43
+ 52A11   BORDANO via Roma 11 (municipio, 
+direzione Braulins)
+14:43
+ 81008   SOMPLAGO Strada Regionale 512 (bar, 
+direzione Cavazzo)
+14:14 18:42
+ 81007   MENA Strada Regionale 512 (bivio, direzione 
+Cavazzo)
+14:15 18:43
+ 81005   CESCLANS Strada Statale 512 (bivio) 14:16
+ 81012   CESCLANS via Plantas (fronte civico 8, 
+campo giochi)
+13:32
+ 81005   CESCLANS Strada Statale 512 (bivio) 13:35 18:45
+ 81015   CAVAZZO via Zorutti 7 (albergo) 13:38 14:21 18:47
+ 81203   TOLMEZZO via 25 Aprile 23 (centro studi) 13:44 14:27 18:54
+ 81201   TOLMEZZO via Carnia Libera 1944 
+(autostazione)
+13:48 14:34 18:55
+VALIDITÀ
+U200 Feriale U264 Feriale escluso il sabato scolastico
+U259 Feriale giorni non scolastici e al sabato scolasti co U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U257 Feriale giorni non scolastici escluso il sabato
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U306 Scolastica solo al sabato
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U378 Feriale escluso sabato del periodo estivo
+U207 Feriale escluso il sabato U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+martedì 23 dicembre 2025Pagina 4 di 6
+  [Pagina 24]
+LINEA 170 (Ritorno)
+Orario valido dal 1 gennaio 2026UDINE-PAGNACCO-MAJANO-OSOPPO-CAVAZZO-TOLMEZZO 
+50 46 30 28 8 52 56 80 26 54
+U307 U307 U257 U307 U306 U264 U200 U306 U306 U264
+ 70101   UDINE viale Europa Unita 37 (autostazione) 17:10 17:15 18:30 18:30 19:30
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 17:15 17:20 18:34 18:34 19:34
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 17:17
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+17:20
+ 70C13   UDINE via del Cotonifcio 73 (Amga) 17:23
+ 70201   UDINE via del Cotonifcio 175 17:24
+ 70148   UDINE piazzale Chiavris 64 17:25 18:39 18:39 19:38
+ 70C01   UDINE via Feletto 113 (trattoria) 17:27 18:41 18:41 19:40
+ 70C02   FELETTO UMBERTO via Mazzini 7 (biblioteca) 17:28
+ 70C07   FELETTO UMBERTO piazza Indipendenza 4 
+(municipio)
+18:45 18:45
+ 50237   FELETTO UMBERTO via Udine (fr. 141, ang.via 
+Cadore dir.Udine
+17:29 18:46 18:46
+ 50311   PAGNACCO via Castellerio 57 (Tabacchi, 
+direzione Pagnacco)
+17:34 18:52 18:52 19:45
+ 50320   PAGNACCO via Castellerio 25 (direzione piazza) 17:35 18:53 18:53 19:46
+ 50301   PAGNACCO via Udine (direzione Colloredo) 17:35
+ 50310   ZAMPIS via Plaino 14 (direzione Plaino) 17:36 18:54 18:54 19:47
+ 50322   ZAMPIS via Divisione Julia 13 (provenienza 
+Plaino)
+17:36 18:54 18:54 19:48
+ 50329   ZAMPIS via Fruch (lato stadio) 17:37 18:54 18:54 19:48
+ 50342   PAGNACCO via dei Colli 9 (direzione centro) 17:38 18:55 18:55 19:50
+ 50331   PAGNACCO via Colloredo (direz. Colloredo), 
+Casali Marolins
+17:36 17:39 18:56 18:56 19:51
+ 50330   PAGNACCO via Colloredo (direz. Colloredo), 
+Casali Modoletto
+17:37 17:41 18:57 18:57 19:52
+ 51138   PAGNACCO SP Osovana (direzione Colloredo), 
+Casali Liola
+17:39 17:42 18:58 18:58 19:53
+ 51137   COLLOREDO DI M.A. via Pradis 25 (direz. centro), 
+loc. Pradis
+17:40 17:43 19:00 19:00 19:54
+ 51102   COLLOREDO DI M.A. piazza Castello 5 
+(direzione Lauzzana)
+17:41 17:45 19:02 19:02 19:56
+ 51127   COLLOREDO DI M.A. via Ippolito Nievo 20 
+(trattoria)
+17:43 17:46 19:02 19:02 19:56
+ 51107   COLLOREDO DI M.A. via Ippolito Nievo 36 
+(poste)
+19:03 19:03
+ 51131   LAUZZANA via Lauzzana 3 (direzione 
+Caporiacco)
+19:04 19:04
+ 51105   LAUZZANA via Lauzzana 6 (direzione 
+Colloredo)
+19:05 19:05
+ 51101   COLLOREDO DI M.A. via Ippolito Nievo 39 
+(municipio)
+19:06 19:06
+ 51135   LAIBACCO via Laibacco (direzione Buja) 17:43 17:47 19:07 19:07 19:57
+ 51132   AVEACCO via Cirenaiche 47 (direzione Majano) 17:45 17:49 19:09 19:09 19:59
+ 51133   MELS via della Libertà (fronte 32, Pesa direzione 
+Majano)
+17:46 17:50 19:10 19:10 20:00
+ 51110   MELS piazza del Tiglio 12 (Là Di Petros, direzione 
+Majano)
+17:47 17:51 19:10 19:10 20:01
+ 51111   MELESONS via Melesons 20 (direzione Majano) 17:48 17:52 19:11 19:11 20:02
+ 51244   PERS via Melesons 54 (chiesa, direzione 
+Majano)
+17:48 17:52 19:12 19:12 20:02
+ 51207   PERS via Ciro di Pers 8 (Canale Ledra, direzione 
+Majano)
+17:49 17:53 19:13 19:13 20:03
+ 51257   MAJANO via Ciro di Pers (fronte civico 60) 17:50 17:55 19:14 19:14 20:04
+ 51201   MAJANO piazza Italia (lato parco) 17:52 18:01 19:16 19:16
+ 51221   MAJANO via Udine 16 (Coop) 20:05
+ 51204   MAJANO viale Rino Snaidero 10 (direzione 
+Susans)
+18:04
+ 51264   COMERZO via Garibaldi 85 (chiesa, provenienza 
+Majano)
+17:54 19:18 19:18
+ 51270   TIVERIACCO via del Castello 10 18:09 19:21 19:21
+ 51217   SUSANS via del Castello fronte 191 
+(monumento ai Caduti)
+18:10 19:22 19:22
+ 51211   TIVERIACCO via Osoppo 18 (trattoria, direzione 
+Osoppo)
+17:56 19:26 19:26
+ 51249   TIVERIACCO via Osoppo (fronte civico 109), 
+loc.Ponte Ledra
+17:57 19:27 19:27
+ 51703   RIVOLI via Rivoli 75 (ex stazione Majano, 
+direzione Osoppo)
+17:59 19:30 19:30
+ 51721   RIVOLI via Rivoli 21 (bar, direzione Osoppo) 18:00 19:30 19:30
+ 51712   RIVOLIZ.I.  via Rivoli (fronte civico 26, direzione 
+Osoppo)
+18:01 19:31 19:31
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 5 di 6
+  [Pagina 25]
+50 46 30 28 8 52 56 80 26 54
+U307 U307 U257 U307 U306 U264 U200 U306 U306 U264
+ 51719   OSOPPO via San Daniele 77 (Ledraplastic) 18:03 19:33 19:33
+ 51701   OSOPPO via Matteotti (fronte civico 9, centro) 18:04 19:34 19:34 19:34
+ 51705   OSOPPO via Vol.della Libertà (dir.Braulins), loc. 
+Pineta
+18:07 19:37 19:37
+ 51I10   BRAULINS via Ponte 18:10 19:39 19:39
+ 51I25   TRASAGHIS piazza Unità d'Italia 9 (direzione 
+Avasinis)
+18:14 19:40 19:40
+ 51I05   BORGO ONCEDIS via Borgo Oncedis 23 
+(direzione Alesso)
+18:20 19:45 19:45
+ 51I07   ALESSO piazza I Maggio 38 (direzione 
+Tolmezzo)
+18:23 19:46 19:46 19:50 19:50
+ 51I08   ALESSO via Lago (fronte civico 81, direzione 
+Tolmezzo)
+18:29 19:52 19:52
+ 52A07   INTERNEPPO SR 512 Lago di Cavazzo 
+(stallo sud, dir.Tolmezzo)
+18:32 19:54 19:54
+ 52A10   INTERNEPPO via Chiesa Interneppo 3 
+(fontana)
+17:37
+ 52A03   INTERNEPPO via Principale 60 (bivio Strada 
+Regionale 512)
+17:38
+ 52A02   INTERNEPPO via Principale 45 (fontana, 
+direzione Bordano)
+19:54 19:54
+ 52A05   BORDANO via Roma 91 (direzione Braulins) 19:57 19:57
+ 52A11   BORDANO via Roma 11 (municipio, 
+direzione Braulins)
+19:58 19:58
+ 81011   SOMPLAGO via Alessandro Volta (fronte 21, 
+Centrale Enel)
+17:30
+ 81008   SOMPLAGO Strada Regionale 512 (bar, 
+direzione Cavazzo)
+18:44 17:40
+ 81017   SOMPLAGO via Alessandro Volta 
+(provenienza centrale)
+17:32
+ 81007   MENA Strada Regionale 512 (bivio, direzione 
+Cavazzo)
+18:45 17:33 17:42
+ 81005   CESCLANS Strada Statale 512 (bivio) 17:34 17:43
+ 81005   CESCLANS Strada Statale 512 (bivio) 18:46
+ 81015   CAVAZZO via Zorutti 7 (albergo) 18:49 17:37 17:46
+ 81203   TOLMEZZO via 25 Aprile 23 (centro studi) 18:56 17:43 17:52
+ 81201   TOLMEZZO via Carnia Libera 1944 
+(autostazione)
+18:58 17:46 17:55
+VALIDITÀ
+U200 Feriale U264 Feriale escluso il sabato scolastico
+U259 Feriale giorni non scolastici e al sabato scolasti co U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole) U257 Feriale giorni non scolastici escluso il sabato
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U306 Scolastica solo al sabato
+U242 Feriale estiva solo al sabato (fne-iniz.scuole) U378 Feriale escluso sabato del periodo estivo
+U207 Feriale escluso il sabato U300 Scolastica
+U307 Scolastica escluso il sabato U251 Feriale giorni non scol. del periodo scolastico
+martedì 23 dicembre 2025Pagina 6 di 6
+  [Pagina 26]
+LINEA 172 (Andata)
+Orario valido dal 1 gennaio 2026UDINE-PLAINO-LAZZACCO-PAGNACCO-UDINE 
+13
+U300
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:33
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 07:37
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:40
+ 70C13   UDINE via del Cotonifcio 73 (Amga) 07:42
+ 70201   UDINE via del Cotonifcio 175 07:43
+ 50319   COLUGNA viale San Daniele 64 07:46
+ 50314   PLAINO via dei Platani 155 (direzione centro) 07:48
+ 50334   PLAINO via Cividina 7 (direzione centro) 07:50
+ 50341   PLAINO via Colugna 15 (direzione centro) 07:50
+ 50336   PLAINO via dei Platani 33 (Chittaro) 07:51
+ 50332   ZAMPIS via Plaino (provenienza Plaino) 07:53
+ 50328   ZAMPIS via Cesare Freschi 07:54
+ 50323   LAZZACCO via della Coda 07:55
+ 50342   PAGNACCO via dei Colli 9 (direzione centro) 07:57
+ 50327   PAGNACCO via Udine (direzione Udine) 07:58
+ 50339   PAGNACCO via Castellerio (direzione Udine) 07:59
+ 50333   PAGNACCO via Castellerio 74 (Tabacchi, 
+direzione Udine)
+08:00
+ 70C41   UDINE via Feletto 136 (trattoria) 08:05
+ 70C56   UDINE piazzale Chiavris 45 08:07
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 08:09
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 08:12
+ 70101   UDINE viale Europa Unita 37 (autostazione) 08:17
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+martedì 23 dicembre 2025Pagina 1 di 1
+  [Pagina 27]
+LINEA 172 (Ritorno)
+Orario valido dal 1 gennaio 2026UDINE-PAGNACCO-LAZZACCO-PLAINO-UDINE 
+20 26 32
+U300 U300 U300
+ 70101   UDINE viale Europa Unita 37 (autostazione) 12:20 12:55 13:20
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 12:25 12:59
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 13:23
+ 70C51   UDINE via Marco Volpe 63 (piazzale Cavedalis) 13:25
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 13:29
+ 70C46   UDINE via Renati 38 (Area 3, Deganutti) 13:31
+ 70148   UDINE piazzale Chiavris 64 12:29 13:02 13:33
+ 70C01   UDINE via Feletto 113 (trattoria) 12:31 13:04 13:35
+ 50311   PAGNACCO via Castellerio 57 (Tabacchi, 
+direzione Pagnacco)
+12:37 13:10 13:41
+ 50320   PAGNACCO via Castellerio 25 (direzione piazza) 12:38 13:11 13:42
+ 50301   PAGNACCO via Udine (direzione Colloredo) 13:12
+ 50326   PAGNACCO via dei Colli 10 (provenienza centro) 12:40 13:13 13:44
+ 50343   ZAMPIS via Fruch (lato scuola) 12:41 13:14 13:46
+ 50328   ZAMPIS via Cesare Freschi 12:41 13:15 13:46
+ 50323   LAZZACCO via della Coda 12:45 13:20 13:50
+ 50342   PAGNACCO via dei Colli 9 (direzione centro) 12:47 13:22 13:52
+ 50310   ZAMPIS via Plaino 14 (direzione Plaino) 12:49 13:23 13:53
+ 50315   PLAINO via dei Platani (Chittaro) 12:50 13:25 13:54
+ 50324   PLAINO via Colugna (provenienza centro) 12:51 13:26 13:56
+ 50312   PLAINO via Cividina 8 (provenienza centro) 12:52 13:27 13:56
+ 50335   PLAINO via dei Platani 110 (provenienza centro) 12:53 13:27 13:58
+ 50338   COLUGNA viale San Daniele 57 (direzione 
+Udine)
+12:56 13:30 14:01
+ 70202   UDINE via del Cotonifcio (fronte civico 175) 12:58 13:32 14:02
+ 70C14   UDINE via del Cotonifcio 60 (Amga) 12:59 13:33 14:03
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 13:02 13:36 14:07
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 13:04 13:38 14:09
+ 70101   UDINE viale Europa Unita 37 (autostazione) 13:10 13:40 14:15
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+martedì 23 dicembre 2025Pagina 1 di 1
+  [Pagina 28]
+LINEA 180 (Andata)
+Orario valido dal 1 gennaio 2026BUJA-MAJANO-MORUZZO-UDINE 
+3 1 27 9 11 13 31 19 21 25
+U300 U300 U250 U300 U200 U300 U250 U300 U200 U200
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 06:43 06:46 09:03
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+06:45 06:48 09:05
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+06:46 06:49 09:06
+ 51406   AVILLA via Liberazione 24 (centro, 
+direzione Tonzolano)
+06:47 06:49 09:06 14:16
+ 51408   TONZOLANO via Liberazione (fronte civico 115) 06:48 06:50 09:07 14:18
+ 51255   CASASOLA via Zorutti 51 (trattoria) 06:50 06:52 09:09 14:20
+ 51258   CASASOLA via Pietro Zorutti (bivio borgo 
+Schiratti)
+06:51 06:53 09:09 14:20
+ 51203   MAJANO via Zorutti rotatoria dir.Centro 06:52 06:53 09:10 14:21
+ 51240   MAJANO via Pietro Zorutti 30 (fronte parco) 06:53 06:54 09:11 14:22
+ 51204   MAJANO viale Rino Snaidero 10 (direzione 
+Susans)
+09:12 14:23
+ 51221   MAJANO via Udine 16 (Coop) 12:29
+ 51265   MAJANO via Udine 44 (angolo via Deveacco, 
+direzione Farla)
+06:55 06:55 12:30
+ 51268   COMERZO SR 463 via Alemagna (fronte chiesa, 
+dir.S.Daniele)
+09:14 14:24
+ 51256   S.TOMASO DI MAJANO via S.Zenone 10 09:15 14:25
+ 51225   S.TOMASO via San Zenone 66 (ex poste, 
+direzione San Daniele)
+09:16 14:26
+ 50I59   BIVIO PER BORGO SOPRAPALUDO via S.Daniele 
+(direzione Farla)
+09:18 14:28
+ 51238   FARLA via San Daniele 3 (trattoria) 09:20 14:30
+ 51253   FARLA via Udine 138 (trattoria, direzione 
+Fagagna)
+06:57 06:56 09:20 12:32 14:31
+ 51250   FORNACI DI MEZZO via Udine 13 (distillerie, 
+dir.Fagagna)
+06:58 06:57 09:21 12:33 14:32
+ 51126   CAPORIACCO via San Daniele 41 (castello, 
+direzione centro)
+07:00 07:01 09:24 12:35 14:34
+ 51119   CAPORIACCO via San Daniele (trattoria, 
+direzione Codugnella)
+07:02 07:02 09:26 12:36 14:36
+ 51136   CODUGNELLA via Sant'Ellero 32 (direzione 
+Colloredo)
+07:03 07:04 09:27 12:38 14:37
+ 51140   CODUGNELLA via Codugnella 24 07:04 07:04 09:27 12:39 14:38
+ 51108   AVEACCO via Cirenaiche 36 14:03
+ 51112   LAIBACCO via Laibacco (direzione Colloredo) 14:05
+ 51107   COLLOREDO DI M.A. via Ippolito Nievo 36 
+(poste)
+14:06
+ 51131   LAUZZANA via Lauzzana 3 (direzione 
+Caporiacco)
+14:07
+ 51142   CODUGNELLA via dei Prati (direz. Moruzzo), loc. 
+Case Sparse
+07:06 07:06 09:29 12:40 14:09 14:39
+ 50415   MORUZZO via Muriacco 13 (bivio, direzione 
+centro)
+07:09 07:10 09:32 12:43 14:12 14:42
+ 50525   VILLAVERDE via delle Acacie (fronte 1, fronte 
+Resort)
+06:55
+ 50531   FAGAGNA via Pecile 14 (bar) 07:00
+ 50532   FAGAGNA via dei Colli 42 (direzione 
+Moruzzo),borgo Riolo
+07:03
+ 50539   MORUZZO via Carbonaria 9 07:08
+ 50535   MORUZZO via Centa Municipio 07:11 07:10 07:11 09:33 12:47 14:12 14:44
+ 50411   MORUZZO via Centa 1 (bivio Casali Gobes, 
+provenienza centro)
+07:12 07:10 07:12 08:25 09:34 12:51 12:51 14:13 14:44 17:58
+ 50402   MORUZZO Strada dei Prati 2 07:11 07:12
+ 50536   MORUZZO via Modotto 1 07:12 07:14
+ 50425   MODOTTO via Ferdinando Tacoli (provenienza 
+Modotto)
+07:13 07:15
+ 50421   MODOTTO via Divisione Julia (provenienza 
+Moruzzo)
+07:13 08:26 09:35 12:52 12:52 14:14 14:46 17:59
+ 50413   BRAZZACCO Str.dei Colli (incr.via del Gruagno, 
+dir. Alnicco)
+07:14 07:15 08:27 09:36 12:53 12:53 14:14 14:46 17:59
+ 50410   BRAZZACCO Strada del Val (Al Fogolar, direzione 
+Alnicco)
+07:15 07:15 07:17 08:28 09:37 12:54 12:54 14:15 14:48 18:01
+ 50405   ALNICCO piazza del Plabiscito 3 (direzione 
+Plaino)
+07:17 07:19 08:29 09:39 12:55 12:55 14:16 14:49 18:02
+ 50324   PLAINO via Colugna (provenienza centro) 07:20 07:22 08:31 09:42 12:57 12:57 14:19 14:52 18:04
+ 50312   PLAINO via Cividina 8 (provenienza centro) 07:20 07:23 08:32 09:42 12:58 12:58 14:19 14:53 18:05
+ 50335   PLAINO via dei Platani 110 (provenienza centro) 07:22 07:24 08:34 09:44 12:59 12:59 14:20 14:54 18:06
+ 50151   PLAINO via dei Brazzà (fronte civico 13, incrocio 
+Fiera)
+07:19
+ 50338   COLUGNA viale San Daniele 57 (direzione 
+Udine)
+07:24 07:22 07:27 08:36 09:46 13:01 13:01 14:22 14:57 18:09
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 1 di 2
+  [Pagina 29]
+3 1 27 9 11 13 31 19 21 25
+U300 U300 U250 U300 U200 U300 U250 U300 U200 U200
+ 70202   UDINE via del Cotonifcio (fronte civico 175) 07:26 07:24 07:29 08:38 09:48 13:04 13:04 14:24 14:59 18:11
+ 70C14   UDINE via del Cotonifcio 60 (Amga) 07:27 07:26 07:30 08:39 09:49 13:05 13:05 14:26 15:00 18:12
+ 70C15   UDINE viale Bassi 56 (piazzale P.Diacono) 07:30 07:31 08:40 09:52 13:06 13:06 14:28 15:02 18:13
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:31
+ 70C49   UDINE viale Ledra 108 (Area 2) 07:32 07:33 08:42 09:54 13:07 13:07 14:29 15:04 18:15
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:33 07:39 07:34 08:43 09:55 13:08 13:08 14:30 15:05 18:16
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:39
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:34 07:39 07:35 08:45 09:56 13:11 13:11 14:32 15:07 18:19
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:35 07:40 07:36 08:47 09:58 13:13 13:13 14:33 15:08 18:20
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:41 07:44 07:45 08:49 10:01 13:15 13:15 14:34 15:13 18:21
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U300 Scolastica
+martedì 23 dicembre 2025Pagina 2 di 2
+  [Pagina 30]
+LINEA 180 (Ritorno)
+Orario valido dal 1 gennaio 2026UDINE-MORUZZO-MAJANO-BUJA 
+2 6 28 8 10 12 14 30 18 20 26 22 24
+U300 U280 U240 U300 U200 U200 U300 U250 U300 U300 U250 U200 U200
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:25 07:50 08:05 09:25 12:20 12:20 13:20 13:20 13:20 17:25 18:25
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 06:28 07:53 08:08 09:28 12:23 12:23 13:23 17:28 18:28
+ 70C50   UDINE via Marco Volpe 7 (piazzale 26 Luglio) 06:29 07:55 08:10 09:30 12:26 12:25 13:25 17:30 18:31
+ 70C51   UDINE via Marco Volpe 63 (piazzale Cavedalis) 06:30 07:56 08:11 09:31 12:27 12:27 17:31 18:32
+ 70216   UDINE via Renati 28 (Area 2) 13:25 13:24
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 13:27 13:26
+ 70164   UDINE viale Leonardo 23 (Area 2, fronte Liceo 
+Marinelli)
+13:28 13:33 13:28
+ 70C58   UDINE via Martignacco (fronte 162, Villaggio 
+del Sole)
+13:30
+ 70C52   UDINE via Giovanni Micesio 37 (piazzale 
+P.Diacono)
+06:31 07:57 08:12 09:33 12:28 12:28 17:32 18:33
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 12:30
+ 70216   UDINE via Renati 28 (Area 2) 12:32
+ 70203   UDINE via Forni di Sotto 13 (piazzale Chiavris) 12:36
+ 70C13   UDINE via del Cotonifcio 73 (Amga) 06:32 08:00 08:14 09:34 12:38 12:29 13:33 13:33 17:34 18:35
+ 70201   UDINE via del Cotonifcio 175 06:33 08:01 08:15 09:36 12:39 12:31 13:34 13:34 17:35 18:37
+ 50319   COLUGNA viale San Daniele 64 06:35 08:03 08:17 09:38 12:41 12:33 13:33 13:37 13:36 17:37 18:40
+ 50314   PLAINO via dei Platani 155 (direzione centro) 06:37 08:06 08:19 09:40 12:43 12:35 13:35 13:39 13:37 17:40 18:42
+ 50334   PLAINO via Cividina 7 (direzione centro) 06:38 08:08 08:21 09:42 12:45 12:37 13:37 13:41 13:39 17:41 18:43
+ 50341   PLAINO via Colugna 15 (direzione centro) 06:39 08:08 08:22 09:42 12:46 12:37 13:39 13:42 13:40 17:42 18:44
+ 50418   ALNICCO piazza del Plebiscito 7 (direzione 
+Brazzacco)
+06:42 08:11 08:24 09:45 12:49 12:40 13:41 13:45 13:43 17:44 18:46
+ 50419   BRAZZACCO Strada del Val (Al Fogolar, direzione 
+Moruzzo)
+06:43 08:13 08:25 09:46 12:50 12:41 13:43 13:46 13:45 17:45 18:49
+ 50426   BRAZZACCO ALTO rotatoria (dir. Moruzzo) 06:44 08:14 08:28 09:48 12:51 12:42 13:44 13:49 13:46 17:47 18:50
+ 50422   BRAZZACCO Str.dei Colli (incr. via del Castello, 
+dir.Moruzzo
+06:45 08:14 08:28 09:48 12:52 12:42 13:44 13:49 13:46 17:47 18:51
+ 50412   MODOTTO via Divisione Julia (provenienza 
+Brazzacco)
+06:45 08:14 08:28 09:48 12:53 12:43 13:45 18:51
+ 50416   MODOTTO via Ferdinando Tacoli (direzione 
+Modotto)
+13:50 13:47 17:48
+ 50507   MORUZZO via Modotto 2 13:52 13:48 17:49
+ 50402   MORUZZO Strada dei Prati 2 08:16 12:44
+ 50415   MORUZZO via Muriacco 13 (bivio, direzione 
+centro)
+08:19 12:47 17:52
+ 50420   MORUZZO via della Rotonda 4 (bivio Casali 
+Gobes, dir.centro)
+06:46 08:30 09:49 12:54 13:47 13:54 13:50 18:52
+ 50430   MORUZZO via Centa fronte Municipio 06:47 08:31 09:51 12:59 13:48 13:55 13:51 18:53
+ 50535   MORUZZO via Centa Municipio 08:20 12:50 17:53
+ 50411   MORUZZO via Centa 1 (bivio Casali Gobes, 
+provenienza centro)
+08:21 12:51 17:55
+ 50514   MORUZZO via Carbonaria 16 (direzione 
+Fagagna)
+06:48
+ 50502   FAGAGNA via dei Colli 11, borgo Riolo 06:49
+ 50501   FAGAGNA via Pecile 10 (bar, direzione 
+Rodeano)
+06:53 06:40 06:45
+ 50424   MORUZZO via Muriacco 16 (direzione 
+Codugnella)
+08:31 09:51 13:00 13:49 13:55 13:51 18:54
+ 51128   CODUGNELLA via dei Prati (prov.Moruzzo), loc. 
+Case Sparse
+08:35 09:54 13:03 13:53 13:56 13:55 18:58
+ 51105   LAUZZANA via Lauzzana 6 (direzione 
+Colloredo)
+13:55
+ 51101   COLLOREDO DI M.A. via Ippolito Nievo 39 
+(municipio)
+13:56
+ 51135   LAIBACCO via Laibacco (direzione Buja) 13:57
+ 51132   AVEACCO via Cirenaiche 47 (direzione Majano) 13:59
+ 51125   CODUGNELLA via Codugnella 29 08:37 09:56 13:05 14:00 13:56 19:00
+ 51113   CODUGNELLA via Sant'Ellero 21 (direzione 
+Fagagna)
+08:38 09:57 13:05 14:01 13:57 19:00
+ 51139   CAPORIACCO piazza I Maggio 20 
+(provenienza Codugnella)
+08:39 09:58 13:06 14:01 13:59 19:03
+ 51141   CAPORIACCO via San Daniele 36 (castello, 
+provenienza centro)
+08:40 10:00 13:07 14:04 14:00 19:04
+ 51213   FORNACI DI MEZZO via Udine (distillerie) 06:46 06:51 08:43 10:02 13:10 14:04 14:03 19:07
+ 51220   FARLA via Udine 255 (trattoria) 06:47 06:52 08:44 10:04 13:11 14:08 14:04 19:08
+ 51260   FARLA via San Daniele 2 (trattoria, direzione 
+San Daniele)
+19:09
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 1 di 2
+  [Pagina 31]
+2 6 28 8 10 12 14 30 18 20 26 22 24
+U300 U280 U240 U300 U200 U200 U300 U250 U300 U300 U250 U200 U200
+ 50I12   BIVIO PER BORGO SOPRAPALUDO via San 
+Daniele (dir.San Tomaso)
+19:11
+ 51256   S.TOMASO DI MAJANO via S.Zenone 10 19:12
+ 51225   S.TOMASO via San Zenone 66 (ex poste, 
+direzione San Daniele)
+19:13
+ 51245   COMERZO via Garibaldi (fronte 85, chiesa 
+direzione Majano)
+19:16
+ 51215   MAJANO via Deveacco 1 19:19
+ 51251   MAJANO via Udine 73 (angolo via Deveacco) 06:48 06:53 08:46 10:06 13:12 14:10 14:06
+ 51201   MAJANO piazza Italia (lato parco) 06:49 06:54 13:13
+ 51204   MAJANO viale Rino Snaidero 10 (direzione 
+Susans)
+06:50 06:55
+ 51262   MAJANO via Pietro Zorutti (fronte civico 30, lato 
+parco)
+08:47 10:07 14:10 14:07 19:20
+ 51202   MAJANO via Zorutti rotatoria dir. Buia 08:48 10:08 14:11 14:08 19:21
+ 51235   CASASOLA via Zorutti 120 (bivio borgo Schiratti,  
+dir.Buja)
+08:49 10:09 14:12 14:09 19:22
+ 51232   CASASOLA via Zorutti 100 (trattoria, direzione 
+Buja)
+08:50 10:10 14:13 14:09 19:23
+ 51409   TONZOLANO via Liberazione 115 08:53 10:13 14:15 14:12 19:26
+ 51460   AVILLA via Liberazione 15 (centro, direz. 
+S.Stefano di Buja)
+08:54 10:14 14:16 14:13 19:27
+ 51445   AVILLA SP 49 (bivio, direzione Santo Stefano di 
+Buja)
+08:55 10:15 14:14 19:28
+ 51444   URSININS Strada Provinciale 49 (civico 51) 08:55 10:15 14:14 19:28
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 08:58 10:18 14:18 19:30
+VALIDITÀ
+U200 Feriale U280 Feriale invernale (periodo scolastico) escluso sab ati non scolastici
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U300 Scolastica
+martedì 23 dicembre 2025Pagina 2 di 2
+  [Pagina 32]
+LINEA 181 (Andata)
+Orario valido dal 1 gennaio 2026BUJA-TREPPO GRANDE-TRICESIMO-UDINE 
+5 45 3 7 9 11 17 19 21 23 29 31 33 41
+U300 U250 U300 U300 U300 U250 U200 U200 U200 U300 U300 U300 U300 U250
+ 51435   TOMBA DI BUJA piazza Chiesa 11 06:35 08:50 10:35 14:10
+ 51464   SAN FLOREANO DI BUJA via Ledra (lato piazza 
+delle Acque)
+06:38 08:53 10:38 14:13
+ 51473   SOPRAMONTE DI BUJA via Ledra (lato via 
+Cjagjalot)
+06:39 08:54 10:39 14:14
+ 51480   SOPRAMONTE DI BUJA via Ledra (fronte civico 
+33)
+06:40 08:55 10:40 14:15
+ 51465   SOPRAMONTE DI BUJA via Sopramonte 21 
+(angolo via Solaris)
+06:41 08:55 10:41 14:16
+ 51471   MADONNA DI BUJA via Madonna 101 (bivio 
+Solaris)
+06:41 08:56 10:41 14:16
+ 51416   MADONNA DI BUJA piazza Madonna 2 06:42 08:57 10:42 14:17
+ 51467   URBIGNACCO piazza Urbignacco 3 06:44 08:58 10:43 14:19
+ 51474   SANTO STEFANO DI BUJA via Arrio 25 06:45 08:59 10:45 14:20
+ 51435   TOMBA DI BUJA piazza Chiesa 11 06:41 13:08
+ 51453   SAN FLOREANO DI BUJA via San Floreano 15 
+(bar)
+06:45 13:12
+ 51407   AVILLA via Avilla 71 (centro) 06:47 13:14
+ 51445   AVILLA SP 49 (bivio, direzione Santo Stefano di 
+Buja)
+06:47 13:14
+ 51444   URSININS Strada Provinciale 49 (civico 51) 06:48 13:16
+ 51457   URSININS via Vidiset 38 (scuola media) 13:18
+ 51476   URSININS via Santo Stefano 153 13:20
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 06:35 06:48 06:50 06:50 06:50 06:50 07:30 09:00 10:46 12:59 13:22 13:23 13:58 14:21
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 09:05 10:49 14:32
+ 51536   ZEGLIANUTTO via dei Colli (fronte 12, bivio 
+Mussarie)
+06:39
+ 51528   ZEGLIACCO via Zegliacco (fronte civico 2, 
+direzione Treppo)
+06:54 06:55 07:35 09:09 10:54 13:28 14:03 14:36
+ 51529   ZEGLIANUTTO via Giuseppe Verdi (lato chiesa, 
+dir. Treppo)
+06:55 06:55 07:36 09:10 10:55 13:29 14:04 14:37
+ 51501   TREPPO GRANDE piazza Marconi 3 
+(municipio)
+06:40 06:57 06:57 07:38 09:12 10:57 13:31 14:06 14:40
+ 51451   BUJA via Collosomano 112 (direzione Carvacco) 06:52 13:01
+ 51462   BUJA via Collosomano 158 (direzione 
+Carvacco)
+06:53 13:02
+ 51405   BORGO SALA via Sala 6 (direzione Carvacco) 06:54 13:03
+ 51509   CARVACCO via Puccini 2 (centro, direzione 
+Vendoglio)
+06:55 07:00 07:40 09:15 11:00 13:04 13:35 14:08 14:42
+ 51520   CARVACCO via Puccini 22 (incr. via Graonetti, 
+dir.Vendoglio)
+06:56 07:01 07:41 09:16 11:01 13:05 13:36 14:09 14:43
+ 51505   VENDOGLIO via Floreani (fronte chiesa) 06:58 07:01 07:42 09:17 11:02 13:06 13:37 14:10 14:44
+ 51521   VENDOGLIO via Zardini 4 (direzione Cassacco), 
+borgo Moretti
+06:59 07:02 07:43 09:18 11:03 13:07 13:37 14:11 14:46
+ 51502   TREPPO PICCOLO via Vittorio Veneto 1 
+(direzione Cassacco)
+07:00 07:04 07:44 09:19 11:05 13:08 13:39 14:13 14:47
+ 51524   TREPPO PICCOLO via Tricesimo (dir. Cassacco), 
+borgo Lucchis
+06:41
+ 51625   RASPANO via Sante Gerussi 1 (direzione 
+Cassacco)
+07:01
+ 51619   RASPANO via Manzoni (incrocio SP55, direzione 
+centro)
+07:05 07:45 09:21 11:06 13:40 14:13 14:48
+ 51627   RASPANO viale Bindo Chiurlo (incr.via Manzoni, 
+dir.Cassacco)
+06:42 07:01 13:08
+ 51621   RASPANO via Manzoni 17 07:06 07:46 09:21 11:07 13:41 14:14 14:49
+ 51635   RASPANO via Manzoni 1 (centro) 07:06 07:47 09:22 11:07 13:41 14:15 14:51
+ 51640   RASPANO via Borgo di Sopra (fronte 26, 
+direzione Cassacco)
+07:02 07:07 07:48 09:23 11:08 13:42 14:16 14:52
+ 51626   CASSACCO via Bindo Chiurlo 17 (bivio 
+Martinazzo, dir.Udine)
+06:43 07:02 13:09
+ 51631   MARTINAZZO via Leonardo (fronte 12, direzione 
+Cassacco)
+07:04 07:09 07:49 09:25 11:10 13:44 14:17 14:54
+ 51632   CASSACCO via L.da Vinci (fronte 1, bivio 
+direzione Udine)
+07:06 07:10 07:51 09:26 11:11 13:45 14:18 14:55
+ 51628   CASSACCO viale Udine (rotonda, direzione 
+Udine)
+06:43 07:05 07:08 07:11 07:52 09:27 11:13 13:10 13:46 14:19 14:56
+ 51639   CASSACCO viale Udine 30 (trattoria, direzione 
+Udine)
+06:44 07:06 07:09 07:12 07:52 09:28 11:14 13:10 13:47 14:20 14:57
+ 60101   TRICESIMO via Nazionale 8 (piazza Mazzini, 
+direzione Udine)
+06:46 07:12 07:14 07:55 09:31 11:17 13:12 13:50 14:22 15:00
+ 60175   TRICESIMO piazza Giuseppe Verdi 20 06:47 07:11 07:15 07:17 07:57 09:34 11:19 13:14 13:50 14:25 15:02
+ 60169   TRICESIMO via Roma 220 (bivio Reana, 
+direzione Udine)
+06:48 07:15 07:18 07:58 09:36 11:21 13:16 13:52 14:25 15:03
+ 60168   REANA via Nazionale (rotonda SS 13, direzione 
+Udine)
+07:17 07:19 08:00 09:38 11:23 13:17 13:54 14:26 15:05
+ 50231   TAVAGNACCO SP 4 via Nazionale 139 (Arteni, 
+direzione Udine)
+07:18 07:21 08:02 09:40 11:25 13:18 13:56 14:27 15:06
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 1 di 4
+  [Pagina 33]
+5 45 3 7 9 11 17 19 21 23 29 31 33 41
+U300 U250 U300 U300 U300 U250 U200 U200 U200 U300 U300 U300 U300 U250
+ 50234   ADEGLIACCO via Nazionale (rotonda 
+Euromercato, direz. Udine)
+07:22 08:04 09:41 11:26 13:20 13:58 14:29 15:08
+ 50235   CAVALICCO via Nazionale 67 (semaforo, 
+direzione Udine)
+07:24 08:05 09:43 11:28 13:21 13:59 14:30 15:10
+ 70117   UDINE via Tricesimo 264 (Tre Sorelle) 07:25 08:07 09:44 11:30 13:22 14:01 14:31 15:11
+ 70212   UDINE via Tricesimo 204 (Terminal Nord) 07:25 08:07 09:45 11:31 13:23 14:02 14:32 15:12
+ 70C56   UDINE piazzale Chiavris 45 06:56 07:22 07:29 08:12 09:49 11:35 13:26 14:05 14:36 15:15
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 06:58 13:29
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:33
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:37
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:39
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:42
+ 70229   UDINE piazzale Rita Levi Montalcini 
+(Terminal Studenti)
+07:05 13:35
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 07:26 07:32 08:17 09:53 11:38 14:08 14:39 15:18
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 07:30 07:34 08:19 09:55 11:41 14:10 14:41 15:20
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:40 07:44 07:41 08:25 09:58 11:44 14:14 14:46 15:26
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U300 Scolastica U307 Scolastica escluso il sabato
+martedì 23 dicembre 2025Pagina 2 di 4
+  [Pagina 34]
+LINEA 181 (Andata)
+Orario valido dal 1 gennaio 2026BUJA-TREPPO GRANDE-TRICESIMO-UDINE 
+55 57 49 53 43
+U300 U300 U307 U200 U300
+ 51435   TOMBA DI BUJA piazza Chiesa 11 14:10
+ 51464   SAN FLOREANO DI BUJA via Ledra (lato piazza 
+delle Acque)
+14:13
+ 51473   SOPRAMONTE DI BUJA via Ledra (lato via 
+Cjagjalot)
+14:14
+ 51480   SOPRAMONTE DI BUJA via Ledra (fronte civico 
+33)
+14:15
+ 51465   SOPRAMONTE DI BUJA via Sopramonte 21 
+(angolo via Solaris)
+14:16
+ 51471   MADONNA DI BUJA via Madonna 101 (bivio 
+Solaris)
+14:16
+ 51416   MADONNA DI BUJA piazza Madonna 2 14:17
+ 51467   URBIGNACCO piazza Urbignacco 3 14:19
+ 51474   SANTO STEFANO DI BUJA via Arrio 25 14:20
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 14:21 16:30 17:05 18:55
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 14:32
+ 51536   ZEGLIANUTTO via dei Colli (fronte 12, bivio 
+Mussarie)
+18:56
+ 51528   ZEGLIACCO via Zegliacco (fronte civico 2, 
+direzione Treppo)
+14:36 16:34 17:10
+ 51529   ZEGLIANUTTO via Giuseppe Verdi (lato chiesa, 
+dir. Treppo)
+14:37 16:35 17:11
+ 51501   TREPPO GRANDE piazza Marconi 3 
+(municipio)
+14:40 16:37 17:13 18:57
+ 51509   CARVACCO via Puccini 2 (centro, direzione 
+Vendoglio)
+14:42 16:39 17:16
+ 51520   CARVACCO via Puccini 22 (incr. via Graonetti, 
+dir.Vendoglio)
+14:43 16:40 17:16
+ 51505   VENDOGLIO via Floreani (fronte chiesa) 14:44 16:41 17:17
+ 51521   VENDOGLIO via Zardini 4 (direzione Cassacco), 
+borgo Moretti
+14:46 16:42 17:18
+ 51502   TREPPO PICCOLO via Vittorio Veneto 1 
+(direzione Cassacco)
+14:47 16:43 17:20
+ 51524   TREPPO PICCOLO via Tricesimo (dir. Cassacco), 
+borgo Lucchis
+18:58
+ 51619   RASPANO via Manzoni (incrocio SP55, direzione 
+centro)
+14:48 16:44 17:21
+ 51627   RASPANO viale Bindo Chiurlo (incr.via Manzoni, 
+dir.Cassacco)
+18:59
+ 51621   RASPANO via Manzoni 17 14:49 16:44 17:21
+ 51635   RASPANO via Manzoni 1 (centro) 14:51 16:45 17:22
+ 51640   RASPANO via Borgo di Sopra (fronte 26, 
+direzione Cassacco)
+14:52 16:46 17:22
+ 51626   CASSACCO via Bindo Chiurlo 17 (bivio 
+Martinazzo, dir.Udine)
+19:00
+ 51631   MARTINAZZO via Leonardo (fronte 12, direzione 
+Cassacco)
+14:54 16:47 17:24
+ 51632   CASSACCO via L.da Vinci (fronte 1, bivio 
+direzione Udine)
+14:55 16:48 17:25
+ 51628   CASSACCO viale Udine (rotonda, direzione 
+Udine)
+14:56 16:49 17:26 19:01
+ 51639   CASSACCO viale Udine 30 (trattoria, direzione 
+Udine)
+14:57 16:50 17:27 19:02
+ 60101   TRICESIMO via Nazionale 8 (piazza Mazzini, 
+direzione Udine)
+15:00 16:53 17:31 19:07
+ 60175   TRICESIMO piazza Giuseppe Verdi 20 15:02 16:57 17:32
+ 60169   TRICESIMO via Roma 220 (bivio Reana, 
+direzione Udine)
+15:03 16:57 17:34
+ 60168   REANA via Nazionale (rotonda SS 13, direzione 
+Udine)
+15:05 16:59 17:36
+ 50231   TAVAGNACCO SP 4 via Nazionale 139 (Arteni, 
+direzione Udine)
+15:06 17:02 17:38
+ 50234   ADEGLIACCO via Nazionale (rotonda 
+Euromercato, direz. Udine)
+15:08 17:03 17:40
+ 50235   CAVALICCO via Nazionale 67 (semaforo, 
+direzione Udine)
+15:10 17:05 17:42
+ 70117   UDINE via Tricesimo 264 (Tre Sorelle) 15:11 17:07 17:45
+ 70212   UDINE via Tricesimo 204 (Terminal Nord) 15:12 17:08 17:46
+ 70C56   UDINE piazzale Chiavris 45 15:15 17:13 17:50
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 15:18 17:17 17:53
+ 70C53   UDINE viale Trieste 21 (Carabinieri) 15:20 17:20 17:56
+ 70101   UDINE viale Europa Unita 37 (autostazione) 15:26 17:25 18:00
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 3 di 4
+  [Pagina 35]
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U300 Scolastica U307 Scolastica escluso il sabato
+martedì 23 dicembre 2025Pagina 4 di 4
+  [Pagina 36]
+LINEA 181 (Ritorno)
+Orario valido dal 1 gennaio 2026UDINE-TRICESIMO-TREPPO GRANDE-BUJA 
+10 12 18 26 20 24 38 32 34 42 36 48 50 46
+U300 U200 U200 U300 U250 U300 U300 U300 U200 U250 U307 U307 U306 U250
+ 70101   UDINE viale Europa Unita 37 (autostazione) 06:15 07:45 09:30 12:05 12:10 12:10 13:30 14:31 17:30 17:35 17:40 17:40 18:45
+ 70216   UDINE via Renati 28 (Area 2) 06:18 07:50 09:33 12:09 12:14 12:14 13:35 14:35 17:34 17:40 17:43 17:43 18:49
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 12:12
+ 70229   UDINE piazzale Rita Levi Montalcini 
+(Terminal Studenti)
+12:16 13:35
+ 70C70   UDINE viale Monsignor Nogara (lato Stringher) 12:19 13:36
+ 70148   UDINE piazzale Chiavris 64 06:21 07:54 09:36 12:18 12:18 13:38 14:39 17:38 17:45 17:48 17:48 18:54
+ 70211   UDINE via Tricesimo 149 (Terminal Nord, 
+direzione Gemona)
+06:23 07:58 09:39 12:21 12:22 13:40 14:41 17:41 17:48 17:51 17:51 18:56
+ 70171   MOLIN NUOVO via Nazionale (fronte Unicredit, 
+dir. Gemona)
+06:24 08:00 09:43 12:22 12:23 13:42 14:42 17:42 17:50 17:54 17:54 18:57
+ 50215   CAVALICCO via Nazionale (fronte 71,  dir. 
+Gemona)
+06:25 08:01 09:44 12:24 12:24 13:43 14:44 17:44 17:51 17:54 17:54 18:59
+ 50211   ADEGLIACCO via Nazionale (rotonda 
+Euromercato, dir.Gemona)
+06:26 08:02 09:44 12:25 12:25 13:44 14:45 17:45 17:52 17:55 17:55 19:00
+ 50203   TAVAGNACCO SP 4 via Nazionale 37 (Prenatal, 
+dir.Tricesimo)
+06:28 08:05 09:47 12:27 12:27 12:27 13:43 13:45 14:47 17:47 17:54 17:58 17:58 19:01
+ 60172   REANA via Roma 281 (rotonda SS 13, direzione 
+Gemona)
+06:30 08:07 09:49 12:29 12:29 12:29 13:45 13:47 14:49 17:49 17:56 18:00 18:00 19:03
+ 60152   TRICESIMO via Roma 125 (bivio Reana) 06:30 08:08 09:50 12:30 12:30 12:29 13:46 13:49 14:49 17:51 17:58 18:01 18:01 19:04
+ 60157   TRICESIMO via Roma (fronte civico 60, Terminal) 06:32 08:10 09:51 12:32 12:31 12:32 13:48 13:50 14:52 17:56 18:02 18:06 18:06 19:07
+ 60109   TRICESIMO via dei Caduti 6 (piazza Mazzini, 
+dir. Tarcento)
+06:33 08:13 09:54 12:33 12:34 12:34 13:50 13:52 14:53 17:58 18:04 18:08 18:08 19:09
+ 51622   CASSACCO viale Udine 15 (trattoria) 06:35 08:15 09:56 12:35 12:36 12:36 13:52 13:54 14:55 18:00 18:08 18:11 18:11 19:12
+ 51601   CASSACCO viale Udine (rotonda) direzione 
+Treppo
+06:36 08:15 09:57 12:39 12:37 12:38 13:55 13:56 14:56 18:01 18:09 18:12 18:12 19:13
+ 51610   CASSACCO via Leonardo da Vinci 2 (bivio 
+Martinazzo)
+06:38 08:16 09:58 12:38 12:38 13:57 14:58 18:02 18:10 19:14
+ 51609   MARTINAZZO via Leonardo da Vinci 12 
+(direzione Raspano)
+06:39 08:17 09:59 12:39 13:58 14:58 18:03 19:14
+ 51645   MARTINAZZO via Camillo Benso Conte di Cavour 
+2 (dir. Treppo)
+12:39 18:11
+ 51643   CASSACCO via Bindo Chiurlo (fronte 19, bivio 
+Martinazzo)
+12:39 13:56 18:12 18:12
+ 51623   RASPANO via Borgo di Sopra 31 06:41 08:19 10:01 12:41 14:00 15:00 18:05 19:16
+ 51618   RASPANO via Manzoni 2 (centro, direzione 
+Cassacco)
+06:43 08:20 10:02 12:42 15:01 18:06 19:17
+ 51638   RASPANO via Manzoni (fronte civico 17, 
+direzione Cassacco)
+06:43 08:20 10:02 12:42 15:01 18:07 19:17
+ 51636   RASPANO via Manzoni (incrocio SP 55, 
+direzione Treppo)
+15:02 18:07
+ 51644   RASPANO via Bindo Chiurlo (incr. via Manzoni, 
+direz. Treppo)
+12:40 13:57 18:12
+ 51619   RASPANO via Manzoni (incrocio SP55, direzione 
+centro)
+12:40 18:14 18:14
+ 51636   RASPANO via Manzoni (incrocio SP 55, 
+direzione Treppo)
+06:44 08:21 10:03 12:43 19:18
+ 51621   RASPANO via Manzoni 17 12:41 18:14 18:14
+ 51642   RASPANO via Patriarcato (fronte civico 11, 
+direzione Treppo)
+12:42 14:01 18:15 18:15
+ 51535   TREPPO PICCOLO via Ellero (direz. Vendoglio), 
+borgo Lucchis
+06:45
+ 51537   TREPPO PICCOLO via Vittorio Veneto (fr. 1, 
+lato via Ellero)
+06:47 08:22 10:04 12:44 12:42 13:58 15:03 18:09 18:13 19:19
+ 51533   VENDOGLIO via Zardini (fronte civico 4), borgo 
+Moretti
+06:50 08:24 10:05 12:45 12:43 14:00 15:04 18:10 18:14 19:21
+ 51504   VENDOGLIO piazza 4 Novembre 4 (lato chiesa) 06:52 08:25 10:07 12:46 12:44 14:01 15:05 18:11 18:15 19:22
+ 51532   CARVACCO via Puccini 21 (incrocio via 
+Graonetti)
+06:54 08:26 10:08 12:47 12:45 14:02 15:06 18:12 18:16 19:23
+ 51530   CARVACCO via Puccini 1 (centro) 06:55 08:27 10:09 12:48 12:46 14:03 15:07 18:13 18:17 19:24
+ 51459   BORGO SALA via Sala 4 (direzione Santo 
+Stafano di Buja)
+12:47 14:05 18:19
+ 51412   BUJA via Collosomano 145 12:48 14:06 18:20
+ 51475   BUJA via Collosomano 43 12:49 14:06 18:21
+ 51526   TREPPO GRANDE piazza Marconi 8 
+(municipio, direzione Buja)
+06:58 08:30 10:12 12:45 12:51 14:04 15:11 18:16 18:18 18:18 19:29
+ 51506   ZEGLIANUTTO via Giuseppe Verdi (fronte 
+chiesa, direz. Buja)
+07:01 08:31 10:14 12:46 12:52 14:06 15:12 18:18 18:20 18:20 19:29
+ 51503   ZEGLIACCO via Zegliacco 2 (direzione Buja) 07:02 08:32 10:15 12:48 12:53 14:07 15:13 18:19 18:21 18:21 19:30
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 07:09 08:37 10:20 12:54 13:02 12:54 14:10 14:15 15:18 18:30 18:26 18:28 18:28 19:37
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+08:39 10:22 14:11 15:20
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+08:40 10:23 14:12 15:20
+ 51404   AVILLA via Monsignor Beinat 7 (centro, 
+direzione Tomba)
+08:41 10:24 14:13 15:21
+ 51477   SAN FLOREANO via San Floreano fronte 15 (bar) 08:43 10:25 14:15 15:23
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 1 di 3
+  [Pagina 37]
+10 12 18 26 20 24 38 32 34 42 36 48 50 46
+U300 U200 U200 U300 U250 U300 U300 U300 U200 U250 U307 U307 U306 U250
+ 51458   SAN FLOREANO via San Floreano 32 (bar) 08:44 10:26 14:22 15:24
+ 51435   TOMBA DI BUJA piazza Chiesa 11 08:47 10:32 15:33
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato
+martedì 23 dicembre 2025Pagina 2 di 3
+  [Pagina 38]
+LINEA 181 (Ritorno)
+Orario valido dal 1 gennaio 2026UDINE-TRICESIMO-TREPPO GRANDE-BUJA 
+44 52
+U300 U300
+ 70101   UDINE viale Europa Unita 37 (autostazione) 18:45
+ 70216   UDINE via Renati 28 (Area 2) 18:49
+ 70148   UDINE piazzale Chiavris 64 18:53
+ 70211   UDINE via Tricesimo 149 (Terminal Nord, 
+direzione Gemona)
+18:56
+ 70171   MOLIN NUOVO via Nazionale (fronte Unicredit, 
+dir. Gemona)
+18:58
+ 50215   CAVALICCO via Nazionale (fronte 71,  dir. 
+Gemona)
+18:59
+ 50211   ADEGLIACCO via Nazionale (rotonda 
+Euromercato, dir.Gemona)
+19:01
+ 50203   TAVAGNACCO SP 4 via Nazionale 37 (Prenatal, 
+dir.Tricesimo)
+19:02
+ 60172   REANA via Roma 281 (rotonda SS 13, direzione 
+Gemona)
+19:04
+ 60152   TRICESIMO via Roma 125 (bivio Reana) 19:05
+ 60157   TRICESIMO via Roma (fronte civico 60, Terminal) 19:08
+ 60109   TRICESIMO via dei Caduti 6 (piazza Mazzini, 
+dir. Tarcento)
+19:10 19:10
+ 51622   CASSACCO viale Udine 15 (trattoria) 19:12 19:13
+ 51601   CASSACCO viale Udine (rotonda) direzione 
+Treppo
+19:14 19:14
+ 51610   CASSACCO via Leonardo da Vinci 2 (bivio 
+Martinazzo)
+19:15
+ 51645   MARTINAZZO via Camillo Benso Conte di Cavour 
+2 (dir. Treppo)
+19:16
+ 51643   CASSACCO via Bindo Chiurlo (fronte 19, bivio 
+Martinazzo)
+19:14
+ 51644   RASPANO via Bindo Chiurlo (incr. via Manzoni, 
+direz. Treppo)
+19:17
+ 51619   RASPANO via Manzoni (incrocio SP55, direzione 
+centro)
+19:15
+ 51621   RASPANO via Manzoni 17 19:16
+ 51642   RASPANO via Patriarcato (fronte civico 11, 
+direzione Treppo)
+19:17
+ 51537   TREPPO PICCOLO via Vittorio Veneto (fr. 1, 
+lato via Ellero)
+19:18
+ 51533   VENDOGLIO via Zardini (fronte civico 4), borgo 
+Moretti
+19:19
+ 51504   VENDOGLIO piazza 4 Novembre 4 (lato chiesa) 19:20
+ 51532   CARVACCO via Puccini 21 (incrocio via 
+Graonetti)
+19:20
+ 51530   CARVACCO via Puccini 1 (centro) 19:21
+ 51459   BORGO SALA via Sala 4 (direzione Santo 
+Stafano di Buja)
+19:23
+ 51412   BUJA via Collosomano 145 19:23
+ 51475   BUJA via Collosomano 43 19:24
+ 51526   TREPPO GRANDE piazza Marconi 8 
+(municipio, direzione Buja)
+19:20
+ 51506   ZEGLIANUTTO via Giuseppe Verdi (fronte 
+chiesa, direz. Buja)
+19:21
+ 51503   ZEGLIACCO via Zegliacco 2 (direzione Buja) 19:22
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 19:33 19:32
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U306 Scolastica solo al sabato U300 Scolastica
+U307 Scolastica escluso il sabato
+martedì 23 dicembre 2025Pagina 3 di 3
+  [Pagina 39]
+LINEA 182 (Andata)
+Orario valido dal 1 gennaio 2026BUJA-PAGNACCO-UDINE 
+3 71
+U300 U300
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 07:00 07:10
+ 51452   URSININS via Santo Stefano 154 07:02 07:12
+ 51457   URSININS via Vidiset 38 (scuola media) 07:14
+ 51116   PAGNACCO SP Osovana (direzione Pagnacco), 
+Casali Liola
+07:09 07:21
+ 50307   PAGNACCO via Colloredo (direz. 
+Pagnacco), Casali Modoletto
+07:10 07:22
+ 50308   PAGNACCO via Colloredo (direz. Pagnacco), 
+Casali Marolins
+07:11 07:23
+ 50326   PAGNACCO via dei Colli 10 (provenienza centro) 07:12 07:24
+ 50343   ZAMPIS via Fruch (lato scuola) 07:13 07:25
+ 50340   ZAMPIS via Divisione Julia 8 (direzione Plaino) 07:14 07:26
+ 50339   PAGNACCO via Castellerio (direzione Udine) 07:14
+ 50333   PAGNACCO via Castellerio 74 (Tabacchi, 
+direzione Udine)
+07:16
+ 70C41   UDINE via Feletto 136 (trattoria) 07:23
+ 50315   PLAINO via dei Platani (Chittaro) 07:28
+ 50335   PLAINO via dei Platani 110 (provenienza centro) 07:30
+ 50338   COLUGNA viale San Daniele 57 (direzione 
+Udine)
+07:33
+ 70C56   UDINE piazzale Chiavris 45 07:24
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 07:28
+ 70C18   UDINE viale Cadore 61 (Bertoni) 07:36
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:38
+ 70202   UDINE via del Cotonifcio (fronte civico 175) 07:34
+ 70C14   UDINE via del Cotonifcio 60 (Amga) 07:35
+ 70229   UDINE piazzale Rita Levi Montalcini (Terminal 
+Studenti)
+07:41
+ 70C49   UDINE viale Ledra 108 (Area 2) 07:43 07:46
+ 70C23   UDINE viale Ledra 2 (piazzale 26 Luglio) 07:44 07:48
+ 70184   UDINE viale Giuseppe Duodo 50 (piazzale 26 
+Luglio)
+07:45 07:48
+ 70C69   UDINE viale delle Ferriere 26 (piazzale Cella) 07:47 07:50
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:48 07:52
+ 70101   UDINE viale Europa Unita 37 (autostazione) 07:51 07:55
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+martedì 23 dicembre 2025Pagina 1 di 1
+  [Pagina 40]
+LINEA 182 (Ritorno)
+Orario valido dal 1 gennaio 2026UDINE-PAGNACCO-BUJA 
+28
+U300
+ 70101   UDINE viale Europa Unita 37 (autostazione) 13:20
+ 70216   UDINE via Renati 28 (Area 2) 13:25
+ 70C48   UDINE via San Daniele 60 (piazzale Osoppo) 13:27
+ 70229   UDINE piazzale Rita Levi Montalcini 
+(Terminal Studenti)
+13:32
+ 70C70   UDINE viale Monsignor Nogara (lato Stringher) 13:33
+ 50301   PAGNACCO via Udine (direzione Colloredo) 13:43
+ 50331   PAGNACCO via Colloredo (direz. Colloredo), 
+Casali Marolins
+13:44
+ 50330   PAGNACCO via Colloredo (direz. Colloredo), 
+Casali Modoletto
+13:45
+ 51138   PAGNACCO SP Osovana (direzione Colloredo), 
+Casali Liola
+13:46
+ 51476   URSININS via Santo Stefano 153 13:54
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 13:56
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+martedì 23 dicembre 2025Pagina 1 di 1
+  [Pagina 41]
+LINEA 183 (Andata)
+Orario valido dal 1 gennaio 2026BUJA-COLLOREDO M.ALBANO-LAUZZANA-MAJANO 
+35
+U300
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 13:36
+ 51451   BUJA via Collosomano 112 (direzione Carvacco) 13:39
+ 51462   BUJA via Collosomano 158 (direzione 
+Carvacco)
+13:39
+ 51405   BORGO SALA via Sala 6 (direzione Carvacco) 13:40
+ 51509   CARVACCO via Puccini 2 (centro, direzione 
+Vendoglio)
+13:41
+ 51520   CARVACCO via Puccini 22 (incr. via Graonetti, 
+dir.Vendoglio)
+13:42
+ 51112   LAIBACCO via Laibacco (direzione Colloredo) 13:45
+ 51107   COLLOREDO DI M.A. via Ippolito Nievo 36 
+(poste)
+13:46
+ 51131   LAUZZANA via Lauzzana 3 (direzione 
+Caporiacco)
+13:50
+ 51125   CODUGNELLA via Codugnella 29 13:53
+ 51113   CODUGNELLA via Sant'Ellero 21 (direzione 
+Fagagna)
+13:53
+ 51139   CAPORIACCO piazza I Maggio 20 
+(provenienza Codugnella)
+13:54
+ 51141   CAPORIACCO via San Daniele 36 (castello, 
+provenienza centro)
+13:55
+ 51213   FORNACI DI MEZZO via Udine (distillerie) 13:58
+ 51220   FARLA via Udine 255 (trattoria) 13:59
+ 51251   MAJANO via Udine 73 (angolo via Deveacco) 14:00
+ 51241   MAJANO via Ciro di Pers 10 (Esacart) 14:00
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+martedì 23 dicembre 2025Pagina 1 di 1
+  [Pagina 42]
+LINEA 183 (Ritorno)
+Orario valido dal 1 gennaio 2026MAJANO-LAUZZANA-COLLOREDO M.ALBANO-BUJA 
+4
+U300
+ 51243   MAJANO viale Rino Snaidero 15 06:53
+ 51221   MAJANO via Udine 16 (Coop) 06:55
+ 51265   MAJANO via Udine 44 (angolo via Deveacco, 
+direzione Farla)
+06:56
+ 51253   FARLA via Udine 138 (trattoria, direzione 
+Fagagna)
+06:57
+ 51250   FORNACI DI MEZZO via Udine 13 (distillerie, 
+dir.Fagagna)
+06:58
+ 51126   CAPORIACCO via San Daniele 41 (castello, 
+direzione centro)
+07:01
+ 51119   CAPORIACCO via San Daniele (trattoria, 
+direzione Codugnella)
+07:03
+ 51136   CODUGNELLA via Sant'Ellero 32 (direzione 
+Colloredo)
+07:04
+ 51140   CODUGNELLA via Codugnella 24 07:05
+ 51105   LAUZZANA via Lauzzana 6 (direzione 
+Colloredo)
+07:08
+ 51101   COLLOREDO DI M.A. via Ippolito Nievo 39 
+(municipio)
+07:10
+ 51135   LAIBACCO via Laibacco (direzione Buja) 07:11
+ 51532   CARVACCO via Puccini 21 (incrocio via 
+Graonetti)
+07:13
+ 51530   CARVACCO via Puccini 1 (centro) 07:14
+ 51459   BORGO SALA via Sala 4 (direzione Santo 
+Stafano di Buja)
+07:16
+ 51412   BUJA via Collosomano 145 07:16
+ 51475   BUJA via Collosomano 43 07:17
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 07:20
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+martedì 23 dicembre 2025Pagina 1 di 1
+  [Pagina 43]
+LINEA 184 (Andata)
+Orario valido dal 1 gennaio 2026BUJA-TOMBA-SOPRAMONTE-BUJA-TARCENTO 
+57 3 1 13 35 27 37 43 45 47 49 55
+U250 U300 U300 U250 U250 U300 U200 U300 U200 U250 U300 U200
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 06:25 06:30 06:35 13:04 13:20 14:00 18:30 18:30 19:40
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+06:27 06:32 06:37 13:06 13:22 14:02 18:32 18:32 19:41
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+06:27 06:32 06:37 13:07 13:22 14:02 18:33 18:33 19:42
+ 51404   AVILLA via Monsignor Beinat 7 (centro, 
+direzione Tomba)
+06:28 06:33 13:08 13:23 14:03 18:34 18:34 19:43
+ 51477   SAN FLOREANO via San Floreano fronte 15 (bar) 06:29 06:35 13:08 13:24 14:04 18:34 18:34 19:44
+ 51458   SAN FLOREANO via San Floreano 32 (bar) 06:30 06:36 13:09 13:26 14:05 14:22 18:35 18:35 19:45
+ 51435   TOMBA DI BUJA piazza Chiesa 11 06:34 06:40 07:05 13:14 14:09 14:25 15:33 18:39 18:39 19:50
+ 51464   SAN FLOREANO DI BUJA via Ledra (lato piazza 
+delle Acque)
+07:09 13:17 15:36 18:42 18:42 19:53
+ 51473   SOPRAMONTE DI BUJA via Ledra (lato via 
+Cjagjalot)
+06:38 07:09 13:18 13:28 14:28 15:37 18:43 18:43 19:54
+ 51480   SOPRAMONTE DI BUJA via Ledra (fronte civico 
+33)
+06:39 07:10 13:19 13:28 14:28 15:37 18:44 18:44 19:55
+ 51465   SOPRAMONTE DI BUJA via Sopramonte 21 
+(angolo via Solaris)
+06:40 07:11 13:19 13:29 14:30 15:38 18:45 18:45 19:55
+ 51471   MADONNA DI BUJA via Madonna 101 (bivio 
+Solaris)
+06:41 07:11 13:20 13:29 14:30 15:39 18:45 18:45 19:56
+ 51416   MADONNA DI BUJA piazza Madonna 2 06:41 07:12 13:21 13:30 14:30 15:40 18:46 18:46 19:57
+ 51467   URBIGNACCO piazza Urbignacco 3 06:43 07:14 13:22 13:32 14:30 15:41 18:48 18:48 19:58
+ 51474   SANTO STEFANO DI BUJA via Arrio 25 06:44 07:15 13:23 13:33 14:31 15:42 18:49 18:49 19:59
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 06:47 07:17 13:26 13:36 14:40 15:45 18:52 18:52 20:03
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U300 Scolastica
+martedì 23 dicembre 2025Pagina 1 di 1
+  [Pagina 44]
+LINEA 184 (Ritorno)
+Orario valido dal 1 gennaio 2026TARCENTO-SOPRAMONTE-MADONNA-BUJA 
+62 28 66 50 64
+U300 U300 U304 U306 U307
+ 60701   TARCENTO piazza Libertà 13:05 16:35 16:35
+ 60745   TARCENTO via Giovanni Pascoli (fronte 15, 
+scuola media)
+13:07 16:38 16:37
+ 60712   TARCENTO viale della Stazione 36 (direzione 
+Collerumiz)
+13:08 16:38 16:38
+ 60706   TARCENTO via Pratum Laci (fronte 1, incr.via 
+della Stazione)
+13:09 16:39 16:39
+ 60722   COLLERUMIZ via Bueriis (angolo via Urana, 
+direzione SS 13)
+13:10 16:40 16:40
+ 60764   COLLERUMIZ via Bueriis (fronte Prontoauto, 
+direzione SS 13)
+13:11 16:41 16:41
+ 60807   BUERIIS via Pontebbana 72 (bivio via Julia 
+Augusta)
+13:11 16:42 16:42
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 12:56
+ 51450   SANTO STEFANO DI BUJA via Arrio 8 12:57
+ 51440   URBIGNACCO piazza Urbignacco 12 12:59 16:47 16:46
+ 51463   MADONNA DI BUJA piazza Madonna 12 13:01 16:48 16:48
+ 51447   MADONNA DI BUJA via Madonna 34 (bivio 
+Solaris)
+13:01 16:49 16:49
+ 51425   SOPRAMONTE DI BUIA via Sopramonte 42 (lato 
+via Solaris)
+13:02 16:49 16:49
+ 51448   SOPRAMONTE DI BUJA via Ledra 33 13:03 16:50 16:50
+ 51449   SOPRAMONTE DI BUJA via Ledra 25 (angolo via 
+Cjagjalot)
+13:03 16:51 16:50
+ 51420   S.FLOREANO DI BUJA via Ledra (fronte 
+piazza delle Acque)
+13:05 16:52 16:52
+ 51435   TOMBA DI BUJA piazza Chiesa 11 13:08
+ 51453   SAN FLOREANO DI BUJA via San Floreano 15 
+(bar)
+16:53 16:52
+ 51407   AVILLA via Avilla 71 (centro) 16:55 16:54
+ 51445   AVILLA SP 49 (bivio, direzione Santo Stefano di 
+Buja)
+16:56 16:55
+ 51444   URSININS Strada Provinciale 49 (civico 51) 16:56 16:55
+ 51457   URSININS via Vidiset 38 (scuola media) 16:20 16:57
+ 51476   URSININS via Santo Stefano 153 16:57
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 13:20 16:25 17:01 17:03
+CADENZA
+CORSA
+VALIDITÀ
+U304 Scolastica solo al giovedi U306 Scolastica solo al sabato
+U300 Scolastica U307 Scolastica escluso il sabato
+martedì 23 dicembre 2025Pagina 1 di 1
+  [Pagina 45]
+LINEA 230 (Ritorno)
+Orario valido dal 1 gennaio 2026S.DANIELE-MAJANO-BUJA-GEMONA 
+52 44 100 2 96 78 98 46 62 76 64 40 84 6
+U300 U135 U242 U307 U241 U135 U242 U306 U389 U241 U389 U389 U241 U300
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+06:45 06:45 06:45 06:45 06:45 06:45
+ 50I18   SAN DANIELE DEL FRIULI via C.Battisti 14 
+(fronte teatro)
+06:47 06:47 06:47 06:47 06:47 06:47
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+06:48 06:48 06:48 06:48 06:48 06:48
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+06:49 06:49 06:50 06:50 06:50 06:49
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+06:50 06:50 06:50 06:50 06:50 06:50
+ 50I68   SAN DANIELE DEL FRIULI via Carnia 66 
+(pizzeria, dir.Majano)
+06:51 06:51 06:52 06:52 06:52 06:51
+ 51254   SAN TOMASO via San Zenone 53 (ex poste, 
+direzione Majano)
+06:52 06:52 06:53 06:53 06:53 06:52
+ 51233   S.TOMASO DI MAJANO via S.Zenone fr. 10 06:53 06:53 06:54 06:54 06:54 06:53
+ 51206   COMERZO SR 463 via Nazionale 79 (direzione 
+Osoppo)
+06:54 06:54 06:56 06:56 06:56 06:54
+ 51270   TIVERIACCO via del Castello 10 07:09
+ 51217   SUSANS via del Castello fronte 191 
+(monumento ai Caduti)
+07:10
+ 51243   MAJANO viale Rino Snaidero 15 06:56 06:56 06:56 06:56 06:56 06:56 07:14
+ 51240   MAJANO via Pietro Zorutti 30 (fronte parco) 06:58 06:58 06:58 06:58 06:58
+ 51262   MAJANO via Pietro Zorutti (fronte civico 30, lato 
+parco)
+06:58 06:58 06:58 06:58 06:58
+ 51204   MAJANO viale Rino Snaidero 10 (direzione 
+Susans)
+07:00 07:00 07:00
+ 51211   TIVERIACCO via Osoppo 18 (trattoria, direzione 
+Osoppo)
+07:01 07:01 07:01
+ 51249   TIVERIACCO via Osoppo (fronte civico 109), 
+loc.Ponte Ledra
+07:02 07:02 07:02
+ 51703   RIVOLI via Rivoli 75 (ex stazione Majano, 
+direzione Osoppo)
+07:04 07:04 07:04
+ 51721   RIVOLI via Rivoli 21 (bar, direzione Osoppo) 07:05 07:05 07:05 07:05 07:05
+ 51202   MAJANO via Zorutti rotatoria dir. Buia 07:00 07:00
+ 51241   MAJANO via Ciro di Pers 10 (Esacart) 07:16
+ 51234   MAJANO via Ciro di Pers 60 (direzione Pers) 07:16
+ 51246   PERS via Ciro di Pers 136 (Canale Ledra, 
+direzione Mels)
+07:17
+ 51263   PERS via Melesons 97 (chiesa, direzione Mels) 07:18
+ 51117   MELESONS via Melesons 47 (lato chiesa) 07:19
+ 51134   MELS piazza del Tiglio 14 (Là Di Petros) 07:20
+ 51109   MELS via della Libertà 32 (Pesa) 07:20
+ 51108   AVEACCO via Cirenaiche 36 07:22
+ 51235   CASASOLA via Zorutti 120 (bivio borgo Schiratti,  
+dir.Buja)
+07:00 07:00
+ 51232   CASASOLA via Zorutti 100 (trattoria, direzione 
+Buja)
+07:01 07:01
+ 51466   TONZOLANO via Tonzolano 39 07:03 07:03
+ 51445   AVILLA SP 49 (bivio, direzione Santo Stefano di 
+Buja)
+07:09 07:09 07:09
+ 51444   URSININS Strada Provinciale 49 (civico 51) 07:09 07:09 07:09
+ 51476   URSININS via Santo Stefano 153 07:04 07:04 07:10 07:10 07:10 07:26
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 06:45 07:06 07:06 07:13 07:13 07:13
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+06:47
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+06:47
+ 51404   AVILLA via Monsignor Beinat 7 (centro, 
+direzione Tomba)
+06:48
+ 51477   SAN FLOREANO via San Floreano fronte 15 (bar) 06:49
+ 51458   SAN FLOREANO via San Floreano 32 (bar) 06:50
+ 51450   SANTO STEFANO DI BUJA via Arrio 8 07:28
+ 51435   TOMBA DI BUJA piazza Chiesa 11 06:54
+ 51463   MADONNA DI BUJA piazza Madonna 12 07:32
+ 51447   MADONNA DI BUJA via Madonna 34 (bivio 
+Solaris)
+07:33
+ 51425   SOPRAMONTE DI BUIA via Sopramonte 42 (lato 
+via Solaris)
+07:34
+ 51472   SOPRAMONTE DI BUJA via Sopramonte 116 
+(incrocio via Ledra)
+07:35
+ 51456   SOPRAMONTE DI BUJA via Campo Garzolino 30 
+(direzione Gemona)
+07:36
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 1 di 7
+  [Pagina 46]
+52 44 100 2 96 78 98 46 62 76 64 40 84 6
+U300 U135 U242 U307 U241 U135 U242 U306 U389 U241 U389 U389 U241 U300
+ 51461   CASALI LEDRA via Casali Ledra 5 (direzione 
+Gemona)
+07:37
+ 61077   CAMPOLESSI via Lessi 78 prov. Artegna 07:41
+ 61053   GEMONA via Osoppo 267 (semaforo Taboga, dir. 
+stazione FS)
+07:43
+ 61014   GEMONA via Roma (autostazione) 07:47
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 07:51
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+07:52
+ 61014   GEMONA via Roma (autostazione) 07:57
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U302 Scolastica solo al martedi
+U306 Scolastica solo al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U300 Scolastica
+U307 Scolastica escluso il sabato U206 Feriale solo al sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+martedì 23 dicembre 2025Pagina 2 di 7
+  [Pagina 47]
+LINEA 230 (Ritorno)
+Orario valido dal 1 gennaio 2026S.DANIELE-MAJANO-BUJA-GEMONA 
+8 30 86 12 10 70 50 88 14 32 402 92 94 90
+U300 U251 U240 U300 U300 U250 U300 U240 U300 U251 U200 U240 U240 U240
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+07:29 09:15 09:15 09:15
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+07:20
+ 50I59   BIVIO PER BORGO SOPRAPALUDO via S.Daniele 
+(direzione Farla)
+07:25
+ 50I18   SAN DANIELE DEL FRIULI via C.Battisti 14 
+(fronte teatro)
+07:31 09:17 09:17 09:17
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+07:32 09:18 09:18 09:18
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+07:33 09:18 09:18 09:18
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+09:19 09:19 09:19
+ 50I68   SAN DANIELE DEL FRIULI via Carnia 66 
+(pizzeria, dir.Majano)
+09:20 09:20 09:20
+ 50I44   SAN DANIELE DEL FRIULI via Cerere 30 
+(incrocio via Osoppo)
+07:35
+ 50I61   S.DANIELE DEL F.via Osoppo 96 (dir.Majano), 
+borgo Bronzacco
+07:36
+ 50I10   SAN DANIELE DEL FRIULI via Osoppo 116 
+(pizzeria, dir.Majano)
+07:37
+ 51254   SAN TOMASO via San Zenone 53 (ex poste, 
+direzione Majano)
+07:38 09:21 09:21 09:21
+ 51233   S.TOMASO DI MAJANO via S.Zenone fr. 10 07:39 09:22 09:22 09:22
+ 51206   COMERZO SR 463 via Nazionale 79 (direzione 
+Osoppo)
+07:40 09:24 09:24 09:24
+ 51243   MAJANO viale Rino Snaidero 15 07:41 09:24 09:24 09:24
+ 51238   FARLA via San Daniele 3 (trattoria) 07:28
+ 51251   MAJANO via Udine 73 (angolo via Deveacco) 07:30
+ 51262   MAJANO via Pietro Zorutti (fronte civico 30, lato 
+parco)
+07:31 07:43 09:27 09:27 09:27
+ 51252   TIVERIACCO via Divisione Julia 160, località 
+Ponte Ledra
+07:45
+ 51712   RIVOLIZ.I.  via Rivoli (fronte civico 26, direzione 
+Osoppo)
+07:50
+ 51701   OSOPPO via Matteotti (fronte civico 9, 
+centro)
+07:50 07:50 09:25
+ 51202   MAJANO via Zorutti rotatoria dir. Buia 07:32 09:27 09:27 09:27
+ 51235   CASASOLA via Zorutti 120 (bivio borgo Schiratti,  
+dir.Buja)
+07:33 09:28 09:28 09:28
+ 51232   CASASOLA via Zorutti 100 (trattoria, direzione 
+Buja)
+07:34 09:29 09:29 09:29
+ 51466   TONZOLANO via Tonzolano 39 09:32 09:32 09:32
+ 51409   TONZOLANO via Liberazione 115 07:37
+ 51460   AVILLA via Liberazione 15 (centro, direz. 
+S.Stefano di Buja)
+07:38
+ 51477   SAN FLOREANO via San Floreano fronte 15 (bar) 07:40
+ 51458   SAN FLOREANO via San Floreano 32 (bar) 07:41
+ 51476   URSININS via Santo Stefano 153 09:33 09:33 09:33
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 07:25 07:25 07:28 09:38 09:40 09:40 09:40
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+09:42 09:42 09:42
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+09:43 09:43 09:43
+ 51404   AVILLA via Monsignor Beinat 7 (centro, 
+direzione Tomba)
+09:44 09:44 09:44
+ 51477   SAN FLOREANO via San Floreano fronte 15 (bar) 09:44 09:44 09:44
+ 51458   SAN FLOREANO via San Floreano 32 (bar) 09:46 09:46 09:46 09:46
+ 51473   SOPRAMONTE DI BUJA via Ledra (lato via 
+Cjagjalot)
+09:48 09:48 09:48
+ 51480   SOPRAMONTE DI BUJA via Ledra (fronte civico 
+33)
+09:48 09:48 09:48
+ 51465   SOPRAMONTE DI BUJA via Sopramonte 21 
+(angolo via Solaris)
+09:49 09:49 09:49
+ 51471   MADONNA DI BUJA via Madonna 101 (bivio 
+Solaris)
+09:49 09:49 09:49
+ 51416   MADONNA DI BUJA piazza Madonna 2 09:50 09:50 09:50
+ 51467   URBIGNACCO piazza Urbignacco 3 09:51 09:51 09:51
+ 51474   SANTO STEFANO DI BUJA via Arrio 25 09:53 09:53 09:53
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 09:55 09:55 09:55 09:55
+ 51450   SANTO STEFANO DI BUJA via Arrio 8 07:27 07:27 07:30 09:57 09:57 09:57
+ 51473   SOPRAMONTE DI BUJA via Ledra (lato via 
+Cjagjalot)
+07:43
+ 51440   URBIGNACCO piazza Urbignacco 12 07:32
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 3 di 7
+  [Pagina 48]
+8 30 86 12 10 70 50 88 14 32 402 92 94 90
+U300 U251 U240 U300 U300 U250 U300 U240 U300 U251 U200 U240 U240 U240
+ 51479   URBIGNACCO via Urbignacco 96 (direzione 
+Artegna)
+07:28 07:28 09:59 09:59 09:59
+ 60909   ARTEGNA via Nazionale (fronte 65, trattoria dir. 
+Gemona)
+07:33 07:33 10:03 10:03 10:03
+ 51463   MADONNA DI BUJA piazza Madonna 12 07:34
+ 51447   MADONNA DI BUJA via Madonna 34 (bivio 
+Solaris)
+07:34
+ 51425   SOPRAMONTE DI BUIA via Sopramonte 42 (lato 
+via Solaris)
+07:35
+ 51480   SOPRAMONTE DI BUJA via Ledra (fronte civico 
+33)
+07:43
+ 51472   SOPRAMONTE DI BUJA via Sopramonte 116 
+(incrocio via Ledra)
+07:36
+ 51456   SOPRAMONTE DI BUJA via Campo Garzolino 30 
+(direzione Gemona)
+07:44 07:37
+ 51461   CASALI LEDRA via Casali Ledra 5 (direzione 
+Gemona)
+07:46 07:38
+ 61077   CAMPOLESSI via Lessi 78 prov. Artegna 07:49 07:40
+ 61053   GEMONA via Osoppo 267 (semaforo Taboga, dir. 
+stazione FS)
+07:51 07:36 07:36 07:42 07:56 07:54 07:54 10:06 10:06 09:28 10:06
+ 61014   GEMONA via Roma (autostazione) 07:55 07:40 07:40 07:46 08:00 07:57 07:57 10:10 10:10 09:30 10:10
+ 61058   GEMONA via Salcons (S. Maria degli Angeli, 
+dir.centro studi)
+08:02
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 08:00 07:50 08:05 08:00
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+08:02 07:52 08:08 08:02
+ 61014   GEMONA via Roma (autostazione) 08:05 08:00 08:13
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U302 Scolastica solo al martedi
+U306 Scolastica solo al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U300 Scolastica
+U307 Scolastica escluso il sabato U206 Feriale solo al sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+martedì 23 dicembre 2025Pagina 4 di 7
+  [Pagina 49]
+LINEA 230 (Ritorno)
+Orario valido dal 1 gennaio 2026S.DANIELE-MAJANO-BUJA-GEMONA 
+16 20 22 26 66 24 406 28 404 34 408 410 36 72
+U200 U300 U300 U300 U300 U300 U206 U300 U200 U241 U259 U307 U241 U389
+ 50I52   SAN DANIELE DEL FRIULI via Trento Trieste 43 
+(fr. ospedale)
+10:55
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+10:57 12:16 13:15 13:20 14:49 15:33
+ 50I51   S.DANIELE piazzale 4 Novembre (fronte 
+monumento, dir.Udine)
+13:15
+ 50I59   BIVIO PER BORGO SOPRAPALUDO via S.Daniele 
+(direzione Farla)
+13:20
+ 50I18   SAN DANIELE DEL FRIULI via C.Battisti 14 
+(fronte teatro)
+10:58 12:18 13:17 13:22 14:51 15:35
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+10:59 12:18 13:18 13:22 14:51 15:36
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+11:00 12:20 13:20 13:23 14:52 15:37
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+12:20 13:21 13:24 14:53 15:37
+ 50I68   SAN DANIELE DEL FRIULI via Carnia 66 
+(pizzeria, dir.Majano)
+12:21 13:22 13:25 14:54 15:38
+ 50I44   SAN DANIELE DEL FRIULI via Cerere 30 
+(incrocio via Osoppo)
+11:02
+ 50I61   S.DANIELE DEL F.via Osoppo 96 (dir.Majano), 
+borgo Bronzacco
+11:03
+ 50I10   SAN DANIELE DEL FRIULI via Osoppo 116 
+(pizzeria, dir.Majano)
+11:03
+ 51254   SAN TOMASO via San Zenone 53 (ex poste, 
+direzione Majano)
+11:05 12:22 13:27 15:40
+ 51233   S.TOMASO DI MAJANO via S.Zenone fr. 10 11:05 12:23 13:28 15:40
+ 51206   COMERZO SR 463 via Nazionale 79 (direzione 
+Osoppo)
+11:07 12:24 13:25 13:29 14:56 15:41
+ 51243   MAJANO viale Rino Snaidero 15 11:07 12:25 13:30 14:57 15:42 16:54 16:54
+ 51238   FARLA via San Daniele 3 (trattoria) 13:23
+ 51251   MAJANO via Udine 73 (angolo via Deveacco) 13:24
+ 51221   MAJANO via Udine 16 (Coop) 11:10 12:29 13:32
+ 51243   MAJANO viale Rino Snaidero 15 13:27
+ 51262   MAJANO via Pietro Zorutti (fronte civico 30, lato 
+parco)
+13:25 13:29 14:59 15:44 16:57 16:57
+ 51211   TIVERIACCO via Osoppo 18 (trattoria, direzione 
+Osoppo)
+13:34
+ 51249   TIVERIACCO via Osoppo (fronte civico 109), 
+loc.Ponte Ledra
+13:35
+ 51703   RIVOLI via Rivoli 75 (ex stazione Majano, 
+direzione Osoppo)
+13:38
+ 51721   RIVOLI via Rivoli 21 (bar, direzione Osoppo) 13:39
+ 51712   RIVOLIZ.I.  via Rivoli (fronte civico 26, direzione 
+Osoppo)
+13:41
+ 51719   OSOPPO via San Daniele 77 (Ledraplastic) 13:43
+ 51713   OSOPPO via Batterie 1 (centro) 16:37 16:37
+ 51701   OSOPPO via Matteotti (fronte civico 9, 
+centro)
+13:45 14:20 15:30
+ 51265   MAJANO via Udine 44 (angolo via Deveacco, 
+direzione Farla)
+11:10 13:33
+ 51202   MAJANO via Zorutti rotatoria dir. Buia 13:26 14:59 15:44 16:57 16:57
+ 51269   FARLA via Zampini (fronte 10, trattoria direzione 
+Pers)
+11:13 13:35
+ 51239   SANT'ELISEO (direzione Pers) 11:15 13:37
+ 51267   PERS via Ciro di Pers 58 (chiesa) 11:17 13:39
+ 51117   MELESONS via Melesons 47 (lato chiesa) 11:17 13:39
+ 51134   MELS piazza del Tiglio 14 (Là Di Petros) 11:18 13:40
+ 51109   MELS via della Libertà 32 (Pesa) 11:19 13:41
+ 51108   AVEACCO via Cirenaiche 36 11:20 13:42
+ 51235   CASASOLA via Zorutti 120 (bivio borgo Schiratti,  
+dir.Buja)
+13:27 15:00 15:45 16:58 16:58
+ 51232   CASASOLA via Zorutti 100 (trattoria, direzione 
+Buja)
+13:28 15:01 15:46 16:59 16:59
+ 51466   TONZOLANO via Tonzolano 39 15:03
+ 51409   TONZOLANO via Liberazione 115 11:24 13:31 15:48 17:01 17:01
+ 51460   AVILLA via Liberazione 15 (centro, direz. 
+S.Stefano di Buja)
+11:25 13:32 15:49 17:03 17:03
+ 51407   AVILLA via Avilla 71 (centro) 17:03 17:03
+ 51445   AVILLA SP 49 (bivio, direzione Santo Stefano di 
+Buja)
+11:26 13:33 15:50 17:04 17:04
+ 51444   URSININS Strada Provinciale 49 (civico 51) 11:27 13:33 15:50 17:04 17:04
+ 51476   URSININS via Santo Stefano 153 11:27 13:45 15:04 15:51 17:05 17:05
+CADENZA
+CORSA
+martedì 23 dicembre 2025Pagina 5 di 7
+  [Pagina 50]
+16 20 22 26 66 24 406 28 404 34 408 410 36 72
+U200 U300 U300 U300 U300 U300 U206 U300 U200 U241 U259 U307 U241 U389
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 11:29 13:05 13:37 13:50 15:09 15:52 17:06 17:06
+ 51468   URSININS Strada Provinciale 49 (fronte 51, 
+direzione Rivoli)
+13:39
+ 51469   AVILLA Strada Provinciale 49 (bivio, direzione 
+Rivoli)
+13:39
+ 51404   AVILLA via Monsignor Beinat 7 (centro, 
+direzione Tomba)
+13:40
+ 51477   SAN FLOREANO via San Floreano fronte 15 (bar) 13:41
+ 51458   SAN FLOREANO via San Floreano 32 (bar) 13:43
+ 51473   SOPRAMONTE DI BUJA via Ledra (lato via 
+Cjagjalot)
+13:44
+ 51480   SOPRAMONTE DI BUJA via Ledra (fronte civico 
+33)
+13:45
+ 51465   SOPRAMONTE DI BUJA via Sopramonte 21 
+(angolo via Solaris)
+13:46
+ 51471   MADONNA DI BUJA via Madonna 101 (bivio 
+Solaris)
+13:47
+ 51416   MADONNA DI BUJA piazza Madonna 2 13:47
+ 51479   URBIGNACCO via Urbignacco 96 (direzione 
+Artegna)
+13:49
+ 60956   ARTEGNA via Villa 1 (rotonda Salt) 13:53
+ 60911   ARTEGNA via Villa (rotonda Salt, direzione 
+Udine)
+13:53
+ 60901   ARTEGNA via Villa 116 (centro, direzione Udine) 13:55
+ 51467   URBIGNACCO piazza Urbignacco 3 13:59
+ 51474   SANTO STEFANO DI BUJA via Arrio 25 13:59
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 14:03
+ 51450   SANTO STEFANO DI BUJA via Arrio 8 11:31 13:07 15:10 15:54 17:09 17:09
+ 51416   MADONNA DI BUJA piazza Madonna 2 15:12
+ 51440   URBIGNACCO piazza Urbignacco 12 11:32 13:09
+ 51479   URBIGNACCO via Urbignacco 96 (direzione 
+Artegna)
+15:56 17:10 17:10
+ 51467   URBIGNACCO piazza Urbignacco 3 15:13
+ 60909   ARTEGNA via Nazionale (fronte 65, trattoria dir. 
+Gemona)
+16:02 17:15 17:15
+ 51463   MADONNA DI BUJA piazza Madonna 12 11:34 13:11
+ 51447   MADONNA DI BUJA via Madonna 34 (bivio 
+Solaris)
+11:35 13:12
+ 51425   SOPRAMONTE DI BUIA via Sopramonte 42 (lato 
+via Solaris)
+11:35 13:12
+ 51472   SOPRAMONTE DI BUJA via Sopramonte 116 
+(incrocio via Ledra)
+11:36 13:13
+ 51456   SOPRAMONTE DI BUJA via Campo Garzolino 30 
+(direzione Gemona)
+11:37 13:14
+ 51461   CASALI LEDRA via Casali Ledra 5 (direzione 
+Gemona)
+11:38 13:15
+ 61077   CAMPOLESSI via Lessi 78 prov. Artegna 11:41 13:18 17:16 17:16
+ 61053   GEMONA via Osoppo 267 (semaforo Taboga, dir. 
+stazione FS)
+11:43 13:20 13:49 14:23 15:33 16:05 16:41 16:41 17:19 17:19
+ 61014   GEMONA via Roma (autostazione) 11:50 13:25 13:53 14:25 15:35 16:09 16:44 16:44 17:22 17:22
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 16:13 17:25 17:25
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U302 Scolastica solo al martedi
+U306 Scolastica solo al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U300 Scolastica
+U307 Scolastica escluso il sabato U206 Feriale solo al sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+martedì 23 dicembre 2025Pagina 6 di 7
+  [Pagina 51]
+LINEA 230 (Ritorno)
+Orario valido dal 1 gennaio 2026S.DANIELE-MAJANO-BUJA-GEMONA 
+74 48 38
+U307 U302 U307
+ 50I01   SAN DANIELE DEL FRIULI piazzale 4 
+Novembre (lato monumento)
+16:55 18:24
+ 50I18   SAN DANIELE DEL FRIULI via C.Battisti 14 
+(fronte teatro)
+16:57 18:26
+ 50I09   SAN DANIELE DEL FRIULI via Tagliamento 68 
+(bar, dir.Ragogna)
+16:58 18:27
+ 50I56   SAN DANIELE DEL FRIULI via Gemona (fronte 
+31, direz. Majano)
+17:00 18:28
+ 50I60   S.DANIELE DEL FRIULI via Gemona (fronte 99, 
+bar dir.Majano)
+17:01 18:29
+ 50I68   SAN DANIELE DEL FRIULI via Carnia 66 
+(pizzeria, dir.Majano)
+17:02 18:30
+ 51254   SAN TOMASO via San Zenone 53 (ex poste, 
+direzione Majano)
+17:04 18:31
+ 51233   S.TOMASO DI MAJANO via S.Zenone fr. 10 17:04 18:32
+ 51206   COMERZO SR 463 via Nazionale 79 (direzione 
+Osoppo)
+17:06 18:33
+ 51243   MAJANO viale Rino Snaidero 15 16:54 17:07 18:34
+ 51262   MAJANO via Pietro Zorutti (fronte civico 30, lato 
+parco)
+16:57 17:09 18:36
+ 51202   MAJANO via Zorutti rotatoria dir. Buia 16:57 17:10 18:36
+ 51235   CASASOLA via Zorutti 120 (bivio borgo Schiratti,  
+dir.Buja)
+16:58 17:11 18:37
+ 51232   CASASOLA via Zorutti 100 (trattoria, direzione 
+Buja)
+16:59 17:12 18:38
+ 51409   TONZOLANO via Liberazione 115 17:01 17:15 18:40
+ 51460   AVILLA via Liberazione 15 (centro, direz. 
+S.Stefano di Buja)
+17:03 17:16 18:41
+ 51407   AVILLA via Avilla 71 (centro) 17:03
+ 51445   AVILLA SP 49 (bivio, direzione Santo Stefano di 
+Buja)
+17:04 17:17 18:42
+ 51444   URSININS Strada Provinciale 49 (civico 51) 17:04 17:18 18:43
+ 51476   URSININS via Santo Stefano 153 17:05 17:18 18:43
+ 51401   SANTO STEFANO DI BUJA piazza Mercato 17:06 17:20 18:45
+ 51450   SANTO STEFANO DI BUJA via Arrio 8 17:09 18:47
+ 51479   URBIGNACCO via Urbignacco 96 (direzione 
+Artegna)
+17:10 18:48
+ 60909   ARTEGNA via Nazionale (fronte 65, trattoria dir. 
+Gemona)
+17:15 18:53
+ 61077   CAMPOLESSI via Lessi 78 prov. Artegna 17:16
+ 61053   GEMONA via Osoppo 267 (semaforo Taboga, dir. 
+stazione FS)
+17:19 18:57
+ 61014   GEMONA via Roma (autostazione) 17:22 19:00
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 17:25
+CADENZA
+CORSA
+VALIDITÀ
+U200 Feriale U259 Feriale giorni non scolastici e al sabato scolasti co
+U250 Feriale periodo non scolastico e giorni non scol. del periodo 
+scolastico
+U240 Feriale estiva (fne scuole-inizio scuole)
+U241 Feriale estiva escluso il sabato (fne-iniz.scol) U302 Scolastica solo al martedi
+U306 Scolastica solo al sabato U242 Feriale estiva solo al sabato (fne-iniz.scuole)
+U135 Feriale giorni non scolast. del periodo scolastico SOLO SABATO U300 Scolastica
+U307 Scolastica escluso il sabato U206 Feriale solo al sabato
+U251 Feriale giorni non scol. del periodo scolastico U389 FERIALE INVERNALE giorni non scolastici del periodo scolastico - 
+escluso SABATO
+martedì 23 dicembre 2025Pagina 7 di 7
+  [Pagina 52]
+LINEA 233 (Andata)
+Orario valido dal 1 gennaio 2026GEMONA AUT.-CENTRO STUDI-GEMONA AUT. 
+41 11
+U300 U300
+ 61014   GEMONA via Roma (autostazione) 13:10 13:15
+ 61015   GEMONA via Battiferro (fronte 18, ospedale) 13:18
+ 61006   GEMONA via Praviolai (centro studi stallo 
+esterno)
+13:19
+ 61002   GEMONA via Salcons (fronte Santa Maria degli 
+Angeli)
+13:13
+ 61014   GEMONA via Roma (autostazione) 13:15 13:23
+CADENZA
+CORSA
+VALIDITÀ
+U300 Scolastica
+martedì 23 dicembre 2025Pagina 1 di 1
+  [Pagina 53]
+www.tplfvg.it
+TPL FVG S.c.a.r.l.
+via Caduti di An Nasiriyah, 6
+34170 Gorizia (GO)

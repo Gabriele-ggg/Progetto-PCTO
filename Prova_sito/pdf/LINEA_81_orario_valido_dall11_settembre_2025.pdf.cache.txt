@@ -1,0 +1,150 @@
+  [Pagina 1]
+Servizio urbano
+UDINE
+Linea 81
+Orario valido 
+dall’11 settembre 2025
+  [Pagina 2]
+LINEA 81 (Andata)
+Orario valido dall'11 settembre 2025Via Colugna - Centro - via Colugna 
+FERIALE ANNUALE
+1 3 5 7 9 11 13 15 17 19 21 23 25 27
+U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500
+ UD178   UDINE via Colugna (fronte 147, chiesa 
+B.Vergine di Fatima)
+08:30 08:50 09:10 09:30 09:50 10:10 10:30 10:50 11:10 11:30 11:50 12:10 12:30 12:50
+ UD180   UDINE via Colugna 114 08:31 08:51 09:11 09:31 09:51 10:11 10:31 10:51 11:11 11:31 11:51 12:11 12:31 12:51
+ UD188   UDINE via Colugna (fronte civico 63) 08:32 08:52 09:12 09:32 09:52 10:12 10:32 10:52 11:12 11:32 11:52 12:12 12:32 12:52
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+08:33 08:53 09:13 09:33 09:53 10:13 10:33 10:53 11:13 11:33 11:53 12:13 12:33 12:53
+ 70C56   UDINE piazzale Chiavris 45 08:35 08:55 09:15 09:35 09:55 10:15 10:35 10:55 11:15 11:35 11:55 12:15 12:35 12:55
+ UD080   UDINE viale Volontari della Libertà 46 08:37 08:57 09:17 09:37 09:57 10:17 10:37 10:57 11:17 11:37 11:57 12:17 12:37 12:57
+ UD078   UDINE viale Volontari della Libertà 20 08:37 08:57 09:17 09:37 09:57 10:17 10:37 10:57 11:17 11:37 11:57 12:17 12:37 12:57
+ UD272   UDINE via Gemona 88 (piazzale Osoppo) 08:39 08:59 09:19 09:39 09:59 10:19 10:39 10:59 11:19 11:39 11:59 12:19 12:39 12:59
+ UD755   UDINE via F. Mantica 32 08:40 09:00 09:20 09:40 10:00 10:20 10:40 11:00 11:20 11:40 12:00 12:20 12:40 13:00
+ UD059   UDINE piazza San Cristoforo 1 08:42 09:02 09:22 09:42 10:02 10:22 10:42 11:02 11:22 11:42 12:02 12:22 12:42 13:02
+ UD270   UDINE via Gemona 39 (piazzale Osoppo) 08:44 09:04 09:24 09:44 10:04 10:24 10:44 11:04 11:24 11:44 12:04 12:24 12:44 13:04
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+08:46 09:06 09:26 09:46 10:06 10:26 10:46 11:06 11:26 11:46 12:06 12:26 12:46 13:06
+ UD079   UDINE viale Volontari della Libertà 33 08:46 09:06 09:26 09:46 10:06 10:26 10:46 11:06 11:26 11:46 12:06 12:26 12:46 13:06
+ UD082   UDINE viale Volontari della Libertà 61 (piazzale 
+Chiavris)
+08:47 09:07 09:27 09:47 10:07 10:27 10:47 11:07 11:27 11:47 12:07 12:27 12:47 13:07
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 08:49 09:09 09:29 09:49 10:09 10:29 10:49 11:09 11:29 11:49 12:09 12:29 12:49 13:09
+ UD410   UDINE via Pieri (lato uscita ospedale) 08:51 09:11 09:31 09:51 10:11 10:31 10:51 11:11 11:31 11:51 12:11 12:31 12:51 13:11
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+08:52 09:12 09:32 09:52 10:12 10:32 10:52 11:12 11:32 11:52 12:12 12:32 12:52 13:12
+ UD179   UDINE via Colugna 129 08:54 09:14 09:34 09:54 10:14 10:34 10:54 11:14 11:34 11:54 12:14 12:34 12:54 13:14
+ UD181   UDINE via Colugna 151 (chiesa Beata Vergine 
+di Fatima)
+08:55 09:15 09:35 09:55 10:15 10:35 10:55 11:15 11:35 11:55 12:15 12:35 12:55 13:15
+ UD178   UDINE via Colugna (fronte 147, chiesa 
+B.Vergine di Fatima)
+08:57 09:17 09:37 09:57 10:17 10:37 10:57 11:17 11:37 11:57 12:17 12:37 12:57 13:17
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale
+venerdì 29 agosto 2025Pagina 1 di 3
+  [Pagina 3]
+LINEA 81 (Andata)
+Orario valido dall'11 settembre 2025Via Colugna - Centro - via Colugna 
+FERIALE ANNUALE
+29 31 33 35 37 39 41 43 45 47 49 51 53 55
+U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500
+ UD178   UDINE via Colugna (fronte 147, chiesa 
+B.Vergine di Fatima)
+13:10 13:30 13:50 14:10 14:30 14:50 15:10 15:30 15:50 16:10 16:30 16:50 17:10 17:30
+ UD180   UDINE via Colugna 114 13:11 13:31 13:51 14:11 14:31 14:51 15:11 15:31 15:51 16:11 16:31 16:51 17:11 17:31
+ UD188   UDINE via Colugna (fronte civico 63) 13:12 13:32 13:52 14:12 14:32 14:52 15:12 15:32 15:52 16:12 16:32 16:52 17:12 17:32
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+13:13 13:33 13:53 14:13 14:33 14:53 15:13 15:33 15:53 16:13 16:33 16:53 17:13 17:33
+ 70C56   UDINE piazzale Chiavris 45 13:15 13:35 13:55 14:15 14:35 14:55 15:15 15:35 15:55 16:15 16:35 16:55 17:15 17:35
+ UD080   UDINE viale Volontari della Libertà 46 13:17 13:37 13:57 14:17 14:37 14:57 15:17 15:37 15:57 16:17 16:37 16:57 17:17 17:37
+ UD078   UDINE viale Volontari della Libertà 20 13:17 13:37 13:57 14:17 14:37 14:57 15:17 15:37 15:57 16:17 16:37 16:57 17:17 17:37
+ UD272   UDINE via Gemona 88 (piazzale Osoppo) 13:19 13:39 13:59 14:19 14:39 14:59 15:19 15:39 15:59 16:19 16:39 16:59 17:19 17:39
+ UD755   UDINE via F. Mantica 32 13:20 13:40 14:00 14:20 14:40 15:00 15:20 15:40 16:00 16:20 16:40 17:00 17:20 17:40
+ UD059   UDINE piazza San Cristoforo 1 13:22 13:42 14:02 14:22 14:42 15:02 15:22 15:42 16:02 16:22 16:42 17:02 17:22 17:42
+ UD270   UDINE via Gemona 39 (piazzale Osoppo) 13:24 13:44 14:04 14:24 14:44 15:04 15:24 15:44 16:04 16:24 16:44 17:04 17:24 17:44
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+13:26 13:46 14:06 14:26 14:46 15:06 15:26 15:46 16:06 16:26 16:46 17:06 17:26 17:46
+ UD079   UDINE viale Volontari della Libertà 33 13:26 13:46 14:06 14:26 14:46 15:06 15:26 15:46 16:06 16:26 16:46 17:06 17:26 17:46
+ UD082   UDINE viale Volontari della Libertà 61 (piazzale 
+Chiavris)
+13:27 13:47 14:07 14:27 14:47 15:07 15:27 15:47 16:07 16:27 16:47 17:07 17:27 17:47
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 13:29 13:49 14:09 14:29 14:49 15:09 15:29 15:49 16:09 16:29 16:49 17:09 17:29 17:49
+ UD410   UDINE via Pieri (lato uscita ospedale) 13:31 13:51 14:11 14:31 14:51 15:11 15:31 15:51 16:11 16:31 16:51 17:11 17:31 17:51
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+13:32 13:52 14:12 14:32 14:52 15:12 15:32 15:52 16:12 16:32 16:52 17:12 17:32 17:52
+ UD179   UDINE via Colugna 129 13:34 13:54 14:14 14:34 14:54 15:14 15:34 15:54 16:14 16:34 16:54 17:14 17:34 17:54
+ UD181   UDINE via Colugna 151 (chiesa Beata Vergine 
+di Fatima)
+13:35 13:55 14:15 14:35 14:55 15:15 15:35 15:55 16:15 16:35 16:55 17:15 17:35 17:55
+ UD178   UDINE via Colugna (fronte 147, chiesa 
+B.Vergine di Fatima)
+13:37 13:57 14:17 14:37 14:57 15:17 15:37 15:57 16:17 16:37 16:57 17:17 17:37 17:57
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale
+venerdì 29 agosto 2025Pagina 2 di 3
+  [Pagina 4]
+LINEA 81 (Andata)
+Orario valido dall'11 settembre 2025Via Colugna - Centro - via Colugna 
+FERIALE ANNU
+57 59
+U500 U500
+ UD178   UDINE via Colugna (fronte 147, chiesa 
+B.Vergine di Fatima)
+17:50 18:10
+ UD180   UDINE via Colugna 114 17:51 18:11
+ UD188   UDINE via Colugna (fronte civico 63) 17:52 18:12
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+17:53 18:13
+ 70C56   UDINE piazzale Chiavris 45 17:55 18:15
+ UD080   UDINE viale Volontari della Libertà 46 17:57 18:17
+ UD078   UDINE viale Volontari della Libertà 20 17:57 18:17
+ UD272   UDINE via Gemona 88 (piazzale Osoppo) 17:59 18:19
+ UD755   UDINE via F. Mantica 32 18:00 18:20
+ UD059   UDINE piazza San Cristoforo 1 18:02 18:22
+ UD270   UDINE via Gemona 39 (piazzale Osoppo) 18:04 18:24
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+18:06 18:26
+ UD079   UDINE viale Volontari della Libertà 33 18:06 18:26
+ UD082   UDINE viale Volontari della Libertà 61 (piazzale 
+Chiavris)
+18:07 18:27
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 18:09 18:29
+ UD410   UDINE via Pieri (lato uscita ospedale) 18:11 18:31
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+18:12 18:32
+ UD179   UDINE via Colugna 129 18:14 18:34
+ UD181   UDINE via Colugna 151 (chiesa Beata Vergine 
+di Fatima)
+18:15 18:35
+ UD178   UDINE via Colugna (fronte 147, chiesa 
+B.Vergine di Fatima)
+18:17 18:37
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale
+venerdì 29 agosto 2025Pagina 3 di 3
+  [Pagina 5]
+www.tplfvg.it
+TPL FVG S.c.a.r.l.
+via Caduti di An Nasiriyah 6
+34170 Gorizia (GO)
+e-mail info@tplfvg.it

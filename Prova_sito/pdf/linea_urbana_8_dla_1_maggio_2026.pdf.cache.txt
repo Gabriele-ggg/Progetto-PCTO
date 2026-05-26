@@ -1,0 +1,266 @@
+  [Pagina 1]
+Servizio urbano
+UDINE
+Linea 8
+Orario valido 
+dal 1° maggio 2026
+  [Pagina 2]
+LINEA 8 (Andata)
+Orario valido dal 1° maggio 2026Via Lumignacco-Cella-FS-Teatro Nuovo-Treppo-Pola-Del Bon 
+FERIALE ANNUALE FERIALE ANNU
+1 5 7 9 11 13 15 17 19 21 23 27 25 29
+U500 U550 U500 U500 U500 U500 U500 U500 U500 U500 U500 U500 U507 U507
+ UD339   UDINE via Lumignacco (fronte civico 325) 07:00 07:33 08:00 08:40 09:10 10:20 11:25 12:00 12:33 13:00 13:35 14:40 14:05 17:30
+ UD328   UDINE via Lumignacco (fronte civico 273) 07:00 07:33 08:00 08:40 09:10 10:20 11:25 12:00 12:33 13:00 13:35 14:40 14:05 17:30
+ UD337   UDINE via Lumignacco (fronte civico 221) 07:01 07:34 08:01 08:41 09:11 10:21 11:26 12:01 12:34 13:01 13:36 14:41 14:06 17:31
+ UD336   UDINE via Lumignacco (fronte 177, passaggio 
+a livello)
+07:02 07:35 08:02 08:42 09:12 10:22 11:27 12:02 12:35 13:02 13:37 14:42 14:07 17:32
+ UD142   UDINE via Campoformido 13 13:03
+ UD144   UDINE via Campoformido 79 13:03
+ 70C35   UDINE via Zugliano 52 (sede scolastica) 13:04
+ UD090   UDINE via 3 Novembre (fronte civico 12, 
+parco Collodi)
+13:04
+ UD090   UDINE via 3 Novembre (fronte civico 12, 
+parco Collodi)
+13:07
+ UD499   UDINE via Zugliano 43 (sede scolastica) 13:07
+ UD145   UDINE via Campoformido (fronte civico 79) 13:08
+ UD143   UDINE via Campoformido 6 13:08
+ 70C36   UDINE via Lumignacco (fronte 135, bivio istituti 
+scolastici)
+07:02 07:35 08:02 08:42 09:12 10:22 11:27 12:02 12:35 13:09 13:37 14:42 14:07 17:32
+ UD338   UDINE via Lumignacco (fronte civico 79) 07:03 07:36 08:03 08:43 09:13 10:23 11:28 12:03 12:36 13:10 13:38 14:43 14:08 17:33
+ UD332   UDINE via Lumignacco 2 07:04 07:37 08:04 08:44 09:14 10:24 11:29 12:04 12:37 13:11 13:39 14:44 14:09 17:34
+ 70C69   UDINE viale delle Ferriere 26 (piazzale 
+Cella)
+07:05 07:38 08:05 08:45 09:15 10:25 11:30 12:05 12:38 13:12 13:40 14:45 14:10 17:35
+ UD521   UDINE viale delle Ferriere 4C 07:06 07:39 08:06 08:46 09:16 10:26 11:31 12:06 12:39 13:13 13:41 14:46 14:11 17:36
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:06 07:40 08:07 08:47 09:17 10:27 11:32 12:07 12:40 13:14 13:42 14:47 14:12 17:37
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+07:07 07:41 08:08 08:48 09:18 10:28 11:33 12:08 12:41 13:15 13:43 14:48 14:13 17:38
+ UD706   UDINE viale Ungheria 84 07:08 07:42 08:09 08:49 09:19 10:29 11:34 12:09 12:42 13:16 13:44 14:49 14:14 17:39
+ UD704   UDINE viale Ungheria (fronte civico 61) 07:09 07:43 08:10 08:50 09:20 10:30 11:35 12:10 12:43 13:17 13:45 14:50 14:15 17:40
+ UD702   UDINE viale Ungheria (lato ex distretto militare) 07:10 07:44 08:11 08:51 09:21 10:31 11:36 12:11 12:44 13:18 13:46 14:51 14:16 17:41
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+07:11 07:45 08:12 08:52 09:22 10:32 11:37 12:12 12:45 13:19 13:47 14:52 14:17 17:42
+ UD476   UDINE via Treppo 35 07:12 07:46 08:13 08:53 09:23 10:33 11:38 12:13 12:46 13:20 13:48 14:53 14:18 17:43
+ UD146   UDINE via Generale Carlo Caneva (fronte 
+14, Teatro Nuovo)
+07:12 07:46 08:13 08:53 09:23 10:33 11:38 12:13 12:46 13:20 13:48 14:53 14:18 17:43
+ UD095   UDINE via Albona (fronte civico 123, angolo via 
+del Bon)
+07:14 07:48 08:15 08:55 09:25 10:35 11:40 12:15 12:48 13:22 13:50 14:55 14:20 17:45
+ UD418   UDINE via Pola 63 (passaggio a livello) 07:14 07:48 08:15 08:55 09:25 10:35 11:40 12:15 12:48 13:22 13:50 14:55 14:20 17:45
+ UD420   UDINE via Pola 119 07:15 07:49 08:16 08:56 09:26 10:36 11:41 12:16 12:49 13:23 13:51 14:56 14:21 17:46
+ UD267   UDINE via Fruch 71 07:16 07:50 08:17 08:57 09:27 10:37 11:42 12:17 12:50 13:24 13:52 14:57 14:22 17:47
+ UD223   UDINE via della Polveriera 131 (angolo via del 
+Bon)
+07:17 07:51 08:18 08:58 09:28 10:38 11:43 12:18 12:51 13:25 13:53 14:58 14:23 17:48
+ UD199   UDINE via del Bon 243 (Molino) 07:17 07:51 08:18 08:58 09:28 10:38 11:43 12:18 12:51 13:25 13:53 14:58 14:23 17:48
+ UD201   UDINE via del Bon 311 (ponte Ferrovia) 07:17 07:51 08:18 08:58 09:28 10:38 11:43 12:18 12:51 13:25 13:53 14:58 14:23 17:48
+ UD203   UDINE via del Bon 373 07:17 07:52 08:19 08:59 09:29 10:39 11:44 12:19 12:52 13:25 13:54 14:59 14:24 17:49
+ UD205   UDINE via del Bon 504 07:20 07:57 08:24 09:04 09:34 10:44 11:49 12:24 12:57 13:30 13:59 15:04 14:29 17:54
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U506 URBANO feriale solo al sabato
+venerdì 24 aprile 2026Pagina 1 di 2
+  [Pagina 3]
+LINEA 8 (Andata)
+Orario valido dal 1° maggio 2026Via Lumignacco-Cella-FS-Teatro Nuovo-Treppo-Pola-Del Bon 
+FERIALE ANNU FERIALE ANNUALE solo al sabato GIORNI 
+31 33 127 129 131 133 135 3
+U507 U507 U506 U506 U506 U506 U506 U530
+ UD339   UDINE via Lumignacco (fronte civico 325) 18:35 19:35 15:40 16:40 17:40 18:40 19:40 07:33
+ UD328   UDINE via Lumignacco (fronte civico 273) 18:35 19:35 15:40 16:40 17:40 18:40 19:40 07:33
+ UD337   UDINE via Lumignacco (fronte civico 221) 18:36 19:36 15:41 16:41 17:41 18:41 19:41 07:34
+ UD336   UDINE via Lumignacco (fronte 177, passaggio 
+a livello)
+18:37 19:37 15:42 16:42 17:42 18:42 19:42 07:35
+ 70C36   UDINE via Lumignacco (fronte 135, bivio istituti 
+scolastici)
+18:37 19:37 15:42 16:42 17:42 18:42 19:42 07:35
+ UD338   UDINE via Lumignacco (fronte civico 79) 18:38 19:38 15:43 16:43 17:43 18:43 19:43 07:36
+ UD332   UDINE via Lumignacco 2 18:39 19:39 15:44 16:44 17:44 18:44 19:44 07:37
+ 70C69   UDINE viale delle Ferriere 26 (piazzale 
+Cella)
+18:40 19:40 15:45 16:45 17:45 18:45 19:45 07:38
+ UD521   UDINE viale delle Ferriere 4C 18:41 19:41 15:46 16:46 17:46 18:46 19:46
+ UD610   UDINE via De Rubeis 1 (farmacia) 07:39
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 18:42 19:42 15:47 16:47 17:47 18:47 19:47 07:40
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+18:43 19:43 15:48 16:48 17:48 18:48 19:48 07:41
+ UD706   UDINE viale Ungheria 84 18:44 19:44 15:49 16:49 17:49 18:49 19:49 07:42
+ UD704   UDINE viale Ungheria (fronte civico 61) 18:45 19:45 15:50 16:50 17:50 18:50 19:50 07:43
+ UD702   UDINE viale Ungheria (lato ex distretto militare) 18:46 19:46 15:51 16:51 17:51 18:51 19:51 07:44
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+18:47 19:47 15:52 16:52 17:52 18:52 19:52 07:45
+ UD476   UDINE via Treppo 35 18:48 19:48 15:53 16:53 17:53 18:53 19:53 07:46
+ UD146   UDINE via Generale Carlo Caneva (fronte 
+14, Teatro Nuovo)
+18:48 19:48 15:53 16:53 17:53 18:53 19:53 07:46
+ UD095   UDINE via Albona (fronte civico 123, angolo via 
+del Bon)
+18:50 19:50 15:55 16:55 17:55 18:55 19:55 07:48
+ UD418   UDINE via Pola 63 (passaggio a livello) 18:50 19:50 15:55 16:55 17:55 18:55 19:55 07:48
+ UD420   UDINE via Pola 119 18:51 19:51 15:56 16:56 17:56 18:56 19:56 07:49
+ UD267   UDINE via Fruch 71 18:52 19:52 15:57 16:57 17:57 18:57 19:57 07:50
+ UD223   UDINE via della Polveriera 131 (angolo via del 
+Bon)
+18:53 19:53 15:58 16:58 17:58 18:58 19:58 07:51
+ UD199   UDINE via del Bon 243 (Molino) 18:53 19:53 15:58 16:58 17:58 18:58 19:58 07:51
+ UD201   UDINE via del Bon 311 (ponte Ferrovia) 18:53 19:53 15:58 16:58 17:58 18:58 19:58 07:51
+ UD203   UDINE via del Bon 373 18:54 19:54 15:59 16:59 17:59 18:59 19:59 07:52
+ UD205   UDINE via del Bon 504 18:59 19:59 16:04 17:04 18:04 19:04 20:04 07:57
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U506 URBANO feriale solo al sabato
+venerdì 24 aprile 2026Pagina 2 di 2
+  [Pagina 4]
+LINEA 8 (Ritorno)
+Orario valido dal 1° maggio 2026Via Del Bon-Pola-Teatro Nuovo-FS-Cella-via Lumignacco 
+FERIALE ANNUALE FERIALE ANNU
+2 4 6 8 10 12 14 16 20 22 24 26 28 30
+U500 U500 U500 U500 U500 U500 U500 U500 U550 U500 U500 U500 U507 U507
+ UD205   UDINE via del Bon 504 07:05 07:25 08:10 08:33 09:05 09:40 10:50 12:00 12:27 13:00 13:33 14:08 14:33 15:08
+ UD204   UDINE via del Bon 410 07:05 07:25 08:10 08:33 09:05 09:40 10:50 12:00 12:27 13:00 13:33 14:08 14:33 15:08
+ UD202   UDINE via del Bon 326 (ponte Ferrovia) 07:06 07:26 08:11 08:34 09:06 09:41 10:51 12:01 12:28 13:01 13:34 14:09 14:34 15:09
+ UD200   UDINE via del Bon 248 (Molino) 07:07 07:27 08:12 08:35 09:07 09:42 10:52 12:02 12:29 13:02 13:35 14:10 14:35 15:10
+ UD222   UDINE via della Polveriera 130 (angolo via del 
+Bon)
+07:08 07:28 08:13 08:36 09:08 09:43 10:53 12:03 12:30 13:03 13:36 14:11 14:36 15:11
+ UD265   UDINE via Fruch 30 07:09 07:29 08:14 08:37 09:09 09:44 10:54 12:04 12:31 13:04 13:37 14:12 14:37 15:12
+ UD421   UDINE via Pola 120 07:10 07:30 08:15 08:38 09:10 09:45 10:55 12:05 12:32 13:05 13:38 14:13 14:38 15:13
+ UD419   UDINE via Pola 68 (passaggio a livello) 07:10 07:30 08:16 08:39 09:10 09:46 10:56 12:06 12:33 13:06 13:39 14:14 14:38 15:13
+ UD094   UDINE via Albona 123 (angolo via del Bon) 07:11 07:31 08:17 08:40 09:11 09:47 10:57 12:07 12:34 13:07 13:40 14:15 14:39 15:14
+ UD563   UDINE viale Trieste 113 07:12 07:32 08:17 08:40 09:12 09:47 10:57 12:07 12:34 13:07 13:40 14:15 14:40 15:15
+ UD404   UDINE via Petrarca 116 07:13 07:33 08:18 08:41 09:13 09:48 10:58 12:08 12:35 13:08 13:41 14:16 14:41 15:16
+ UD406   UDINE via Petrarca 54 (scuola media Valussi) 07:13 07:33 08:18 08:41 09:13 09:48 10:58 12:08 12:35 13:08 13:41 14:16 14:41 15:16
+ UD475   UDINE via Treppo 22 07:14 07:34 08:19 08:42 09:14 09:49 10:59 12:09 12:36 13:09 13:42 14:17 14:42 15:17
+ UD474   UDINE via Treppo 2 (vecchio tribunale) 07:15 07:35 08:20 08:43 09:15 09:50 11:00 12:10 12:37 13:10 13:43 14:18 14:43 15:18
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo FVG) 07:18 07:38 08:23 08:46 09:18 09:53 11:03 12:13 12:40 13:13 13:46 14:21 14:46 15:21
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+07:18 07:38 08:23 08:46 09:18 09:53 11:03 12:13 12:40 13:13 13:46 14:21 14:46 15:21
+ UD703   UDINE viale Ungheria (fronte ex distretto 
+militare)
+07:19 07:39 08:24 08:47 09:19 09:54 11:04 12:14 12:41 13:14 13:47 14:22 14:47 15:22
+ UD705   UDINE viale Ungheria 61 07:20 07:40 08:25 08:48 09:20 09:55 11:05 12:15 12:42 13:15 13:48 14:23 14:48 15:23
+ UD707   UDINE viale Ungheria 133 07:21 07:41 08:26 08:49 09:21 09:56 11:06 12:16 12:43 13:16 13:49 14:24 14:49 15:24
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+07:23 07:43 08:28 08:51 09:23 09:58 11:08 12:18 12:45 13:18 13:51 14:26 14:51 15:26
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 07:24 07:44 08:29 08:52 09:59 11:09 12:19 12:46 13:19 13:52 14:27
+ UD522   UDINE viale delle Ferriere (fronte civico 6) 07:24 07:44 08:29 08:52 09:59 11:09 12:19 12:46 13:19 13:52 14:27
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 07:24 07:44 08:29 08:52 09:59 11:09 12:19 12:46 13:19 13:52 14:27
+ 70C60   UDINE piazzale Giobatta Cella 59 07:25 07:45 08:30 08:53 10:00 11:10 12:20 12:47 13:20 13:53 14:28
+ UD398   UDINE via Napoli 27 07:26 07:46 08:31 08:54 10:01 11:11 12:21 12:48 13:21 13:54 14:29
+ UD092   UDINE via Agrigento (fronte civico 5) 07:27 07:47 08:32 08:55 10:02 11:12 12:22 12:49 13:22 13:55 14:30
+ UD329   UDINE via Lumignacco 79 07:28 07:48 08:33 08:56 10:03 11:13 12:23 12:50 13:23 13:56 14:31
+ 70C34   UDINE via Lumignacco 135 (bivio istituti 
+scolastici)
+07:28 07:49 08:33 08:56 10:03 11:13 12:23 12:50 13:23 13:56 14:31
+ UD142   UDINE via Campoformido 13 07:50
+ UD144   UDINE via Campoformido 79 07:50
+ 70C35   UDINE via Zugliano 52 (sede scolastica) 07:50
+ UD090   UDINE via 3 Novembre (fronte civico 12, 
+parco Collodi)
+07:52
+ UD090   UDINE via 3 Novembre (fronte civico 12, 
+parco Collodi)
+07:54
+ UD499   UDINE via Zugliano 43 (sede scolastica) 07:54
+ UD145   UDINE via Campoformido (fronte civico 79) 07:54
+ UD143   UDINE via Campoformido 6 07:55
+ UD331   UDINE via Lumignacco 177 (passaggio a livello) 07:29 07:56 08:34 08:57 10:04 11:14 12:24 12:51 13:24 13:57 14:32
+ UD333   UDINE via Lumignacco 221 07:29 07:56 08:34 08:57 10:04 11:14 12:24 12:51 13:24 13:57 14:32
+ UD334   UDINE via Lumignacco 271 07:29 07:56 08:34 08:57 10:04 11:14 12:24 12:51 13:24 13:57 14:32
+ UD339   UDINE via Lumignacco (fronte civico 325) 07:32 07:58 08:37 09:00 10:07 11:17 12:27 12:54 13:27 14:00 14:35
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U506 URBANO feriale solo al sabato
+venerdì 24 aprile 2026Pagina 1 di 2
+  [Pagina 5]
+LINEA 8 (Ritorno)
+Orario valido dal 1° maggio 2026Via Del Bon-Pola-Teatro Nuovo-FS-Cella-via Lumignacco 
+FERIALE ANNU FERIALE ANNUALE solo al sabato GIORNI 
+32 34 128 130 132 134 136 18
+U507 U507 U506 U506 U506 U506 U506 U530
+ UD205   UDINE via del Bon 504 18:00 19:03 15:08 16:08 17:08 18:08 19:08 12:27
+ UD204   UDINE via del Bon 410 18:00 19:03 15:08 16:08 17:08 18:08 19:08 12:27
+ UD202   UDINE via del Bon 326 (ponte Ferrovia) 18:01 19:04 15:09 16:09 17:09 18:09 19:09 12:28
+ UD200   UDINE via del Bon 248 (Molino) 18:02 19:05 15:10 16:10 17:10 18:10 19:10 12:29
+ UD222   UDINE via della Polveriera 130 (angolo via del 
+Bon)
+18:03 19:06 15:11 16:11 17:11 18:11 19:11 12:30
+ UD265   UDINE via Fruch 30 18:04 19:07 15:12 16:12 17:12 18:12 19:12 12:31
+ UD421   UDINE via Pola 120 18:05 19:08 15:13 16:13 17:13 18:13 19:13 12:32
+ UD419   UDINE via Pola 68 (passaggio a livello) 18:06 19:09 15:14 16:14 17:14 18:14 19:14 12:32
+ UD094   UDINE via Albona 123 (angolo via del Bon) 18:07 19:10 15:15 16:15 17:15 18:15 19:15 12:33
+ UD563   UDINE viale Trieste 113 18:07 19:10 15:15 16:15 17:15 18:15 19:15 12:34
+ UD404   UDINE via Petrarca 116 18:08 19:11 15:16 16:16 17:16 18:16 19:16 12:35
+ UD406   UDINE via Petrarca 54 (scuola media Valussi) 18:08 19:11 15:16 16:16 17:16 18:16 19:16 12:35
+ UD475   UDINE via Treppo 22 18:09 19:12 15:17 16:17 17:17 18:17 19:17 12:36
+ UD474   UDINE via Treppo 2 (vecchio tribunale) 18:10 19:13 15:18 16:18 17:18 18:18 19:18 12:37
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo FVG) 18:13 19:16 15:21 16:21 17:21 18:21 19:21 12:40
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+18:13 19:16 15:21 16:21 17:21 18:21 19:21 12:40
+ UD703   UDINE viale Ungheria (fronte ex distretto 
+militare)
+18:14 19:17 15:22 16:22 17:22 18:22 19:22 12:41
+ UD705   UDINE viale Ungheria 61 18:15 19:18 15:23 16:23 17:23 18:23 19:23 12:42
+ UD707   UDINE viale Ungheria 133 18:16 19:19 15:24 16:24 17:24 18:24 19:24 12:43
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+18:18 19:21 15:26 16:26 17:26 18:26 19:26 12:45
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 18:19 19:22 15:27 16:27 17:27 18:27 19:27 12:46
+ UD611   UDINE via De Rubeis fronte 1 (farmacia) 12:47
+ UD522   UDINE viale delle Ferriere (fronte civico 6) 18:19 19:22 15:27 16:27 17:27 18:27 19:27
+ 70C33   UDINE viale delle Ferriere 19 (piazzale Cella) 18:19 19:22 15:27 16:27 17:27 18:27 19:27 12:47
+ 70C60   UDINE piazzale Giobatta Cella 59 18:20 19:23 15:28 16:28 17:28 18:28 19:28 12:48
+ UD398   UDINE via Napoli 27 18:21 19:24 15:29 16:29 17:29 18:29 19:29 12:49
+ UD092   UDINE via Agrigento (fronte civico 5) 18:22 19:25 15:30 16:30 17:30 18:30 19:30 12:50
+ UD329   UDINE via Lumignacco 79 18:23 19:26 15:31 16:31 17:31 18:31 19:31 12:51
+ 70C34   UDINE via Lumignacco 135 (bivio istituti 
+scolastici)
+18:23 19:26 15:31 16:31 17:31 18:31 19:31 12:51
+ UD331   UDINE via Lumignacco 177 (passaggio a livello) 18:24 19:27 15:32 16:32 17:32 18:32 19:32 12:52
+ UD333   UDINE via Lumignacco 221 18:24 19:27 15:32 16:32 17:32 18:32 19:32 12:52
+ UD334   UDINE via Lumignacco 271 18:24 19:27 15:32 16:32 17:32 18:32 19:32 12:52
+ UD339   UDINE via Lumignacco (fronte civico 325) 18:27 19:30 15:35 16:35 17:35 18:35 19:35 12:55
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U500 URBANO feriale U507 URBANO feriale escluso il sabato
+U530 URBANO scolastica U550 URBANO feriale periodo non scolastico e giorni non scolastici del 
+periodo scolastico
+U506 URBANO feriale solo al sabato
+venerdì 24 aprile 2026Pagina 2 di 2
+  [Pagina 6]
+www.tplfvg.it
+TPL FVG S.c.a.r.l.
+via Caduti di An Nasiriyah 6
+34170 Gorizia (GO)
+e-mail info@tplfvg.it

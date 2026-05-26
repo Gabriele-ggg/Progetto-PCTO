@@ -1,0 +1,2082 @@
+  [Pagina 1]
+Servizio urbano
+UDINE
+Linea 1
+Orario valido 
+dall’11 settembre 2025
+  [Pagina 2]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE ESTIVO e in più vacanze Natale
+301 303 305 307 309 311 313 315 317 319 321 323 325 327
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+06:10 06:25 06:36 06:54 07:05 07:21 07:27 07:37 07:47 07:57 08:07 08:17
+ UD188   UDINE via Colugna (fronte civico 63) 06:10 06:25 06:36 06:54 07:05 07:21 07:27 07:37 07:47 07:57 08:07 08:17
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+06:11 06:26 06:37 06:55 07:06 07:22 07:28 07:38 07:48 07:58 08:08 08:18
+ UD186   UDINE via Colugna 40 06:12 06:27 06:38 06:56 07:07 07:23 07:29 07:39 07:49 07:59 08:09 08:19
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+06:14 06:29 06:40 06:50 06:58 07:09 07:19 07:26 07:32 07:42 07:52 08:02 08:12 08:22
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+06:14 06:29 06:40 06:50 06:58 07:09 07:20 07:27 07:33 07:43 07:53 08:03 08:13 08:23
+ UD682   UDINE via Forni di Sotto 36 06:15 06:30 06:41 06:51 06:59 07:10 07:21 07:28 07:34 07:44 07:54 08:04 08:14 08:24
+ UD080   UDINE viale Volontari della Libertà 46 06:16 06:31 06:42 06:52 07:00 07:11 07:22 07:29 07:35 07:45 07:55 08:05 08:15 08:25
+ UD078   UDINE viale Volontari della Libertà 20 06:16 06:31 06:43 06:53 07:01 07:12 07:23 07:30 07:36 07:46 07:56 08:06 08:16 08:26
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+06:17 06:32 06:44 06:54 07:02 07:13 07:24 07:31 07:37 07:47 07:57 08:07 08:17 08:27
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 06:18 06:33 06:46 06:56 07:04 07:15 07:26 07:33 07:39 07:49 07:59 08:09 08:19 08:29
+ UD730   UDINE viale della Vittoria 12D (Sello) 06:19 06:34 06:47 06:57 07:05 07:16 07:27 07:34 07:40 07:50 08:00 08:10 08:20 08:30
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+06:20 06:35 06:48 06:58 07:06 07:17 07:28 07:35 07:41 07:51 08:01 08:11 08:21 08:31
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+06:20 06:35 06:48 06:58 07:06 07:17 07:28 07:35 07:41 07:51 08:01 08:11 08:21 08:31
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 06:21 06:36 06:49 06:59 07:07 07:18 07:28 07:36 07:42 07:52 08:02 08:12 08:22 08:32
+ UD770   UDINE via Aquileia 45 06:22 06:37 06:50 07:00 07:08 07:19 07:29 07:37 07:43 07:53 08:03 08:13 08:23 08:33
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+06:25 06:40
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+06:53 07:03 07:11 07:22 07:33 07:40 07:46 07:56 08:06 08:16 08:26 08:36
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 06:53 07:03 07:11 07:22 07:34 07:41 07:47 07:57 08:07 08:17 08:27 08:37
+ UD353   UDINE via Marsala 23 06:54 07:04 07:12 07:23 07:35 07:42 07:48 07:58 08:08 08:18 08:28 08:38
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 06:54 07:04 07:12 07:23 07:36 07:43 07:49 07:59 08:09 08:19 08:29 08:39
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+06:57 07:07 07:15 07:26 07:40 07:47 07:53 08:03 08:13 08:23 08:33 08:43
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 1 di 18
+  [Pagina 3]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE ESTIVO e in più vacanze Natale
+329 331 333 335 337 339 341 343 345 347 349 351 353 355
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+08:27 08:37 08:47 08:57 09:07 09:17 09:27 09:37 09:47 09:57 10:07 10:17 10:27 10:37
+ UD188   UDINE via Colugna (fronte civico 63) 08:27 08:37 08:47 08:57 09:07 09:17 09:27 09:37 09:47 09:57 10:07 10:17 10:27 10:37
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+08:28 08:38 08:48 08:58 09:08 09:18 09:28 09:38 09:48 09:58 10:08 10:18 10:28 10:38
+ UD186   UDINE via Colugna 40 08:29 08:39 08:49 08:59 09:09 09:19 09:29 09:39 09:49 09:59 10:09 10:19 10:29 10:39
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+08:32 08:42 08:52 09:02 09:12 09:22 09:32 09:42 09:52 10:02 10:12 10:22 10:32 10:42
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+08:33 08:43 08:53 09:03 09:13 09:23 09:33 09:43 09:53 10:03 10:13 10:23 10:33 10:43
+ UD682   UDINE via Forni di Sotto 36 08:34 08:44 08:54 09:04 09:14 09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34 10:44
+ UD080   UDINE viale Volontari della Libertà 46 08:35 08:45 08:55 09:05 09:15 09:25 09:35 09:45 09:55 10:05 10:15 10:25 10:35 10:45
+ UD078   UDINE viale Volontari della Libertà 20 08:36 08:46 08:56 09:06 09:16 09:26 09:36 09:46 09:56 10:06 10:16 10:26 10:36 10:46
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+08:37 08:47 08:57 09:07 09:17 09:27 09:37 09:47 09:57 10:07 10:17 10:27 10:37 10:47
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 08:39 08:49 08:59 09:09 09:19 09:29 09:39 09:49 09:59 10:09 10:19 10:29 10:39 10:49
+ UD730   UDINE viale della Vittoria 12D (Sello) 08:40 08:50 09:00 09:10 09:20 09:30 09:40 09:50 10:00 10:10 10:20 10:30 10:40 10:50
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+08:41 08:51 09:01 09:11 09:21 09:31 09:41 09:51 10:01 10:11 10:21 10:31 10:41 10:51
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+08:41 08:51 09:01 09:11 09:21 09:31 09:41 09:51 10:01 10:11 10:21 10:31 10:41 10:51
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 08:42 08:52 09:02 09:12 09:22 09:32 09:42 09:52 10:02 10:12 10:22 10:32 10:42 10:52
+ UD770   UDINE via Aquileia 45 08:43 08:53 09:03 09:13 09:23 09:33 09:43 09:53 10:03 10:13 10:23 10:33 10:43 10:53
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+08:46 08:56 09:06 09:16 09:26 09:36 09:46 09:56 10:06 10:16 10:26 10:36 10:46 10:56
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 08:47 08:57 09:07 09:17 09:27 09:37 09:47 09:57 10:07 10:17 10:27 10:37 10:47 10:57
+ UD353   UDINE via Marsala 23 08:48 08:58 09:08 09:18 09:28 09:38 09:48 09:58 10:08 10:18 10:28 10:38 10:48 10:58
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 08:49 08:59 09:09 09:19 09:29 09:39 09:49 09:59 10:09 10:19 10:29 10:39 10:49 10:59
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+08:53 09:03 09:13 09:23 09:33 09:43 09:53 10:03 10:13 10:23 10:33 10:43 10:53 11:03
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 2 di 18
+  [Pagina 4]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE ESTIVO e in più vacanze Natale
+357 359 361 363 365 367 369 371 373 375 377 379 381 383
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+10:47 10:57 11:07 11:17 11:27 11:37 11:47 11:57 12:07 12:17 12:27 12:37 12:47 12:57
+ UD188   UDINE via Colugna (fronte civico 63) 10:47 10:57 11:07 11:17 11:27 11:37 11:47 11:57 12:07 12:17 12:27 12:37 12:47 12:57
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+10:48 10:58 11:08 11:18 11:28 11:38 11:48 11:58 12:08 12:18 12:28 12:38 12:48 12:58
+ UD186   UDINE via Colugna 40 10:49 10:59 11:09 11:19 11:29 11:39 11:49 11:59 12:09 12:19 12:29 12:39 12:49 12:59
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+10:52 11:02 11:12 11:22 11:32 11:42 11:52 12:02 12:12 12:22 12:32 12:42 12:52 13:02
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+10:53 11:03 11:13 11:23 11:33 11:43 11:53 12:03 12:13 12:23 12:33 12:43 12:53 13:03
+ UD682   UDINE via Forni di Sotto 36 10:54 11:04 11:14 11:24 11:34 11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54 13:04
+ UD080   UDINE viale Volontari della Libertà 46 10:55 11:05 11:15 11:25 11:35 11:45 11:55 12:05 12:15 12:25 12:35 12:45 12:55 13:05
+ UD078   UDINE viale Volontari della Libertà 20 10:56 11:06 11:16 11:26 11:36 11:46 11:56 12:06 12:16 12:26 12:36 12:46 12:56 13:06
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+10:57 11:07 11:17 11:27 11:37 11:47 11:57 12:07 12:17 12:27 12:37 12:47 12:57 13:07
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 10:59 11:09 11:19 11:29 11:39 11:49 11:59 12:09 12:19 12:29 12:39 12:49 12:59 13:09
+ UD730   UDINE viale della Vittoria 12D (Sello) 11:00 11:10 11:20 11:30 11:40 11:50 12:00 12:10 12:20 12:30 12:40 12:50 13:00 13:10
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+11:01 11:11 11:21 11:31 11:41 11:51 12:01 12:11 12:21 12:31 12:41 12:51 13:01 13:11
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+11:01 11:11 11:21 11:31 11:41 11:51 12:01 12:11 12:21 12:31 12:41 12:51 13:01 13:11
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 11:02 11:12 11:22 11:32 11:42 11:52 12:02 12:12 12:22 12:32 12:42 12:52 13:02 13:12
+ UD770   UDINE via Aquileia 45 11:03 11:13 11:23 11:33 11:43 11:53 12:03 12:13 12:23 12:33 12:43 12:53 13:03 13:13
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+11:06 11:16 11:26 11:36 11:46 11:56 12:06 12:16 12:26 12:36 12:46 12:56 13:06 13:16
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 11:07 11:17 11:27 11:37 11:47 11:57 12:07 12:17 12:27 12:37 12:47 12:57 13:07 13:17
+ UD353   UDINE via Marsala 23 11:08 11:18 11:28 11:38 11:48 11:58 12:08 12:18 12:28 12:38 12:48 12:58 13:08 13:18
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 11:09 11:19 11:29 11:39 11:49 11:59 12:09 12:19 12:29 12:39 12:49 12:59 13:09 13:19
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+11:13 11:23 11:33 11:43 11:53 12:03 12:13 12:23 12:33 12:43 12:53 13:03 13:13 13:23
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 3 di 18
+  [Pagina 5]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE ESTIVO e in più vacanze Natale
+385 387 389 391 393 395 397 399 401 403 405 407 409 411
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+13:07 13:17 13:27 13:37 13:49 14:01 14:13 14:25 14:37 14:49 15:01 15:13 15:25 15:37
+ UD188   UDINE via Colugna (fronte civico 63) 13:07 13:17 13:27 13:37 13:49 14:01 14:13 14:25 14:37 14:49 15:01 15:13 15:25 15:37
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+13:08 13:18 13:28 13:38 13:50 14:02 14:14 14:26 14:38 14:50 15:02 15:14 15:26 15:38
+ UD186   UDINE via Colugna 40 13:09 13:19 13:29 13:39 13:51 14:03 14:15 14:27 14:39 14:51 15:03 15:15 15:27 15:39
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+13:12 13:22 13:32 13:42 13:54 14:06 14:18 14:30 14:42 14:54 15:06 15:18 15:30 15:42
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+13:13 13:23 13:33 13:43 13:55 14:07 14:19 14:31 14:43 14:55 15:07 15:19 15:31 15:43
+ UD682   UDINE via Forni di Sotto 36 13:14 13:24 13:34 13:44 13:56 14:08 14:20 14:32 14:44 14:56 15:08 15:20 15:32 15:44
+ UD080   UDINE viale Volontari della Libertà 46 13:15 13:25 13:35 13:45 13:57 14:09 14:21 14:33 14:45 14:57 15:09 15:21 15:33 15:45
+ UD078   UDINE viale Volontari della Libertà 20 13:16 13:26 13:36 13:46 13:58 14:10 14:22 14:34 14:46 14:58 15:10 15:22 15:34 15:46
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+13:17 13:27 13:37 13:47 13:59 14:11 14:23 14:35 14:47 14:59 15:11 15:23 15:35 15:47
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 13:19 13:29 13:39 13:49 14:01 14:13 14:25 14:37 14:49 15:01 15:13 15:25 15:37 15:49
+ UD730   UDINE viale della Vittoria 12D (Sello) 13:20 13:30 13:40 13:50 14:02 14:14 14:26 14:38 14:50 15:02 15:14 15:26 15:38 15:50
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+13:21 13:31 13:41 13:51 14:03 14:15 14:27 14:39 14:51 15:03 15:15 15:27 15:39 15:51
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+13:21 13:31 13:41 13:51 14:03 14:15 14:27 14:39 14:51 15:03 15:15 15:27 15:39 15:51
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 13:22 13:32 13:42 13:52 14:04 14:16 14:28 14:40 14:52 15:04 15:16 15:28 15:40 15:52
+ UD770   UDINE via Aquileia 45 13:23 13:33 13:43 13:53 14:05 14:17 14:29 14:41 14:53 15:05 15:17 15:29 15:41 15:53
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+13:26 13:36 13:46 13:56 14:08 14:20 14:32 14:44 14:56 15:08 15:20 15:32 15:44 15:56
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 13:27 13:37 13:47 13:57 14:09 14:21 14:33 14:45 14:57 15:09 15:21 15:33 15:45 15:57
+ UD353   UDINE via Marsala 23 13:28 13:38 13:48 13:58 14:10 14:22 14:34 14:46 14:58 15:10 15:22 15:34 15:46 15:58
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 13:29 13:39 13:49 13:59 14:11 14:23 14:35 14:47 14:59 15:11 15:23 15:35 15:47 15:59
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+13:33 13:43 13:53 14:03 14:15 14:27 14:39 14:51 15:03 15:15 15:27 15:39 15:51 16:03
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 4 di 18
+  [Pagina 6]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE ESTIVO e in più vacanze Natale
+413 415 417 419 421 423 425 427 429 431 433 435 437 439
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+15:49 16:01 16:13 16:25 16:37 16:49 17:01 17:13 17:25 17:37 17:49 18:01 18:13 18:25
+ UD188   UDINE via Colugna (fronte civico 63) 15:49 16:01 16:13 16:25 16:37 16:49 17:01 17:13 17:25 17:37 17:49 18:01 18:13 18:25
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+15:50 16:02 16:14 16:26 16:38 16:50 17:02 17:14 17:26 17:38 17:50 18:02 18:14 18:26
+ UD186   UDINE via Colugna 40 15:51 16:03 16:15 16:27 16:39 16:51 17:03 17:15 17:27 17:39 17:51 18:03 18:15 18:27
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+15:54 16:06 16:18 16:30 16:42 16:54 17:06 17:18 17:30 17:42 17:54 18:06 18:18 18:30
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+15:55 16:07 16:19 16:31 16:43 16:55 17:07 17:19 17:31 17:43 17:55 18:07 18:19 18:31
+ UD682   UDINE via Forni di Sotto 36 15:56 16:08 16:20 16:32 16:44 16:56 17:08 17:20 17:32 17:44 17:56 18:08 18:20 18:32
+ UD080   UDINE viale Volontari della Libertà 46 15:57 16:09 16:21 16:33 16:45 16:57 17:09 17:21 17:33 17:45 17:57 18:09 18:21 18:33
+ UD078   UDINE viale Volontari della Libertà 20 15:58 16:10 16:22 16:34 16:46 16:58 17:10 17:22 17:34 17:46 17:58 18:10 18:22 18:34
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+15:59 16:11 16:23 16:35 16:47 16:59 17:11 17:23 17:35 17:47 17:59 18:11 18:23 18:35
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 16:01 16:13 16:25 16:37 16:49 17:01 17:13 17:25 17:37 17:49 18:01 18:13 18:25 18:37
+ UD730   UDINE viale della Vittoria 12D (Sello) 16:02 16:14 16:26 16:38 16:50 17:02 17:14 17:26 17:38 17:50 18:02 18:14 18:26 18:38
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+16:03 16:15 16:27 16:39 16:51 17:03 17:15 17:27 17:39 17:51 18:03 18:15 18:27 18:39
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+16:03 16:15 16:27 16:39 16:51 17:03 17:15 17:27 17:39 17:51 18:03 18:15 18:27 18:39
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 16:04 16:16 16:28 16:40 16:52 17:04 17:16 17:28 17:40 17:52 18:04 18:16 18:28 18:40
+ UD770   UDINE via Aquileia 45 16:05 16:17 16:29 16:41 16:53 17:05 17:17 17:29 17:41 17:53 18:05 18:17 18:29 18:41
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+16:08 16:20 16:32 16:44 16:56 17:08 17:20 17:32 17:44 17:56 18:08 18:20 18:32 18:44
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 16:09 16:21 16:33 16:45 16:57 17:09 17:21 17:33 17:45 17:57 18:09 18:21 18:33 18:45
+ UD353   UDINE via Marsala 23 16:10 16:22 16:34 16:46 16:58 17:10 17:22 17:34 17:46 17:58 18:10 18:22 18:34 18:46
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 16:11 16:23 16:35 16:47 16:59 17:11 17:23 17:35 17:47 17:59 18:11 18:23 18:35 18:47
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+16:15 16:27 16:39 16:51 17:03 17:15 17:27 17:39 17:51 18:03 18:15 18:27 18:39 18:51
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 5 di 18
+  [Pagina 7]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE ESTIVO e in più vacanze Natale
+441 443 445 447 449 451 453 455 457 459 461 463 465 467
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+18:37 18:49 19:01 19:13 19:25 19:37 19:49 20:00 20:11 20:22
+ UD188   UDINE via Colugna (fronte civico 63) 18:37 18:49 19:01 19:13 19:25 19:37 19:49 20:00 20:11 20:22
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+18:38 18:50 19:02 19:14 19:26 19:38 19:50 20:01 20:12 20:23
+ UD186   UDINE via Colugna 40 18:39 18:51 19:03 19:15 19:27 19:39 19:51 20:02 20:13 20:24
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+18:42 18:54 19:06 19:18 19:30 19:42 19:53 20:04 20:15 20:26 20:36 20:51 21:10 21:37
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+18:43 18:55 19:07 19:19 19:31 19:43 19:53 20:04 20:15 20:26 20:36 20:51 21:10 21:37
+ UD682   UDINE via Forni di Sotto 36 18:44 18:56 19:08 19:20 19:32 19:44 19:54 20:05 20:16 20:27 20:37 20:52 21:11 21:38
+ UD080   UDINE viale Volontari della Libertà 46 18:45 18:57 19:09 19:21 19:33 19:45 19:55 20:06 20:17 20:28 20:38 20:53 21:12 21:39
+ UD078   UDINE viale Volontari della Libertà 20 18:46 18:58 19:10 19:22 19:34 19:46 19:56 20:07 20:18 20:28 20:38 20:53 21:12 21:39
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+18:47 18:59 19:11 19:23 19:35 19:47 19:57 20:08 20:19 20:29 20:39 20:54 21:13 21:40
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 18:49 19:01 19:13 19:25 19:37 19:49 19:59 20:10 20:21 20:30 20:40 20:55 21:14 21:41
+ UD730   UDINE viale della Vittoria 12D (Sello) 18:50 19:02 19:14 19:26 19:38 19:50 20:00 20:11 20:22 20:31 20:41 20:56 21:15 21:42
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+18:51 19:03 19:15 19:27 19:39 19:51 20:01 20:12 20:23 20:32 20:42 20:57 21:16 21:43
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+18:51 19:03 19:15 19:27 19:39 19:51 20:01 20:12 20:23 20:32 20:42 20:57 21:16 21:43
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 18:52 19:04 19:16 19:28 19:40 19:52 20:02 20:13 20:24 20:33 20:43 20:58 21:17 21:44
+ UD770   UDINE via Aquileia 45 18:53 19:05 19:17 19:29 19:41 19:53 20:03 20:14 20:25 20:34 20:44 20:59 21:18 21:45
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+20:17 20:37 21:21 21:48
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+18:56 19:08 19:20 19:32 19:44 19:56 20:06 20:28 20:47 21:02
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 18:57 19:09 19:21 19:33 19:45 19:57 20:06 20:28 20:47 21:02
+ UD353   UDINE via Marsala 23 18:58 19:10 19:22 19:34 19:46 19:58 20:07 20:29 20:48 21:03
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 18:59 19:11 19:23 19:35 19:47 19:59 20:07 20:29 20:48 21:03
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+19:03 19:15 19:27 19:39 19:51 20:03 20:10 20:32 20:50 21:05
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 6 di 18
+  [Pagina 8]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE ESTIVO e in più vacan FESTIVO ANNUALE
+469 471 473 475 601 603 605 607 609 611 613 615 617 619
+U502 U502 U502 U502 U511 U511 U511 U511 U511 U511 U510 U510 U510 U510
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+22:07 22:37 23:07 23:35 06:30 06:46 07:02 07:18 07:34 07:50 08:06 08:22 08:32 08:45
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+22:07 22:37 23:07 23:35 06:31 06:47 07:03 07:19 07:35 07:51 08:07 08:23 08:33 08:46
+ UD682   UDINE via Forni di Sotto 36 22:08 22:38 23:08 23:36 06:31 06:47 07:03 07:19 07:35 07:51 08:07 08:23 08:33 08:46
+ UD080   UDINE viale Volontari della Libertà 46 22:09 22:39 23:09 23:37 06:33 06:49 07:06 07:22 07:38 07:54 08:10 08:26 08:36 08:49
+ UD078   UDINE viale Volontari della Libertà 20 22:09 22:39 23:09 23:37 06:34 06:50 07:06 07:22 07:38 07:54 08:10 08:26 08:36 08:49
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+22:10 22:40 23:10 23:38 06:35 06:51 07:07 07:23 07:39 07:55 08:11 08:27 08:37 08:50
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 22:11 22:41 23:11 23:39 06:36 06:52 07:08 07:24 07:40 07:56 08:12 08:28 08:38 08:51
+ UD730   UDINE viale della Vittoria 12D (Sello) 22:12 22:42 23:12 23:40 06:36 06:52 07:09 07:25 07:41 07:57 08:13 08:29 08:39 08:52
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+22:13 22:43 23:13 23:41 06:37 06:53 07:10 07:26 07:42 07:58 08:14 08:30 08:40 08:53
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+22:13 22:43 23:13 23:41 06:38 06:54 07:12 07:28 07:44 08:00 08:16 08:32 08:42 08:55
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 22:14 22:44 23:14 23:42 06:39 06:55 07:12 07:28 07:44 08:00 08:16 08:32 08:42 08:55
+ UD770   UDINE via Aquileia 45 22:15 22:45 23:15 23:43 06:40 06:56 07:12 07:28 07:44 08:00 08:16 08:32 08:42 08:55
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+22:18 22:48 23:18 23:46 06:40 06:56 07:15 07:31 07:47 08:03 08:19 08:35 08:45 08:58
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 7 di 18
+  [Pagina 9]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FESTIVO ANNUALE
+621 623 625 627 629 633 631 635 637 639 641 643 645 647
+U510 U510 U510 U510 U510 U510 U540 U510 U510 U510 U510 U510 U510 U510
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+08:58 09:11 09:24 09:37 09:50 10:03 10:16 10:29 10:42 10:55 11:08 11:21 11:34
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+08:59 09:12 09:25 09:38 09:51 10:04 10:17 10:30 10:43 10:56 11:09 11:22 11:35
+ UD682   UDINE via Forni di Sotto 36 08:59 09:12 09:25 09:38 09:51 10:04 10:17 10:30 10:43 10:56 11:09 11:22 11:35
+ UD080   UDINE viale Volontari della Libertà 46 09:02 09:15 09:28 09:41 09:54 10:07 10:20 10:33 10:46 10:59 11:12 11:25 11:38
+ UD078   UDINE viale Volontari della Libertà 20 09:02 09:15 09:28 09:41 09:54 10:07 10:20 10:33 10:46 10:59 11:12 11:25 11:38
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+09:03 09:16 09:29 09:42 09:55 10:08 10:21 10:34 10:47 11:00 11:13 11:26 11:39
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 09:04 09:17 09:30 09:43 09:56 10:09 10:22 10:35 10:48 11:01 11:14 11:27 11:40
+ UD730   UDINE viale della Vittoria 12D (Sello) 09:05 09:18 09:31 09:44 09:57 10:10 10:23 10:36 10:49 11:02 11:15 11:28 11:41
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+09:06 09:19 09:32 09:45 09:58 10:11 10:24 10:37 10:50 11:03 11:16 11:29 11:42
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+09:08 09:21 09:34 09:47 10:00 10:13 10:26 10:39 10:52 11:05 11:18 11:31 11:44
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 09:08 09:21 09:34 09:47 10:00 10:13 10:26 10:39 10:52 11:05 11:18 11:31 11:44
+ UD770   UDINE via Aquileia 45 09:08 09:21 09:34 09:47 10:00 10:13 10:26 10:39 10:52 11:05 11:18 11:31 11:44
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+09:11 09:24 09:37 09:50 10:03 10:16 10:29 10:42 10:55 11:08 11:21 11:34 11:47
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+10:10
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 10:11
+ UD353   UDINE via Marsala 23 10:12
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 10:13
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+10:16
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 8 di 18
+  [Pagina 10]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FESTIVO ANNUALE
+649 651 653 657 655 659 661 663 665 667 669 671 673 675
+U510 U510 U510 U510 U540 U510 U510 U512 U512 U512 U512 U512 U512 U512
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+11:47 12:00 12:13 12:26 12:39 12:52 13:05 13:18 13:31 13:50 14:10 14:29 14:49
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+11:48 12:01 12:14 12:27 12:40 12:53 13:06 13:19 13:32 13:51 14:11 14:30 14:50
+ UD682   UDINE via Forni di Sotto 36 11:48 12:01 12:14 12:27 12:40 12:53 13:06 13:19 13:32 13:51 14:11 14:30 14:50
+ UD080   UDINE viale Volontari della Libertà 46 11:51 12:04 12:17 12:30 12:43 12:56 13:09 13:22 13:35 13:54 14:14 14:33 14:53
+ UD078   UDINE viale Volontari della Libertà 20 11:51 12:04 12:17 12:30 12:43 12:56 13:09 13:22 13:35 13:54 14:14 14:33 14:53
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+11:52 12:05 12:18 12:31 12:44 12:57 13:10 13:23 13:36 13:55 14:15 14:34 14:54
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 11:53 12:06 12:19 12:32 12:45 12:58 13:11 13:24 13:37 13:56 14:16 14:35 14:55
+ UD730   UDINE viale della Vittoria 12D (Sello) 11:54 12:07 12:20 12:33 12:46 12:59 13:12 13:25 13:38 13:57 14:17 14:36 14:56
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+11:55 12:08 12:21 12:34 12:47 13:00 13:13 13:26 13:39 13:58 14:18 14:37 14:57
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+11:57 12:10 12:23 12:36 12:49 13:02 13:15 13:28 13:41 14:00 14:20 14:39 14:59
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 11:57 12:10 12:23 12:36 12:49 13:02 13:15 13:28 13:41 14:00 14:20 14:39 14:59
+ UD770   UDINE via Aquileia 45 11:57 12:10 12:23 12:36 12:49 13:02 13:15 13:28 13:41 14:00 14:20 14:39 14:59
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+12:00 12:13 12:26 12:39 12:52 13:05 13:18 13:31 13:44 14:03 14:23 14:42 15:02
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+12:30
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 12:31
+ UD353   UDINE via Marsala 23 12:32
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 12:33
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+12:36
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 9 di 18
+  [Pagina 11]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FESTIVO ANNUALE
+677 679 681 683 687 685 689 691 693 695 697 701 699 703
+U512 U512 U512 U512 U512 U521 U512 U512 U512 U512 U512 U512 U522 U512
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+15:08 15:28 15:47 16:07 16:26 16:46 17:05 17:25 17:44 18:04 18:23 18:43
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+15:09 15:29 15:48 16:08 16:27 16:47 17:06 17:26 17:45 18:05 18:24 18:44
+ UD682   UDINE via Forni di Sotto 36 15:09 15:29 15:48 16:08 16:27 16:47 17:06 17:26 17:45 18:05 18:24 18:44
+ UD080   UDINE viale Volontari della Libertà 46 15:12 15:32 15:51 16:11 16:30 16:50 17:09 17:29 17:48 18:08 18:27 18:47
+ UD078   UDINE viale Volontari della Libertà 20 15:12 15:32 15:51 16:11 16:30 16:50 17:09 17:29 17:48 18:08 18:27 18:47
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+15:13 15:33 15:52 16:12 16:31 16:51 17:10 17:30 17:49 18:09 18:28 18:48
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 15:14 15:34 15:53 16:13 16:32 16:52 17:11 17:31 17:50 18:10 18:29 18:49
+ UD730   UDINE viale della Vittoria 12D (Sello) 15:15 15:35 15:54 16:14 16:33 16:53 17:12 17:32 17:51 18:11 18:30 18:50
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+15:16 15:36 15:55 16:15 16:34 16:54 17:13 17:33 17:52 18:12 18:31 18:51
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+15:18 15:38 15:57 16:17 16:36 16:56 17:15 17:35 17:54 18:14 18:33 18:53
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 15:18 15:38 15:57 16:17 16:36 16:56 17:15 17:35 17:54 18:14 18:33 18:53
+ UD770   UDINE via Aquileia 45 15:18 15:38 15:57 16:17 16:36 16:56 17:15 17:35 17:54 18:14 18:33 18:53
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+15:21 15:41 16:00 16:20 16:39 16:59 17:18 17:38 17:57 18:17 18:36 18:56
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+16:30 18:30
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 16:31 18:31
+ UD353   UDINE via Marsala 23 16:32 18:32
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 16:33 18:33
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+16:36 18:36
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 10 di 18
+  [Pagina 12]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FESTIVO ANNUALE FERIALE INVERNALE e
+705 707 709 711 713 715 717 719 721 723 725 1 3 5
+U512 U512 U512 U512 U512 U512 U512 U512 U512 U546 U546 U534 U534 U534
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+06:10 06:25 06:36
+ UD188   UDINE via Colugna (fronte civico 63) 06:10 06:25 06:36
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+06:11 06:26 06:37
+ UD186   UDINE via Colugna 40 06:12 06:27 06:38
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+19:02 19:22 19:41 20:01 20:20 20:35 20:51 21:25 21:50 22:22 22:53 06:14 06:29 06:40
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+19:03 19:23 19:42 20:02 20:21 20:35 20:51 21:25 21:50 22:22 22:53 06:14 06:29 06:40
+ UD682   UDINE via Forni di Sotto 36 19:03 19:23 19:42 20:02 20:21 20:36 20:52 21:26 21:51 22:23 22:54 06:15 06:30 06:41
+ UD080   UDINE viale Volontari della Libertà 46 19:06 19:26 19:45 20:05 20:24 20:37 20:53 21:27 21:52 22:24 22:55 06:16 06:31 06:42
+ UD078   UDINE viale Volontari della Libertà 20 19:06 19:26 19:45 20:05 20:24 20:38 20:53 21:27 21:52 22:24 22:55 06:16 06:31 06:43
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+19:07 19:27 19:46 20:06 20:25 20:39 20:54 21:28 21:53 22:25 22:56 06:17 06:32 06:44
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 19:08 19:28 19:47 20:07 20:26 20:40 20:55 21:29 21:54 22:26 22:57 06:18 06:33 06:46
+ UD730   UDINE viale della Vittoria 12D (Sello) 19:09 19:29 19:48 20:08 20:27 20:41 20:56 21:30 21:55 22:27 22:58 06:19 06:34 06:47
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+19:10 19:30 19:49 20:09 20:28 20:42 20:57 21:31 21:56 22:28 22:59 06:20 06:35 06:48
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+19:12 19:32 19:51 20:11 20:30 20:43 20:57 21:31 21:56 22:28 22:59 06:20 06:35 06:48
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 19:12 19:32 19:51 20:11 20:30 20:44 20:58 21:32 21:57 22:29 23:00 06:21 06:36 06:49
+ UD770   UDINE via Aquileia 45 19:12 19:32 19:51 20:11 20:30 20:45 20:59 21:33 21:58 22:30 23:01 06:22 06:37 06:50
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+19:15 19:35 19:54 20:14 20:33 20:48 21:35 22:00 22:32 06:25 06:40
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+21:01 23:03 06:53
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 06:53
+ UD353   UDINE via Marsala 23 06:54
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 06:54
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+06:57
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 11 di 18
+  [Pagina 13]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE INVERNALE escluso vacanze Natale
+7 9 11 13 15 17 19 21 23 25 27 29 31 33
+U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+06:54 07:05 07:21 07:27 07:37 07:47 07:57 08:07 08:17 08:27 08:37 08:47
+ UD188   UDINE via Colugna (fronte civico 63) 06:54 07:05 07:21 07:27 07:37 07:47 07:57 08:07 08:17 08:27 08:37 08:47
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+06:55 07:06 07:22 07:28 07:38 07:48 07:58 08:08 08:18 08:28 08:38 08:48
+ UD186   UDINE via Colugna 40 06:56 07:07 07:23 07:29 07:39 07:49 07:59 08:09 08:19 08:29 08:39 08:49
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+06:50 06:58 07:09 07:19 07:26 07:32 07:42 07:52 08:02 08:12 08:22 08:32 08:42 08:52
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+06:50 06:58 07:09 07:20 07:27 07:33 07:43 07:53 08:03 08:13 08:23 08:33 08:43 08:53
+ UD682   UDINE via Forni di Sotto 36 06:51 06:59 07:10 07:21 07:28 07:34 07:44 07:54 08:04 08:14 08:24 08:34 08:44 08:54
+ UD080   UDINE viale Volontari della Libertà 46 06:52 07:00 07:11 07:22 07:29 07:35 07:45 07:55 08:05 08:15 08:25 08:35 08:45 08:55
+ UD078   UDINE viale Volontari della Libertà 20 06:53 07:01 07:12 07:23 07:30 07:36 07:46 07:56 08:06 08:16 08:26 08:36 08:46 08:56
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+06:54 07:02 07:13 07:24 07:31 07:37 07:47 07:57 08:07 08:17 08:27 08:37 08:47 08:57
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 06:56 07:04 07:15 07:26 07:33 07:39 07:49 07:59 08:09 08:19 08:29 08:39 08:49 08:59
+ UD730   UDINE viale della Vittoria 12D (Sello) 06:57 07:05 07:16 07:27 07:34 07:40 07:50 08:00 08:10 08:20 08:30 08:40 08:50 09:00
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+06:58 07:06 07:17 07:28 07:35 07:41 07:51 08:01 08:11 08:21 08:31 08:41 08:51 09:01
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+06:58 07:06 07:17 07:28 07:35 07:41 07:51 08:01 08:11 08:21 08:31 08:41 08:51 09:01
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 06:59 07:07 07:18 07:28 07:36 07:42 07:52 08:02 08:12 08:22 08:32 08:42 08:52 09:02
+ UD770   UDINE via Aquileia 45 07:00 07:08 07:19 07:29 07:37 07:43 07:53 08:03 08:13 08:23 08:33 08:43 08:53 09:03
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+07:03 07:11 07:22 07:33 07:40 07:46 07:56 08:06 08:16 08:26 08:36 08:46 08:56 09:06
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 07:03 07:11 07:22 07:34 07:41 07:47 07:57 08:07 08:17 08:27 08:37 08:47 08:57 09:07
+ UD353   UDINE via Marsala 23 07:04 07:12 07:23 07:35 07:42 07:48 07:58 08:08 08:18 08:28 08:38 08:48 08:58 09:08
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 07:04 07:12 07:23 07:36 07:43 07:49 07:59 08:09 08:19 08:29 08:39 08:49 08:59 09:09
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+07:07 07:15 07:26 07:40 07:47 07:53 08:03 08:13 08:23 08:33 08:43 08:53 09:03 09:13
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 12 di 18
+  [Pagina 14]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE INVERNALE escluso vacanze Natale
+35 37 39 41 43 45 47 49 51 53 55 57 59 61
+U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+08:57 09:07 09:17 09:27 09:37 09:47 09:57 10:07 10:17 10:27 10:37 10:47 10:57 11:07
+ UD188   UDINE via Colugna (fronte civico 63) 08:57 09:07 09:17 09:27 09:37 09:47 09:57 10:07 10:17 10:27 10:37 10:47 10:57 11:07
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+08:58 09:08 09:18 09:28 09:38 09:48 09:58 10:08 10:18 10:28 10:38 10:48 10:58 11:08
+ UD186   UDINE via Colugna 40 08:59 09:09 09:19 09:29 09:39 09:49 09:59 10:09 10:19 10:29 10:39 10:49 10:59 11:09
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+09:02 09:12 09:22 09:32 09:42 09:52 10:02 10:12 10:22 10:32 10:42 10:52 11:02 11:12
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+09:03 09:13 09:23 09:33 09:43 09:53 10:03 10:13 10:23 10:33 10:43 10:53 11:03 11:13
+ UD682   UDINE via Forni di Sotto 36 09:04 09:14 09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34 10:44 10:54 11:04 11:14
+ UD080   UDINE viale Volontari della Libertà 46 09:05 09:15 09:25 09:35 09:45 09:55 10:05 10:15 10:25 10:35 10:45 10:55 11:05 11:15
+ UD078   UDINE viale Volontari della Libertà 20 09:06 09:16 09:26 09:36 09:46 09:56 10:06 10:16 10:26 10:36 10:46 10:56 11:06 11:16
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+09:07 09:17 09:27 09:37 09:47 09:57 10:07 10:17 10:27 10:37 10:47 10:57 11:07 11:17
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 09:09 09:19 09:29 09:39 09:49 09:59 10:09 10:19 10:29 10:39 10:49 10:59 11:09 11:19
+ UD730   UDINE viale della Vittoria 12D (Sello) 09:10 09:20 09:30 09:40 09:50 10:00 10:10 10:20 10:30 10:40 10:50 11:00 11:10 11:20
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+09:11 09:21 09:31 09:41 09:51 10:01 10:11 10:21 10:31 10:41 10:51 11:01 11:11 11:21
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+09:11 09:21 09:31 09:41 09:51 10:01 10:11 10:21 10:31 10:41 10:51 11:01 11:11 11:21
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 09:12 09:22 09:32 09:42 09:52 10:02 10:12 10:22 10:32 10:42 10:52 11:02 11:12 11:22
+ UD770   UDINE via Aquileia 45 09:13 09:23 09:33 09:43 09:53 10:03 10:13 10:23 10:33 10:43 10:53 11:03 11:13 11:23
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+09:16 09:26 09:36 09:46 09:56 10:06 10:16 10:26 10:36 10:46 10:56 11:06 11:16 11:26
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 09:17 09:27 09:37 09:47 09:57 10:07 10:17 10:27 10:37 10:47 10:57 11:07 11:17 11:27
+ UD353   UDINE via Marsala 23 09:18 09:28 09:38 09:48 09:58 10:08 10:18 10:28 10:38 10:48 10:58 11:08 11:18 11:28
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 09:19 09:29 09:39 09:49 09:59 10:09 10:19 10:29 10:39 10:49 10:59 11:09 11:19 11:29
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+09:23 09:33 09:43 09:53 10:03 10:13 10:23 10:33 10:43 10:53 11:03 11:13 11:23 11:33
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 13 di 18
+  [Pagina 15]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE INVERNALE escluso vacanze Natale
+63 65 67 69 71 73 75 77 79 81 83 85 87 89
+U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+11:17 11:27 11:37 11:47 11:57 12:07 12:17 12:27 12:37 12:47 12:57 13:07 13:17 13:27
+ UD188   UDINE via Colugna (fronte civico 63) 11:17 11:27 11:37 11:47 11:57 12:07 12:17 12:27 12:37 12:47 12:57 13:07 13:17 13:27
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+11:18 11:28 11:38 11:48 11:58 12:08 12:18 12:28 12:38 12:48 12:58 13:08 13:18 13:28
+ UD186   UDINE via Colugna 40 11:19 11:29 11:39 11:49 11:59 12:09 12:19 12:29 12:39 12:49 12:59 13:09 13:19 13:29
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+11:22 11:32 11:42 11:52 12:02 12:12 12:22 12:32 12:42 12:52 13:02 13:12 13:22 13:32
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+11:23 11:33 11:43 11:53 12:03 12:13 12:23 12:33 12:43 12:53 13:03 13:13 13:23 13:33
+ UD682   UDINE via Forni di Sotto 36 11:24 11:34 11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54 13:04 13:14 13:24 13:34
+ UD080   UDINE viale Volontari della Libertà 46 11:25 11:35 11:45 11:55 12:05 12:15 12:25 12:35 12:45 12:55 13:05 13:15 13:25 13:35
+ UD078   UDINE viale Volontari della Libertà 20 11:26 11:36 11:46 11:56 12:06 12:16 12:26 12:36 12:46 12:56 13:06 13:16 13:26 13:36
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+11:27 11:37 11:47 11:57 12:07 12:17 12:27 12:37 12:47 12:57 13:07 13:17 13:27 13:37
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 11:29 11:39 11:49 11:59 12:09 12:19 12:29 12:39 12:49 12:59 13:09 13:19 13:29 13:39
+ UD730   UDINE viale della Vittoria 12D (Sello) 11:30 11:40 11:50 12:00 12:10 12:20 12:30 12:40 12:50 13:00 13:10 13:20 13:30 13:40
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+11:31 11:41 11:51 12:01 12:11 12:21 12:31 12:41 12:51 13:01 13:11 13:21 13:31 13:41
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+11:31 11:41 11:51 12:01 12:11 12:21 12:31 12:41 12:51 13:01 13:11 13:21 13:31 13:41
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 11:32 11:42 11:52 12:02 12:12 12:22 12:32 12:42 12:52 13:02 13:12 13:22 13:32 13:42
+ UD770   UDINE via Aquileia 45 11:33 11:43 11:53 12:03 12:13 12:23 12:33 12:43 12:53 13:03 13:13 13:23 13:33 13:43
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+11:36 11:46 11:56 12:06 12:16 12:26 12:36 12:46 12:56 13:06 13:16 13:26 13:36 13:46
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 11:37 11:47 11:57 12:07 12:17 12:27 12:37 12:47 12:57 13:07 13:17 13:27 13:37 13:47
+ UD353   UDINE via Marsala 23 11:38 11:48 11:58 12:08 12:18 12:28 12:38 12:48 12:58 13:08 13:18 13:28 13:38 13:48
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 11:39 11:49 11:59 12:09 12:19 12:29 12:39 12:49 12:59 13:09 13:19 13:29 13:39 13:49
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+11:43 11:53 12:03 12:13 12:23 12:33 12:43 12:53 13:03 13:13 13:23 13:33 13:43 13:53
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 14 di 18
+  [Pagina 16]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE INVERNALE escluso vacanze Natale
+91 93 95 97 99 101 103 105 107 109 111 113 115 117
+U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+13:37 13:47 13:57 14:07 14:17 14:27 14:37 14:47 14:57 15:07 15:17 15:27 15:37 15:47
+ UD188   UDINE via Colugna (fronte civico 63) 13:37 13:47 13:57 14:07 14:17 14:27 14:37 14:47 14:57 15:07 15:17 15:27 15:37 15:47
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+13:38 13:48 13:58 14:08 14:18 14:28 14:38 14:48 14:58 15:08 15:18 15:28 15:38 15:48
+ UD186   UDINE via Colugna 40 13:39 13:49 13:59 14:09 14:19 14:29 14:39 14:49 14:59 15:09 15:19 15:29 15:39 15:49
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+13:42 13:52 14:02 14:12 14:22 14:32 14:42 14:52 15:02 15:12 15:22 15:32 15:42 15:52
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+13:43 13:53 14:03 14:13 14:23 14:33 14:43 14:53 15:03 15:13 15:23 15:33 15:43 15:53
+ UD682   UDINE via Forni di Sotto 36 13:44 13:54 14:04 14:14 14:24 14:34 14:44 14:54 15:04 15:14 15:24 15:34 15:44 15:54
+ UD080   UDINE viale Volontari della Libertà 46 13:45 13:55 14:05 14:15 14:25 14:35 14:45 14:55 15:05 15:15 15:25 15:35 15:45 15:55
+ UD078   UDINE viale Volontari della Libertà 20 13:46 13:56 14:06 14:16 14:26 14:36 14:46 14:56 15:06 15:16 15:26 15:36 15:46 15:56
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+13:47 13:57 14:07 14:17 14:27 14:37 14:47 14:57 15:07 15:17 15:27 15:37 15:47 15:57
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 13:49 13:59 14:09 14:19 14:29 14:39 14:49 14:59 15:09 15:19 15:29 15:39 15:49 15:59
+ UD730   UDINE viale della Vittoria 12D (Sello) 13:50 14:00 14:10 14:20 14:30 14:40 14:50 15:00 15:10 15:20 15:30 15:40 15:50 16:00
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+13:51 14:01 14:11 14:21 14:31 14:41 14:51 15:01 15:11 15:21 15:31 15:41 15:51 16:01
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+13:51 14:01 14:11 14:21 14:31 14:41 14:51 15:01 15:11 15:21 15:31 15:41 15:51 16:01
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 13:52 14:02 14:12 14:22 14:32 14:42 14:52 15:02 15:12 15:22 15:32 15:42 15:52 16:02
+ UD770   UDINE via Aquileia 45 13:53 14:03 14:13 14:23 14:33 14:43 14:53 15:03 15:13 15:23 15:33 15:43 15:53 16:03
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+13:56 14:06 14:16 14:26 14:36 14:46 14:56 15:06 15:16 15:26 15:36 15:46 15:56 16:06
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 13:57 14:07 14:17 14:27 14:37 14:47 14:57 15:07 15:17 15:27 15:37 15:47 15:57 16:07
+ UD353   UDINE via Marsala 23 13:58 14:08 14:18 14:28 14:38 14:48 14:58 15:08 15:18 15:28 15:38 15:48 15:58 16:08
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 13:59 14:09 14:19 14:29 14:39 14:49 14:59 15:09 15:19 15:29 15:39 15:49 15:59 16:09
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+14:03 14:13 14:23 14:33 14:43 14:53 15:03 15:13 15:23 15:33 15:43 15:53 16:03 16:13
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 15 di 18
+  [Pagina 17]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE INVERNALE escluso vacanze Natale
+119 121 123 125 127 129 131 133 135 137 139 141 143 145
+U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+15:57 16:07 16:17 16:27 16:37 16:47 16:57 17:07 17:17 17:27 17:37 17:47 17:57 18:07
+ UD188   UDINE via Colugna (fronte civico 63) 15:57 16:07 16:17 16:27 16:37 16:47 16:57 17:07 17:17 17:27 17:37 17:47 17:57 18:07
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+15:58 16:08 16:18 16:28 16:38 16:48 16:58 17:08 17:18 17:28 17:38 17:48 17:58 18:08
+ UD186   UDINE via Colugna 40 15:59 16:09 16:19 16:29 16:39 16:49 16:59 17:09 17:19 17:29 17:39 17:49 17:59 18:09
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+16:02 16:12 16:22 16:32 16:42 16:52 17:02 17:12 17:22 17:32 17:42 17:52 18:02 18:12
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+16:03 16:13 16:23 16:33 16:43 16:53 17:03 17:13 17:23 17:33 17:43 17:53 18:03 18:13
+ UD682   UDINE via Forni di Sotto 36 16:04 16:14 16:24 16:34 16:44 16:54 17:04 17:14 17:24 17:34 17:44 17:54 18:04 18:14
+ UD080   UDINE viale Volontari della Libertà 46 16:05 16:15 16:25 16:35 16:45 16:55 17:05 17:15 17:25 17:35 17:45 17:55 18:05 18:15
+ UD078   UDINE viale Volontari della Libertà 20 16:06 16:16 16:26 16:36 16:46 16:56 17:06 17:16 17:26 17:36 17:46 17:56 18:06 18:16
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+16:07 16:17 16:27 16:37 16:47 16:57 17:07 17:17 17:27 17:37 17:47 17:57 18:07 18:17
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 16:09 16:19 16:29 16:39 16:49 16:59 17:09 17:19 17:29 17:39 17:49 17:59 18:09 18:19
+ UD730   UDINE viale della Vittoria 12D (Sello) 16:10 16:20 16:30 16:40 16:50 17:00 17:10 17:20 17:30 17:40 17:50 18:00 18:10 18:20
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+16:11 16:21 16:31 16:41 16:51 17:01 17:11 17:21 17:31 17:41 17:51 18:01 18:11 18:21
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+16:11 16:21 16:31 16:41 16:51 17:01 17:11 17:21 17:31 17:41 17:51 18:01 18:11 18:21
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 16:12 16:22 16:32 16:42 16:52 17:02 17:12 17:22 17:32 17:42 17:52 18:02 18:12 18:22
+ UD770   UDINE via Aquileia 45 16:13 16:23 16:33 16:43 16:53 17:03 17:13 17:23 17:33 17:43 17:53 18:03 18:13 18:23
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+16:16 16:26 16:36 16:46 16:56 17:06 17:16 17:26 17:36 17:46 17:56 18:06 18:16 18:26
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 16:17 16:27 16:37 16:47 16:57 17:07 17:17 17:27 17:37 17:47 17:57 18:07 18:17 18:27
+ UD353   UDINE via Marsala 23 16:18 16:28 16:38 16:48 16:58 17:08 17:18 17:28 17:38 17:48 17:58 18:08 18:18 18:28
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 16:19 16:29 16:39 16:49 16:59 17:09 17:19 17:29 17:39 17:49 17:59 18:09 18:19 18:29
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+16:23 16:33 16:43 16:53 17:03 17:13 17:23 17:33 17:43 17:53 18:03 18:13 18:23 18:33
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 16 di 18
+  [Pagina 18]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE INVERNALE escluso vacanze Natale
+147 149 151 153 155 157 159 161 163 165 167 169 171 173
+U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+18:17 18:27 18:37 18:47 18:57 19:07 19:17 19:27 19:37 19:47 19:57 20:07 20:17 20:26
+ UD188   UDINE via Colugna (fronte civico 63) 18:17 18:27 18:37 18:47 18:57 19:07 19:17 19:27 19:37 19:47 19:57 20:07 20:17 20:26
+ UD187   UDINE via Colugna (fronte civico 23, ospedale 
+Ingresso M)
+18:18 18:28 18:38 18:48 18:58 19:08 19:18 19:28 19:38 19:48 19:58 20:08 20:18 20:27
+ UD186   UDINE via Colugna 40 18:19 18:29 18:39 18:49 18:59 19:09 19:19 19:29 19:39 19:49 19:59 20:09 20:19 20:28
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+18:22 18:32 18:42 18:52 19:02 19:12 19:22 19:32 19:42 19:51 20:01 20:11 20:21 20:30
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+18:23 18:33 18:43 18:53 19:03 19:13 19:23 19:33 19:43 19:51 20:01 20:11 20:21 20:30
+ UD682   UDINE via Forni di Sotto 36 18:24 18:34 18:44 18:54 19:04 19:14 19:24 19:34 19:44 19:52 20:02 20:12 20:22 20:31
+ UD080   UDINE viale Volontari della Libertà 46 18:25 18:35 18:45 18:55 19:05 19:15 19:25 19:35 19:45 19:53 20:03 20:13 20:23 20:32
+ UD078   UDINE viale Volontari della Libertà 20 18:26 18:36 18:46 18:56 19:06 19:16 19:26 19:36 19:46 19:54 20:03 20:13 20:23 20:32
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+18:27 18:37 18:47 18:57 19:07 19:17 19:27 19:37 19:47 19:55 20:04 20:14 20:24 20:33
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 18:29 18:39 18:49 18:59 19:09 19:19 19:29 19:39 19:49 19:57 20:05 20:15 20:25 20:34
+ UD730   UDINE viale della Vittoria 12D (Sello) 18:30 18:40 18:50 19:00 19:10 19:20 19:30 19:40 19:50 19:58 20:06 20:16 20:26 20:35
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+18:31 18:41 18:51 19:01 19:11 19:21 19:31 19:41 19:51 19:59 20:07 20:17 20:27 20:36
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+18:31 18:41 18:51 19:01 19:11 19:21 19:31 19:41 19:51 19:59 20:07 20:17 20:27 20:36
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 18:32 18:42 18:52 19:02 19:12 19:22 19:32 19:42 19:52 20:00 20:08 20:18 20:28 20:37
+ UD770   UDINE via Aquileia 45 18:33 18:43 18:53 19:03 19:13 19:23 19:33 19:43 19:53 20:01 20:09 20:19 20:29 20:38
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+18:36 18:46 18:56 19:06 19:16 19:26 19:36 19:46 19:56 20:04 20:13 20:23 20:33 20:42
+ UD524   UDINE viale Europa Unita 181 (Gelatone) 18:37 18:47 18:57 19:07 19:17 19:27 19:37 19:47 19:57 20:04 20:14 20:24 20:34 20:43
+ UD353   UDINE via Marsala 23 18:38 18:48 18:58 19:08 19:18 19:28 19:38 19:48 19:58 20:05 20:15 20:25 20:35 20:44
+ UD273   UDINE via Gervasutta 1 (chiesa del Cristo) 18:39 18:49 18:59 19:09 19:19 19:29 19:39 19:49 19:59 20:05 20:15 20:25 20:35 20:44
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+18:43 18:53 19:03 19:13 19:23 19:33 19:43 19:53 20:03 20:08 20:17 20:27 20:37 20:46
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 17 di 18
+  [Pagina 19]
+LINEA 1 (Andata)
+Orario valido dall'11 settembre 2025Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta 
+FERIALE INVERNALE escluso vacanze Natale
+175 177 179 181 183 185
+U534 U534 U534 U534 U534 U534
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+20:55 21:25 22:00 22:30 23:05 23:33
+ 70C12   UDINE piazzale S. Maria della Misericordia 
+(fronte ospedale)
+20:55 21:25 22:00 22:30 23:05 23:33
+ UD682   UDINE via Forni di Sotto 36 20:56 21:26 22:01 22:31 23:06 23:34
+ UD080   UDINE viale Volontari della Libertà 46 20:57 21:27 22:02 22:32 23:07 23:35
+ UD078   UDINE viale Volontari della Libertà 20 20:57 21:27 22:02 22:32 23:07 23:35
+ UD081   UDINE viale Volontari della Libertà 6 (piazzale 
+Osoppo)
+20:58 21:28 22:03 22:33 23:08 23:36
+ 70C54   UDINE viale della Vittoria 6 (piazzale Osoppo) 20:59 21:29 22:04 22:34 23:09 23:37
+ UD730   UDINE viale della Vittoria 12D (Sello) 21:00 21:30 22:05 22:35 23:10 23:38
+ 70C55   UDINE piazza I Maggio 4 (Ufcio Turismo 
+FVG)
+21:01 21:31 22:06 22:36 23:11 23:39
+ UD056   UDINE piazza del Patriarcato (fronte 
+1A,palazzo patriarcale)
+21:01 21:31 22:06 22:36 23:11 23:39
+ UD098   UDINE via Aquileia 1 (Mediocredito FVG) 21:02 21:32 22:07 22:37 23:12 23:40
+ UD770   UDINE via Aquileia 45 21:03 21:33 22:08 22:38 23:13 23:41
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+21:07 21:37 22:12 22:42 23:17
+ 70C37   UDINE viale Europa Unita 99 (fronte 
+stazione FS)
+23:45
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 18 di 18
+  [Pagina 20]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE ESTIVO e in più vacanze Natale
+302 304 306 308 310 312 314 316 318 320 322 324 326 328
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+07:00 07:10 07:20 07:30 07:40 07:50 08:00 08:10 08:20 08:30 08:40 08:50
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 07:00 07:10 07:21 07:31 07:41 07:51 08:01 08:11 08:21 08:31 08:41 08:51
+ UD355   UDINE via Marsala 52 07:01 07:11 07:22 07:32 07:42 07:52 08:02 08:12 08:22 08:32 08:42 08:52
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:02 07:12 07:23 07:33 07:43 07:53 08:03 08:13 08:23 08:33 08:43 08:53
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+06:35 06:45 07:03 07:13 07:24 07:34 07:44 07:54 08:04 08:14 08:24 08:34 08:44 08:54
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 06:36 06:46 07:04 07:14 07:24 07:34 07:44 07:54 08:04 08:14 08:24 08:34 08:44 08:54
+ UD103   UDINE via Aquileia 42 06:36 06:46 07:04 07:14 07:24 07:34 07:44 07:54 08:04 08:14 08:24 08:34 08:44 08:54
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 06:37 06:48 07:06 07:16 07:26 07:36 07:46 07:56 08:06 08:16 08:26 08:36 08:46 08:56
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+06:38 06:49 07:07 07:17 07:28 07:38 07:48 07:58 08:08 08:18 08:28 08:38 08:48 08:58
+ UD736   UDINE piazza I Maggio 37 06:38 06:50 07:08 07:18 07:29 07:39 07:49 07:59 08:09 08:19 08:29 08:39 08:49 08:59
+ UD051   UDINE piazza I Maggio 26 (Stellini) 06:39 06:51 07:09 07:19 07:30 07:40 07:50 08:00 08:10 08:20 08:30 08:40 08:50 09:00
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+06:40 06:52 07:10 07:20 07:31 07:41 07:51 08:01 08:11 08:21 08:31 08:41 08:51 09:01
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 06:41 06:53 07:11 07:21 07:32 07:42 07:52 08:02 08:12 08:22 08:32 08:42 08:52 09:02
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+06:42 06:54 07:12 07:22 07:34 07:44 07:54 08:04 08:14 08:24 08:34 08:44 08:54 09:04
+ UD079   UDINE viale Volontari della Libertà 33 06:42 06:55 07:13 07:23 07:35 07:45 07:55 08:05 08:15 08:25 08:35 08:45 08:55 09:05
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 06:44 06:56 07:14 07:24 07:37 07:47 07:57 08:07 08:17 08:27 08:37 08:47 08:57 09:07
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 06:44 06:57 07:15 07:25 07:38 07:48 07:58 08:08 08:18 08:28 08:38 08:48 08:58 09:08
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+06:47
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+06:59 07:17 07:27 07:39 07:49 07:59 08:09 08:19 08:29 08:39 08:49 08:59 09:09
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+07:00 07:18 07:28 07:41 07:51 08:01 08:11 08:21 08:31 08:41 08:51 09:01 09:11
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+07:02 07:20 07:30 07:44 07:54 08:04 08:14 08:24 08:34 08:44 08:54 09:04 09:14
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 1 di 17
+  [Pagina 21]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE ESTIVO e in più vacanze Natale
+330 332 334 336 338 340 342 344 346 348 350 352 354 356
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+09:00 09:10 09:20 09:30 09:40 09:50 10:00 10:10 10:20 10:30 10:40 10:50 11:00 11:10
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 09:01 09:11 09:21 09:31 09:41 09:51 10:01 10:11 10:21 10:31 10:41 10:51 11:01 11:11
+ UD355   UDINE via Marsala 52 09:02 09:12 09:22 09:32 09:42 09:52 10:02 10:12 10:22 10:32 10:42 10:52 11:02 11:12
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 09:03 09:13 09:23 09:33 09:43 09:53 10:03 10:13 10:23 10:33 10:43 10:53 11:03 11:13
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+09:04 09:14 09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34 10:44 10:54 11:04 11:14
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 09:04 09:14 09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34 10:44 10:54 11:04 11:14
+ UD103   UDINE via Aquileia 42 09:04 09:14 09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34 10:44 10:54 11:04 11:14
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 09:06 09:16 09:26 09:36 09:46 09:56 10:06 10:16 10:26 10:36 10:46 10:56 11:06 11:16
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+09:08 09:18 09:28 09:38 09:48 09:58 10:08 10:18 10:28 10:38 10:48 10:58 11:08 11:18
+ UD736   UDINE piazza I Maggio 37 09:09 09:19 09:29 09:39 09:49 09:59 10:09 10:19 10:29 10:39 10:49 10:59 11:09 11:19
+ UD051   UDINE piazza I Maggio 26 (Stellini) 09:10 09:20 09:30 09:40 09:50 10:00 10:10 10:20 10:30 10:40 10:50 11:00 11:10 11:20
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+09:11 09:21 09:31 09:41 09:51 10:01 10:11 10:21 10:31 10:41 10:51 11:01 11:11 11:21
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 09:12 09:22 09:32 09:42 09:52 10:02 10:12 10:22 10:32 10:42 10:52 11:02 11:12 11:22
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+09:14 09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34 10:44 10:54 11:04 11:14 11:24
+ UD079   UDINE viale Volontari della Libertà 33 09:15 09:25 09:35 09:45 09:55 10:05 10:15 10:25 10:35 10:45 10:55 11:05 11:15 11:25
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 09:17 09:27 09:37 09:47 09:57 10:07 10:17 10:27 10:37 10:47 10:57 11:07 11:17 11:27
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 09:18 09:28 09:38 09:48 09:58 10:08 10:18 10:28 10:38 10:48 10:58 11:08 11:18 11:28
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+09:19 09:29 09:39 09:49 09:59 10:09 10:19 10:29 10:39 10:49 10:59 11:09 11:19 11:29
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+09:21 09:31 09:41 09:51 10:01 10:11 10:21 10:31 10:41 10:51 11:01 11:11 11:21 11:31
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34 10:44 10:54 11:04 11:14 11:24 11:34
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 2 di 17
+  [Pagina 22]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE ESTIVO e in più vacanze Natale
+358 360 362 364 366 368 370 372 374 376 378 380 382 384
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+11:20 11:30 11:40 11:50 12:00 12:10 12:20 12:30 12:40 12:50 13:00 13:10 13:22 13:34
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 11:21 11:31 11:41 11:51 12:01 12:11 12:21 12:31 12:41 12:51 13:01 13:11 13:23 13:35
+ UD355   UDINE via Marsala 52 11:22 11:32 11:42 11:52 12:02 12:12 12:22 12:32 12:42 12:52 13:02 13:12 13:24 13:36
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 11:23 11:33 11:43 11:53 12:03 12:13 12:23 12:33 12:43 12:53 13:03 13:13 13:25 13:37
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+11:24 11:34 11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54 13:04 13:14 13:26 13:38
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 11:24 11:34 11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54 13:04 13:14 13:26 13:38
+ UD103   UDINE via Aquileia 42 11:24 11:34 11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54 13:04 13:14 13:26 13:38
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 11:26 11:36 11:46 11:56 12:06 12:16 12:26 12:36 12:46 12:56 13:06 13:16 13:28 13:40
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+11:28 11:38 11:48 11:58 12:08 12:18 12:28 12:38 12:48 12:58 13:08 13:18 13:30 13:42
+ UD736   UDINE piazza I Maggio 37 11:29 11:39 11:49 11:59 12:09 12:19 12:29 12:39 12:49 12:59 13:09 13:19 13:31 13:43
+ UD051   UDINE piazza I Maggio 26 (Stellini) 11:30 11:40 11:50 12:00 12:10 12:20 12:30 12:40 12:50 13:00 13:10 13:20 13:32 13:44
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+11:31 11:41 11:51 12:01 12:11 12:21 12:31 12:41 12:51 13:01 13:11 13:21 13:33 13:45
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 11:32 11:42 11:52 12:02 12:12 12:22 12:32 12:42 12:52 13:02 13:12 13:22 13:34 13:46
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+11:34 11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54 13:04 13:14 13:24 13:36 13:48
+ UD079   UDINE viale Volontari della Libertà 33 11:35 11:45 11:55 12:05 12:15 12:25 12:35 12:45 12:55 13:05 13:15 13:25 13:37 13:49
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 11:37 11:47 11:57 12:07 12:17 12:27 12:37 12:47 12:57 13:07 13:17 13:27 13:39 13:51
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 11:38 11:48 11:58 12:08 12:18 12:28 12:38 12:48 12:58 13:08 13:18 13:28 13:40 13:52
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+11:39 11:49 11:59 12:09 12:19 12:29 12:39 12:49 12:59 13:09 13:19 13:29 13:41 13:53
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+11:41 11:51 12:01 12:11 12:21 12:31 12:41 12:51 13:01 13:11 13:21 13:31 13:43 13:55
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54 13:04 13:14 13:24 13:34 13:46 13:58
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 3 di 17
+  [Pagina 23]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE ESTIVO e in più vacanze Natale
+386 388 390 392 394 396 398 400 402 404 406 408 410 412
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+13:46 13:58 14:10 14:22 14:34 14:46 14:58 15:10 15:22 15:34 15:46 15:58 16:10 16:22
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 13:47 13:59 14:11 14:23 14:35 14:47 14:59 15:11 15:23 15:35 15:47 15:59 16:11 16:23
+ UD355   UDINE via Marsala 52 13:48 14:00 14:12 14:24 14:36 14:48 15:00 15:12 15:24 15:36 15:48 16:00 16:12 16:24
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 13:49 14:01 14:13 14:25 14:37 14:49 15:01 15:13 15:25 15:37 15:49 16:01 16:13 16:25
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+13:50 14:02 14:14 14:26 14:38 14:50 15:02 15:14 15:26 15:38 15:50 16:02 16:14 16:26
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 13:50 14:02 14:14 14:26 14:38 14:50 15:02 15:14 15:26 15:38 15:50 16:02 16:14 16:26
+ UD103   UDINE via Aquileia 42 13:50 14:02 14:14 14:26 14:38 14:50 15:02 15:14 15:26 15:38 15:50 16:02 16:14 16:26
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 13:52 14:04 14:16 14:28 14:40 14:52 15:04 15:16 15:28 15:40 15:52 16:04 16:16 16:28
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+13:54 14:06 14:18 14:30 14:42 14:54 15:06 15:18 15:30 15:42 15:54 16:06 16:18 16:30
+ UD736   UDINE piazza I Maggio 37 13:55 14:07 14:19 14:31 14:43 14:55 15:07 15:19 15:31 15:43 15:55 16:07 16:19 16:31
+ UD051   UDINE piazza I Maggio 26 (Stellini) 13:56 14:08 14:20 14:32 14:44 14:56 15:08 15:20 15:32 15:44 15:56 16:08 16:20 16:32
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+13:57 14:09 14:21 14:33 14:45 14:57 15:09 15:21 15:33 15:45 15:57 16:09 16:21 16:33
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 13:58 14:10 14:22 14:34 14:46 14:58 15:10 15:22 15:34 15:46 15:58 16:10 16:22 16:34
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+14:00 14:12 14:24 14:36 14:48 15:00 15:12 15:24 15:36 15:48 16:00 16:12 16:24 16:36
+ UD079   UDINE viale Volontari della Libertà 33 14:01 14:13 14:25 14:37 14:49 15:01 15:13 15:25 15:37 15:49 16:01 16:13 16:25 16:37
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 14:03 14:15 14:27 14:39 14:51 15:03 15:15 15:27 15:39 15:51 16:03 16:15 16:27 16:39
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 14:04 14:16 14:28 14:40 14:52 15:04 15:16 15:28 15:40 15:52 16:04 16:16 16:28 16:40
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+14:05 14:17 14:29 14:41 14:53 15:05 15:17 15:29 15:41 15:53 16:05 16:17 16:29 16:41
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+14:07 14:19 14:31 14:43 14:55 15:07 15:19 15:31 15:43 15:55 16:07 16:19 16:31 16:43
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+14:10 14:22 14:34 14:46 14:58 15:10 15:22 15:34 15:46 15:58 16:10 16:22 16:34 16:46
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 4 di 17
+  [Pagina 24]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE ESTIVO e in più vacanze Natale
+414 416 418 420 422 424 426 428 430 432 434 436 438 440
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544 U544
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+16:34 16:46 16:58 17:10 17:22 17:34 17:46 17:58 18:10 18:22 18:34 18:46 18:58 19:10
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 16:35 16:47 16:59 17:11 17:23 17:35 17:47 17:59 18:11 18:23 18:35 18:47 18:59 19:11
+ UD355   UDINE via Marsala 52 16:36 16:48 17:00 17:12 17:24 17:36 17:48 18:00 18:12 18:24 18:36 18:48 19:00 19:12
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 16:37 16:49 17:01 17:13 17:25 17:37 17:49 18:01 18:13 18:25 18:37 18:49 19:01 19:13
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+16:38 16:50 17:02 17:14 17:26 17:38 17:50 18:02 18:14 18:26 18:38 18:50 19:02 19:14
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 16:38 16:50 17:02 17:14 17:26 17:38 17:50 18:02 18:14 18:26 18:38 18:50 19:02 19:14
+ UD103   UDINE via Aquileia 42 16:38 16:50 17:02 17:14 17:26 17:38 17:50 18:02 18:14 18:26 18:38 18:50 19:02 19:14
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 16:40 16:52 17:04 17:16 17:28 17:40 17:52 18:04 18:16 18:28 18:40 18:52 19:04 19:16
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+16:42 16:54 17:06 17:18 17:30 17:42 17:54 18:06 18:18 18:30 18:42 18:54 19:06 19:18
+ UD736   UDINE piazza I Maggio 37 16:43 16:55 17:07 17:19 17:31 17:43 17:55 18:07 18:19 18:31 18:43 18:55 19:07 19:19
+ UD051   UDINE piazza I Maggio 26 (Stellini) 16:44 16:56 17:08 17:20 17:32 17:44 17:56 18:08 18:20 18:32 18:44 18:56 19:08 19:20
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+16:45 16:57 17:09 17:21 17:33 17:45 17:57 18:09 18:21 18:33 18:45 18:57 19:09 19:21
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 16:46 16:58 17:10 17:22 17:34 17:46 17:58 18:10 18:22 18:34 18:46 18:58 19:10 19:22
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+16:48 17:00 17:12 17:24 17:36 17:48 18:00 18:12 18:24 18:36 18:48 19:00 19:12 19:24
+ UD079   UDINE viale Volontari della Libertà 33 16:49 17:01 17:13 17:25 17:37 17:49 18:01 18:13 18:25 18:37 18:49 19:01 19:13 19:25
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 16:51 17:03 17:15 17:27 17:39 17:51 18:03 18:15 18:27 18:39 18:51 19:03 19:15 19:27
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 16:52 17:04 17:16 17:28 17:40 17:52 18:04 18:16 18:28 18:40 18:52 19:04 19:16 19:28
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+16:53 17:05 17:17 17:29 17:41 17:53 18:05 18:17 18:29 18:41 18:53 19:05 19:17 19:29
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+16:55 17:07 17:19 17:31 17:43 17:55 18:07 18:19 18:31 18:43 18:55 19:07 19:19 19:31
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+16:58 17:10 17:22 17:34 17:46 17:58 18:10 18:22 18:34 18:46 18:58 19:10 19:22 19:34
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 5 di 17
+  [Pagina 25]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE ESTIVO e in più vacanze Natale FESTIVO ANNU
+442 444 446 448 450 452 454 456 458 460 462 464 602 604
+U544 U544 U544 U544 U544 U544 U544 U544 U544 U502 U502 U502 U511 U511
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+19:22 19:34 19:46 19:58 20:10 20:34 20:50
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 19:23 19:35 19:46 19:58 20:10 20:34 20:50
+ UD355   UDINE via Marsala 52 19:24 19:36 19:47 19:59 20:11 20:35 20:51
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 19:25 19:37 19:48 20:00 20:12 20:36 20:52
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+19:26 19:38 19:49 20:01 20:13 20:37 20:53 21:25 21:55 22:25 22:55 23:23 06:30 06:46
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 19:26 19:38 19:50 20:02 20:14 20:38 20:54 21:26 21:56 22:26 22:56 23:24 06:31 06:47
+ UD103   UDINE via Aquileia 42 19:26 19:38 19:50 20:02 20:14 20:38 20:54 21:26 21:56 22:26 22:56 23:24 06:31 06:47
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 19:28 19:40 19:52 20:04 20:15 20:39 20:55 21:27 21:57 22:27 22:57 23:25 06:32 06:48
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+19:30 19:42 19:53 20:05 20:16 20:40 20:56 21:28 21:58 22:28 22:58 23:26 06:33 06:49
+ UD736   UDINE piazza I Maggio 37 19:31 19:43 19:54 20:06 20:16 20:40 20:56 21:28 21:58 22:28 22:58 23:26 06:34 06:50
+ UD051   UDINE piazza I Maggio 26 (Stellini) 19:32 19:44 19:55 20:07 20:17 20:41 20:57 21:29 21:59 22:29 22:59 23:27 06:35 06:51
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+19:33 19:45 19:56 20:08 20:18 20:42 20:58 21:30 22:00 22:30 23:00 23:28 06:35 06:51
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 19:34 19:46 19:57 20:09 20:19 20:43 20:59 21:31 22:01 22:31 23:01 23:29 06:36 06:52
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+19:36 19:48 19:58 20:10 20:20 20:44 21:00 21:32 22:02 22:32 23:02 23:30 06:36 06:52
+ UD079   UDINE viale Volontari della Libertà 33 19:37 19:49 19:59 20:11 20:20 20:44 21:00 21:32 22:02 22:32 23:02 23:30 06:37 06:53
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 19:39 19:51 20:00 20:12 20:22 20:46 21:02 21:34 22:04 22:34 23:04 23:32 06:38 06:54
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 19:40 19:52 20:01 20:13 20:22 20:46 21:02 21:34 22:04 22:34 23:04 23:32 06:39 06:55
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+20:25 20:49 21:05 21:37 22:07 22:37 23:07 23:35 06:40 06:56
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+19:41 19:53 20:03 20:15
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+19:43 19:55 20:04 20:16
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+19:46 19:58 20:06 20:18
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 6 di 17
+  [Pagina 26]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FESTIVO ANNUALE
+606 608 610 612 614 616 618 620 622 624 626 628 630 632
+U511 U511 U511 U511 U510 U510 U510 U510 U510 U510 U510 U510 U510 U510
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+07:02 07:18 07:34 07:50 08:06 08:24 08:40 08:52 09:05 09:18 09:31 09:44 09:57 10:10
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 07:03 07:19 07:35 07:51 08:07 08:25 08:41 08:53 09:06 09:19 09:32 09:45 09:58 10:11
+ UD103   UDINE via Aquileia 42 07:03 07:19 07:35 07:51 08:07 08:25 08:41 08:53 09:06 09:19 09:32 09:45 09:58 10:11
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 07:04 07:20 07:36 07:52 08:08 08:26 08:42 08:54 09:07 09:20 09:33 09:46 09:59 10:12
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+07:06 07:22 07:38 07:54 08:10 08:28 08:44 08:56 09:09 09:22 09:35 09:48 10:01 10:14
+ UD736   UDINE piazza I Maggio 37 07:08 07:24 07:40 07:56 08:12 08:30 08:46 08:58 09:11 09:24 09:37 09:50 10:03 10:16
+ UD051   UDINE piazza I Maggio 26 (Stellini) 07:09 07:25 07:41 07:57 08:13 08:31 08:47 08:59 09:12 09:25 09:38 09:51 10:04 10:17
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+07:10 07:26 07:42 07:58 08:14 08:32 08:48 09:00 09:13 09:26 09:39 09:52 10:05 10:18
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 07:11 07:27 07:43 07:59 08:15 08:33 08:49 09:01 09:14 09:27 09:40 09:53 10:06 10:19
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+07:13 07:29 07:45 08:01 08:17 08:35 08:51 09:03 09:16 09:29 09:42 09:55 10:08 10:21
+ UD079   UDINE viale Volontari della Libertà 33 07:14 07:30 07:46 08:02 08:18 08:36 08:52 09:04 09:17 09:30 09:43 09:56 10:09 10:22
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 07:16 07:32 07:48 08:04 08:20 08:38 08:54 09:06 09:19 09:32 09:45 09:58 10:11 10:24
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 07:16 07:32 07:48 08:04 08:20 08:38 08:54 09:06 09:19 09:32 09:45 09:58 10:11 10:24
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+07:17 07:33 07:49 08:05 08:21 08:39 08:55 09:07 09:20 09:33 09:46 09:59 10:12 10:25
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 7 di 17
+  [Pagina 27]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FESTIVO ANNUALE
+634 636 638 640 642 644 646 648 650 652 654 656 658 660
+U540 U510 U510 U510 U510 U510 U510 U510 U510 U510 U510 U510 U540 U510
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+10:16 12:36
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 10:17 12:37
+ UD355   UDINE via Marsala 52 10:18 12:38
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 10:19 12:39
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+10:20 10:23 10:36 10:49 11:02 11:15 11:28 11:41 11:54 12:07 12:20 12:33 12:40 12:46
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 10:24 10:37 10:50 11:03 11:16 11:29 11:42 11:55 12:08 12:21 12:34 12:47
+ UD103   UDINE via Aquileia 42 10:24 10:37 10:50 11:03 11:16 11:29 11:42 11:55 12:08 12:21 12:34 12:47
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 10:25 10:38 10:51 11:04 11:17 11:30 11:43 11:56 12:09 12:22 12:35 12:48
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+10:27 10:40 10:53 11:06 11:19 11:32 11:45 11:58 12:11 12:24 12:37 12:50
+ UD736   UDINE piazza I Maggio 37 10:29 10:42 10:55 11:08 11:21 11:34 11:47 12:00 12:13 12:26 12:39 12:52
+ UD051   UDINE piazza I Maggio 26 (Stellini) 10:30 10:43 10:56 11:09 11:22 11:35 11:48 12:01 12:14 12:27 12:40 12:53
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+10:31 10:44 10:57 11:10 11:23 11:36 11:49 12:02 12:15 12:28 12:41 12:54
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 10:32 10:45 10:58 11:11 11:24 11:37 11:50 12:03 12:16 12:29 12:42 12:55
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+10:34 10:47 11:00 11:13 11:26 11:39 11:52 12:05 12:18 12:31 12:44 12:57
+ UD079   UDINE viale Volontari della Libertà 33 10:35 10:48 11:01 11:14 11:27 11:40 11:53 12:06 12:19 12:32 12:45 12:58
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 10:37 10:50 11:03 11:16 11:29 11:42 11:55 12:08 12:21 12:34 12:47 13:00
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 10:37 10:50 11:03 11:16 11:29 11:42 11:55 12:08 12:21 12:34 12:47 13:00
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+10:38 10:51 11:04 11:17 11:30 11:43 11:56 12:09 12:22 12:35 12:48 13:01
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 8 di 17
+  [Pagina 28]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FESTIVO ANNUALE
+662 664 666 668 670 672 674 676 678 680 682 684 686 688
+U512 U512 U512 U512 U512 U512 U512 U512 U512 U512 U512 U512 U512 U521
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+16:36
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 16:37
+ UD355   UDINE via Marsala 52 16:38
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 16:39
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+12:59 13:12 13:25 13:38 13:51 14:10 14:30 14:49 15:09 15:28 15:48 16:07 16:27 16:40
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 13:00 13:13 13:26 13:39 13:52 14:11 14:31 14:50 15:10 15:29 15:49 16:08 16:28
+ UD103   UDINE via Aquileia 42 13:00 13:13 13:26 13:39 13:52 14:11 14:31 14:50 15:10 15:29 15:49 16:08 16:28
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 13:01 13:14 13:27 13:40 13:53 14:12 14:32 14:51 15:11 15:30 15:50 16:09 16:29
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+13:03 13:16 13:29 13:42 13:55 14:14 14:34 14:53 15:13 15:32 15:52 16:11 16:31
+ UD736   UDINE piazza I Maggio 37 13:05 13:18 13:31 13:44 13:57 14:16 14:36 14:55 15:15 15:34 15:54 16:13 16:33
+ UD051   UDINE piazza I Maggio 26 (Stellini) 13:06 13:19 13:32 13:45 13:58 14:17 14:37 14:56 15:16 15:35 15:55 16:14 16:34
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+13:07 13:20 13:33 13:46 13:59 14:18 14:38 14:57 15:17 15:36 15:56 16:15 16:35
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 13:08 13:21 13:34 13:47 14:00 14:19 14:39 14:58 15:18 15:37 15:57 16:16 16:36
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+13:10 13:23 13:36 13:49 14:02 14:21 14:41 15:00 15:20 15:39 15:59 16:18 16:38
+ UD079   UDINE viale Volontari della Libertà 33 13:11 13:24 13:37 13:50 14:03 14:22 14:42 15:01 15:21 15:40 16:00 16:19 16:39
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 13:13 13:26 13:39 13:52 14:05 14:24 14:44 15:03 15:23 15:42 16:02 16:21 16:41
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 13:13 13:26 13:39 13:52 14:05 14:24 14:44 15:03 15:23 15:42 16:02 16:21 16:41
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+13:14 13:27 13:40 13:53 14:06 14:25 14:45 15:04 15:24 15:43 16:03 16:22 16:42
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 9 di 17
+  [Pagina 29]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FESTIVO ANNUALE
+690 692 694 696 698 700 702 704 706 708 710 712 714 716
+U512 U512 U512 U512 U512 U512 U522 U512 U512 U512 U512 U512 U512 U512
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+18:36
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 18:37
+ UD355   UDINE via Marsala 52 18:38
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 18:39
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+16:46 17:06 17:25 17:45 18:04 18:24 18:40 18:43 19:03 19:22 19:42 20:01 20:17 20:36
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 16:47 17:07 17:26 17:46 18:05 18:25 18:44 19:04 19:23 19:43 20:02 20:18 20:37
+ UD103   UDINE via Aquileia 42 16:47 17:07 17:26 17:46 18:05 18:25 18:44 19:04 19:23 19:43 20:02 20:18 20:37
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 16:48 17:08 17:27 17:47 18:06 18:26 18:45 19:05 19:24 19:44 20:03 20:19 20:38
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+16:50 17:10 17:29 17:49 18:08 18:28 18:47 19:07 19:26 19:46 20:05 20:21 20:39
+ UD736   UDINE piazza I Maggio 37 16:52 17:12 17:31 17:51 18:10 18:30 18:49 19:09 19:28 19:48 20:07 20:23 20:39
+ UD051   UDINE piazza I Maggio 26 (Stellini) 16:53 17:13 17:32 17:52 18:11 18:31 18:50 19:10 19:29 19:49 20:08 20:24 20:40
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+16:54 17:14 17:33 17:53 18:12 18:32 18:51 19:11 19:30 19:50 20:09 20:25 20:41
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 16:55 17:15 17:34 17:54 18:13 18:33 18:52 19:12 19:31 19:51 20:10 20:26 20:42
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+16:57 17:17 17:36 17:56 18:15 18:35 18:54 19:14 19:33 19:53 20:12 20:28 20:43
+ UD079   UDINE viale Volontari della Libertà 33 16:58 17:18 17:37 17:57 18:16 18:36 18:55 19:15 19:34 19:54 20:13 20:29 20:43
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 17:00 17:20 17:39 17:59 18:18 18:38 18:57 19:17 19:36 19:56 20:15 20:31 20:44
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 17:00 17:20 17:39 17:59 18:18 18:38 18:57 19:17 19:36 19:56 20:15 20:31 20:45
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+17:01 17:21 17:40 18:00 18:19 18:39 18:58 19:18 19:37 19:57 20:16 20:32 20:48
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 10 di 17
+  [Pagina 30]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FESTIVO ANNUALE FERIALE INVERNALE escluso vacanze Natale
+718 720 722 724 2 4 6 8 10 12 14 16 18 20
+U512 U512 U546 U546 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+07:00 07:10 07:20 07:30 07:40 07:50 08:00 08:10
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 07:00 07:10 07:21 07:31 07:41 07:51 08:01 08:11
+ UD355   UDINE via Marsala 52 07:01 07:11 07:22 07:32 07:42 07:52 08:02 08:12
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 07:02 07:12 07:23 07:33 07:43 07:53 08:03 08:13
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+21:11 21:36 22:10 22:40 06:35 06:45 07:03 07:13 07:24 07:34 07:44 07:54 08:04 08:14
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 21:12 21:37 22:11 22:41 06:36 06:46 07:04 07:14 07:24 07:34 07:44 07:54 08:04 08:14
+ UD103   UDINE via Aquileia 42 21:12 21:37 22:11 22:41 06:36 06:46 07:04 07:14 07:24 07:34 07:44 07:54 08:04 08:14
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 21:13 21:38 22:12 22:42 06:37 06:48 07:06 07:16 07:26 07:36 07:46 07:56 08:06 08:16
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+21:14 21:39 22:13 22:43 06:38 06:49 07:07 07:17 07:28 07:38 07:48 07:58 08:08 08:18
+ UD736   UDINE piazza I Maggio 37 21:14 21:39 22:13 22:43 06:38 06:50 07:08 07:18 07:29 07:39 07:49 07:59 08:09 08:19
+ UD051   UDINE piazza I Maggio 26 (Stellini) 21:15 21:40 22:14 22:44 06:39 06:51 07:09 07:19 07:30 07:40 07:50 08:00 08:10 08:20
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+21:16 21:41 22:15 22:45 06:40 06:52 07:10 07:20 07:31 07:41 07:51 08:01 08:11 08:21
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 21:17 21:42 22:16 22:46 06:41 06:53 07:11 07:21 07:32 07:42 07:52 08:02 08:12 08:22
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+21:18 21:43 22:17 22:47 06:42 06:54 07:12 07:22 07:34 07:44 07:54 08:04 08:14 08:24
+ UD079   UDINE viale Volontari della Libertà 33 21:18 21:43 22:17 22:47 06:42 06:55 07:13 07:23 07:35 07:45 07:55 08:05 08:15 08:25
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 21:19 21:44 22:18 22:48 06:44 06:56 07:14 07:24 07:37 07:47 07:57 08:07 08:17 08:27
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 21:20 21:45 22:19 22:49 06:44 06:57 07:15 07:25 07:38 07:48 07:58 08:08 08:18 08:28
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+21:23 21:48 22:22 22:52 06:47
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+06:59 07:17 07:27 07:39 07:49 07:59 08:09 08:19 08:29
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+07:00 07:18 07:28 07:41 07:51 08:01 08:11 08:21 08:31
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+07:02 07:20 07:30 07:44 07:54 08:04 08:14 08:24 08:34
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 11 di 17
+  [Pagina 31]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE INVERNALE escluso vacanze Natale
+22 24 26 28 30 32 34 36 38 40 42 44 46 48
+U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+08:20 08:30 08:40 08:50 09:00 09:10 09:20 09:30 09:40 09:50 10:00 10:10 10:20 10:30
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 08:21 08:31 08:41 08:51 09:01 09:11 09:21 09:31 09:41 09:51 10:01 10:11 10:21 10:31
+ UD355   UDINE via Marsala 52 08:22 08:32 08:42 08:52 09:02 09:12 09:22 09:32 09:42 09:52 10:02 10:12 10:22 10:32
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 08:23 08:33 08:43 08:53 09:03 09:13 09:23 09:33 09:43 09:53 10:03 10:13 10:23 10:33
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+08:24 08:34 08:44 08:54 09:04 09:14 09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 08:24 08:34 08:44 08:54 09:04 09:14 09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34
+ UD103   UDINE via Aquileia 42 08:24 08:34 08:44 08:54 09:04 09:14 09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 08:26 08:36 08:46 08:56 09:06 09:16 09:26 09:36 09:46 09:56 10:06 10:16 10:26 10:36
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+08:28 08:38 08:48 08:58 09:08 09:18 09:28 09:38 09:48 09:58 10:08 10:18 10:28 10:38
+ UD736   UDINE piazza I Maggio 37 08:29 08:39 08:49 08:59 09:09 09:19 09:29 09:39 09:49 09:59 10:09 10:19 10:29 10:39
+ UD051   UDINE piazza I Maggio 26 (Stellini) 08:30 08:40 08:50 09:00 09:10 09:20 09:30 09:40 09:50 10:00 10:10 10:20 10:30 10:40
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+08:31 08:41 08:51 09:01 09:11 09:21 09:31 09:41 09:51 10:01 10:11 10:21 10:31 10:41
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 08:32 08:42 08:52 09:02 09:12 09:22 09:32 09:42 09:52 10:02 10:12 10:22 10:32 10:42
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+08:34 08:44 08:54 09:04 09:14 09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34 10:44
+ UD079   UDINE viale Volontari della Libertà 33 08:35 08:45 08:55 09:05 09:15 09:25 09:35 09:45 09:55 10:05 10:15 10:25 10:35 10:45
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 08:37 08:47 08:57 09:07 09:17 09:27 09:37 09:47 09:57 10:07 10:17 10:27 10:37 10:47
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 08:38 08:48 08:58 09:08 09:18 09:28 09:38 09:48 09:58 10:08 10:18 10:28 10:38 10:48
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+08:39 08:49 08:59 09:09 09:19 09:29 09:39 09:49 09:59 10:09 10:19 10:29 10:39 10:49
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+08:41 08:51 09:01 09:11 09:21 09:31 09:41 09:51 10:01 10:11 10:21 10:31 10:41 10:51
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+08:44 08:54 09:04 09:14 09:24 09:34 09:44 09:54 10:04 10:14 10:24 10:34 10:44 10:54
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 12 di 17
+  [Pagina 32]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE INVERNALE escluso vacanze Natale
+50 52 54 56 58 60 62 64 66 68 70 72 74 76
+U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+10:40 10:50 11:00 11:10 11:20 11:30 11:40 11:50 12:00 12:10 12:20 12:30 12:40 12:50
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 10:41 10:51 11:01 11:11 11:21 11:31 11:41 11:51 12:01 12:11 12:21 12:31 12:41 12:51
+ UD355   UDINE via Marsala 52 10:42 10:52 11:02 11:12 11:22 11:32 11:42 11:52 12:02 12:12 12:22 12:32 12:42 12:52
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 10:43 10:53 11:03 11:13 11:23 11:33 11:43 11:53 12:03 12:13 12:23 12:33 12:43 12:53
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+10:44 10:54 11:04 11:14 11:24 11:34 11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 10:44 10:54 11:04 11:14 11:24 11:34 11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54
+ UD103   UDINE via Aquileia 42 10:44 10:54 11:04 11:14 11:24 11:34 11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 10:46 10:56 11:06 11:16 11:26 11:36 11:46 11:56 12:06 12:16 12:26 12:36 12:46 12:56
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+10:48 10:58 11:08 11:18 11:28 11:38 11:48 11:58 12:08 12:18 12:28 12:38 12:48 12:58
+ UD736   UDINE piazza I Maggio 37 10:49 10:59 11:09 11:19 11:29 11:39 11:49 11:59 12:09 12:19 12:29 12:39 12:49 12:59
+ UD051   UDINE piazza I Maggio 26 (Stellini) 10:50 11:00 11:10 11:20 11:30 11:40 11:50 12:00 12:10 12:20 12:30 12:40 12:50 13:00
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+10:51 11:01 11:11 11:21 11:31 11:41 11:51 12:01 12:11 12:21 12:31 12:41 12:51 13:01
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 10:52 11:02 11:12 11:22 11:32 11:42 11:52 12:02 12:12 12:22 12:32 12:42 12:52 13:02
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+10:54 11:04 11:14 11:24 11:34 11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54 13:04
+ UD079   UDINE viale Volontari della Libertà 33 10:55 11:05 11:15 11:25 11:35 11:45 11:55 12:05 12:15 12:25 12:35 12:45 12:55 13:05
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 10:57 11:07 11:17 11:27 11:37 11:47 11:57 12:07 12:17 12:27 12:37 12:47 12:57 13:07
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 10:58 11:08 11:18 11:28 11:38 11:48 11:58 12:08 12:18 12:28 12:38 12:48 12:58 13:08
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+10:59 11:09 11:19 11:29 11:39 11:49 11:59 12:09 12:19 12:29 12:39 12:49 12:59 13:09
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+11:01 11:11 11:21 11:31 11:41 11:51 12:01 12:11 12:21 12:31 12:41 12:51 13:01 13:11
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+11:04 11:14 11:24 11:34 11:44 11:54 12:04 12:14 12:24 12:34 12:44 12:54 13:04 13:14
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 13 di 17
+  [Pagina 33]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE INVERNALE escluso vacanze Natale
+78 80 82 84 86 88 90 92 94 96 98 100 102 104
+U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+13:00 13:10 13:20 13:30 13:40 13:50 14:00 14:10 14:20 14:30 14:40 14:50 15:00 15:10
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 13:01 13:11 13:21 13:31 13:41 13:51 14:01 14:11 14:21 14:31 14:41 14:51 15:01 15:11
+ UD355   UDINE via Marsala 52 13:02 13:12 13:22 13:32 13:42 13:52 14:02 14:12 14:22 14:32 14:42 14:52 15:02 15:12
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 13:03 13:13 13:23 13:33 13:43 13:53 14:03 14:13 14:23 14:33 14:43 14:53 15:03 15:13
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+13:04 13:14 13:24 13:34 13:44 13:54 14:04 14:14 14:24 14:34 14:44 14:54 15:04 15:14
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 13:04 13:14 13:24 13:34 13:44 13:54 14:04 14:14 14:24 14:34 14:44 14:54 15:04 15:14
+ UD103   UDINE via Aquileia 42 13:04 13:14 13:24 13:34 13:44 13:54 14:04 14:14 14:24 14:34 14:44 14:54 15:04 15:14
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 13:06 13:16 13:26 13:36 13:46 13:56 14:06 14:16 14:26 14:36 14:46 14:56 15:06 15:16
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+13:08 13:18 13:28 13:38 13:48 13:58 14:08 14:18 14:28 14:38 14:48 14:58 15:08 15:18
+ UD736   UDINE piazza I Maggio 37 13:09 13:19 13:29 13:39 13:49 13:59 14:09 14:19 14:29 14:39 14:49 14:59 15:09 15:19
+ UD051   UDINE piazza I Maggio 26 (Stellini) 13:10 13:20 13:30 13:40 13:50 14:00 14:10 14:20 14:30 14:40 14:50 15:00 15:10 15:20
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+13:11 13:21 13:31 13:41 13:51 14:01 14:11 14:21 14:31 14:41 14:51 15:01 15:11 15:21
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 13:12 13:22 13:32 13:42 13:52 14:02 14:12 14:22 14:32 14:42 14:52 15:02 15:12 15:22
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+13:14 13:24 13:34 13:44 13:54 14:04 14:14 14:24 14:34 14:44 14:54 15:04 15:14 15:24
+ UD079   UDINE viale Volontari della Libertà 33 13:15 13:25 13:35 13:45 13:55 14:05 14:15 14:25 14:35 14:45 14:55 15:05 15:15 15:25
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 13:17 13:27 13:37 13:47 13:57 14:07 14:17 14:27 14:37 14:47 14:57 15:07 15:17 15:27
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 13:18 13:28 13:38 13:48 13:58 14:08 14:18 14:28 14:38 14:48 14:58 15:08 15:18 15:28
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+13:19 13:29 13:39 13:49 13:59 14:09 14:19 14:29 14:39 14:49 14:59 15:09 15:19 15:29
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+13:21 13:31 13:41 13:51 14:01 14:11 14:21 14:31 14:41 14:51 15:01 15:11 15:21 15:31
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+13:24 13:34 13:44 13:54 14:04 14:14 14:24 14:34 14:44 14:54 15:04 15:14 15:24 15:34
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 14 di 17
+  [Pagina 34]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE INVERNALE escluso vacanze Natale
+106 108 110 112 114 116 118 120 122 124 126 128 130 132
+U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+15:20 15:30 15:40 15:50 16:00 16:10 16:20 16:30 16:40 16:50 17:00 17:10 17:20 17:30
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 15:21 15:31 15:41 15:51 16:01 16:11 16:21 16:31 16:41 16:51 17:01 17:11 17:21 17:31
+ UD355   UDINE via Marsala 52 15:22 15:32 15:42 15:52 16:02 16:12 16:22 16:32 16:42 16:52 17:02 17:12 17:22 17:32
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 15:23 15:33 15:43 15:53 16:03 16:13 16:23 16:33 16:43 16:53 17:03 17:13 17:23 17:33
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+15:24 15:34 15:44 15:54 16:04 16:14 16:24 16:34 16:44 16:54 17:04 17:14 17:24 17:34
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 15:24 15:34 15:44 15:54 16:04 16:14 16:24 16:34 16:44 16:54 17:04 17:14 17:24 17:34
+ UD103   UDINE via Aquileia 42 15:24 15:34 15:44 15:54 16:04 16:14 16:24 16:34 16:44 16:54 17:04 17:14 17:24 17:34
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 15:26 15:36 15:46 15:56 16:06 16:16 16:26 16:36 16:46 16:56 17:06 17:16 17:26 17:36
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+15:28 15:38 15:48 15:58 16:08 16:18 16:28 16:38 16:48 16:58 17:08 17:18 17:28 17:38
+ UD736   UDINE piazza I Maggio 37 15:29 15:39 15:49 15:59 16:09 16:19 16:29 16:39 16:49 16:59 17:09 17:19 17:29 17:39
+ UD051   UDINE piazza I Maggio 26 (Stellini) 15:30 15:40 15:50 16:00 16:10 16:20 16:30 16:40 16:50 17:00 17:10 17:20 17:30 17:40
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+15:31 15:41 15:51 16:01 16:11 16:21 16:31 16:41 16:51 17:01 17:11 17:21 17:31 17:41
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 15:32 15:42 15:52 16:02 16:12 16:22 16:32 16:42 16:52 17:02 17:12 17:22 17:32 17:42
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+15:34 15:44 15:54 16:04 16:14 16:24 16:34 16:44 16:54 17:04 17:14 17:24 17:34 17:44
+ UD079   UDINE viale Volontari della Libertà 33 15:35 15:45 15:55 16:05 16:15 16:25 16:35 16:45 16:55 17:05 17:15 17:25 17:35 17:45
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 15:37 15:47 15:57 16:07 16:17 16:27 16:37 16:47 16:57 17:07 17:17 17:27 17:37 17:47
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 15:38 15:48 15:58 16:08 16:18 16:28 16:38 16:48 16:58 17:08 17:18 17:28 17:38 17:48
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+15:39 15:49 15:59 16:09 16:19 16:29 16:39 16:49 16:59 17:09 17:19 17:29 17:39 17:49
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+15:41 15:51 16:01 16:11 16:21 16:31 16:41 16:51 17:01 17:11 17:21 17:31 17:41 17:51
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+15:44 15:54 16:04 16:14 16:24 16:34 16:44 16:54 17:04 17:14 17:24 17:34 17:44 17:54
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 15 di 17
+  [Pagina 35]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE INVERNALE escluso vacanze Natale
+134 136 138 140 142 144 146 148 150 152 154 156 158 160
+U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534 U534
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+17:40 17:50 18:00 18:10 18:20 18:30 18:40 18:50 19:00 19:10 19:20 19:30 19:40 19:50
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 17:41 17:51 18:01 18:11 18:21 18:31 18:41 18:51 19:01 19:11 19:21 19:31 19:41 19:51
+ UD355   UDINE via Marsala 52 17:42 17:52 18:02 18:12 18:22 18:32 18:42 18:52 19:02 19:12 19:22 19:32 19:42 19:52
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 17:43 17:53 18:03 18:13 18:23 18:33 18:43 18:53 19:03 19:13 19:23 19:33 19:43 19:53
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+17:44 17:54 18:04 18:14 18:24 18:34 18:44 18:54 19:04 19:14 19:24 19:34 19:44 19:54
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 17:44 17:54 18:04 18:14 18:24 18:34 18:44 18:54 19:04 19:14 19:24 19:34 19:44 19:54
+ UD103   UDINE via Aquileia 42 17:44 17:54 18:04 18:14 18:24 18:34 18:44 18:54 19:04 19:14 19:24 19:34 19:44 19:54
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 17:46 17:56 18:06 18:16 18:26 18:36 18:46 18:56 19:06 19:16 19:26 19:36 19:46 19:56
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+17:48 17:58 18:08 18:18 18:28 18:38 18:48 18:58 19:08 19:18 19:28 19:38 19:48 19:58
+ UD736   UDINE piazza I Maggio 37 17:49 17:59 18:09 18:19 18:29 18:39 18:49 18:59 19:09 19:19 19:29 19:39 19:49 19:59
+ UD051   UDINE piazza I Maggio 26 (Stellini) 17:50 18:00 18:10 18:20 18:30 18:40 18:50 19:00 19:10 19:20 19:30 19:40 19:50 20:00
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+17:51 18:01 18:11 18:21 18:31 18:41 18:51 19:01 19:11 19:21 19:31 19:41 19:51 20:01
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 17:52 18:02 18:12 18:22 18:32 18:42 18:52 19:02 19:12 19:22 19:32 19:42 19:52 20:02
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+17:54 18:04 18:14 18:24 18:34 18:44 18:54 19:04 19:14 19:24 19:34 19:44 19:54 20:04
+ UD079   UDINE viale Volontari della Libertà 33 17:55 18:05 18:15 18:25 18:35 18:45 18:55 19:05 19:15 19:25 19:35 19:45 19:55 20:05
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 17:57 18:07 18:17 18:27 18:37 18:47 18:57 19:07 19:17 19:27 19:37 19:47 19:57 20:07
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 17:58 18:08 18:18 18:28 18:38 18:48 18:58 19:08 19:18 19:28 19:38 19:48 19:58 20:08
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+17:59 18:09 18:19 18:29 18:39 18:49 18:59 19:09 19:19 19:29 19:39 19:49 19:59 20:09
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+18:01 18:11 18:21 18:31 18:41 18:51 19:01 19:11 19:21 19:31 19:41 19:51 20:01 20:11
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+18:04 18:14 18:24 18:34 18:44 18:54 19:04 19:14 19:24 19:34 19:44 19:54 20:04 20:14
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 16 di 17
+  [Pagina 36]
+LINEA 1 (Ritorno)
+Orario valido dall'11 settembre 2025Gervasutta-FS-1°Maggio-Chiavris-Ospedale-via Chiusaforte 
+FERIALE INVERNALE escluso vacanze Natale
+162 164 166 168 170 172 174 176
+U534 U534 U534 U534 U534 U534 U534 U534
+ UD274   UDINE via Gervasutta 48 (ospedale 
+Gervasutta)
+20:00 20:35 20:50
+ UD275   UDINE via Gervasutta 6 (chiesa del Cristo) 20:00 20:35 20:50
+ UD355   UDINE via Marsala 52 20:01 20:36 20:51
+ 70C32   UDINE viale Europa Unita 116 (Gelatone) 20:02 20:37 20:52
+ UD237   UDINE viale Europa Unita 54 (lato stazione 
+FS)
+20:03 20:38 20:53 21:10 21:45 22:15 22:50 23:20
+ UD105   UDINE via Aquileia 90 (Porta Aquileia) 20:04 20:39 21:11 21:46 22:16 22:51 23:21
+ UD103   UDINE via Aquileia 42 20:04 20:39 21:11 21:46 22:16 22:51 23:21
+ UD104   UDINE via Aquileia 6 (Mediocredito FVG) 20:06 20:40 21:12 21:47 22:17 22:52 23:22
+ UD055   UDINE piazza del Patriarcato 1B (palazzo 
+patriarcale)
+20:06 20:41 21:13 21:48 22:18 22:53 23:23
+ UD736   UDINE piazza I Maggio 37 20:06 20:41 21:13 21:48 22:18 22:53 23:23
+ UD051   UDINE piazza I Maggio 26 (Stellini) 20:07 20:42 21:14 21:49 22:19 22:54 23:24
+ UD729   UDINE viale della Vittoria (fronte civico 12B, 
+Sello)
+20:08 20:43 21:15 21:50 22:20 22:55 23:25
+ UD517   UDINE viale della Vittoria 15 (piazzale Osoppo) 20:08 20:43 21:15 21:50 22:20 22:55 23:25
+ UD690   UDINE viale Volontari della Libertà (fronte 
+civico 24)
+20:10 20:45 21:17 21:52 22:22 22:57 23:27
+ UD079   UDINE viale Volontari della Libertà 33 20:10 20:45 21:17 21:52 22:22 22:57 23:27
+ UD261   UDINE via Forni di Sotto 9 (piazzale Chiavris) 20:12 20:47 21:19 21:54 22:24 22:59 23:29
+ UD262   UDINE via Forni di Sotto (fronte civico 50) 20:12 20:47 21:19 21:54 22:24 22:59 23:29
+ UD033   UDINE P.S.Maria M.(ingr. ospedale, Area 
+1 dir. stazione FS)
+20:50 21:22 21:57 22:27 23:02 23:32
+ UD032   UDINE P.S.Maria M.(ingr. ospedale, Area 
+2 dir. Chiusaforte)
+20:15
+ UD158   UDINE via Chiusaforte (fronte civico 2, 
+ospedale Ingresso E)
+20:17
+ UD159   UDINE via Chiusaforte (parcheggio 
+scambiatore)
+20:20
+CADENZA
+CORSA
+GRUPPO CADENZE
+VALIDITÀ
+U534 URBANO feriale invernale esc. gg feriali non scolastici del periodo 
+Natalizio
+U544 URBANO feriale estiva piu gg feriali non scolastici del periodo 
+Natalizio
+U502 URBANO feriale estiva piu giorni feriali non scolastici del periodo 
+Natalizio meno 31/12
+U510 URBANO festiva annuale escluso I Maggio
+U511 URBANO festiva annuale escl. Capodanno e I Maggio U512 URBANO festiva annuale escl. Pasqua, I Maggio e Natale
+U546 URBANO festiva annuale escluso Pasqua, I Maggio, Natale e 31/12 U540 URBANO festiva escluso Cap/anno-Pasqua-I Maggio Natale
+U521 URBANO Festiva dal 01/01 al 30/04 e dal 01/10 al 31/12 escluso 
+Capodanno-Pasqua-Natale
+U522 URBANO festiva dal 02/05 al 30/09
+venerdì 29 agosto 2025Pagina 17 di 17
+  [Pagina 37]
+www.tplfvg.it
+TPL FVG S.c.a.r.l.
+via Caduti di An Nasiriyah 6
+34170 Gorizia (GO)
+e-mail info@tplfvg.it
