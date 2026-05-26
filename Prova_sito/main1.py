@@ -231,7 +231,7 @@ async def ask_ollama(question: str, context: str):
                     "model": MODEL, 
                     "prompt": prompt, 
                     "stream": True,
-                    "options": {"num_ctx": 95000} 
+                    "options": {"num_ctx": 950000000} 
                 },
             ) as response:
                 
