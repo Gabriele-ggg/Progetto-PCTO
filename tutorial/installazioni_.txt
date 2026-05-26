@@ -1,0 +1,10 @@
+
+# installazioni
+
+pip install langchain-text-splitters
+
+pip install langchain_ollama
+
+# scarica
+ollama pull llama3:8b"
+
