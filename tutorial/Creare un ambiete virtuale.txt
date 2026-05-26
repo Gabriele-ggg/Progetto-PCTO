@@ -1,0 +1,7 @@
+# da terminale
+
+# crea ambiente
+python -m venv mio_ambiente
+
+# attiva ambiente
+mio_ambiente\Scripts\activate.bat
