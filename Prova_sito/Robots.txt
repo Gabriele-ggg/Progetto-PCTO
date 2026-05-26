@@ -2,12 +2,12 @@ User-agent: *
 
 Disallow: /css/
 
-Disallow: /Ricerca/
+Disallow: /pdf/
 
 
 User-agent: Meta-ExternalAgent
 
-Allow: /Ricerca/
+Allow: /pdf/
 
 
 User-agent: GPTbot
