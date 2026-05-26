@@ -4,10 +4,12 @@ Disallow: /css/
 
 Disallow: /pdf/
 
+Disallow : /Ricerca/
 
 User-agent: Meta-ExternalAgent
 
 Allow: /pdf/
+Allow : /Ricerca/
 
 
 User-agent: GPTbot
