@@ -6,6 +6,8 @@ Disallow: /pdf/
 
 Disallow : /Ricerca/
 
+Allow : /
+
 User-agent: Meta-ExternalAgent
 
 Allow: /pdf/
@@ -17,6 +19,3 @@ User-agent: GPTbot
 Disallow: /
 
 
-User-agent: *
-
-Allow: /
