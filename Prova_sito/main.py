@@ -1,12 +1,19 @@
 from fastapi import FastAPI
-from fastapi.responses import HTMLResponse, StreamingResponse
+from fastapi.responses import HTMLResponse, StreamingResponse, PlainTextResponse
 from pydantic import BaseModel
+from pathlib import Path
 import httpx
 
 app = FastAPI()
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL = "llama3:8b"
+
+
+@app.get("/robots.txt", response_class=PlainTextResponse)
+async def robots():
+    robots_path = Path(__file__).parent / "Robots.txt"
+    return robots_path.read_text(encoding="utf-8")
 
 
 class QuestionRequest(BaseModel):
@@ -96,6 +103,28 @@ async def root():
         }
         button:hover { background: #6d28d9; }
         button:disabled { background: #3a2a5e; cursor: not-allowed; }
+
+        .spinner-wrap {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: #a78bfa;
+            font-style: italic;
+            font-size: 0.9rem;
+            margin-bottom: 12px;
+        }
+        .spinner {
+            width: 18px;
+            height: 18px;
+            border: 3px solid #3a2a5e;
+            border-top-color: #a78bfa;
+            border-radius: 50%;
+            animation: spin 0.75s linear infinite;
+            flex-shrink: 0;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
     </style>
 </head>
 <body>
@@ -134,13 +163,21 @@ async def root():
             input.value = '';
             btn.disabled = true;
 
-            // Add assistant placeholder
+            // Show spinner while waiting
+            const spinnerEl = document.createElement('div');
+            spinnerEl.className = 'spinner-wrap';
+            spinnerEl.id = 'spinner';
+            spinnerEl.innerHTML = '<div class="spinner"></div><span>LLaMA sta pensando...</span>';
+            chat.appendChild(spinnerEl);
+            chat.scrollTop = chat.scrollHeight;
+
+            // Add assistant answer placeholder (hidden until first token)
             const answerEl = document.createElement('p');
+            answerEl.style.display = 'none';
             answerEl.innerHTML = '<span class="assistant"><strong>LLaMA:</strong> </span>';
             const textNode = document.createTextNode('');
             answerEl.appendChild(textNode);
             chat.appendChild(answerEl);
-            chat.scrollTop = chat.scrollHeight;
 
             try {
                 const res = await fetch('/ask', {
@@ -151,14 +188,23 @@ async def root():
 
                 const reader = res.body.getReader();
                 const decoder = new TextDecoder();
+                let firstChunk = true;
 
                 while (true) {
                     const { done, value } = await reader.read();
                     if (done) break;
+                    if (firstChunk) {
+                        // Remove spinner, show answer element
+                        spinnerEl.remove();
+                        answerEl.style.display = '';
+                        firstChunk = false;
+                    }
                     textNode.textContent += decoder.decode(value, { stream: true });
                     chat.scrollTop = chat.scrollHeight;
                 }
             } catch (err) {
+                spinnerEl.remove();
+                answerEl.style.display = '';
                 textNode.textContent = '⚠️ Errore nella connessione con Ollama.';
             }
 
