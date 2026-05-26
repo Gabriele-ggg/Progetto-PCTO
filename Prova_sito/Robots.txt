@@ -1,0 +1,20 @@
+User-agent: *
+
+Disallow: /css/
+
+Disallow: /Ricerca/
+
+
+User-agent: Meta-ExternalAgent
+
+Allow: /Ricerca/
+
+
+User-agent: GPTbot
+
+Disallow: /
+
+
+User-agent: *
+
+Allow: /
