@@ -8,7 +8,7 @@ from langchain_core.documents import Document
 # ==========================================
 # CONFIGURAZIONE SWITCH MODELLO
 # ==========================================
-MODELLO_SCELTO = "qwen3-embedding:8b" 
+MODELLO_SCELTO = "nomic-embed-text:latest" 
 print(f"🔄 Modello di embedding attivo: {MODELLO_SCELTO}")
 
 MODELLO_SAFE_NAME = MODELLO_SCELTO.replace(":", "-")
@@ -21,8 +21,8 @@ embeddings_model = OllamaEmbeddings(model=MODELLO_SCELTO)
 # CONFIGURAZIONE CHUNKING (Configura qui le grandezze)
 # ==========================================
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=20000,       # Lunghezza massima di ogni pezzo (in caratteri)
-    chunk_overlap=100,     # Quanti caratteri sovrapporre tra un pezzo e l'altro
+    chunk_size=900,       # Lunghezza massima di ogni pezzo (in caratteri)
+    chunk_overlap=110,     # Quanti caratteri sovrapporre tra un pezzo e l'altro
     length_function=len,
     separators=["\n\n", "\n", " ", ""] # Prova a tagliare prima per paragrafi, poi frasi, poi parole
 )
@@ -90,15 +90,30 @@ documenti_spezzettati = text_splitter.split_documents(pagine_grezze)
 print(f"🧩 Testo suddiviso con successo in {len(documenti_spezzettati)} frammenti (chunk).")
 
 # ==========================================
-# SALVATAGGIO NEL DB
+# SALVATAGGIO NEL DB (VERSIONE SUPER VELOCE)
 # ==========================================
-print(f"🧠 Invio dei chunk a Ollama e salvataggio nel DB permanente...")
+print(f"🧠 Inizializzazione del Database vettoriale...")
 
-vector_db = Chroma.from_documents(
-    documents=documenti_spezzettati, # Passiamo i pezzi piccoli, ora l'embedding ce la farà!
-    embedding=embeddings_model,
-    persist_directory=PERSIST_DIR
+# Inizializziamo Chroma vuoto associandolo al tuo modello di embedding
+vector_db = Chroma(
+    persist_directory=PERSIST_DIR,
+    embedding_function=embeddings_model
 )
+
+# Definiamo quanti chunk inviare a ogni ciclo (100-200 è il valore ideale)
+BATCH_SIZE = 1000
+
+print(f"🚀 Invio dei chunk a Ollama e scrittura nel DB in blocchi da {BATCH_SIZE}...")
+
+for i in range(0, len(documenti_spezzettati), BATCH_SIZE):
+    # Estraiamo il blocco di chunk corrente
+    batch = documenti_spezzettati[i:i + BATCH_SIZE]
+    
+    # Salviamo il blocco nel database (LangChain e Ollama gestiranno il batch internamente)
+    vector_db.add_documents(batch)
+    
+    # Feedback visivo per non lasciarti nel dubbio
+    print(f"📊 Progressi: {i + len(batch)} / {len(documenti_spezzettati)} chunk scritti nel DB.")
 
 print(f"✅ Database vettoriale aggiornato con successo in: {PERSIST_DIR}")
 
