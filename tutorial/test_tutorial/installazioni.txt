@@ -1,0 +1,5 @@
+pip install pydantic
+
+# poi devi installa qualcosa del genere pip install pydantic"email"  verifica
+
+pip install langchain_core
