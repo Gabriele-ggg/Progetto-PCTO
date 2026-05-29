@@ -87,32 +87,48 @@ print(f"\n✂️ Applicazione chunking su {len(pagine_grezze)} pagine grezze..."
 # ereditando e copiando in automatico i metadati corretti (categoria, source, page) per ogni frammento!
 documenti_spezzettati = text_splitter.split_documents(pagine_grezze)
 
-print(f"🧩 Testo suddiviso con successo in {len(documenti_spezzettati)} frammenti (chunk).")
+# ==========================================
+# SALVATAGGIO NEL DB (VERSIONE REALE IN BATCH)
+# ==========================================
+import ollama  # Assicurati di averlo installato: pip install ollama
 
-# ==========================================
-# SALVATAGGIO NEL DB (VERSIONE SUPER VELOCE)
-# ==========================================
 print(f"🧠 Inizializzazione del Database vettoriale...")
-
-# Inizializziamo Chroma vuoto associandolo al tuo modello di embedding
 vector_db = Chroma(
     persist_directory=PERSIST_DIR,
     embedding_function=embeddings_model
 )
 
-# Definiamo quanti chunk inviare a ogni ciclo (100-200 è il valore ideale)
-BATCH_SIZE = 1000
+# Con all-minilm 200-500 è perfetto per un vero batch
+BATCH_SIZE = 500 
 
-print(f"🚀 Invio dei chunk a Ollama e scrittura nel DB in blocchi da {BATCH_SIZE}...")
+print(f"🚀 Invio massivo a Ollama e scrittura nel DB in blocchi da {BATCH_SIZE}...")
 
 for i in range(0, len(documenti_spezzettati), BATCH_SIZE):
-    # Estraiamo il blocco di chunk corrente
     batch = documenti_spezzettati[i:i + BATCH_SIZE]
     
-    # Salviamo il blocco nel database (LangChain e Ollama gestiranno il batch internamente)
-    vector_db.add_documents(batch)
+    # 1. Estraiamo solo i testi dal formato Document di LangChain
+    testi_batch = [doc.page_content for doc in batch]
+    metadati_batch = [doc.metadata for doc in batch]
     
-    # Feedback visivo per non lasciarti nel dubbio
+    # 2. CHIAMATA RAPIDA: Chiediamo a Ollama tutti gli embedding del batch insieme
+    # Questa singola chiamata genera 500 vettori in parallelo
+    risposta_ollama = ollama.embed(
+        model="all-minilm:latest",
+        input=testi_batch
+    )
+    vettori_batch = risposta_ollama['embeddings']
+    
+    # Generiamo degli ID univoci per questo batch (necessari per Chroma)
+    ids_batch = [f"id_{j}" for j in range(i, i + len(batch))]
+    
+    # 3. SCRITTURA DI MASSA: Passiamo i vettori già pronti a Chroma
+    vector_db.add_vectors(
+        vectors=vettori_batch,
+        documents=testi_batch,
+        metadatas=metadati_batch,
+        ids=ids_batch
+    )
+    
     print(f"📊 Progressi: {i + len(batch)} / {len(documenti_spezzettati)} chunk scritti nel DB.")
 
 print(f"✅ Database vettoriale aggiornato con successo in: {PERSIST_DIR}")
