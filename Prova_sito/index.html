@@ -48,16 +48,9 @@ aside h3{font-size:10px;text-transform:uppercase;letter-spacing:2px;color:var(--
 .badge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;
   font-family:'DM Mono',monospace;margin:2px}
 .badge.treno{background:#451a0350;color:var(--train);border:1px solid #f59e0b40}
-.badge.urbano{background:#1e3a8a50;color:var(--urbano);border:1px solid #3d7fff40}
-.badge.extraurbano{background:#06432a50;color:var(--extra);border:1px solid #10b98140}
+.badge.urbani{background:#1e3a8a50;color:var(--urbano);border:1px solid #3d7fff40}
+.badge.extraurbani{background:#06432a50;color:var(--extra);border:1px solid #10b98140}
 .badge.autobus{background:#3b1f7050;color:var(--bus);border:1px solid #a78bfa40}
-#linee-list{display:flex;flex-wrap:wrap;gap:4px}
-.btn-reload{width:100%;padding:10px;border:1px solid var(--border);
-  background:var(--surface2);color:var(--text);border-radius:var(--radius);
-  cursor:pointer;font-family:'Syne',sans-serif;font-size:13px;font-weight:600;
-  transition:all .2s;margin-top:auto}
-.btn-reload:hover{background:var(--accent);border-color:var(--accent);color:#fff}
-.btn-reload:disabled{opacity:.5;cursor:not-allowed}
 
 /* CHAT */
 .chat-area{flex:1;display:flex;flex-direction:column;overflow:hidden;min-width:0}
@@ -114,25 +107,6 @@ aside h3{font-size:10px;text-transform:uppercase;letter-spacing:2px;color:var(--
 #send-btn:disabled{background:var(--surface2);color:var(--muted);
   cursor:not-allowed;transform:none}
 
-/* OVERLAY PER RICARICAMENTO */
-#overlay{
-  position:fixed;
-  top:0;left:0;width:100%;height:100%;
-  background:rgba(0,0,0,0.5);
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  z-index:1000;
-  color:#fff;
-  font-size:1.2rem;
-  display:none;
-}
-#overlay div{
-  background:rgba(0,0,0,0.6);
-  padding:20px 30px;
-  border-radius:var(--radius);
-  text-align:center;
-}
 </style>
 </head>
 <body>
@@ -150,11 +124,6 @@ aside h3{font-size:10px;text-transform:uppercase;letter-spacing:2px;color:var(--
       <h3>Stato Database</h3>
       <div id="status-box"><span style="color:var(--muted);font-size:13px">Caricamento…</span></div>
     </div>
-    <div>
-      <h3>Linee Trovate (per tipo)</h3>
-      <div id="linee-list"></div>
-    </div>
-    <button class="btn-reload" id="reload-btn" onclick="doReload()">⟳ Ricarica PDF</button>
   </aside>
 
   <div class="chat-area">
@@ -168,7 +137,6 @@ aside h3{font-size:10px;text-transform:uppercase;letter-spacing:2px;color:var(--
           <button class="sug-btn" onclick="suggest(this)">A che ora passa la linea 10?</button>
           <button class="sug-btn" onclick="suggest(this)">Treni disponibili?</button>
           <button class="sug-btn" onclick="suggest(this)">Bus extraurbani?</button>
-          <button class="sug-btn" onclick="suggest(this)">Fermate della linea A?</button>
         </div>
       </div>
     </div>
@@ -181,16 +149,10 @@ aside h3{font-size:10px;text-transform:uppercase;letter-spacing:2px;color:var(--
   </div>
 </main>
 
-<!-- Overlay per ricaricamento -->
-<div id="overlay">
-  <div>Ricaricamento delle informazioni, aspettare il completamento</div>
-</div>
-
 <script>
 const msgBox  = document.getElementById('messages');
 const inputEl = document.getElementById('user-input');
 const sendBtn = document.getElementById('send-btn');
-const overlayEl = document.getElementById('overlay');
 
 let history = [];
 let busy    = false;
@@ -200,30 +162,14 @@ async function loadStatus() {
   try {
     const d = await fetch('/api/status').then(r => r.json());
     const tipiHTML = Object.entries(d.tipi || {})
-      .map(([t, n]) => `<span class="badge ${t}">${t}: ${n}</span>`).join('');
+      .map(([t, n]) => `<span class="badge ${t}">${t}: ${n} corse</span>`).join('');
+    
+    // Aggiorna l'interfaccia mostrando solo i conteggi e le statistiche
     document.getElementById('status-box').innerHTML = `
-      <div class="row"><span>Corse totali</span><span class="val">${d.totale_corse}</span></div>
-      <div class="row"><span>PDF analizzati</span><span class="val">${(d.pdf_analizzati||[]).length}</span></div>
+      <div class="row"><span>Linee totali</span><span class="val">${d.totale_linee || 0}</span></div>
+      <div class="row"><span>Corse totali</span><span class="val">${d.totale_corse || 0}</span></div>
       <div class="row"><span>Aggiornato</span><span class="val">${(d.generato_il||'').slice(0,10)}</span></div>
-      <div style="margin-top:8px">${tipiHTML}</div>`;
-    
-    // Mostra linee colorate per tipo
-    const ll = document.getElementById('linee-list');
-    const linee = d.linee || []; // array di oggetti: [{linea: "10", tipo: "urbano"}, ...]
-    
-    if (linee.length === 0) {
-      ll.innerHTML = '<span style="color:var(--muted)">Nessuna linea trovata</span>';
-      return;
-    }
-    
-    const lineeDaMostrare = linee.slice(0, 40);
-    ll.innerHTML = lineeDaMostrare.map(item => 
-      `<span class="badge ${item.tipo}">${item.linea}</span>`
-    ).join('');
-    
-    if (linee.length > 40) {
-      ll.innerHTML += `<span class="badge" style="color:var(--muted)">+${linee.length - 40}</span>`;
-    }
+      <div style="margin-top:8px; display:flex; flex-wrap:wrap; gap:4px;">${tipiHTML}</div>`;
   } catch {
     document.getElementById('status-box').innerHTML =
       `<span style="color:var(--muted)">Errore caricamento</span>`;
@@ -231,30 +177,13 @@ async function loadStatus() {
 }
 loadStatus();
 
-async function doReload() {
-  const btn = document.getElementById('reload-btn');
-  overlayEl.style.display = 'flex';   // mostra overlay
-  btn.disabled = true;
-  btn.textContent = '⏳ Ricaricamento…';
-  try {
-    await fetch('/api/reload', { method: 'POST' });
-    await loadStatus();
-  } finally {
-    overlayEl.style.display = 'none'; // nascondi overlay
-    btn.disabled = false;
-    btn.textContent = '⟳ Ricarica PDF';
-    appendMsg('ai', '✅ Database ricaricato dai PDF.');
-  }
-}
-
 // ── MESSAGGI ─────────────────────────────────
 function ts() {
   return new Date().toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' });
 }
 
 function esc(s) {
-  return String(s)
-    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
 function appendMsg(role, text) {
@@ -268,7 +197,6 @@ function appendMsg(role, text) {
   msgBox.scrollTop = msgBox.scrollHeight;
 }
 
-// Crea bolla AI con puntini di attesa, ritorna riferimenti alla bolla e al meta
 function createAiBubble() {
   document.getElementById('welcome')?.remove();
   const d = document.createElement('div');
@@ -300,7 +228,7 @@ async function sendMsg() {
   busy = true;
   sendBtn.disabled = true;
 
-  const startTime = performance.now(); // avvio cronometro
+  const startTime = performance.now();
   const { bubbleEl, metaEl } = createAiBubble();
   let fullText = '';
   let firstToken = true;
@@ -325,9 +253,8 @@ async function sendMsg() {
         if (done) break;
         buffer += dec.decode(value, { stream: true });
 
-        // Processa tutte le righe complete nel buffer
         const lines = buffer.split('\n');
-        buffer = lines.pop();   // tieni l'ultima riga incompleta nel buffer
+        buffer = lines.pop();
 
         for (const line of lines) {
           if (!line.startsWith('data:')) continue;
@@ -337,35 +264,19 @@ async function sendMsg() {
             const j = JSON.parse(payload);
             if (j.token) {
               if (firstToken) {
-                bubbleEl.textContent = '';   // rimuove i puntini
+                bubbleEl.textContent = '';
                 firstToken = false;
               }
               fullText += j.token;
               bubbleEl.textContent = fullText;
               msgBox.scrollTop = msgBox.scrollHeight;
             }
-          } catch { /* chunk parziale, ignora */ }
+          } catch { }
         }
       }
-
-      // Processa eventuali dati rimasti nel buffer
-      if (buffer.startsWith('data:')) {
-        const payload = buffer.slice(5).trim();
-        if (payload !== '[DONE]') {
-          try {
-            const j = JSON.parse(payload);
-            if (j.token) {
-              if (firstToken) { bubbleEl.textContent = ''; firstToken = false; }
-              fullText += j.token;
-              bubbleEl.textContent = fullText;
-            }
-          } catch {}
-        }
-      }
-
-      // Se non è arrivato nulla, messaggio di errore
-      if (firstToken) {
-        bubbleEl.textContent = '[Nessuna risposta ricevuta. Controlla che Ollama sia in esecuzione.]';
+      
+      if (firstToken && !fullText) {
+        bubbleEl.textContent = '[Nessuna risposta ricevuta. Controlla il server.]';
         fullText = '[Errore]';
       }
     }
@@ -376,7 +287,6 @@ async function sendMsg() {
 
   const endTime = performance.now();
   const durationSec = ((endTime - startTime) / 1000).toFixed(1);
-  // Aggiorna meta con tempo di risposta
   metaEl.textContent = `AI TPL FVG · ${ts()} · risposta in ${durationSec}s`;
 
   history.push({ role: 'assistant', content: fullText });

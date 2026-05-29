@@ -14,3 +14,6 @@ ambiente virtuale python:
 
 
 https://qwen.ai/home
+
+
+pip install fastapi uvicorn requests langchain langchain-community langchain-chroma pypdf chromadb
