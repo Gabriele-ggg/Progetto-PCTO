@@ -1,6 +1,22 @@
-8:00 - 9:00 -> Introduzione al progetto e divisione in gruppi
-9:00 - 9:30 -> Testing di Git e Python
-9:30 - 13:00 -> Apprendimento di quest'ultimi. Log in e creazione di una directory su GitHub
-13:00 - 14:00 -> Pausa Pranzo
-14:00 - 15:00 -> Creazione e ampliamento della Repository
-15:00 - 16:00 -> installazione di langchain e creazione di uno script
+Giorno 1:
+	8:00 - 9:00 -> Introduzione al progetto e divisione in gruppi
+	9:00 - 9:30 -> Testing di Git e Python
+	9:30 - 13:00 -> Apprendimento di quest'ultimi. Log in e creazione di una directory su GitHub
+	13:00 - 14:00 -> Pausa Pranzo
+	14:00 - 15:00 -> Creazione e ampliamento della Repository
+	15:00 - 16:00 -> installazione di langchain e creazione di uno script
+Giorno 2:
+	8:00 - 13:00 -> Creazione del file robots.txt + inizializzazione del sito
+	13:00 - 14:00 -> Pausa Pranzo
+
+Giorno 3:
+
+
+
+
+Giorno 4:
+	8:00 - 8:30 -> sistemazzione del sito
+	8:30 - 16:00 -> lavoro su un progetto differente
+Giorno 5:
+	8:00 - 10:30 -> upgrade del sito, e interfaccia utente
+	10:30 - 16:00 -> lavoro su un progetto differente
