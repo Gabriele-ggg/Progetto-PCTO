@@ -8,7 +8,7 @@ from langchain_core.documents import Document
 # ==========================================
 # CONFIGURAZIONE SWITCH MODELLO
 # ==========================================
-MODELLO_SCELTO = "nomic-embed-text:latest" 
+MODELLO_SCELTO = "qwen3-embedding:8b" 
 print(f"🔄 Modello di embedding attivo: {MODELLO_SCELTO}")
 
 MODELLO_SAFE_NAME = MODELLO_SCELTO.replace(":", "-")
@@ -21,8 +21,8 @@ embeddings_model = OllamaEmbeddings(model=MODELLO_SCELTO)
 # CONFIGURAZIONE CHUNKING (Configura qui le grandezze)
 # ==========================================
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=1000,       # Lunghezza massima di ogni pezzo (in caratteri)
-    chunk_overlap=200,     # Quanti caratteri sovrapporre tra un pezzo e l'altro
+    chunk_size=20000,       # Lunghezza massima di ogni pezzo (in caratteri)
+    chunk_overlap=100,     # Quanti caratteri sovrapporre tra un pezzo e l'altro
     length_function=len,
     separators=["\n\n", "\n", " ", ""] # Prova a tagliare prima per paragrafi, poi frasi, poi parole
 )
@@ -106,7 +106,7 @@ print(f"✅ Database vettoriale aggiornato con successo in: {PERSIST_DIR}")
 # ricerca semantica per i primi K chunks più rilevanti
 
 # 1. Definisci la query di testo che l'utente sta cercando
-query = "Come posso configurare il database?"
+query = "come arrivo a Udine stazione da Castions?"
 k = 3  # Il numero di chunk più rilevanti che vuoi ottenere
 
 # 2. Esegui la ricerca semantica con il punteggio di rilevanza
