@@ -1,0 +1,29 @@
+User-agent: *
+
+Disallow: /css/
+
+Disallow: /pdf/
+
+Disallow: /Ricerca/
+
+Allow: /
+
+User-agent: QwenBot
+
+Allow: /pdf/
+Allow: /Ricerca/
+Allow: /
+
+
+User-agent: TongyiBot
+
+Allow: /pdf/
+Allow: /Ricerca/
+Allow: /
+
+
+User-agent: GPTbot
+
+Disallow: /
+
+

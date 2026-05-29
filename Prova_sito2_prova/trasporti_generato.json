@@ -1,0 +1,40 @@
+{
+    "servizio": "Servizio Urbano UDINE",
+    "orario_dal": "2025-09-11",
+    "linee": [
+        {
+            "n": "1",
+            "a": {
+                "p": "Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Gervasutta",
+                "f": [
+                    {
+                        "c": "UD159",
+                        "n": "UDINE via Chiusaforte (parcheggio scambiatore)",
+                        "ci": "UDINE",
+                        "v": "via Chiusaforte (parcheggio scambiatore)",
+                        "o": [
+                            "06:10",
+                            "06:25",
+                            "06:36",
+                            "06:54",
+                            "07:05"
+                        ]
+                    },
+                    {
+                        "c": "UD188",
+                        "n": "UDINE via Colugna (fronte civico 63)",
+                        "ci": "UDINE",
+                        "v": "via Colugna (fronte civico 63)",
+                        "o": [
+                            "06:10",
+                            "06:25",
+                            "06:36",
+                            "06:54",
+                            "07:05"
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
