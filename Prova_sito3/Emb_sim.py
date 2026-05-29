@@ -8,7 +8,7 @@ from langchain_core.documents import Document
 # ==========================================
 # CONFIGURAZIONE SWITCH MODELLO
 # ==========================================
-MODELLO_SCELTO = "mxbai-embed-large:latest" 
+MODELLO_SCELTO = "nomic-embed-text:latest" 
 print(f"🔄 Modello di embedding attivo: {MODELLO_SCELTO}")
 
 MODELLO_SAFE_NAME = MODELLO_SCELTO.replace(":", "-")
@@ -101,3 +101,19 @@ vector_db = Chroma.from_documents(
 )
 
 print(f"✅ Database vettoriale aggiornato con successo in: {PERSIST_DIR}")
+
+
+# ricerca semantica per i primi K chunks più rilevanti
+
+# 1. Definisci la query di testo che l'utente sta cercando
+query = "Come posso configurare il database?"
+k = 3  # Il numero di chunk più rilevanti che vuoi ottenere
+
+# 2. Esegui la ricerca semantica con il punteggio di rilevanza
+risultati = vector_db.similarity_search_with_relevance_scores(query, k=k)
+
+# 3. Cicla sui risultati (ogni elemento è una tupla: (Documento, Punteggio))
+for i, (doc, score) in enumerate(risultati, 1):
+    print(f"--- Chunk #{i} (Score di Similarità: {score:.4f}) ---")
+    print(doc.page_content)
+    print(f"Metadati: {doc.metadata}\n")

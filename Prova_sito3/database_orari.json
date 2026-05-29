@@ -1,0 +1,21 @@
+{
+  "info": "Database TPL FVG diviso per tipologia di mezzo, fermate ed orari",
+  "autobus": [
+    {
+      "tipo": "autobus",
+      "numero_univoco_mezzo": "Sconosciuto",
+      "direzione": "Sconosciuta",
+      "tabelle_orari": [
+        {
+          "fermata": "Dati Grezzi",
+          "orari": [
+            "Carnia\nOrario valido \ndal 25 maggio 2026\nSERVIZIO \nEXTRAURBANO\nTolmezzo-Udine (via autostrada)\nTolmezzo - autostazione-ospedale-autostazione\nTolmezzo autostazione-collegio Don Bosco\nTolmezzo - Giro Zo"
+          ]
+        }
+      ],
+      "file_nome": "CARNIA_orario_valido_dal_25_maggio_2026.pdf",
+      "md5": "9aac321e7edf87c2e1042301dac32f86"
+    }
+  ],
+  "treni": []
+}
