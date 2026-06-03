@@ -1,0 +1,388 @@
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [13748] using WatchFiles
+INFO:     Started server process [3896]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend\api_server.py'. Reloading...
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [19212] using WatchFiles
+INFO:     Started server process [15744]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend\services\rag_service.py', 'backend\api_server.py'. Reloading...
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [15816] using WatchFiles
+INFO:     Started server process [14700]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [17940] using WatchFiles
+INFO:     Started server process [496]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend\services\rag_service.py'. Reloading...
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [8648] using WatchFiles
+INFO:     Started server process [17104]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend\services\rag_service.py'. Reloading...
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [6868] using WatchFiles
+INFO:     Started server process [15696]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [18580] using WatchFiles
+INFO:     Started server process [1264]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'scripts\test_api_chat.py'. Reloading...
+WARNING:  WatchFiles detected changes in 'scripts\test_api_chat.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1264]
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+ERROR:    [WinError 10013] Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso
+INFO:     Will watch for changes in these directories: ['E:\\PCTO']
+
+Aborted!
+INFO:     Started server process [17744]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 10048] error while attempting to bind on address ('127.0.0.1', 8000): [winerror 10048] di norma è consentito un solo utilizzo di ogni indirizzo di socket (protocollo/indirizzo di rete/porta)
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [20568]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 10048] error while attempting to bind on address ('127.0.0.1', 8000): [winerror 10048] di norma è consentito un solo utilizzo di ogni indirizzo di socket (protocollo/indirizzo di rete/porta)
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [12960]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 10048] error while attempting to bind on address ('127.0.0.1', 8000): [winerror 10048] di norma è consentito un solo utilizzo di ogni indirizzo di socket (protocollo/indirizzo di rete/porta)
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [9624]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [9436]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [8904]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [16712]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [16448]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [16216]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [15676]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Started server process [6228]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [10200]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [3664]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [14448]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [10548]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 10048] error while attempting to bind on address ('127.0.0.1', 8000): [winerror 10048] di norma è consentito un solo utilizzo di ogni indirizzo di socket (protocollo/indirizzo di rete/porta)
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+Traceback (most recent call last):
+  File "E:\PCTO\backend\services\rag_service.py", line 633, in generate_travel_response
+    llm = ChatOllama(model=model_name, temperature=0.2, top_p=0.8)
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PCTO\backend\services\rag_service.py", line 588, in _rule_based
+    o_str = '  '.join(orari[:10]) if orari else '—'
+    
+NameError: name '_ns' is not defined
+INFO:     Started server process [19508]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 10048] error while attempting to bind on address ('127.0.0.1', 8000): [winerror 10048] di norma è consentito un solo utilizzo di ogni indirizzo di socket (protocollo/indirizzo di rete/porta)
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [7564]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [6132]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 10048] error while attempting to bind on address ('127.0.0.1', 8000): [winerror 10048] di norma è consentito un solo utilizzo di ogni indirizzo di socket (protocollo/indirizzo di rete/porta)
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [4232]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 10048] error while attempting to bind on address ('127.0.0.1', 8000): [winerror 10048] di norma è consentito un solo utilizzo di ogni indirizzo di socket (protocollo/indirizzo di rete/porta)
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [12912]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 10048] error while attempting to bind on address ('127.0.0.1', 8000): [winerror 10048] di norma è consentito un solo utilizzo di ogni indirizzo di socket (protocollo/indirizzo di rete/porta)
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [20548]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [2520]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [16288]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [19016]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 148, in _get_module_details
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "E:\PCTO\venv\Lib\site-packages\uvicorn\__init__.py", line 2, in <module>
+    from uvicorn.main import Server, main, run
+  File "E:\PCTO\venv\Lib\site-packages\uvicorn\main.py", line 32, in <module>
+    from uvicorn.supervisors import ChangeReload, Multiprocess
+  File "E:\PCTO\venv\Lib\site-packages\uvicorn\supervisors\__init__.py", line 12, in <module>
+    from uvicorn.supervisors.watchfilesreload import WatchFilesReload as ChangeReload
+  File "E:\PCTO\venv\Lib\site-packages\uvicorn\supervisors\watchfilesreload.py", line 7, in <module>
+    from watchfiles import watch
+  File "E:\PCTO\venv\Lib\site-packages\watchfiles\__init__.py", line 2, in <module>
+    from .main import Change, awatch, watch
+  File "E:\PCTO\venv\Lib\site-packages\watchfiles\main.py", line 10, in <module>
+    import anyio
+  File "E:\PCTO\venv\Lib\site-packages\anyio\__init__.py", line 26, in <module>
+    from ._core._fileio import AsyncFile as AsyncFile
+  File "E:\PCTO\venv\Lib\site-packages\anyio\_core\_fileio.py", line 27, in <module>
+    from .. import to_thread
+  File "E:\PCTO\venv\Lib\site-packages\anyio\to_thread.py", line 14, in <module>
+    from .abc import CapacityLimiter
+  File "E:\PCTO\venv\Lib\site-packages\anyio\abc\__init__.py", line 43, in <module>
+    from .._core._synchronization import (
+    ...<5 lines>...
+    )
+  File "E:\PCTO\venv\Lib\site-packages\anyio\_core\_synchronization.py", line 13, in <module>
+    from ._tasks import CancelScope
+  File "<frozen importlib._bootstrap>", line 1368, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 421, in __enter__
+  File "<frozen importlib._bootstrap>", line 311, in acquire
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+KeyboardInterrupt
+^C
+INFO:     Started server process [23340]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [23272]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Started server process [9808]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [13524]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [10292]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [7312]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [16800]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [18872]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [16548]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [7064]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [13964]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [14388]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+"RAG_LLM_MODEL" non Š riconosciuto come comando interno o esterno,
+ un programma eseguibile o un file batch.
+INFO:     Started server process [17664]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [16724]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [12832]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [9132]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [8108]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [18580]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [4872]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [9816]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [5640]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [6436]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [14476]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+^C
+
+Aborted!
+INFO:     Started server process [16472]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [10284]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [19316]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [10356]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [6536]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [7760]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)

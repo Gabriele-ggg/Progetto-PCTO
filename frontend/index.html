@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EduGuide AI</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;800&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0b0f1a;--surface:#131929;--surface2:#1c2540;--border:#263050;--accent:#3d7fff;--accent2:#00d4aa;--text:#e8edf8;--muted:#6b7fa3;--radius:12px}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:'Syne',sans-serif;min-height:100vh;display:flex;flex-direction:column}
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:12px 18px;display:flex;align-items:center;gap:12px}
+.logo-main{font-size:18px;font-weight:800;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.logo-sub{font-size:12px;color:var(--muted);margin-top:2px}
+.pill{margin-left:auto;background:var(--surface2);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:12px;color:var(--muted);font-family:'DM Mono',monospace}
+.topbar{background:var(--surface);border-bottom:1px solid var(--border);padding:10px 18px;display:flex;align-items:center;gap:12px;position:relative}
+.topbar .status{color:var(--muted);font-size:13px}
+.topbar input{padding:6px 10px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text)}
+.container{display:flex;flex-direction:column;flex:1;overflow:hidden;height:calc(100vh - 96px)}
+.chat-area{flex:1;display:flex;flex-direction:column;overflow:hidden}
+/* Sidebar a sinistra per cronologia utente */
+.sidebar{width:260px;background:var(--surface);border-right:1px solid var(--border);display:flex;flex-direction:column}
+/* quando il contenitore è in row, la chat riempie lo spazio rimanente */
+.container.row{flex-direction:row}
+#messages{flex:1;overflow-y:auto;padding:20px;display:flex;flex-direction:column;gap:14px}
+.bubble{padding:12px 16px;border-radius:12px;white-space:pre-wrap}
+.msg.user{align-self:flex-end}
+.msg.ai{align-self:flex-start}
+.msg.user .bubble{background:#18305a;border:1px solid #213b6f}
+.msg.ai .bubble{background:var(--surface2);border:1px solid var(--border);font-family:'DM Mono',monospace}
+.msg-container{position:relative;display:flex;align-items:flex-start;gap:8px}
+.msg-menu-btn{background:transparent;border:none;color:var(--muted);cursor:pointer;font-size:18px;padding:0;width:24px;height:24px;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity 0.2s}
+.msg:hover .msg-menu-btn{opacity:1}
+.msg-menu{position:absolute;top:0;right:0;background:var(--surface2);border:1px solid var(--border);border-radius:6px;box-shadow:0 4px 12px rgba(0,0,0,0.3);z-index:100;min-width:140px;overflow:hidden}
+.msg-menu-item{display:block;width:100%;text-align:left;padding:8px 12px;border:none;background:transparent;color:var(--text);cursor:pointer;font-size:12px;transition:background 0.2s}
+.msg-menu-item:hover{background:var(--border)}
+.input-row{padding:12px 18px;background:var(--surface);border-top:1px solid var(--border);display:flex;gap:10px;flex-shrink:0;position:sticky;bottom:0;z-index:10}
+#user-input{flex:1;padding:10px;border-radius:10px;border:1px solid var(--border);background:var(--surface2);color:var(--text);min-height:48px;resize:vertical;max-height:120px}
+#send-btn{background:var(--accent);border:none;color:#fff;padding:10px 16px;border-radius:10px;cursor:pointer;flex-shrink:0}
+/* typing indicator */
+.typing{display:flex;gap:6px;align-items:flex-end}
+.typing .dot{width:8px;height:8px;border-radius:50%;background:rebeccapurple;display:inline-block;animation:bounce 900ms infinite ease-in-out}
+.typing .dot:nth-child(1){animation-delay:0ms}
+.typing .dot:nth-child(2){animation-delay:150ms}
+.typing .dot:nth-child(3){animation-delay:300ms}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.ai-meta{font-size:12px;color:var(--muted);margin-top:8px}
+.msg-meta{font-size:11px;color:var(--muted);margin-top:6px}
+.msg.user .msg-meta{text-align:right}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <div class="logo-main">EduGuide AI</div>
+    <div class="logo-sub">Assistente educativo</div>
+  </div>
+  <div class="pill" id="model-pill">—</div>
+</header>
+
+<div class="topbar">
+  <div class="status">Stato servizio: <span id="status-box">caricamento…</span></div>
+  <div id="user-display" style="position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);color:var(--text);font-weight:600;display:none">Ciao, <span id="display-name"></span></div>
+</div>
+
+<!-- Authentication modal -->
+<div id="auth-modal" style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999">
+  <div style="background:var(--surface);border:1px solid var(--border);padding:22px;border-radius:14px;min-width:320px;max-width:520px;color:var(--text)">
+    <h2 style="margin-bottom:8px">Accedi</h2>
+    <p style="color:var(--muted);margin-bottom:12px">Inserisci il tuo nome (obbligatorio). Il cognome è opzionale.</p>
+    <div style="display:flex;gap:8px;margin-bottom:12px">
+      <input id="auth-first" placeholder="Nome (obbligatorio)" style="flex:1;padding:8px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text)" />
+      <input id="auth-last" placeholder="Cognome (opzionale)" style="flex:1;padding:8px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text)" />
+    </div>
+    <div style="display:flex;gap:8px;justify-content:flex-end">
+      <button id="auth-cancel" style="padding:8px 12px;border-radius:8px;background:transparent;border:1px solid var(--border);color:var(--muted)">Esci</button>
+      <button id="auth-submit" style="padding:8px 12px;border-radius:8px;background:var(--accent);border:none;color:#fff">Accedi</button>
+    </div>
+  </div>
+</div>
+
+<div class="container row">
+  <div class="sidebar" id="sidebar">
+    <div style="padding:12px;border-bottom:1px solid var(--border);">
+      <strong>La tua cronologia</strong>
+      <div style="font-size:12px;color:var(--muted);">Conversazioni salvate per utente</div>
+    </div>
+    
+    <div id="history-list" style="overflow:auto;padding:8px;max-height:calc(100vh - 180px)"></div>
+    <div style="padding:10px;border-top:1px solid var(--border);display:flex;gap:8px">
+      <button id="clear-history" style="flex:1;padding:8px;border-radius:8px;background:transparent;border:1px solid var(--border);color:var(--muted)">Cancella</button>
+      <button id="export-history" style="flex:1;padding:8px;border-radius:8px;background:var(--accent);border:none;color:#fff">Esporta</button>
+    </div>
+  </div>
+  <div class="chat-area">
+    <div id="messages">
+      <div style="text-align:center;color:var(--muted);margin-top:40px">
+        <h3 style="font-weight:800">Ciao! Chiedimi orari, fermate e linee.</h3>
+        <p style="max-width:680px;margin:10px auto;color:var(--muted)">Usa il campo in basso per inviare domande. Puoi identificarti per tracciare la telemetria.</p>
+      </div>
+    </div>
+    <div class="input-row">
+      <textarea id="user-input" placeholder="Scrivi la tua domanda…"></textarea>
+      <button id="send-btn">Invia</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const statusBox = document.getElementById('status-box');
+const messages = document.getElementById('messages');
+const userInput = document.getElementById('user-input');
+const sendBtn = document.getElementById('send-btn');
+let currentUser = localStorage.getItem('tpl_user') || '';
+let currentSession = localStorage.getItem('tpl_session') || '';
+function _genSessionId(){ return 's_'+Math.random().toString(36).slice(2,10)+'_'+Date.now().toString(36) }
+if(!currentSession){ currentSession = _genSessionId(); localStorage.setItem('tpl_session', currentSession) }
+
+// Auth modal elements
+const authModal = document.getElementById('auth-modal');
+const authFirst = document.getElementById('auth-first');
+const authLast = document.getElementById('auth-last');
+const authSubmit = document.getElementById('auth-submit');
+const authCancel = document.getElementById('auth-cancel');
+
+function lockUI(){ sendBtn.disabled = true; userInput.disabled = true; userInput.placeholder = 'Devi autenticarti per usare il servizio.' }
+function unlockUI(){ sendBtn.disabled = false; userInput.disabled = false; userInput.placeholder = 'Scrivi la tua domanda…' }
+
+function showAuth(){ authModal.style.display='flex'; authFirst.focus(); lockUI(); }
+function hideAuth(){ authModal.style.display='none'; unlockUI(); }
+
+// Mostra modal se non siamo identificati
+if(!currentUser){ showAuth(); } else { unlockUI(); }
+// mostra nome nella topbar se presente
+const userDisplay = document.getElementById('user-display');
+const displayName = document.getElementById('display-name');
+function refreshUserDisplay(){ if(currentUser){ userDisplay.style.display='block'; displayName.textContent = currentUser; } else { userDisplay.style.display='none'; displayName.textContent=''; } }
+refreshUserDisplay();
+
+// --- Gestione cronologia per utente (localStorage) - Basato su SESSIONI ---
+const historyListEl = document.getElementById('history-list');
+currentSession = currentSession || null;  // ID della sessione corrente
+
+function _sessionsKeyForUser(user){ return `tpl_sessions_${user.replace(/\s+/g,'_')}` }
+
+function loadUserSessions(user){
+  try{ const raw = localStorage.getItem(_sessionsKeyForUser(user)) || '[]'; return JSON.parse(raw);}catch(e){return []}
+}
+
+function saveUserSessions(user, sessions){ 
+  try{ localStorage.setItem(_sessionsKeyForUser(user), JSON.stringify(sessions||[])); }catch(e){}
+}
+
+function createNewSession(firstQuestion) {
+  const sessionId = `session_${Date.now()}`;
+  const session = {
+    id: sessionId,
+    title: firstQuestion.substring(0, 80),
+    created: new Date().toISOString(),
+    messages: []
+  };
+  currentSession = sessionId;
+  return session;
+}
+
+function addMessageToSession(sessions, sessionId, role, text, latencyMs) {
+  const session = sessions.find(s => s.id === sessionId);
+  if(!session) return;
+  session.messages.push({
+    role: role,
+    text: text,
+    ts: new Date().toISOString(),
+    latency_ms: latencyMs || null
+  });
+}
+
+function renderHistory(){
+  if(!historyListEl) return;
+  historyListEl.innerHTML = '';
+  if(!currentUser){ historyListEl.innerHTML = '<div style="padding:12px;color:var(--muted)">Accedi per vedere la cronologia.</div>'; return }
+  const sessions = loadUserSessions(currentUser) || [];
+  if(!sessions.length){ historyListEl.innerHTML = '<div style="padding:12px;color:var(--muted)">Nessuna conversazione salvata.</div>'; return }
+  sessions.slice().reverse().forEach(session=>{
+    const d = document.createElement('div'); d.style.padding='8px'; d.style.borderBottom='1px dashed var(--border)'; d.style.cursor='pointer';
+    const q = document.createElement('div'); q.textContent = session.title; q.style.fontSize='13px'; q.style.fontWeight='600';
+    const t = document.createElement('div'); t.textContent = new Date(session.created).toLocaleString(); t.style.fontSize='11px'; t.style.color='var(--muted)';
+    const cnt = document.createElement('div'); cnt.textContent = `${session.messages.length} messaggi`; cnt.style.fontSize='11px'; cnt.style.color='var(--muted)';
+    d.appendChild(q); d.appendChild(t); d.appendChild(cnt);
+    d.addEventListener('click', ()=>{ 
+      currentSession = session.id;
+      // Ricaricare la conversazione
+      messages.innerHTML = '';
+      session.messages.forEach(msg => {
+        const metaText = msg.role === 'ai' && msg.latency_ms ? `Tempo modello: ${formatDurationMs(msg.latency_ms)}` : null;
+        append(msg.role, msg.text, metaText);
+      });
+    });
+    historyListEl.appendChild(d);
+  });
+}
+document.getElementById('clear-history')?.addEventListener('click', ()=>{
+  if(!currentUser) return alert('Accedi per cancellare la cronologia');
+  if(!confirm('Cancella tutta la cronologia per l\'utente '+currentUser+'?')) return;
+  saveUserSessions(currentUser, []); currentSession = null; renderHistory();
+});
+document.getElementById('export-history')?.addEventListener('click', ()=>{
+  if(!currentUser) return alert('Accedi per esportare la cronologia');
+  const sessions = loadUserSessions(currentUser)||[]; const txt = JSON.stringify(sessions, null, 2);
+  const blob = new Blob([txt], {type:'application/json'}); const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); a.href = url; a.download = `sessions_${currentUser.replace(/\s+/g,'_')}.json`; a.click(); URL.revokeObjectURL(url);
+});
+renderHistory();
+
+async function loadStatus(){
+  try{
+    const r = await fetch('http://127.0.0.1:8001/api/status');
+    const j = await r.json();
+    statusBox.textContent = j.status || 'offline';
+    const modelPill = document.getElementById('model-pill');
+    if(modelPill && j.model){ modelPill.textContent = j.model }
+  }catch(e){statusBox.textContent='offline'}
+}
+loadStatus();
+setInterval(loadStatus, 5000);
+
+
+function append(role, text, metaText){
+  const d = document.createElement('div'); d.className = 'msg '+(role==='user'?'user':'ai');
+  
+  // Contenitore per messaggio + menu
+  const msgContainer = document.createElement('div'); msgContainer.className = 'msg-container';
+  
+  // Bubble
+  const b = document.createElement('div'); b.className='bubble'; b.textContent = text;
+  msgContainer.appendChild(b);
+  
+  // Pulsante menu a tre puntini
+  const menuBtn = document.createElement('button'); menuBtn.className = 'msg-menu-btn'; menuBtn.textContent = '⋯';
+  
+  // Menu nascosto
+  const menu = document.createElement('div'); menu.className = 'msg-menu'; menu.style.display = 'none';
+  
+  // Opzione Elimina
+  const deleteItem = document.createElement('button'); deleteItem.className = 'msg-menu-item'; deleteItem.textContent = 'Elimina';
+  deleteItem.addEventListener('click', () => {
+    if(confirm('Eliminare questo messaggio?')) {
+      d.remove();
+      menu.style.display = 'none';
+      // Aggiorna la sessione se necessario
+      if(currentUser && currentSession) {
+        const sessions = loadUserSessions(currentUser) || [];
+        const session = sessions.find(s => s.id === currentSession);
+        if(session) {
+          // Rimuovi il messaggio trovando l'indice dal testo
+          const msgIndex = session.messages.findIndex(m => m.text === text);
+          if(msgIndex !== -1) {
+            session.messages.splice(msgIndex, 1);
+            saveUserSessions(currentUser, sessions);
+          }
+        }
+      }
+    }
+  });
+  menu.appendChild(deleteItem);
+  
+  // Opzione Esporta messaggio
+  const exportItem = document.createElement('button'); exportItem.className = 'msg-menu-item'; exportItem.textContent = 'Esporta';
+  exportItem.addEventListener('click', () => {
+    const data = {role, text, metaText, timestamp: new Date().toISOString()};
+    const json = JSON.stringify(data, null, 2);
+    const blob = new Blob([json], {type:'application/json'});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `message_${Date.now()}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+    menu.style.display = 'none';
+  });
+  menu.appendChild(exportItem);
+  
+  menuBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    // Chiudi altri menu aperti
+    document.querySelectorAll('.msg-menu').forEach(m => m.style.display = 'none');
+    menu.style.display = menu.style.display === 'none' ? 'block' : 'none';
+  });
+  
+  // Chiudi menu quando clicchi altrove
+  document.addEventListener('click', (e) => {
+    if(!msgContainer.contains(e.target)) {
+      menu.style.display = 'none';
+    }
+  });
+  
+  msgContainer.appendChild(menuBtn);
+  msgContainer.appendChild(menu);
+  
+  d.appendChild(msgContainer);
+  
+  if(metaText){
+    const meta = document.createElement('div'); meta.className = 'msg-meta'; meta.textContent = metaText;
+    d.appendChild(meta);
+  }
+  
+  messages.appendChild(d);
+  
+  // Autoscroll smooth verso il basso
+  setTimeout(() => {
+    messages.scrollTo({top: messages.scrollHeight, behavior: 'smooth'});
+  }, 0);
+}
+
+function formatDurationMs(ms){
+  if(ms === null || typeof ms === 'undefined') return 'n/d';
+  const totalSeconds = Number(ms) / 1000;
+  if(Number.isNaN(totalSeconds)) return 'n/d';
+  if(totalSeconds < 60){
+    return `${totalSeconds.toFixed(2)} s`;
+  }
+  let s = Math.floor(totalSeconds);
+  const days = Math.floor(s / 86400);
+  s = s % 86400;
+  const hours = Math.floor(s / 3600);
+  s = s % 3600;
+  const minutes = Math.floor(s / 60);
+  const seconds = s % 60;
+  const parts = [];
+  if(days) parts.push(`${days}d`);
+  if(hours) parts.push(`${hours}h`);
+  if(minutes) parts.push(`${minutes}m`);
+  if(seconds) parts.push(`${seconds}s`);
+  return parts.join(' ');
+}
+
+async function sendQuestion(){
+  const q = (userInput.value||'').trim(); if(!q) return;
+  const sentTs = new Date();
+  const sentStr = sentTs.toLocaleTimeString([], {hour: '2-digit', minute: '2-digit'});
+  append('user', q, `Inviato: ${sentStr}`);
+  userInput.value='';
+
+  // Creare una nuova sessione se non esiste una corrente
+  if(!currentSession && currentUser) {
+    const newSession = createNewSession(q);
+    const sessions = loadUserSessions(currentUser) || [];
+    sessions.push(newSession);
+    saveUserSessions(currentUser, sessions);
+  }
+
+  // send telemetry: question
+  try{ await fetch('http://127.0.0.1:8001/api/telemetry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({user: currentUser||'anonimo', session: currentSession, event:'question', detail:q, timestamp: sentTs.toISOString()})}); }catch(e){}
+
+  // create AI typing bubble with animated purple dots
+  const aiDiv = document.createElement('div'); aiDiv.className = 'msg ai';
+  const b = document.createElement('div'); b.className = 'bubble';
+  const typing = document.createElement('div'); typing.className = 'typing';
+  for(let i=0;i<3;i++){ const dot = document.createElement('span'); dot.className='dot'; typing.appendChild(dot); }
+  b.appendChild(typing);
+  aiDiv.appendChild(b);
+  messages.appendChild(aiDiv); messages.scrollTop = messages.scrollHeight;
+  const bubble = b;
+  
+  let responseLatency = null;
+  try{
+    const resp = await fetch('http://127.0.0.1:8001/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:q})});
+    if(!resp.ok){bubble.textContent = '[Errore HTTP '+resp.status+']'; return}
+    const j = await resp.json();
+    // replace typing with actual text
+    bubble.textContent = j.response || '[Risposta incompleta]';
+    responseLatency = j.latency_ms;
+    // append latency meta below bubble (formatted)
+    try{
+      const formatted = formatDurationMs(j.latency_ms);
+      const metaParts = [`Tempo modello: ${formatted}`];
+      
+      if(j.tokens !== undefined && j.tokens !== null && j.tokens > 0) {
+        metaParts.push(`Token: ${j.tokens}`);
+      }
+      
+      if(j.tokens_per_second !== undefined && j.tokens_per_second !== null && j.tokens_per_second > 0) {
+        const tpsFormatted = typeof j.tokens_per_second === 'number' 
+          ? j.tokens_per_second.toFixed(1) 
+          : j.tokens_per_second;
+        metaParts.push(`Token/s: ${tpsFormatted}`);
+      }
+      
+      const meta = document.createElement('div'); 
+      meta.className='ai-meta'; 
+      meta.textContent = metaParts.join(' • ');
+      aiDiv.appendChild(meta);
+    }catch(e){console.error('Errore formattazione meta:', e)}
+    
+    // Salva messaggio e risposta nella sessione
+    if(currentUser && currentSession) {
+      const sessions = loadUserSessions(currentUser) || [];
+      // Aggiungi messaggio utente
+      addMessageToSession(sessions, currentSession, 'user', q, null);
+      // Aggiungi messaggio AI
+      addMessageToSession(sessions, currentSession, 'ai', j.response || '[Risposta incompleta]', responseLatency);
+      // Limita a 50 sessioni per utente
+      if(sessions.length > 50) sessions.splice(0, sessions.length - 50);
+      saveUserSessions(currentUser, sessions);
+      renderHistory();
+      // Assicura che la vista sia posizionata in fondo dopo il caricamento della cronologia
+      try{ messages.scrollTo({ top: messages.scrollHeight }); }catch(e){ messages.scrollTop = messages.scrollHeight; }
+    }
+  }catch(e){bubble.textContent = '[Errore di connessione]'}
+}
+
+sendBtn.addEventListener('click', sendQuestion);
+userInput.addEventListener('keydown', e=>{ if(e.key==='Enter'&&!e.shiftKey){ e.preventDefault(); sendQuestion(); } });
+
+// Auth modal handlers
+authSubmit.addEventListener('click', async ()=>{
+  const first = (authFirst.value||'').trim();
+  const last = (authLast.value||'').trim();
+  // validation for simple name format (letters, spaces, accents, hyphen, apostrophe)
+  function validName(n){ return /^[A-Za-zÀ-ÖØ-öø-ÿ\s'\-]+$/.test(n); }
+  if(!first){ alert('Il nome è obbligatorio'); authFirst.focus(); return }
+  if(!validName(first) || (last && !validName(last))){ alert('Nome non valido: usa solo lettere, spazi, apostrofi e trattini.'); return }
+  currentUser = last ? `${first} ${last}` : first;
+  localStorage.setItem('tpl_user', currentUser);
+  refreshUserDisplay();
+  // Inizializza una nuova sessione vuota per questo login
+  currentSession = null;
+  renderHistory();
+  try{ await fetch('http://127.0.0.1:8001/api/telemetry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({user:currentUser, session: currentSession, event:'login',detail:'web:modal'})}); }catch(e){}
+  hideAuth();
+});
+
+authCancel.addEventListener('click', ()=>{
+  if(!currentUser){ alert('Devi autenticarti per usare il servizio'); authFirst.focus(); return }
+  hideAuth();
+});
+</script>
+</body>
+</html>

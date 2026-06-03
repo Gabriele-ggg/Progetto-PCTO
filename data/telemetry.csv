@@ -1,0 +1,46 @@
+2026-06-03T09:25:43.188798|u1|s1|login|testcsv|5|m
+2026-06-03T09:30:33.849060|g|None|login|web:modal||
+2026-06-03T09:30:38.972083|d|None|login|web:modal||
+2026-06-03T09:30:46.366560|d|session_1780471846364|question|ciao, come stai?||
+2026-06-03T09:31:40.852468|d|session_1780471846364|question|cosa puoi fare?||
+2026-06-03T09:35:29.834590|g|None|login|web:modal||
+2026-06-03T09:48:50.157675|d|None|login|web:modal||
+2026-06-03T09:49:15.100666|d|session_1780472955098|question|ciao, come stai?||
+2026-06-03T09:49:53.116216|d|session_1780472955098|question|orari linea 100||
+2026-06-03T09:55:52.021043|g|None|login|web:modal||
+2026-06-03T09:56:01.031884|g|session_1780471056588|question|come stai?||
+2026-06-03T09:56:07.400254|g|session_1780471056588|question|linee disponibili||
+2026-06-03T09:58:08.009322|g|None|login|web:modal||
+2026-06-03T09:58:20.087399|g|session_1780471056588|question|come stai?||
+2026-06-03T10:03:50.533226|g|None|login|web:modal||
+2026-06-03T10:04:06.104080|d|None|login|web:modal||
+2026-06-03T10:04:46.044738|g|session_1780471056588|question|ciao come stai?||
+2026-06-03T10:15:36.950117|g|None|login|web:modal||
+2026-06-03T10:15:44.033148|g|session_1780471056588|question|come stai?||
+2026-06-03T10:20:37.625977|g|None|login|web:modal||
+2026-06-03T10:20:49.451058|g|session_1780471056588|question|come stai?||
+2026-06-03T10:31:10.231456|g|None|login|web:modal||
+2026-06-03T10:31:16.288479|g|session_1780475476285|question|come stai?||
+2026-06-03T10:33:10.565759|g|session_1780475476285|question|come posso arrivare a cividale partendo da udine?||
+2026-06-03T10:33:29.485044|g|session_1780475476285|question|e se devo arrivare a gemona?||
+2026-06-03T10:33:36.613618|g|session_1780475476285|question|a gemona del friuli?||
+2026-06-03T10:33:48.646586|g|session_1780475476285|question|come posso arrivare a gemona partendo da udine?||
+2026-06-03T10:34:43.957119|g|session_1780475476285|question|dimmi l'itinerario della linea 150||
+2026-06-03T10:37:53.023201|g|None|login|web:modal||
+2026-06-03T10:38:18.652833|g|session_1780475476285|question|come stai?||
+2026-06-03T10:41:47.750209|g|None|login|web:modal||
+2026-06-03T10:41:52.593730|g|session_1780475476285|question|come stai||
+2026-06-03T10:43:39.792641|g|None|login|web:modal||
+2026-06-03T10:43:45.465552|g|session_1780475476285|question|come stai?||
+2026-06-03T10:55:19.591314|g|None|login|web:modal||
+2026-06-03T10:55:22.763603|g|session_1780476922760|question|come stai?||
+2026-06-03T11:30:20.009264|g|None|login|web:modal||
+2026-06-03T11:30:28.320165|g|session_1780479028317|question|come stai?||
+2026-06-03T11:41:57.061146|marco|None|login|web:modal||
+2026-06-03T11:42:08.657041|marco|session_1780479728654|question|come posso arrivare a cividale partendo da udine?||
+2026-06-03T11:51:06.043125|Test User|None|login|web:modal||
+2026-06-03T11:51:47.911589|Test User|s_jcwkyuyn_mpxu0nkw|question|Quali sono le linee urbane di Udine?||
+2026-06-03T11:52:31.758930|Test User|s_jcwkyuyn_mpxu0nkw|question|Come funziona il trasporto pubblico?||
+2026-06-03T11:55:43.637654|Test User|s_jcwkyuyn_mpxu0nkw|question|Quali sono le linee urbane di Udine?||
+2026-06-03T11:56:43.303114|alex|None|login|web:modal||
+2026-06-03T11:57:02.154513|alex|session_1780480622150|question|linee urbane di udine?||

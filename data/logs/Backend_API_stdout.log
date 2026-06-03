@@ -1,0 +1,2013 @@
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+ERRORE FATALE ALL'AVVIO DEL BACKEND: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+INFO:     127.0.0.1:62398 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62399 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62400 - "POST /ask HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:62401 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:59495 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53195 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63677 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53195 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52519 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52519 - "POST /api/chat HTTP/1.1" 422 Unprocessable Content
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+ERRORE FATALE ALL'AVVIO DEL BACKEND: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] File trasporti.json generato qui: E:\PCTO\data\trasporti.json
+[OK] ChromaDB esistente trovato. Utilizzo persistenza.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:57166 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57167 - "GET /api/status HTTP/1.1" 200 OK
+[ERROR] Errore nella generazione della risposta: sequence item 0: expected str instance, list found
+INFO:     127.0.0.1:57168 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57169 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:49365 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49365 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64470 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49365 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64470 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64470 - "POST /api/chat HTTP/1.1" 422 Unprocessable Content
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] File trasporti.json generato qui: E:\PCTO\data\trasporti.json
+[OK] ChromaDB esistente trovato. Utilizzo persistenza.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] File trasporti.json generato qui: E:\PCTO\data\trasporti.json
+[OK] ChromaDB esistente trovato. Utilizzo persistenza.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:64507 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64508 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63104 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63104 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63104 - "GET /openapi.json HTTP/1.1" 200 OK
+[ERROR] Errore nella generazione della risposta: model 'mistral' not found (status code: 404)
+INFO:     127.0.0.1:64509 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63111 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:61501 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59116 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59117 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63104 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63104 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63104 - "GET /openapi.json HTTP/1.1" 200 OK
+[ERROR] Errore nella generazione della risposta: model 'mistral' not found (status code: 404)
+INFO:     127.0.0.1:59118 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59125 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:61501 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] File trasporti.json generato qui: E:\PCTO\data\trasporti.json
+[OK] ChromaDB esistente trovato. Utilizzo persistenza.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] File trasporti.json generato qui: E:\PCTO\data\trasporti.json
+[OK] ChromaDB esistente trovato. Utilizzo persistenza.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:56817 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56818 - "GET /api/status HTTP/1.1" 200 OK
+[INFO] Tentativo modello LLM: mistral
+INFO:     127.0.0.1:50060 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60253 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60253 - "GET /openapi.json HTTP/1.1" 200 OK
+[WARN] Modello mistral fallito: model 'mistral' not found (status code: 404)
+[INFO] Tentativo modello LLM: llama3:8b
+INFO:     127.0.0.1:50104 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:63061 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60175 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60175 - "POST /api/chat HTTP/1.1" 422 Unprocessable Content
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] File trasporti.json generato qui: E:\PCTO\data\trasporti.json
+[OK] ChromaDB esistente trovato. Utilizzo persistenza.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:62410 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62413 - "GET /api/status HTTP/1.1" 200 OK
+[INFO] Tentativo modello LLM: mistral
+INFO:     127.0.0.1:50725 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56755 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56755 - "GET /openapi.json HTTP/1.1" 200 OK
+[WARN] Modello mistral fallito: model 'mistral' not found (status code: 404)
+[INFO] Tentativo modello LLM: llama3:8b
+INFO:     127.0.0.1:50762 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:65408 - "GET /api/status HTTP/1.1" 200 OK
+[INFO] Tentativo modello LLM: mistral
+[WARN] Modello mistral fallito: model 'mistral' not found (status code: 404)
+[INFO] Tentativo modello LLM: llama3:8b
+INFO:     127.0.0.1:53426 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53426 - "POST /api/chat HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:54157 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60791 - "GET /api/status HTTP/1.1" 200 OK
+[INFO] Tentativo modello LLM: mistral
+INFO:     127.0.0.1:58513 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64237 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64237 - "GET /openapi.json HTTP/1.1" 200 OK
+[WARN] Modello mistral fallito: model 'mistral' not found (status code: 404)
+[INFO] Tentativo modello LLM: llama3:8b
+INFO:     127.0.0.1:58941 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:60953 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60953 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+ 
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato. Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[INFO] trasporti.json contiene 28 linee ma trovati 29 PDF; rigenerazione in corso...
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[INFO] trasporti.json contiene 28 linee ma trovati 29 PDF; rigenerazione in corso...
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[INFO] trasporti.json contiene 28 linee ma trovati 29 PDF; rigenerazione in corso...
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:52820 - "GET / HTTP/1.1" 404 Not Found
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[INFO] trasporti.json contiene 28 linee ma trovati 29 PDF; rigenerazione in corso...
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:63699 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63700 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63701 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63702 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:61026 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49726 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49726 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63288 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63124 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63124 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64923 - "POST /ask HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[INFO] trasporti.json contiene 28 linee ma trovati 29 PDF; rigenerazione in corso...
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:63818 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63819 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63820 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63821 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:64187 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60150 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60150 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60935 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60194 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60194 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49650 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49650 - "POST /api/chat HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato (177 linee). Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:61775 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61776 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61777 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61778 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:61216 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60875 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60875 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:65202 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60875 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51092 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51092 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51931 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51931 - "POST /api/chat HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato (177 linee). Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:50618 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50619 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55276 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50620 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54676 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55279 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:54676 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64983 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64983 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64983 - "POST /api/chat HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] File trasporti.json valido trovato (177 linee). Utilizzo versione esistente.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:56497 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56498 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56499 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56500 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:61584 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62442 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62442 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53556 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53556 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53556 - "POST /api/chat HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido (177 linee). Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62396 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63057 - "GET /docs HTTP/1.1" 200 OK
+CRITICAL ERROR IN /ask: 'charmap' codec can't encode character '\U0001f68c' in position 49: character maps to <undefined>
+INFO:     127.0.0.1:62397 - "POST /ask HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:60249 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63058 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:60249 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51635 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51635 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+CRITICAL ERROR IN /ask: 'charmap' codec can't encode character '\U0001f68c' in position 63: character maps to <undefined>
+INFO:     127.0.0.1:51635 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:52498 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52498 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56172 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56172 - "POST /api/chat HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido (177 linee). Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:57759 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57760 - "GET /api/status HTTP/1.1" 200 OK
+CRITICAL ERROR IN /ask: 'charmap' codec can't encode character '\U0001f68c' in position 49: character maps to <undefined>
+INFO:     127.0.0.1:60819 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57761 - "POST /ask HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:59420 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60820 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:59420 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64742 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64742 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+CRITICAL ERROR IN /ask: 'charmap' codec can't encode character '\U0001f68c' in position 63: character maps to <undefined>
+INFO:     127.0.0.1:64742 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:64742 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64742 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49154 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+CRITICAL ERROR IN /ask: 'charmap' codec can't encode character '\U0001f68c' in position 49: character maps to <undefined>
+INFO:     127.0.0.1:49154 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:60013 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60014 - "GET /api/status HTTP/1.1" 200 OK
+CRITICAL ERROR IN /ask: 'charmap' codec can't encode character '\U0001f68c' in position 49: character maps to <undefined>
+INFO:     127.0.0.1:60015 - "POST /ask HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:60016 - "POST /ask HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:61640 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61640 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61640 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50343 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55648 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+CRITICAL ERROR IN /ask: 'charmap' codec can't encode character '\U0001f68c' in position 63: character maps to <undefined>
+INFO:     127.0.0.1:55648 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:53810 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61866 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57967 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+CRITICAL ERROR IN /ask: 'charmap' codec can't encode character '\U0001f68c' in position 63: character maps to <undefined>
+INFO:     127.0.0.1:57967 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:55801 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61954 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+CRITICAL ERROR IN /ask: 'charmap' codec can't encode character '\U0001f68c' in position 63: character maps to <undefined>
+INFO:     127.0.0.1:61954 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:59675 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51929 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:53017 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+CRITICAL ERROR IN /ask: 'charmap' codec can't encode character '\U0001f68c' in position 63: character maps to <undefined>
+INFO:     127.0.0.1:53017 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:58984 - "GET /api/status HTTP/1.1" 200 OK
+[ERROR] generate_travel_response: name '_ns' is not defined
+CRITICAL ERROR IN /ask: name 'HTTPException' is not defined
+INFO:     127.0.0.1:58989 - "POST /ask HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:59004 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60566 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60566 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+CRITICAL ERROR IN /ask: 'charmap' codec can't encode character '\U0001f68c' in position 63: character maps to <undefined>
+INFO:     127.0.0.1:60566 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:50616 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54263 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54263 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54263 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54271 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62001 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62003 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62006 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62009 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62011 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62012 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62013 - "POST /api/chat HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:65423 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52937 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:52937 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52937 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52937 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52937 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52937 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52937 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52937 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52937 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61279 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64090 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52995 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:52246 - "POST /api/telemetry HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52249 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52250 - "POST /api/telemetry HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52256 - "GET /openapi.json HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:59551 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63896 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63896 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63896 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63896 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60190 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63329 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63329 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63329 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63329 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63329 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63329 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63329 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63329 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56532 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56532 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56532 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56532 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56532 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56532 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56532 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56532 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56532 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51894 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:60488 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65485 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65485 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65485 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65485 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62759 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59141 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59141 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65485 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65485 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65485 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65485 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64900 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64900 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61993 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61993 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61993 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61993 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61993 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61993 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56010 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53889 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54355 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54355 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64687 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64687 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54741 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54741 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54741 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54741 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54741 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54741 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54741 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64874 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64874 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64874 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64874 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64874 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64874 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64874 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53784 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53784 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53784 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56986 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63877 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63877 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63877 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63877 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57590 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63820 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49656 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57018 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54409 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60833 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62720 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52015 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63277 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51372 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50847 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52629 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54316 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59869 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63503 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57579 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62416 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51322 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57307 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64874 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54752 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58494 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64427 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55407 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63722 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61141 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50554 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49748 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60820 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:60901 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55235 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63635 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63635 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63635 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63635 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63635 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63635 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63635 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51149 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52717 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52717 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55479 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64347 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:58622 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65402 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65402 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60386 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60386 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60386 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60386 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60386 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60386 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60386 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60386 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50744 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50744 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:64883 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55488 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56745 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60164 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60164 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60164 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60164 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60164 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64791 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64791 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64791 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64791 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54996 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54996 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61345 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49948 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62706 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59564 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54280 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54280 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63682 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55209 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55209 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55209 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55209 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55209 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55209 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51897 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51897 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59583 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65525 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63010 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59374 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49305 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56081 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56660 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57938 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57288 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58310 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60753 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58325 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53462 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58161 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57372 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58342 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61894 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50657 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55423 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54099 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56261 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56244 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49644 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64206 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63528 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63323 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59343 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57278 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61179 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54652 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54410 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53273 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51637 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60083 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55741 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56942 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49519 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51695 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55632 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52656 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56979 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62845 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50372 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52711 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52078 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65398 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55181 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64872 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58731 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55526 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63360 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52220 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63343 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53430 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62958 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62814 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60902 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57592 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50798 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53979 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61468 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55487 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55323 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55094 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55159 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52318 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53432 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:53509 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56108 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56108 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56108 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56108 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59326 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55752 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55752 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55752 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57942 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57942 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57942 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57942 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56978 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56978 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56978 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56978 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63234 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63234 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63234 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63234 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49355 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49355 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49801 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49801 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60436 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51460 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51460 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51460 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52562 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52645 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52645 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65227 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58951 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64872 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58168 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56739 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62099 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50131 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51583 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51166 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49438 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:62727 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55022 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55022 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55022 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55022 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62357 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:63711 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63711 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53708 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63711 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53703 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53703 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53703 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53703 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57586 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:49448 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49448 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49451 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49448 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49448 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49448 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53252 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53252 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53252 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53252 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53252 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58686 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58686 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62810 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62810 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62810 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62810 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53889 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53889 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51469 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55930 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55930 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55930 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55930 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55930 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57356 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:50945 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56103 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56103 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56103 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56103 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56103 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56103 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55458 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55458 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55458 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55458 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55458 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55458 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55458 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59077 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59077 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59077 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59077 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59077 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59077 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59077 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59077 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59077 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59077 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59077 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51486 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51486 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54544 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52352 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52352 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59608 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59608 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59608 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59608 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59608 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59608 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59608 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61838 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61838 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61838 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54528 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54528 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52584 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52584 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52584 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52584 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52584 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57359 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57359 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63795 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59152 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50816 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56081 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56081 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53200 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:64291 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53176 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64291 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64291 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53173 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53173 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53173 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53173 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53173 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53173 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64794 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64794 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64794 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64794 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58000 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58000 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58000 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58000 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53322 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53322 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51388 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60646 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60646 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51376 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63443 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52877 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51008 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51008 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51008 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51008 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51008 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51008 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51008 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62015 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62015 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56623 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56623 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63343 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63343 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63343 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50921 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50921 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50921 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50921 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50921 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50921 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50921 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50921 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50921 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50921 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53222 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53222 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55039 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55039 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55039 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55039 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55039 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55039 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55039 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55039 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55039 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61726 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61726 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63507 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63507 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63507 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63507 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63507 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63507 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63424 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63424 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63424 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58519 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58519 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58519 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56619 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56619 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56619 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:64557 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61302 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61302 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64278 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64278 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50989 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49164 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49164 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49164 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49164 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56353 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56353 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56353 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56353 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56353 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56353 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56353 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56353 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56353 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56353 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65173 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:49860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57155 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57155 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57155 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57155 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57155 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57155 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60277 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60277 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57155 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57155 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57155 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57155 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57155 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52136 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52136 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52136 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52136 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52136 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52136 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52136 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52136 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56574 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:50354 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57063 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57063 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57086 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54290 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54290 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54290 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54290 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54290 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:56341 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='ciao come stai?'
+INFO:     127.0.0.1:59986 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59986 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59986 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59986 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59986 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59986 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59986 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59986 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:51077 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62848 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62848 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62848 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62848 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62848 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62848 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53476 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53476 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='come stai?'
+INFO:     127.0.0.1:62848 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62848 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62848 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54875 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[INFO] api_server import-time: set_model('rule-based')
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+[INFO] startup_event: RAG_LLM_MODEL='rule-based', modello attuale='rule-based'
+[INFO] startup_event: modello già corretto ('rule-based')
+INFO:     127.0.0.1:63388 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59079 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59079 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59079 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59079 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59079 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59079 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59079 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52645 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52645 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='come stai?'
+INFO:     127.0.0.1:59079 - "POST /api/chat HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57238 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57238 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57238 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57238 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57238 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57238 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57238 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52762 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52762 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='come stai?'
+INFO:     127.0.0.1:57238 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57238 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57238 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57238 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50962 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50962 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50962 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50962 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50962 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50962 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='come posso arrivare a cividale partendo da udine?'
+INFO:     127.0.0.1:60740 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60740 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52561 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52561 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52561 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52561 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52561 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52561 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52561 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='e se devo arrivare a gemona?'
+INFO:     127.0.0.1:60330 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60330 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60330 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60330 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60330 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60330 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='a gemona del friuli?'
+INFO:     127.0.0.1:57776 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57776 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57776 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57776 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57776 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57776 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='come posso arrivare a gemona partendo da udine?'
+INFO:     127.0.0.1:51909 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51909 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61482 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61482 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61482 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61482 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61482 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61482 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61482 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61482 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61482 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='dimmi l'itinerario della linea 150'
+INFO:     127.0.0.1:49681 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49681 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49681 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49681 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:56080 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62590 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62590 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='come stai?'
+INFO:     127.0.0.1:59743 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59743 - "GET /api/status HTTP/1.1" 200 OK
+[INFO] Modello Ollama 'phi3.5:3.8b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'phi3.5:3.8b'
+[INFO] Modello impostato: phi3.5:3.8b (provider Ollama)
+INFO:     127.0.0.1:49451 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50542 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50542 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='phi3.5:3.8b' question='come stai'
+[ERROR] /api/chat: name 'format_transport_data_for_llm' is not defined
+INFO:     127.0.0.1:57435 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57435 - "GET /api/status HTTP/1.1" 200 OK
+[INFO] Modello Ollama 'phi3.5:3.8b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'phi3.5:3.8b'
+[INFO] Modello impostato: phi3.5:3.8b (provider Ollama)
+INFO:     127.0.0.1:64453 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64456 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64453 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64453 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='phi3.5:3.8b' question='come stai?'
+[DEBUG] _call_llm: SELECTED_MODEL='phi3.5:3.8b'
+INFO:     127.0.0.1:62954 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49537 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54737 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49927 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54191 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54191 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54191 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54191 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54191 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58501 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58501 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58501 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58501 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58501 - "GET /api/status HTTP/1.1" 200 OK
+[INFO] Modello Ollama 'phi3.5:3.8b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'phi3.5:3.8b'
+[INFO] Modello impostato: phi3.5:3.8b (provider Ollama)
+INFO:     127.0.0.1:60675 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56810 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56810 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56810 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56810 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56810 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56810 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56810 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56810 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56810 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56810 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54802 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54802 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[INFO] Modello Ollama 'phi3.5:3.8b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'phi3.5:3.8b'
+[INFO] Modello impostato: phi3.5:3.8b (provider Ollama)
+INFO:     127.0.0.1:53132 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54420 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54420 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='phi3.5:3.8b' question='come stai?'
+[DEBUG] _call_llm: SELECTED_MODEL='phi3.5:3.8b'
+INFO:     127.0.0.1:53351 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54849 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54420 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58512 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62048 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50570 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54420 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50570 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62048 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58512 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54849 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62048 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58512 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50570 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54420 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54849 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62048 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50570 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54420 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58512 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54849 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62048 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54420 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58512 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50570 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54849 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58512 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62048 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54420 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50570 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54849 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58512 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62048 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58512 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64911 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64911 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54744 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54744 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53998 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53998 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53998 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53998 - "GET /api/status HTTP/1.1" 200 OK
+[INFO] Modello Ollama 'phi3.5:3.8b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'phi3.5:3.8b'
+[INFO] Modello impostato: phi3.5:3.8b (provider Ollama)
+INFO:     127.0.0.1:64149 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61306 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61306 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61306 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61306 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61306 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61306 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55550 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55550 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[INFO] Modello Ollama 'phi3.5:3.8b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'phi3.5:3.8b'
+[INFO] Modello impostato: phi3.5:3.8b (provider Ollama)
+INFO:     127.0.0.1:64293 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58239 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63298 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55716 - "GET /api/status HTTP/1.1" 200 OK
+[INFO] Modello Ollama 'phi3.5:3.8b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'phi3.5:3.8b'
+[INFO] Modello impostato: phi3.5:3.8b (provider Ollama)
+INFO:     127.0.0.1:52218 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:51410 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:64486 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:65280 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:56525 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:56084 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60886 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60886 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58223 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50001 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50001 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50001 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50001 - "GET /api/status HTTP/1.1" 200 OK
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:64560 - "GET /api/status HTTP/1.1" 200 OK
