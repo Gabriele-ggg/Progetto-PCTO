@@ -21,8 +21,8 @@ embeddings_model = OllamaEmbeddings(model=MODELLO_SCELTO)
 # CONFIGURAZIONE CHUNKING (Configura qui le grandezze)
 # ==========================================
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=900,       # Lunghezza massima di ogni pezzo (in caratteri)
-    chunk_overlap=110,     # Quanti caratteri sovrapporre tra un pezzo e l'altro
+    chunk_size=500,       # Lunghezza massima di ogni pezzo (in caratteri)
+    chunk_overlap=70,     # Quanti caratteri sovrapporre tra un pezzo e l'altro
     length_function=len,
     separators=["\n\n", "\n", " ", ""] # Prova a tagliare prima per paragrafi, poi frasi, poi parole
 )
