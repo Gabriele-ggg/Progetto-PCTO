@@ -1,0 +1,169 @@
+2026-06-01 21:06:26.530384|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:41.737283|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:42.319664|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:42.496408|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:42.803367|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:42.950546|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:43.308359|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:43.469947|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:44.162719|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:44.337614|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:47.589557|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:47.751018|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:48.124430|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 21:06:48.477676|450.21|come posso arrivare a gemona del friuli partendo d|Risposta generata con successo basandosi su documenti e contesto temporale.
+2026-06-01 22:06:37.844328|0.29|Orario linea 1|Mi dispiace, al momento non riesco a elaborare la tua domanda. Errore: sequence item 0: expected str
+2026-06-01 22:07:51.701841|986.95|Orario linea 1|Mi dispiace, al momento non riesco a elaborare la tua domanda. Errore: model 'mistral' not found (st
+2026-06-01 22:07:54.671282|936.26|Orario linea 1|Mi dispiace, al momento non riesco a elaborare la tua domanda. Errore: model 'mistral' not found (st
+2026-06-01 22:21:44.455352|48206.49|Orario linea 1|According to the service information, the available orari (timetables) for Linea 1 are:
+
+* Prime fer
+2026-06-01 22:22:13.304342|44403.78|gvgv|Non ho comprensione di "gvgv". Se cerchi informazioni sul servizio di trasporto urbano di Udine, pos
+2026-06-01 22:25:01.572517|14256.61|Orario linea 1|Secondo il servizio di trasporto urbano Udine, l'orario delle prime fermate della Linea 1 �:
+
+* 06:1
+2026-06-01 22:26:04.154955|58986.83|A che ora passa la linea 10?|Non esiste una Linea 10 nel servizio di trasporto urbano Udine. La lista delle linee disponibili �:
+
+2026-06-01 22:27:26.637337|30053.42|A che ora passa la linea 10?|Mi dispiace, ma non esiste una "linea 10" nel servizio urbano di Udine. La lista delle linee disponi
+2026-06-01 22:28:35.296921|36361.19|A che ora passa la linea 10?|Mi dispiace, ma non esiste una "Linea 10" nel servizio urbano di Udine. La lista delle linee disponi
+2026-06-01 22:28:59.259761|0.55|A che ora passa la linea 10?|Non ho capito la richiesta. Linee disponibili: 1
+2026-06-01 22:29:36.313165|0.31|A che ora passa la linea 10?|Non ho capito la richiesta. Linee disponibili: 1
+2026-06-01 22:35:34.448027|0.30|Orario linea 1|Linea 1 � Andata: Via Chiusaforte-Ospedale-Chiavris-1�Maggio-FS-Gervasutta. Prime fermate: UDINE via
+2026-06-01 22:35:37.575127|0.33|A che ora passa la linea 10?|Non ho capito la richiesta. Linee disponibili: 1
+2026-06-01 22:35:50.796129|0.33|Quali linee ci sono?|Non ho capito la richiesta. Linee disponibili: 1
+2026-06-01 22:35:56.047131|0.38|Treni disponibili?|Non ho capito la richiesta. Linee disponibili: 1
+2026-06-01 22:41:23.655554|0.39|Treni disponibili?|Non sono elencati treni nel dataset. Linee disponibili: 1
+2026-06-01 22:41:28.307424|0.68|A che ora passa la linea 1?|Linea 1 � Andata: Via Chiusaforte-Ospedale-Chiavris-1�Maggio-FS-Gervasutta. Prime fermate: UDINE via
+2026-06-01 22:42:37.017072|0.35|Orario linea 1|Linea 1 � Andata: Via Chiusaforte-Ospedale-Chiavris-1�Maggio-FS-Gervasutta. Prime fermate: UDINE via
+2026-06-01 22:42:50.079169|0.35|dimmi gli orari per la linea 1|Linea 1 � Andata: Via Chiusaforte-Ospedale-Chiavris-1�Maggio-FS-Gervasutta. Prime fermate: UDINE via
+2026-06-01 22:42:59.708094|0.48|e per il ritorno?|Non ho capito la richiesta. Linee disponibili: 1
+2026-06-01 22:49:55.654955|29.10|A che ora passa la linea 10?|Linea 10 � Andata: Servizio urbano. Prime fermate: Chiusaforte) (06:48, 11:40, 12:10, 10:10, 10:40),
+2026-06-01 22:50:00.599456|44.67|Treni disponibili?|Non sono elencati treni nel dataset. Linee disponibili: cop_82_orario_valido_dall11_settembre_2025, 
+2026-06-01 22:52:02.898815|33.77|Orario linea 1|Linea cop_82_orario_valido_dall11_settembre_2025 � Andata: Servizio urbano. Prime fermate: FS) (07:3
+2026-06-01 22:52:11.144078|26.38|A che ora passa la linea 10?|Linea 10 � Andata: Servizio urbano. Prime fermate: Chiusaforte) (06:48, 11:40, 12:10, 10:10, 10:40),
+2026-06-01 22:52:52.528725|33.26|come posso arrivare a gemona del friuli partendo d|Non ho capito la richiesta. Linee disponibili: cop_82_orario_valido_dall11_settembre_2025, H_e_T_ora
+2026-06-01 23:06:00.426092|34.80|Orario linea 1|Linea cop_82_orario_valido_dall11_settembre_2025 � Andata: Servizio urbano. Prime fermate: FS) (07:3
+2026-06-01 23:07:03.443371|33.02|A che ora passa la linea 10?|Linea 10 � Andata: Servizio urbano. Prime fermate: Chiusaforte) (06:48, 11:40, 12:10, 10:10, 10:40),
+2026-06-01 23:07:09.003980|25.95|Bus extraurbani?|Non ho capito la richiesta. Linee disponibili: cop_82_orario_valido_dall11_settembre_2025, H_e_T_ora
+2026-06-01 23:14:17.799088|28.11|Orario linea 1|Linea cop_82_orario_valido_dall11_settembre_2025 � Andata: Servizio urbano. Prime fermate: FS) (07:3
+2026-06-01 23:25:12.576782|26.11|Orario linea 1|Linea cop_82_orario_valido_dall11_settembre_2025 � Andata: Servizio urbano. Prime fermate: FS) (07:3
+2026-06-01 23:25:18.227717|26.71|Bus extraurbani?|Non ho capito la richiesta. Linee disponibili: cop_82_orario_valido_dall11_settembre_2025, H_e_T_ora
+2026-06-01 23:25:49.435262|25.03|orari linea 10|Linea 10 � Andata: Servizio urbano. Prime fermate: Chiusaforte) (06:48, 11:40, 12:10, 10:10, 10:40),
+2026-06-01 23:27:23.577836|30.86|Orario linea 1|Linea cop_82_orario_valido_dall11_settembre_2025 � Andata: Servizio urbano. Prime fermate: FS) (07:3
+2026-06-01 23:28:11.106910|26.14|Treni disponibili?|Non sono elencati treni nel dataset. Linee disponibili: cop_82_orario_valido_dall11_settembre_2025, 
+2026-06-01 23:28:27.595647|25.93|dimmi gli orari della linea 7|Linea 7 � Andata: Servizio urbano. Prime fermate: veterinario) (06:10, 09:35, 12:37, 06:11, 11:13), 
+2026-06-02 00:07:09.075028|137.09|A che ora passa la linea 10?|Linea 10 � Andata: Linea 10. Prime fermate: Linea 10 (), Orario valido (), dall�11 settembre 2025 ()
+2026-06-02 00:07:36.319280|138.14|A che ora passa la linea 10?|Linea 10 � Andata: Linea 10. Prime fermate: Linea 10 (), Orario valido (), dall�11 settembre 2025 ()
+2026-06-02 10:55:14.724560|134.58|Orario linea 1|Linea 10 � Andata: Linea 10. Prime fermate: Linea 10 (), Orario valido (), dall�11 settembre 2025 ()
+2026-06-02 10:55:23.219614|152.60|Quali linee ci sono?|Linee disponibili: 82, H, T, 10, 11, 12, 1, 2, 3, 5, 6, 7, 81, C, M, 8, 9, A, B, E, G, N, S, Z, 4, 1
+2026-06-02 10:55:50.159853|127.16|come posso arrivare a gemona del friuli partendo d|Non ho capito la richiesta. Linee disponibili: 82, H, T, 10, 11, 12, 1, 2, 3, 5
+2026-06-02 13:19:55.656529|184.85|Orario linea 1|Linea 10 � Andata: Linea 10. Prime fermate: Linea 10 (), Orario valido (), dall�11 settembre 2025 ()
+2026-06-02 13:19:58.370712|157.02|A che ora passa la linea 10?|Linea 10 � Andata: Linea 10. Prime fermate: Linea 10 (), Orario valido (), dall�11 settembre 2025 ()
+2026-06-02 13:32:44.583178|154.07|Orario linea 1|Linea 10 � Andata: Linea 10. Prime fermate: Linea 10 (), Orario valido (), dall�11 settembre 2025 ()
+2026-06-02 13:32:47.286517|161.23|A che ora passa la linea 10?|Linea 10 � Andata: Linea 10. Prime fermate: Linea 10 (), Orario valido (), dall�11 settembre 2025 ()
+2026-06-02 13:39:22.770532|132.16|d|Non ho capito la richiesta. Puoi chiedermi:
+  � �Linee disponibili�
+  � �Orari linea 10�
+  � �Fermat
+2026-06-02 13:39:30.980641|130.19|linee disponibili|Nessuna linea disponibile nel database.
+2026-06-02 13:47:13.303428|131.50|d|Non ho capito la richiesta. Puoi chiedermi:
+  � �Linee disponibili�
+  � �Orari linea 10�
+  � �Fermat
+2026-06-02 15:27:46.391292|133.48|A che ora passa la linea? 🚌🚍🛣️|Non ho capito la richiesta. Puoi chiedermi:
+  • «Linee disponibili»
+  • «Orari linea 10»
+  • «Fermat
+2026-06-02 15:30:21.347860|139.04|A che ora passa la linea? ????|Non ho capito la richiesta. Puoi chiedermi:
+  • «Linee disponibili»
+  • «Orari linea 10»
+  • «Fermat
+2026-06-02 15:39:07.517497|142.69|A che ora passa la linea 10?|🚌 Linea 10 — ANDATA: Linea 10
+
+  • Linea 10                        —
+  • Orario valido              
+2026-06-02 15:39:27.691909|142.40|A che ora passa la linea? 🚌🚍|Non ho capito la richiesta. Puoi chiedermi:
+  • «Linee disponibili»
+  • «Orari linea 10»
+  • «Fermat
+2026-06-02 15:41:45.714737|151.97|Quali linee ci sono?|Linee disponibili (177): 82, H, T, 10, 11, 12, 1, 2, 3, 5, 6, 7, 81, C, M, 8, 9, A, B, E, G, N, S, Z
+2026-06-02 15:41:45.851354|130.17|A che ora passa la linea 10? 🚌|🚌 Linea 10 — ANDATA: Linea 10
+
+  • Linea 10                        —
+  • Orario valido              
+2026-06-02 15:41:45.990909|133.20|Fermata Via Roma|Orari per 'via roma':
+Linea H (A): 70C57 PASIAN DI PRATO via Roma 46 (municipio) 21:49 → —
+Linea 7 (
+2026-06-02 15:41:46.131225|134.34|Quali linee ci sono?|Linee disponibili (177): 82, H, T, 10, 11, 12, 1, 2, 3, 5, 6, 7, 81, C, M, 8, 9, A, B, E, G, N, S, Z
+2026-06-02 15:41:46.270593|133.88|A che ora passa la linea 10? 🚌|🚌 Linea 10 — ANDATA: Linea 10
+
+  • Linea 10                        —
+  • Orario valido              
+2026-06-02 15:41:46.438409|161.81|Fermata Via Roma|Orari per 'via roma':
+Linea H (A): 70C57 PASIAN DI PRATO via Roma 46 (municipio) 21:49 → —
+Linea 7 (
+2026-06-02 15:42:41.084990|137.38|Bus extraurbani?|Nessuna linea extraurbana.
+2026-06-02 15:42:45.203326|129.67|Quali linee ci sono?|Linee disponibili (177): 82, H, T, 10, 11, 12, 1, 2, 3, 5, 6, 7, 81, C, M, 8, 9, A, B, E, G, N, S, Z
+2026-06-02 15:42:49.342478|130.84|A che ora passa la linea 10?|🚌 Linea 10 — ANDATA: Linea 10
+
+  • Linea 10                        —
+  • Orario valido              
+2026-06-02 15:51:50.633535|135.60|Quali linee urbane sono disponibili?|Linee disponibili (177): 82, H, T, 10, 11, 12, 1, 2, 3, 5, 6, 7, 81, C, M, 8, 9, A, B, E, G, N, S, Z
+2026-06-02 15:59:12.279943|277.98|orari linea 10|🚌 Linea 10 — ANDATA: Orario valido dall'11 settembre 2025CIRCOLARE SINISTRA: Ospedale-Università-San
+2026-06-02 16:10:34.724535|282.69|come posso arrivare a gemona del friuli partendo d|Non ho capito la richiesta. Puoi chiedermi:
+  • «Linee disponibili»
+  • «Orari linea 10»
+  • «Fermat
+2026-06-02 16:12:17.446812|302.46|fermate linea 9|🚌 Linea 9 — ANDATA: Orario valido dal 1° maggio 2026CIRCOLARE DESTRA: Fiera-Stadio-Università-Teatro
+2026-06-02 16:15:11.889924|268.68|come posso arrivare a gemona del friuli partendo d|Non ho capito la richiesta. Puoi chiedermi:
+  • «Linee disponibili»
+  • «Orari linea 10»
+  • «Fermat
+2026-06-02 16:16:00.683296|272.66|come posso arrivare a gemona del friuli partendo d|Non ho capito la richiesta. Puoi chiedermi:
+  • «Linee disponibili»
+  • «Orari linea 10»
+  • «Fermat
+2026-06-02 16:20:22.029950|273.05|come posso arrivare a gemona del friuli partendo d|Non ho capito la richiesta. Puoi chiedermi:
+  • «Linee disponibili»
+  • «Orari linea 10»
+  • «Fermat
+2026-06-02 16:24:00.483436|67917.18|come posso arrivare a gemona del friuli partendo d| Per arrivare a Gemona del Friuli da Udine, puoi utilizzare diversi mezzi di trasporto.
+
+1. Autobus:
+2026-06-02 16:25:19.431895|57134.53|come posso arrivare a gemona del friuli partendo d| Per arrivare a Gemona del Friuli partendo da Udine, puoi utilizzare il trasporto pubblico con la so
+2026-06-02 16:26:27.580695|44966.37|come posso arrivare a gemona del friuli partendo d| Per arrivare a Gemona del Friuli da Udine, puoi utilizzare diversi mezzi di trasporto.
+
+1. **Autobu
+2026-06-02 16:28:14.789071|39234.62|come posso arrivare a gemona del friuli partendo d| Per arrivare a Gemona del Friuli da Udine, puoi utilizzare il trasporto pubblico con la società TPL
+2026-06-02 16:32:11.842444|41419.31|linea 9| This appears to be a timetable for a bus route, possibly in Italy. The timetable shows the departur
+2026-06-02 16:32:49.942424|46757.96|orari della linea 10| Questo è un orario della linea 10 di un servizio di trasporto pubblico. La tabella elenca le fermat
+2026-06-02 16:47:46.422711|125305.10|orari della linea 10| La tabella seguente riporta gli orari della linea 10:
+
+| Orario di Partenza | Stazione di Arrivo | 
+2026-06-02 17:08:39.441605|41753.96|orari linea 10| It appears you've provided a bus schedule for various locations in Italy. Here are the departure ti
+2026-06-02 17:25:11.173217|402757.29|orari linea 10| It appears you've provided a bus schedule for various locations in Friuli-Venezia Giulia, Italy. He
+2026-06-02 17:27:46.361783|48833.77|orari linea 10| It appears you've provided a list of bus schedules for various locations in Italy, specifically the
+2026-06-02 17:42:29.147680|50405.74|orari linea 10| It appears you've provided a list of bus schedules for various locations in the Friuli-Venezia Giul
+2026-06-02 17:48:36.688622|131.40|Orari linea 1|🚌 Linea 1 (Categoria: Urbani)
+**Direzione Andata:** Via Chiusaforte-Ospedale-Chiavris-1°Maggio-FS-Ge
+2026-06-02 18:00:52.664094|99.04|orari linea 10|🚌 Linea 10 (Categoria: Urbani)
+**Direzione Andata:** CIRCOLARE SINISTRA: Ospedale-Università-San Dom
+2026-06-02 18:01:28.986363|110.54|come posso arrivare a gemona del friuli partendo d|Non sono riuscito a trovare un itinerario diretto o con un solo trasferimento da 'udine' a 'gemona d
+2026-06-02 18:11:46.859193|98.91|orari linea 10|🚌 Linea 10 (Categoria: Urbani)
+**Direzione Andata:** CIRCOLARE SINISTRA: Ospedale-Università-San Dom
+2026-06-02 18:12:22.203372|18090.14|come posso arrivare a gemona del friuli partendo d|Itinerario con più trasferimenti basato sui dati ufficiali:
+  1) Prendi linea 1 (Extraurbani) in dir
+2026-06-02 18:49:47.997389|63.84|orari linea 5|🚌 Linea 5 (Categoria: Urbani)
+**Direzione Andata:** Passons/San Domenico - Cavedalis - Garibaldi - F
+2026-06-02 18:50:23.271996|107.84|come posso arrivare a gemona del friuli partendo d|Non sono riuscito a trovare un itinerario diretto o con un solo trasferimento da 'udine' a 'gemona d
+2026-06-02 19:03:43.397915|97.95|come posso arrivare a gemona del friuli partendo d|Itinerario diretto trovato: Linea 150 (Categoria: Extraurbani) — ANDATA
+Prossima partenza da udine: 
+2026-06-02 21:53:56.385817|242.06|come posso arrivare a gemona del friuli partendo d|Non sono riuscito a trovare un itinerario diretto o con un solo trasferimento da 'cividale' a 'gemon
+2026-06-02 21:54:12.264700|91.82|come posso arrivare a gemona del friuli partendo d|Itinerario diretto trovato: Linea 150 (Categoria: Extraurbani) — ANDATA
+Prossima partenza da udine: 
+2026-06-02 22:04:33.801550|275.62|come posso arrivare a gemona del friuli partendo d|Non sono riuscito a trovare un itinerario diretto o con un solo trasferimento da 'cividale' a 'gemon
+2026-06-02 22:04:41.923108|102.16|come posso arrivare a gemona del friuli partendo d|Itinerario diretto trovato: Linea 150 (Categoria: Extraurbani) — ANDATA
+Prossima partenza da udine: 
+2026-06-02 22:18:09.358733|219.73|come posso arrivare a gemona del friuli partendo d|Non sono riuscito a trovare un itinerario diretto o con un solo trasferimento da 'cividale' a 'gemon
+2026-06-02 22:18:22.404326|93.60|come posso arrivare a gemona del friuli partendo d|Itinerario diretto trovato: Linea 150 (Categoria: Extraurbani) — ANDATA
+Prossima partenza da udine: 

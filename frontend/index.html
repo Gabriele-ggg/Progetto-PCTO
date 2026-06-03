@@ -8,22 +8,20 @@
 <style>
 :root{--bg:#0b0f1a;--surface:#131929;--surface2:#1c2540;--border:#263050;--accent:#3d7fff;--accent2:#00d4aa;--text:#e8edf8;--muted:#6b7fa3;--radius:12px}
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:var(--bg);color:var(--text);font-family:'Syne',sans-serif;min-height:100vh;display:flex;flex-direction:column}
-header{background:var(--surface);border-bottom:1px solid var(--border);padding:12px 18px;display:flex;align-items:center;gap:12px}
+body{background:var(--bg);color:var(--text);font-family:'Syne',sans-serif;height:100vh;display:flex;flex-direction:column;overflow:hidden}
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:12px 18px;display:flex;align-items:center;gap:12px;flex-shrink:0;position:relative}
 .logo-main{font-size:18px;font-weight:800;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
 .logo-sub{font-size:12px;color:var(--muted);margin-top:2px}
 .pill{margin-left:auto;background:var(--surface2);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:12px;color:var(--muted);font-family:'DM Mono',monospace}
-.topbar{background:var(--surface);border-bottom:1px solid var(--border);padding:10px 18px;display:flex;align-items:center;gap:12px;position:relative}
+.topbar{background:var(--surface);border-bottom:1px solid var(--border);padding:12px 18px;display:flex;align-items:center;justify-content:space-between;min-height:56px;flex-shrink:0;position:relative}
 .topbar .status{color:var(--muted);font-size:13px}
 .topbar input{padding:6px 10px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text)}
-.container{display:flex;flex-direction:column;flex:1;overflow:hidden;height:calc(100vh - 96px)}
+.container{display:flex;flex:1;overflow:hidden}
 .chat-area{flex:1;display:flex;flex-direction:column;overflow:hidden}
 /* Sidebar a sinistra per cronologia utente */
-.sidebar{width:260px;background:var(--surface);border-right:1px solid var(--border);display:flex;flex-direction:column}
-/* quando il contenitore è in row, la chat riempie lo spazio rimanente */
-.container.row{flex-direction:row}
+.sidebar{width:260px;background:var(--surface);border-right:1px solid var(--border);display:flex;flex-direction:column;overflow:hidden;flex-shrink:0}
 #messages{flex:1;overflow-y:auto;padding:20px;display:flex;flex-direction:column;gap:14px}
-.bubble{padding:12px 16px;border-radius:12px;white-space:pre-wrap}
+.bubble{padding:12px 16px;border-radius:12px;white-space:pre-wrap;display:inline-block;box-sizing:border-box;max-width:72%;word-break:break-word;overflow-wrap:anywhere}
 .msg.user{align-self:flex-end}
 .msg.ai{align-self:flex-start}
 .msg.user .bubble{background:#18305a;border:1px solid #213b6f}
@@ -47,6 +45,29 @@ header{background:var(--surface);border-bottom:1px solid var(--border);padding:1
 .ai-meta{font-size:12px;color:var(--muted);margin-top:8px}
 .msg-meta{font-size:11px;color:var(--muted);margin-top:6px}
 .msg.user .msg-meta{text-align:right}
+
+/* Stile per il pulsante impostazioni */
+.settings-btn {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  cursor: pointer;
+  font-family: 'Syne', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: background 0.2s, border-color 0.2s;
+}
+.settings-btn:hover {
+  background: var(--border);
+  border-color: var(--accent);
+}
 </style>
 </head>
 <body>
@@ -55,15 +76,17 @@ header{background:var(--surface);border-bottom:1px solid var(--border);padding:1
     <div class="logo-main">EduGuide AI</div>
     <div class="logo-sub">Assistente educativo</div>
   </div>
+  <div id="local-time" style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); font-size: 16px; color: var(--accent2); font-weight: 700; font-family: 'DM Mono', monospace;">--:--:--</div>
   <div class="pill" id="model-pill">—</div>
 </header>
 
 <div class="topbar">
   <div class="status">Stato servizio: <span id="status-box">caricamento…</span></div>
-  <div id="user-display" style="position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);color:var(--text);font-weight:600;display:none">Ciao, <span id="display-name"></span></div>
+  <div id="user-display" style="display:none; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); align-items:center; color:var(--text);">
+    <div id="greeting" style="font-weight: 800; font-size: 15px; letter-spacing: 0.2px;">Ciao, <span id="display-name"></span></div>
+  </div>
 </div>
 
-<!-- Authentication modal -->
 <div id="auth-modal" style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999">
   <div style="background:var(--surface);border:1px solid var(--border);padding:22px;border-radius:14px;min-width:320px;max-width:520px;color:var(--text)">
     <h2 style="margin-bottom:8px">Accedi</h2>
@@ -79,19 +102,82 @@ header{background:var(--surface);border-bottom:1px solid var(--border);padding:1
   </div>
 </div>
 
-<div class="container row">
-  <div class="sidebar" id="sidebar">
-    <div style="padding:12px;border-bottom:1px solid var(--border);">
-      <strong>La tua cronologia</strong>
-      <div style="font-size:12px;color:var(--muted);">Conversazioni salvate per utente</div>
+<div id="settings-modal" style="position:fixed;inset:0;background:rgba(0,0,0,0.7);display:none;align-items:center;justify-content:center;z-index:9999">
+  <div style="background:var(--surface);border:1px solid var(--border);padding:24px;border-radius:14px;width:90%;max-width:550px;color:var(--text);max-height:85vh;overflow-y:auto;display:flex;flex-direction:column;gap:20px;">
+    <div style="display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--border);padding-bottom:12px;">
+      <h2 style="font-weight:800;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Impostazioni Pannello</h2>
+      <button id="settings-close" style="background:transparent;border:none;color:var(--muted);font-size:22px;cursor:pointer;line-height:1;">&times;</button>
     </div>
     
-    <div id="history-list" style="overflow:auto;padding:8px;max-height:calc(100vh - 180px)"></div>
-    <div style="padding:10px;border-top:1px solid var(--border);display:flex;gap:8px">
-      <button id="clear-history" style="flex:1;padding:8px;border-radius:8px;background:transparent;border:1px solid var(--border);color:var(--muted)">Cancella</button>
-      <button id="export-history" style="flex:1;padding:8px;border-radius:8px;background:var(--accent);border:none;color:#fff">Esporta</button>
+    <div>
+      <h3 style="font-size:15px;margin-bottom:8px;font-weight:600;color:var(--text);">Dati Telemetria</h3>
+      <div id="telemetry-view" style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:12px;font-family:'DM Mono',monospace;font-size:12px;max-height:160px;overflow-y:auto;color:var(--muted);">
+        Nessun file di telemetria caricato. I log e i dettagli dei flussi appariranno qui una volta importati i file JSON/log successivi.
+      </div>
+    </div>
+    
+    <div style="border-top:1px solid var(--border);padding-top:16px;">
+      <h3 style="font-size:15px;margin-bottom:6px;font-weight:600;color:var(--text);">Carica Documenti Orari (PDF)</h3>
+      <p style="color:var(--muted);font-size:12px;margin-bottom:12px;">Seleziona un documento orario in formato PDF e specifica il comparto di destinazione del sistema TPL.</p>
+      
+      <div style="display:flex;flex-direction:column;gap:12px;">
+        <input type="file" id="pdf-file" accept=".pdf" style="padding:8px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:13px;width:100%;" />
+        
+        <div style="display:flex;flex-direction:column;gap:6px;">
+          <label for="pdf-target" style="font-size:12px;color:var(--muted);font-weight:600;">Destinazione Flusso:</label>
+          <select id="pdf-target" style="padding:10px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-family:'Syne',sans-serif;font-size:13px;outline:none;cursor:pointer;width:100%;">
+            <option value="urbani">urbani</option>
+            <option value="extraurbani">extraurbani</option>
+            <option value="treni">treni</option>
+            <option value="circolari scolastiche">circolari scolastiche</option>
+          </select>
+        </div>
+        
+        <button id="pdf-submit-btn" style="padding:10px;border-radius:8px;background:var(--accent);border:none;color:#fff;font-weight:600;font-family:'Syne',sans-serif;cursor:pointer;transition:opacity 0.2s;margin-top:6px;" onmouseover="this.style.opacity='0.9'" onmouseout="this.style.opacity='1'">Invia Documento</button>
+      </div>
+    </div>
+
+    <div style="border-top:1px solid var(--border);padding-top:16px;">
+      <h3 style="font-size:15px;margin-bottom:6px;font-weight:600;color:var(--text);">Importa/Esporta Cronologia</h3>
+      <p style="color:var(--muted);font-size:12px;margin-bottom:12px;">Carica un file JSON con le sessioni per l'utente corrente. Il formato atteso è una lista di oggetti sessione con campi `id`, `title`, `created`, `messages`.</p>
+      <input type="file" id="history-file" accept=".json,application/json" style="padding:8px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:13px;width:100%;margin-bottom:8px;" />
+      <div style="display:flex;gap:8px;">
+        <button id="history-upload-btn" style="flex:1;padding:10px;border-radius:8px;background:var(--accent);border:none;color:#fff;cursor:pointer;">Importa cronologia</button>
+        <button id="history-export-btn" style="flex:1;padding:10px;border-radius:8px;background:transparent;border:1px solid var(--border);color:var(--muted);">Esporta cronologia</button>
+      </div>
+      <div id="history-import-msg" style="margin-top:8px;color:var(--muted);font-size:12px"></div>
     </div>
   </div>
+</div>
+
+<div class="container row">
+  <div class="sidebar" id="sidebar">
+    <div style="padding:16px;border-bottom:1px solid var(--border);display:flex;flex-direction:column;gap:12px;">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+        <strong id="sidebar-title" style="font-size:14px;letter-spacing:0.3px">Navigazione</strong>
+        <button id="sidebar-info" title="Informazioni servizio" style="background:transparent;border:none;color:var(--muted);cursor:pointer;font-size:16px;">ℹ️</button>
+      </div>
+      <div style="display:flex;background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:2px;">
+        <button id="tab-history" style="flex:1;padding:8px;border:none;border-radius:6px;background:var(--border);color:var(--text);cursor:pointer;font-weight:700;font-size:12px;font-family:'Syne',sans-serif;">Cronologia</button>
+        <button id="tab-telemetry" style="flex:1;padding:8px;border:none;border-radius:6px;background:transparent;color:var(--muted);cursor:pointer;font-size:12px;font-family:'Syne',sans-serif;">Telemetria</button>
+      </div>
+    </div>
+
+    <div id="history-list" style="overflow-y:auto;padding:8px;flex:1;"></div>
+    
+    <div id="telemetry-panel" style="display:none;padding:12px;color:var(--muted);font-size:13px;flex:1;flex-direction:column;overflow-y:auto;">
+      <div style="margin-bottom:10px;font-weight:700;color:var(--text)">Dati Telemetria</div>
+      <div id="telemetry-content" style="flex:1;overflow-y:auto;">Nessun dato</div>
+      <div style="margin-top:10px;padding-top:10px;border-top:1px dashed var(--border)">
+        <button id="refresh-telemetry" style="width:100%;padding:10px;border-radius:8px;background:var(--accent);border:none;color:#fff;font-weight:600;cursor:pointer;">Aggiorna metriche</button>
+      </div>
+    </div>
+    
+    <div style="padding:12px;border-top:1px solid var(--border);background:var(--surface);flex-shrink:0;">
+      <button id="open-settings" class="settings-btn">Impostazioni</button>
+    </div>
+  </div>
+
   <div class="chat-area">
     <div id="messages">
       <div style="text-align:center;color:var(--muted);margin-top:40px">
@@ -123,23 +209,183 @@ const authLast = document.getElementById('auth-last');
 const authSubmit = document.getElementById('auth-submit');
 const authCancel = document.getElementById('auth-cancel');
 
+// Impostazioni Overlay Elements
+const settingsModal = document.getElementById('settings-modal');
+const openSettingsBtn = document.getElementById('open-settings');
+const closeSettingsBtn = document.getElementById('settings-close');
+const pdfFileInput = document.getElementById('pdf-file');
+const pdfTargetSelect = document.getElementById('pdf-target');
+const pdfSubmitBtn = document.getElementById('pdf-submit-btn');
+const sidebarInfoBtn = document.getElementById('sidebar-info');
+
 function lockUI(){ sendBtn.disabled = true; userInput.disabled = true; userInput.placeholder = 'Devi autenticarti per usare il servizio.' }
 function unlockUI(){ sendBtn.disabled = false; userInput.disabled = false; userInput.placeholder = 'Scrivi la tua domanda…' }
 
 function showAuth(){ authModal.style.display='flex'; authFirst.focus(); lockUI(); }
 function hideAuth(){ authModal.style.display='none'; unlockUI(); }
 
-// Mostra modal se non siamo identificati
+// Gestione apertura/chiusura overlay impostazioni
+openSettingsBtn.addEventListener('click', () => {
+  settingsModal.style.display = 'flex';
+});
+closeSettingsBtn.addEventListener('click', () => {
+  settingsModal.style.display = 'none';
+});
+settingsModal.addEventListener('click', (e) => {
+  if (e.target === settingsModal) {
+    settingsModal.style.display = 'none';
+  }
+});
+
+if(sidebarInfoBtn){
+  sidebarInfoBtn.addEventListener('click', async ()=>{
+    try{
+      const r = await fetch('http://127.0.0.1:8000/api/status');
+      const j = await r.json();
+      alert(`Stato servizio: ${j.status}\nLinee: ${j.totale_linee} \nCorse totali: ${j.totale_corse}`);
+    }catch(e){
+      alert('Impossibile contattare il backend: '+e);
+    }
+  });
+}
+
+// History import/export handlers
+const historyFileInput = document.getElementById('history-file');
+const historyUploadBtn = document.getElementById('history-upload-btn');
+const historyExportBtn = document.getElementById('history-export-btn');
+const historyImportMsg = document.getElementById('history-import-msg');
+function _extractSessionsFromPayload(payload){
+  if(Array.isArray(payload)) return payload;
+  if(payload && typeof payload === 'object'){
+    if(Array.isArray(payload.sessions)) return payload.sessions;
+    if(Array.isArray(payload.data)) return payload.data;
+    if(payload.id && Array.isArray(payload.messages)) return [payload];
+  }
+  return null;
+}
+
+function isValidMessageObj(m){
+  return m && (typeof m.role === 'string' || typeof m.role === 'number') && (typeof m.text === 'string' || typeof m.content === 'string');
+}
+
+function normalizeMessage(m){
+  return {
+    role: m.role || m.r || 'ai',
+    text: (m.text !== undefined) ? m.text : (m.content !== undefined ? m.content : ''),
+    ts: m.ts || m.timestamp || m.time || new Date().toISOString(),
+    latency_ms: m.latency_ms || m.latency || null
+  };
+}
+
+function isValidSessionObj(s){
+  return s && typeof s.id === 'string' && typeof s.created === 'string' && Array.isArray(s.messages);
+}
+
+historyUploadBtn?.addEventListener('click', ()=>{
+  if(!currentUser){ alert('Accedi prima di importare la cronologia'); return }
+  const f = historyFileInput.files && historyFileInput.files[0];
+  if(!f){ alert('Seleziona un file JSON che contiene la cronologia'); return }
+  const reader = new FileReader();
+  reader.onload = function(e){
+    try{
+      const raw = JSON.parse(e.target.result);
+      const sessionsArray = _extractSessionsFromPayload(raw);
+      if(!sessionsArray || !Array.isArray(sessionsArray)){
+        alert('Formato file non valido: aspettato una lista di sessioni o un oggetto {sessions: [...] }'); return
+      }
+      const existing = loadUserSessions(currentUser) || [];
+      const existingById = Object.fromEntries(existing.map(s=>[s.id, s]));
+      let addedSessions = 0, mergedSessions = 0, skipped = 0;
+
+      sessionsArray.forEach(s => {
+        if(!isValidSessionObj(s)){
+          if(!s || !s.id) { skipped++; return }
+          s.created = s.created || new Date().toISOString();
+          s.messages = Array.isArray(s.messages) ? s.messages : [];
+        }
+
+        const incomingMsgs = (s.messages || []).filter(isValidMessageObj).map(normalizeMessage);
+
+        if(existingById[s.id]){
+          const target = existingById[s.id];
+          const keySet = new Set((target.messages||[]).map(m=>`${m.role}|||${m.text}|||${m.ts}`));
+          let addedMsgs = 0;
+          incomingMsgs.forEach(m => {
+            const key = `${m.role}|||${m.text}|||${m.ts}`;
+            if(!keySet.has(key)){
+              target.messages.push(m); keySet.add(key); addedMsgs++;
+            }
+          });
+          if(addedMsgs>0) mergedSessions++;
+        } else {
+          const newSession = { id: s.id, title: s.title || s.id, created: s.created || new Date().toISOString(), messages: incomingMsgs };
+          existing.push(newSession);
+          existingById[newSession.id] = newSession;
+          addedSessions++;
+        }
+      });
+
+      saveUserSessions(currentUser, existing);
+      renderHistory();
+      historyImportMsg.textContent = `Import: ${addedSessions} nuove sessioni, ${mergedSessions} sessioni fuse, ${skipped} saltate.`;
+    }catch(err){
+      alert('Errore parsing file JSON: '+err);
+    }
+  };
+  reader.readAsText(f);
+});
+
+historyExportBtn?.addEventListener('click', ()=>{
+  if(!currentUser){ alert('Accedi prima di esportare la cronologia'); return }
+  const sessions = loadUserSessions(currentUser) || [];
+  const txt = JSON.stringify(sessions, null, 2);
+  const blob = new Blob([txt], {type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); a.href = url; a.download = `sessions_${currentUser.replace(/\s+/g,'_')}.json`; a.click(); URL.revokeObjectURL(url);
+});
+
+pdfSubmitBtn.addEventListener('click', () => {
+  const file = pdfFileInput.files[0];
+  const target = pdfTargetSelect.value;
+  if (!file) {
+    alert('Seleziona un file PDF prima di procedere.');
+    return;
+  }
+  alert(`File caricato con successo:\nNome: ${file.name}\nDestinazione: ${target}\n\nNota: La logica di archiviazione effettiva verrà agganciata non appena fornirai i file successivi.`);
+});
+
 if(!currentUser){ showAuth(); } else { unlockUI(); }
-// mostra nome nella topbar se presente
+
 const userDisplay = document.getElementById('user-display');
 const displayName = document.getElementById('display-name');
-function refreshUserDisplay(){ if(currentUser){ userDisplay.style.display='block'; displayName.textContent = currentUser; } else { userDisplay.style.display='none'; displayName.textContent=''; } }
+const localTimeEl = document.getElementById('local-time');
+
+function updateLocalTime(){
+  if(!localTimeEl) return;
+  const d = new Date();
+  const hh = String(d.getHours()).padStart(2,'0');
+  const mm = String(d.getMinutes()).padStart(2,'0');
+  const ss = String(d.getSeconds()).padStart(2,'0');
+  localTimeEl.textContent = `${hh}:${mm}:${ss}`;
+}
+
+function refreshUserDisplay(){
+  if(currentUser){
+    userDisplay.style.display='flex';
+    displayName.textContent = currentUser;
+  } else {
+    userDisplay.style.display='none';
+    displayName.textContent='';
+  }
+}
 refreshUserDisplay();
 
-// --- Gestione cronologia per utente (localStorage) - Basato su SESSIONI ---
+// Avvia l'orologio immediatamente
+updateLocalTime();
+setInterval(updateLocalTime, 1000);
+
 const historyListEl = document.getElementById('history-list');
-currentSession = currentSession || null;  // ID della sessione corrente
+currentSession = currentSession || null;
 
 function _sessionsKeyForUser(user){ return `tpl_sessions_${user.replace(/\s+/g,'_')}` }
 
@@ -188,7 +434,6 @@ function renderHistory(){
     d.appendChild(q); d.appendChild(t); d.appendChild(cnt);
     d.addEventListener('click', ()=>{ 
       currentSession = session.id;
-      // Ricaricare la conversazione
       messages.innerHTML = '';
       session.messages.forEach(msg => {
         const metaText = msg.role === 'ai' && msg.latency_ms ? `Tempo modello: ${formatDurationMs(msg.latency_ms)}` : null;
@@ -198,22 +443,11 @@ function renderHistory(){
     historyListEl.appendChild(d);
   });
 }
-document.getElementById('clear-history')?.addEventListener('click', ()=>{
-  if(!currentUser) return alert('Accedi per cancellare la cronologia');
-  if(!confirm('Cancella tutta la cronologia per l\'utente '+currentUser+'?')) return;
-  saveUserSessions(currentUser, []); currentSession = null; renderHistory();
-});
-document.getElementById('export-history')?.addEventListener('click', ()=>{
-  if(!currentUser) return alert('Accedi per esportare la cronologia');
-  const sessions = loadUserSessions(currentUser)||[]; const txt = JSON.stringify(sessions, null, 2);
-  const blob = new Blob([txt], {type:'application/json'}); const url = URL.createObjectURL(blob);
-  const a = document.createElement('a'); a.href = url; a.download = `sessions_${currentUser.replace(/\s+/g,'_')}.json`; a.click(); URL.revokeObjectURL(url);
-});
 renderHistory();
 
 async function loadStatus(){
   try{
-    const r = await fetch('http://127.0.0.1:8001/api/status');
+    const r = await fetch('http://127.0.0.1:8000/api/status');
     const j = await r.json();
     statusBox.textContent = j.status || 'offline';
     const modelPill = document.getElementById('model-pill');
@@ -223,35 +457,91 @@ async function loadStatus(){
 loadStatus();
 setInterval(loadStatus, 5000);
 
+// Tab switching logic sistemata con stili corretti
+const tabHistoryBtn = document.getElementById('tab-history');
+const tabTelemetryBtn = document.getElementById('tab-telemetry');
+const telemetryPanel = document.getElementById('telemetry-panel');
+function showHistoryTab(){
+  if(tabHistoryBtn) {
+    tabHistoryBtn.style.background = 'var(--border)';
+    tabHistoryBtn.style.color = 'var(--text)';
+  }
+  if(tabTelemetryBtn) {
+    tabTelemetryBtn.style.background = 'transparent';
+    tabTelemetryBtn.style.color = 'var(--muted)';
+  }
+  document.getElementById('history-list').style.display = 'block'; 
+  if(telemetryPanel) telemetryPanel.style.display = 'none';
+}
+function showTelemetryTab(){
+  if(tabHistoryBtn) {
+    tabHistoryBtn.style.background = 'transparent';
+    tabHistoryBtn.style.color = 'var(--muted)';
+  }
+  if(tabTelemetryBtn) {
+    tabTelemetryBtn.style.background = 'var(--border)';
+    tabTelemetryBtn.style.color = 'var(--text)';
+  }
+  document.getElementById('history-list').style.display = 'none'; 
+  if(telemetryPanel) telemetryPanel.style.display = 'flex';
+  fetchTelemetryMetrics();
+}
+tabHistoryBtn?.addEventListener('click', showHistoryTab);
+tabTelemetryBtn?.addEventListener('click', showTelemetryTab);
+
+async function fetchTelemetryMetrics(){
+  const el = document.getElementById('telemetry-content');
+  if(!el) return;
+  el.textContent = 'Caricamento...';
+  try{
+    const r = await fetch('http://127.0.0.1:8000/api/telemetry/metrics');
+    if(!r.ok){ el.textContent = '[Errore caricamento telemetria]'; return }
+    const j = await r.json();
+    const overall = j.overall || {};
+    const models = j.models || [];
+    const by_user = j.by_user || {};
+    let html = '';
+    html += `<div><strong>Overall</strong></div>`;
+    html += `<div>Media tempo risposta: <strong>${overall.avg_latency_ms ? overall.avg_latency_ms.toFixed(2)+' ms' : 'n/d'}</strong></div>`;
+    html += `<div>Massimo tempo risposta: <strong>${overall.max_latency_ms ? overall.max_latency_ms.toFixed(2)+' ms' : 'n/d'}</strong></div>`;
+    html += `<div>Count: ${overall.count||0}</div>`;
+    html += `<div style="margin-top:8px"><strong>Modelli rilevati</strong>: ${models.length?models.join(', '):'nessuno'}</div>`;
+    html += `<hr style="border:none;border-top:1px dashed var(--border);margin:8px 0">`;
+    html += `<div><strong>Per utente</strong></div>`;
+    if(Object.keys(by_user).length===0){ html += '<div style="color:var(--muted);margin-top:6px">Nessun dato per utente.</div>'; }
+    for(const [u, info] of Object.entries(by_user)){
+      html += `<div style="margin-top:8px;padding:8px;border-radius:6px;background:var(--surface2)">`;
+      html += `<div style="font-weight:700">${u}</div>`;
+      html += `<div>Media: ${info.avg_latency_ms ? info.avg_latency_ms.toFixed(2)+' ms' : 'n/d'}</div>`;
+      html += `<div>Massimo: ${info.max_latency_ms ? info.max_latency_ms.toFixed(2)+' ms' : 'n/d'}</div>`;
+      html += `<div>Eventi: ${info.count||0}</div>`;
+      html += `<div>Modelli: ${(info.models && info.models.length)? info.models.join(', '): '—'}</div>`;
+      html += `</div>`;
+    }
+    el.innerHTML = html;
+  }catch(e){ el.textContent = 'Errore: '+e }
+}
+document.getElementById('refresh-telemetry')?.addEventListener('click', fetchTelemetryMetrics);
+
 
 function append(role, text, metaText){
   const d = document.createElement('div'); d.className = 'msg '+(role==='user'?'user':'ai');
-  
-  // Contenitore per messaggio + menu
   const msgContainer = document.createElement('div'); msgContainer.className = 'msg-container';
-  
-  // Bubble
   const b = document.createElement('div'); b.className='bubble'; b.textContent = text;
   msgContainer.appendChild(b);
   
-  // Pulsante menu a tre puntini
   const menuBtn = document.createElement('button'); menuBtn.className = 'msg-menu-btn'; menuBtn.textContent = '⋯';
-  
-  // Menu nascosto
   const menu = document.createElement('div'); menu.className = 'msg-menu'; menu.style.display = 'none';
   
-  // Opzione Elimina
   const deleteItem = document.createElement('button'); deleteItem.className = 'msg-menu-item'; deleteItem.textContent = 'Elimina';
   deleteItem.addEventListener('click', () => {
     if(confirm('Eliminare questo messaggio?')) {
       d.remove();
       menu.style.display = 'none';
-      // Aggiorna la sessione se necessario
       if(currentUser && currentSession) {
         const sessions = loadUserSessions(currentUser) || [];
         const session = sessions.find(s => s.id === currentSession);
         if(session) {
-          // Rimuovi il messaggio trovando l'indice dal testo
           const msgIndex = session.messages.findIndex(m => m.text === text);
           if(msgIndex !== -1) {
             session.messages.splice(msgIndex, 1);
@@ -263,7 +553,6 @@ function append(role, text, metaText){
   });
   menu.appendChild(deleteItem);
   
-  // Opzione Esporta messaggio
   const exportItem = document.createElement('button'); exportItem.className = 'msg-menu-item'; exportItem.textContent = 'Esporta';
   exportItem.addEventListener('click', () => {
     const data = {role, text, metaText, timestamp: new Date().toISOString()};
@@ -281,12 +570,10 @@ function append(role, text, metaText){
   
   menuBtn.addEventListener('click', (e) => {
     e.stopPropagation();
-    // Chiudi altri menu aperti
     document.querySelectorAll('.msg-menu').forEach(m => m.style.display = 'none');
     menu.style.display = menu.style.display === 'none' ? 'block' : 'none';
   });
   
-  // Chiudi menu quando clicchi altrove
   document.addEventListener('click', (e) => {
     if(!msgContainer.contains(e.target)) {
       menu.style.display = 'none';
@@ -295,7 +582,6 @@ function append(role, text, metaText){
   
   msgContainer.appendChild(menuBtn);
   msgContainer.appendChild(menu);
-  
   d.appendChild(msgContainer);
   
   if(metaText){
@@ -304,8 +590,6 @@ function append(role, text, metaText){
   }
   
   messages.appendChild(d);
-  
-  // Autoscroll smooth verso il basso
   setTimeout(() => {
     messages.scrollTo({top: messages.scrollHeight, behavior: 'smooth'});
   }, 0);
@@ -340,7 +624,6 @@ async function sendQuestion(){
   append('user', q, `Inviato: ${sentStr}`);
   userInput.value='';
 
-  // Creare una nuova sessione se non esiste una corrente
   if(!currentSession && currentUser) {
     const newSession = createNewSession(q);
     const sessions = loadUserSessions(currentUser) || [];
@@ -348,10 +631,8 @@ async function sendQuestion(){
     saveUserSessions(currentUser, sessions);
   }
 
-  // send telemetry: question
-  try{ await fetch('http://127.0.0.1:8001/api/telemetry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({user: currentUser||'anonimo', session: currentSession, event:'question', detail:q, timestamp: sentTs.toISOString()})}); }catch(e){}
+  try{ await fetch('http://127.0.0.1:8000/api/telemetry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({user: currentUser||'anonimo', session: currentSession, event:'question', detail:q, timestamp: sentTs.toISOString()})}); }catch(e){}
 
-  // create AI typing bubble with animated purple dots
   const aiDiv = document.createElement('div'); aiDiv.className = 'msg ai';
   const b = document.createElement('div'); b.className = 'bubble';
   const typing = document.createElement('div'); typing.className = 'typing';
@@ -363,13 +644,11 @@ async function sendQuestion(){
   
   let responseLatency = null;
   try{
-    const resp = await fetch('http://127.0.0.1:8001/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:q})});
+    const resp = await fetch('http://127.0.0.1:8000/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:q})});
     if(!resp.ok){bubble.textContent = '[Errore HTTP '+resp.status+']'; return}
     const j = await resp.json();
-    // replace typing with actual text
     bubble.textContent = j.response || '[Risposta incompleta]';
     responseLatency = j.latency_ms;
-    // append latency meta below bubble (formatted)
     try{
       const formatted = formatDurationMs(j.latency_ms);
       const metaParts = [`Tempo modello: ${formatted}`];
@@ -379,9 +658,7 @@ async function sendQuestion(){
       }
       
       if(j.tokens_per_second !== undefined && j.tokens_per_second !== null && j.tokens_per_second > 0) {
-        const tpsFormatted = typeof j.tokens_per_second === 'number' 
-          ? j.tokens_per_second.toFixed(1) 
-          : j.tokens_per_second;
+        const tpsFormatted = typeof j.tokens_per_second === 'number' ? j.tokens_per_second.toFixed(1) : j.tokens_per_second;
         metaParts.push(`Token/s: ${tpsFormatted}`);
       }
       
@@ -391,18 +668,13 @@ async function sendQuestion(){
       aiDiv.appendChild(meta);
     }catch(e){console.error('Errore formattazione meta:', e)}
     
-    // Salva messaggio e risposta nella sessione
     if(currentUser && currentSession) {
       const sessions = loadUserSessions(currentUser) || [];
-      // Aggiungi messaggio utente
       addMessageToSession(sessions, currentSession, 'user', q, null);
-      // Aggiungi messaggio AI
       addMessageToSession(sessions, currentSession, 'ai', j.response || '[Risposta incompleta]', responseLatency);
-      // Limita a 50 sessioni per utente
       if(sessions.length > 50) sessions.splice(0, sessions.length - 50);
       saveUserSessions(currentUser, sessions);
       renderHistory();
-      // Assicura che la vista sia posizionata in fondo dopo il caricamento della cronologia
       try{ messages.scrollTo({ top: messages.scrollHeight }); }catch(e){ messages.scrollTop = messages.scrollHeight; }
     }
   }catch(e){bubble.textContent = '[Errore di connessione]'}
@@ -411,21 +683,18 @@ async function sendQuestion(){
 sendBtn.addEventListener('click', sendQuestion);
 userInput.addEventListener('keydown', e=>{ if(e.key==='Enter'&&!e.shiftKey){ e.preventDefault(); sendQuestion(); } });
 
-// Auth modal handlers
 authSubmit.addEventListener('click', async ()=>{
   const first = (authFirst.value||'').trim();
   const last = (authLast.value||'').trim();
-  // validation for simple name format (letters, spaces, accents, hyphen, apostrophe)
   function validName(n){ return /^[A-Za-zÀ-ÖØ-öø-ÿ\s'\-]+$/.test(n); }
   if(!first){ alert('Il nome è obbligatorio'); authFirst.focus(); return }
   if(!validName(first) || (last && !validName(last))){ alert('Nome non valido: usa solo lettere, spazi, apostrofi e trattini.'); return }
   currentUser = last ? `${first} ${last}` : first;
   localStorage.setItem('tpl_user', currentUser);
   refreshUserDisplay();
-  // Inizializza una nuova sessione vuota per questo login
   currentSession = null;
   renderHistory();
-  try{ await fetch('http://127.0.0.1:8001/api/telemetry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({user:currentUser, session: currentSession, event:'login',detail:'web:modal'})}); }catch(e){}
+  try{ await fetch('http://127.0.0.1:8000/api/telemetry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({user:currentUser, session: currentSession, event:'login',detail:'web:modal'})}); }catch(e){}
   hideAuth();
 });
 

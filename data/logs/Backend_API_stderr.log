@@ -386,3 +386,79 @@ INFO:     Started server process [7760]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Program Files\Python310\lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\__main__.py", line 4, in <module>
+    uvicorn.main()
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\click\core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\click\core.py", line 1445, in main
+    rv = self.invoke(ctx)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\click\core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\click\core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\main.py", line 441, in main
+    run(
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\main.py", line 609, in run
+    config.load_app()
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\config.py", line 415, in load_app
+    return import_from_string(self.app)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\importer.py", line 22, in import_from_string
+    raise exc from None
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\importer.py", line 19, in import_from_string
+    module = importlib.import_module(module_str)
+  File "C:\Program Files\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "D:\prova_git\PCTO\prova_1\backend\api_server.py", line 3, in <module>
+    from models import QuestionRequest
+ModuleNotFoundError: No module named 'models'
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Program Files\Python310\lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\__main__.py", line 4, in <module>
+    uvicorn.main()
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\click\core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\click\core.py", line 1445, in main
+    rv = self.invoke(ctx)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\click\core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\click\core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\main.py", line 441, in main
+    run(
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\main.py", line 609, in run
+    config.load_app()
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\config.py", line 415, in load_app
+    return import_from_string(self.app)
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\importer.py", line 22, in import_from_string
+    raise exc from None
+  File "C:\Users\gabriele.londero.bearzi\AppData\Roaming\Python\Python310\site-packages\uvicorn\importer.py", line 19, in import_from_string
+    module = importlib.import_module(module_str)
+  File "C:\Program Files\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "D:\prova_git\PCTO\prova_1\backend\api_server.py", line 3, in <module>
+    from models import QuestionRequest
+ModuleNotFoundError: No module named 'models'
+INFO:     Started server process [4156]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)

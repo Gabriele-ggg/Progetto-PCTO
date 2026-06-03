@@ -2011,3 +2011,2173 @@ INFO:     127.0.0.1:50001 - "GET /api/status HTTP/1.1" 200 OK
 [DEBUG] set_model called: 'rule-based'
 [INFO] Modello impostato: rule-based
 INFO:     127.0.0.1:64560 - "GET /api/status HTTP/1.1" 200 OK
+ERRORE ALL'AVVIO DEL BACKEND: NameError("name 'initialize_system' is not defined")
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:65413 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     Started server process [9832]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+ERRORE ALL'AVVIO DEL BACKEND: NameError("name 'initialize_system' is not defined")
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:64832 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     Started server process [19152]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+ERRORE ALL'AVVIO DEL BACKEND: NameError("name 'initialize_system' is not defined")
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:64577 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     Started server process [15864]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+ERRORE ALL'AVVIO DEL BACKEND: NameError("name 'initialize_system' is not defined")
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:49355 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54376 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54376 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54376 - "GET /api/telemetry/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54376 - "GET /api/telemetry/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61582 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61582 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61582 - "OPTIONS /ask HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='ciao'
+INFO:     127.0.0.1:61582 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61582 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62104 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62104 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62104 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Started server process [18664]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+ERRORE ALL'AVVIO DEL BACKEND: NameError("name 'initialize_system' is not defined")
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:62683 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56629 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56629 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     Started server process [10872]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+ERRORE ALL'AVVIO DEL BACKEND: NameError("name 'initialize_system' is not defined")
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:59367 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50778 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49847 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49847 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49847 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     Started server process [14404]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+ERRORE ALL'AVVIO DEL BACKEND: NameError("name 'initialize_system' is not defined")
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:57563 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     Started server process [14568]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:50150 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 20:35:50,924 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 20:35:50,925 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 20:35:50,938 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [15204]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+[DEBUG] set_model called: 'rule-based'
+[INFO] Modello impostato: rule-based
+INFO:     127.0.0.1:55761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65437 - "GET /api/docs HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:65437 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50811 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50811 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='rule-based' question='come posso arrivare a cividale partendo da udine?'
+INFO:     127.0.0.1:50689 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50689 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     Shutting down
+[DEBUG] 2026-06-03 20:44:20,392 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 20:44:20,392 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 20:44:20,407 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [22564]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:50802 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54673 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54673 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54673 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54673 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54673 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54673 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54673 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 20:44:28,497 httpcore.connection: connect_tcp.started host='chroma-onnx-models.s3.amazonaws.com' port=443 local_address=None timeout=5.0 socket_options=None
+[DEBUG] 2026-06-03 20:44:28,633 httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001A0C9714830>
+[DEBUG] 2026-06-03 20:44:28,633 httpcore.connection: start_tls.started ssl_context=<ssl.SSLContext object at 0x000001A0C96C0EF0> server_hostname='chroma-onnx-models.s3.amazonaws.com' timeout=5.0
+[DEBUG] 2026-06-03 20:44:28,748 httpcore.connection: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001A0C966F250>
+[DEBUG] 2026-06-03 20:44:28,749 httpcore.http11: send_request_headers.started request=<Request [b'GET']>
+[DEBUG] 2026-06-03 20:44:28,749 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 20:44:28,749 httpcore.http11: send_request_body.started request=<Request [b'GET']>
+[DEBUG] 2026-06-03 20:44:28,749 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 20:44:28,749 httpcore.http11: receive_response_headers.started request=<Request [b'GET']>
+[DEBUG] 2026-06-03 20:44:28,899 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'x-amz-id-2', b'b//hlD4GV68F+JkG/1CJBPzQhK0CgvNXqyuMPDzWtSfoc579zRYUBlkUvSNvtIWAvPHhuJQuOyo='), (b'x-amz-request-id', b'0XDSYGB357DXXWRM'), (b'Date', b'Wed, 03 Jun 2026 18:44:28 GMT'), (b'Last-Modified', b'Thu, 30 Mar 2023 23:38:52 GMT'), (b'ETag', b'"c319dd36af997be17ffb4669076b13a0-5"'), (b'x-amz-server-side-encryption', b'AES256'), (b'x-amz-version-id', b'null'), (b'Accept-Ranges', b'bytes'), (b'Content-Type', b'application/x-gzip'), (b'Content-Length', b'83178821'), (b'Server', b'AmazonS3')])
+[INFO] 2026-06-03 20:44:28,900 httpx: HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso arrivare a cividale partendo da udine?'
+
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   0%|          | 0.00/79.3M [00:00<?, ?iB/s][DEBUG] 2026-06-03 20:44:28,904 httpcore.http11: receive_response_body.started request=<Request [b'GET']>
+
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   0%|          | 17.0k/79.3M [00:00<09:06, 152kiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   0%|          | 70.0k/79.3M [00:00<04:04, 339kiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   0%|          | 172k/79.3M [00:00<02:22, 582kiB/s] 
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   0%|          | 308k/79.3M [00:00<01:41, 818kiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   1%|          | 444k/79.3M [00:00<01:26, 954kiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   1%|          | 580k/79.3M [00:00<01:18, 1.05MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   1%|          | 732k/79.3M [00:00<01:09, 1.19MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   1%|1         | 850k/79.3M [00:00<01:09, 1.19MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   1%|1         | 0.98M/79.3M [00:01<01:05, 1.26MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   1%|1         | 1.13M/79.3M [00:01<01:01, 1.34MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   2%|1         | 1.26M/79.3M [00:01<01:00, 1.34MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   2%|1         | 1.41M/79.3M [00:01<00:57, 1.41MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   2%|1         | 1.58M/79.3M [00:01<00:54, 1.50MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   2%|2         | 1.75M/79.3M [00:01<00:52, 1.54MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   2%|2         | 1.93M/79.3M [00:01<00:49, 1.64MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   3%|2         | 2.09M/79.3M [00:01<00:48, 1.66MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   3%|2         | 2.29M/79.3M [00:01<00:48, 1.68MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   3%|3         | 2.51M/79.3M [00:01<00:43, 1.83MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   3%|3         | 2.68M/79.3M [00:02<00:44, 1.81MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   4%|3         | 2.91M/79.3M [00:02<00:41, 1.93MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   4%|3         | 3.12M/79.3M [00:02<00:40, 1.99MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   4%|4         | 3.36M/79.3M [00:02<00:37, 2.11MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   5%|4         | 3.57M/79.3M [00:02<00:37, 2.14MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   5%|4         | 3.79M/79.3M [00:02<00:36, 2.17MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   5%|5         | 4.00M/79.3M [00:02<00:36, 2.17MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   5%|5         | 4.21M/79.3M [00:02<00:47, 1.64MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   6%|5         | 4.45M/79.3M [00:03<00:43, 1.81MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   6%|6         | 4.80M/79.3M [00:03<00:35, 2.19MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   6%|6         | 5.03M/79.3M [00:03<00:37, 2.10MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   7%|6         | 5.24M/79.3M [00:03<00:36, 2.11MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   7%|6         | 5.45M/79.3M [00:03<00:36, 2.10MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   7%|7         | 5.66M/79.3M [00:03<00:36, 2.11MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   7%|7         | 5.86M/79.3M [00:03<00:36, 2.11MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   8%|7         | 6.08M/79.3M [00:03<00:35, 2.14MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   8%|7         | 6.28M/79.3M [00:03<00:36, 2.09MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   8%|8         | 6.49M/79.3M [00:03<00:36, 2.09MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   8%|8         | 6.69M/79.3M [00:04<00:36, 2.10MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   9%|8         | 6.91M/79.3M [00:04<00:35, 2.13MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   9%|8         | 7.11M/79.3M [00:04<00:35, 2.13MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:   9%|9         | 7.34M/79.3M [00:04<00:34, 2.19MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  10%|9         | 7.57M/79.3M [00:04<00:33, 2.23MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  10%|9         | 7.80M/79.3M [00:04<00:33, 2.26MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  10%|#         | 8.04M/79.3M [00:04<00:32, 2.30MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  10%|#         | 8.27M/79.3M [00:04<00:32, 2.32MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  11%|#         | 8.50M/79.3M [00:04<00:31, 2.35MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  11%|#1        | 8.73M/79.3M [00:05<00:41, 1.78MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  11%|#1        | 9.08M/79.3M [00:05<00:32, 2.24MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  12%|#1        | 9.32M/79.3M [00:05<00:35, 2.08MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  12%|#2        | 9.54M/79.3M [00:05<00:36, 1.99MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  12%|#2        | 9.74M/79.3M [00:05<00:36, 2.01MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  13%|#2        | 9.94M/79.3M [00:05<00:36, 1.98MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  13%|#2        | 10.1M/79.3M [00:05<00:38, 1.87MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  13%|#3        | 10.3M/79.3M [00:05<00:41, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  13%|#3        | 10.5M/79.3M [00:06<00:40, 1.79MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  14%|#3        | 10.7M/79.3M [00:06<00:38, 1.87MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  14%|#3        | 10.9M/79.3M [00:06<00:38, 1.87MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  14%|#3        | 11.1M/79.3M [00:06<00:38, 1.88MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  14%|#4        | 11.3M/79.3M [00:06<00:35, 1.98MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  14%|#4        | 11.5M/79.3M [00:06<00:36, 1.95MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  15%|#4        | 11.7M/79.3M [00:06<00:37, 1.91MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  15%|#4        | 11.9M/79.3M [00:06<00:36, 1.95MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  15%|#5        | 12.1M/79.3M [00:06<00:37, 1.87MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  15%|#5        | 12.3M/79.3M [00:07<00:38, 1.81MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  16%|#5        | 12.5M/79.3M [00:07<00:37, 1.86MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  16%|#6        | 12.7M/79.3M [00:07<00:36, 1.92MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  16%|#6        | 12.9M/79.3M [00:07<00:35, 1.98MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  17%|#6        | 13.1M/79.3M [00:07<00:36, 1.90MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  17%|#6        | 13.3M/79.3M [00:07<00:36, 1.90MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  17%|#7        | 13.5M/79.3M [00:07<00:35, 1.93MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  17%|#7        | 13.7M/79.3M [00:07<00:36, 1.89MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  17%|#7        | 13.9M/79.3M [00:07<00:36, 1.88MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  18%|#7        | 14.1M/79.3M [00:07<00:34, 1.97MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  18%|#7        | 14.3M/79.3M [00:08<00:34, 1.97MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  18%|#8        | 14.5M/79.3M [00:08<00:34, 1.97MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  18%|#8        | 14.7M/79.3M [00:08<00:34, 1.98MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  19%|#8        | 14.9M/79.3M [00:08<00:34, 1.97MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  19%|#8        | 15.1M/79.3M [00:08<00:33, 2.00MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  19%|#9        | 15.3M/79.3M [00:08<00:33, 2.00MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  19%|#9        | 15.5M/79.3M [00:08<00:33, 1.98MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  20%|#9        | 15.6M/79.3M [00:08<00:34, 1.94MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  20%|#9        | 15.8M/79.3M [00:08<00:34, 1.91MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  20%|##        | 16.0M/79.3M [00:09<00:33, 1.97MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  20%|##        | 16.2M/79.3M [00:09<00:34, 1.93MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  21%|##        | 16.5M/79.3M [00:09<00:32, 2.04MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  21%|##        | 16.7M/79.3M [00:09<00:32, 2.02MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  21%|##1       | 16.9M/79.3M [00:09<00:32, 2.02MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  22%|##1       | 17.1M/79.3M [00:09<00:31, 2.06MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  22%|##1       | 17.3M/79.3M [00:09<00:33, 1.95MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  22%|##2       | 17.5M/79.3M [00:09<00:31, 2.03MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  22%|##2       | 17.7M/79.3M [00:09<00:30, 2.09MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  23%|##2       | 17.9M/79.3M [00:10<00:37, 1.74MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  23%|##2       | 18.2M/79.3M [00:10<00:31, 2.05MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  23%|##3       | 18.4M/79.3M [00:10<00:32, 1.95MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  23%|##3       | 18.6M/79.3M [00:10<00:35, 1.81MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  24%|##3       | 18.8M/79.3M [00:10<00:35, 1.80MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  24%|##3       | 19.0M/79.3M [00:10<00:35, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  24%|##4       | 19.1M/79.3M [00:10<00:39, 1.59MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  24%|##4       | 19.3M/79.3M [00:10<00:39, 1.59MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  25%|##4       | 19.5M/79.3M [00:10<00:37, 1.68MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  25%|##4       | 19.7M/79.3M [00:11<00:35, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  25%|##5       | 19.8M/79.3M [00:11<00:35, 1.74MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  25%|##5       | 20.0M/79.3M [00:11<00:35, 1.78MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  25%|##5       | 20.2M/79.3M [00:11<00:37, 1.66MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  26%|##5       | 20.4M/79.3M [00:11<00:41, 1.48MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  26%|##5       | 20.6M/79.3M [00:11<00:34, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  26%|##6       | 20.8M/79.3M [00:11<00:38, 1.60MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  26%|##6       | 21.0M/79.3M [00:11<00:39, 1.54MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  27%|##6       | 21.1M/79.3M [00:12<00:39, 1.56MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  27%|##6       | 21.3M/79.3M [00:12<00:40, 1.51MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  27%|##7       | 21.4M/79.3M [00:12<00:40, 1.50MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  27%|##7       | 21.6M/79.3M [00:12<00:39, 1.55MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  27%|##7       | 21.7M/79.3M [00:12<00:40, 1.49MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  28%|##7       | 21.9M/79.3M [00:12<00:40, 1.49MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  28%|##7       | 22.0M/79.3M [00:12<00:41, 1.45MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  28%|##7       | 22.2M/79.3M [00:12<00:39, 1.50MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  28%|##8       | 22.3M/79.3M [00:12<00:39, 1.51MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  28%|##8       | 22.5M/79.3M [00:13<00:38, 1.53MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  29%|##8       | 22.7M/79.3M [00:13<00:37, 1.60MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  29%|##8       | 22.9M/79.3M [00:13<00:36, 1.62MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  29%|##9       | 23.0M/79.3M [00:13<00:37, 1.59MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  29%|##9       | 23.2M/79.3M [00:13<00:37, 1.57MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  29%|##9       | 23.3M/79.3M [00:13<00:37, 1.58MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  30%|##9       | 23.5M/79.3M [00:13<00:36, 1.62MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  30%|##9       | 23.7M/79.3M [00:13<00:37, 1.57MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  30%|###       | 23.8M/79.3M [00:13<00:36, 1.57MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  30%|###       | 24.0M/79.3M [00:13<00:36, 1.58MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  30%|###       | 24.2M/79.3M [00:14<00:35, 1.62MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  31%|###       | 24.3M/79.3M [00:14<00:35, 1.61MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  31%|###       | 24.5M/79.3M [00:14<00:35, 1.61MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  31%|###1      | 24.6M/79.3M [00:14<00:34, 1.65MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  31%|###1      | 24.8M/79.3M [00:14<00:33, 1.70MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  31%|###1      | 25.0M/79.3M [00:14<00:34, 1.66MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  32%|###1      | 25.2M/79.3M [00:14<00:34, 1.66MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  32%|###1      | 25.4M/79.3M [00:14<00:32, 1.72MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  32%|###2      | 25.5M/79.3M [00:14<00:32, 1.72MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  32%|###2      | 25.7M/79.3M [00:15<00:32, 1.72MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  33%|###2      | 25.8M/79.3M [00:15<00:33, 1.67MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  33%|###2      | 26.0M/79.3M [00:15<00:33, 1.65MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  33%|###3      | 26.2M/79.3M [00:15<00:32, 1.71MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  33%|###3      | 26.4M/79.3M [00:15<00:32, 1.72MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  34%|###3      | 26.6M/79.3M [00:15<00:31, 1.77MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  34%|###3      | 26.8M/79.3M [00:15<00:31, 1.74MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  34%|###3      | 27.0M/79.3M [00:15<00:32, 1.69MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  34%|###4      | 27.1M/79.3M [00:15<00:32, 1.66MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  34%|###4      | 27.3M/79.3M [00:16<00:33, 1.65MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  35%|###4      | 27.5M/79.3M [00:16<00:32, 1.66MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  35%|###4      | 27.7M/79.3M [00:16<00:32, 1.65MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  35%|###5      | 27.9M/79.3M [00:16<00:32, 1.68MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  35%|###5      | 28.1M/79.3M [00:16<00:31, 1.73MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  36%|###5      | 28.3M/79.3M [00:16<00:30, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  36%|###5      | 28.4M/79.3M [00:16<00:30, 1.72MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  36%|###6      | 28.6M/79.3M [00:16<00:32, 1.64MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  36%|###6      | 28.8M/79.3M [00:16<00:31, 1.69MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  37%|###6      | 29.0M/79.3M [00:17<00:30, 1.74MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  37%|###6      | 29.1M/79.3M [00:17<00:30, 1.71MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  37%|###6      | 29.3M/79.3M [00:17<00:31, 1.66MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  37%|###7      | 29.5M/79.3M [00:17<00:31, 1.65MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  37%|###7      | 29.6M/79.3M [00:17<00:30, 1.72MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  38%|###7      | 29.8M/79.3M [00:17<00:31, 1.67MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  38%|###7      | 30.0M/79.3M [00:17<00:31, 1.64MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  38%|###8      | 30.2M/79.3M [00:17<00:30, 1.69MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  38%|###8      | 30.4M/79.3M [00:17<00:28, 1.80MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  38%|###8      | 30.5M/79.3M [00:18<00:29, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  39%|###8      | 30.7M/79.3M [00:18<00:28, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  39%|###8      | 30.9M/79.3M [00:18<00:29, 1.74MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  39%|###9      | 31.1M/79.3M [00:18<00:29, 1.70MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  39%|###9      | 31.2M/79.3M [00:18<00:28, 1.75MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  40%|###9      | 31.4M/79.3M [00:18<00:30, 1.65MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  40%|###9      | 31.6M/79.3M [00:18<00:30, 1.66MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  40%|###9      | 31.7M/79.3M [00:18<00:33, 1.47MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  40%|####      | 31.9M/79.3M [00:18<00:29, 1.69MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  40%|####      | 32.1M/79.3M [00:19<00:33, 1.46MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  41%|####      | 32.3M/79.3M [00:19<00:34, 1.44MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  41%|####      | 32.4M/79.3M [00:19<00:33, 1.47MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  41%|####1     | 32.6M/79.3M [00:19<00:33, 1.46MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  41%|####1     | 32.7M/79.3M [00:19<00:34, 1.41MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  41%|####1     | 32.8M/79.3M [00:19<00:36, 1.34MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  42%|####1     | 33.0M/79.3M [00:19<00:35, 1.37MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  42%|####1     | 33.2M/79.3M [00:19<00:32, 1.48MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  42%|####2     | 33.3M/79.3M [00:19<00:31, 1.54MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  42%|####2     | 33.5M/79.3M [00:20<00:31, 1.55MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  42%|####2     | 33.7M/79.3M [00:20<00:30, 1.55MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  43%|####2     | 33.8M/79.3M [00:20<00:29, 1.59MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  43%|####2     | 34.0M/79.3M [00:20<00:29, 1.61MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  43%|####3     | 34.2M/79.3M [00:20<00:29, 1.62MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  43%|####3     | 34.3M/79.3M [00:20<00:27, 1.69MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  43%|####3     | 34.5M/79.3M [00:20<00:27, 1.69MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  44%|####3     | 34.7M/79.3M [00:20<00:27, 1.70MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  44%|####3     | 34.8M/79.3M [00:20<00:27, 1.70MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  44%|####4     | 35.0M/79.3M [00:21<00:27, 1.72MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  44%|####4     | 35.2M/79.3M [00:21<00:27, 1.70MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  45%|####4     | 35.3M/79.3M [00:21<00:27, 1.70MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  45%|####4     | 35.5M/79.3M [00:21<00:27, 1.69MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  45%|####4     | 35.7M/79.3M [00:21<00:26, 1.73MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  45%|####5     | 35.9M/79.3M [00:21<00:25, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  45%|####5     | 36.0M/79.3M [00:21<00:25, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  46%|####5     | 36.2M/79.3M [00:21<00:25, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  46%|####5     | 36.4M/79.3M [00:21<00:24, 1.81MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  46%|####6     | 36.6M/79.3M [00:21<00:24, 1.80MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  46%|####6     | 36.8M/79.3M [00:22<00:25, 1.77MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  47%|####6     | 36.9M/79.3M [00:22<00:25, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  47%|####6     | 37.1M/79.3M [00:22<00:24, 1.78MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  47%|####7     | 37.3M/79.3M [00:22<00:24, 1.83MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  47%|####7     | 37.5M/79.3M [00:22<00:25, 1.74MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  48%|####7     | 37.7M/79.3M [00:22<00:23, 1.85MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  48%|####7     | 37.9M/79.3M [00:22<00:24, 1.77MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  48%|####7     | 38.1M/79.3M [00:22<00:24, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  48%|####8     | 38.3M/79.3M [00:22<00:24, 1.75MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  48%|####8     | 38.5M/79.3M [00:23<00:24, 1.78MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  49%|####8     | 38.7M/79.3M [00:23<00:23, 1.83MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  49%|####8     | 38.8M/79.3M [00:23<00:23, 1.82MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  49%|####9     | 39.0M/79.3M [00:23<00:23, 1.79MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  49%|####9     | 39.2M/79.3M [00:23<00:23, 1.80MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  50%|####9     | 39.4M/79.3M [00:23<00:23, 1.79MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  50%|####9     | 39.5M/79.3M [00:23<00:23, 1.80MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  50%|#####     | 39.7M/79.3M [00:23<00:23, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  50%|#####     | 39.9M/79.3M [00:23<00:23, 1.75MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  50%|#####     | 40.0M/79.3M [00:23<00:23, 1.74MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  51%|#####     | 40.2M/79.3M [00:24<00:22, 1.80MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  51%|#####     | 40.4M/79.3M [00:24<00:23, 1.74MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  51%|#####1    | 40.6M/79.3M [00:24<00:23, 1.75MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  51%|#####1    | 40.8M/79.3M [00:24<00:22, 1.78MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  52%|#####1    | 40.9M/79.3M [00:24<00:23, 1.74MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  52%|#####1    | 41.1M/79.3M [00:24<00:22, 1.80MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  52%|#####2    | 41.3M/79.3M [00:24<00:23, 1.70MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  52%|#####2    | 41.5M/79.3M [00:24<00:23, 1.68MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  52%|#####2    | 41.6M/79.3M [00:24<00:23, 1.67MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  53%|#####2    | 41.8M/79.3M [00:25<00:22, 1.75MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  53%|#####2    | 42.0M/79.3M [00:25<00:21, 1.82MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  53%|#####3    | 42.2M/79.3M [00:25<00:22, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  53%|#####3    | 42.4M/79.3M [00:25<00:22, 1.73MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  54%|#####3    | 42.6M/79.3M [00:25<00:22, 1.75MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  54%|#####3    | 42.7M/79.3M [00:25<00:25, 1.48MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  54%|#####4    | 43.0M/79.3M [00:25<00:22, 1.71MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  54%|#####4    | 43.1M/79.3M [00:25<00:23, 1.62MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  55%|#####4    | 43.3M/79.3M [00:25<00:23, 1.58MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  55%|#####4    | 43.4M/79.3M [00:26<00:25, 1.48MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  55%|#####4    | 43.6M/79.3M [00:26<00:24, 1.53MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  55%|#####5    | 43.7M/79.3M [00:26<00:24, 1.51MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  55%|#####5    | 43.9M/79.3M [00:26<00:24, 1.50MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  56%|#####5    | 44.0M/79.3M [00:26<00:24, 1.49MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  56%|#####5    | 44.2M/79.3M [00:26<00:25, 1.44MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  56%|#####5    | 44.4M/79.3M [00:26<00:23, 1.53MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  56%|#####6    | 44.5M/79.3M [00:26<00:24, 1.51MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  56%|#####6    | 44.7M/79.3M [00:26<00:24, 1.46MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  57%|#####6    | 44.8M/79.3M [00:27<00:24, 1.50MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  57%|#####6    | 45.0M/79.3M [00:27<00:23, 1.54MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  57%|#####6    | 45.2M/79.3M [00:27<00:23, 1.53MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  57%|#####7    | 45.4M/79.3M [00:27<00:22, 1.58MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  57%|#####7    | 45.5M/79.3M [00:27<00:22, 1.56MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  58%|#####7    | 45.7M/79.3M [00:27<00:22, 1.56MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  58%|#####7    | 45.8M/79.3M [00:27<00:22, 1.58MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  58%|#####7    | 46.0M/79.3M [00:27<00:20, 1.67MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  58%|#####8    | 46.2M/79.3M [00:27<00:20, 1.69MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  58%|#####8    | 46.3M/79.3M [00:28<00:20, 1.65MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  59%|#####8    | 46.5M/79.3M [00:28<00:20, 1.64MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  59%|#####8    | 46.7M/79.3M [00:28<00:21, 1.63MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  59%|#####9    | 46.8M/79.3M [00:28<00:25, 1.36MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  59%|#####9    | 47.1M/79.3M [00:28<00:20, 1.68MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  60%|#####9    | 47.2M/79.3M [00:28<00:20, 1.61MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  60%|#####9    | 47.4M/79.3M [00:28<00:22, 1.46MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  60%|#####9    | 47.5M/79.3M [00:28<00:23, 1.43MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  60%|######    | 47.7M/79.3M [00:29<00:24, 1.33MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  60%|######    | 47.8M/79.3M [00:29<00:25, 1.29MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  60%|######    | 48.0M/79.3M [00:29<00:24, 1.35MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  61%|######    | 48.1M/79.3M [00:29<00:24, 1.36MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  61%|######    | 48.3M/79.3M [00:29<00:22, 1.46MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  61%|######1   | 48.5M/79.3M [00:29<00:23, 1.39MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  61%|######1   | 48.6M/79.3M [00:29<00:23, 1.38MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  61%|######1   | 48.7M/79.3M [00:29<00:23, 1.37MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  62%|######1   | 48.9M/79.3M [00:29<00:24, 1.32MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  62%|######1   | 49.0M/79.3M [00:30<00:23, 1.33MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  62%|######1   | 49.2M/79.3M [00:30<00:23, 1.37MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  62%|######2   | 49.3M/79.3M [00:30<00:22, 1.43MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  62%|######2   | 49.5M/79.3M [00:30<00:21, 1.46MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  63%|######2   | 49.6M/79.3M [00:30<00:22, 1.41MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  63%|######2   | 49.7M/79.3M [00:30<00:22, 1.41MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  63%|######2   | 49.9M/79.3M [00:30<00:22, 1.40MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  63%|######3   | 50.1M/79.3M [00:30<00:20, 1.47MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  63%|######3   | 50.2M/79.3M [00:30<00:20, 1.51MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  64%|######3   | 50.4M/79.3M [00:31<00:20, 1.50MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  64%|######3   | 50.5M/79.3M [00:31<00:20, 1.49MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  64%|######3   | 50.7M/79.3M [00:31<00:19, 1.51MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  64%|######4   | 50.8M/79.3M [00:31<00:19, 1.51MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  64%|######4   | 51.0M/79.3M [00:31<00:18, 1.58MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  65%|######4   | 51.2M/79.3M [00:31<00:18, 1.56MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  65%|######4   | 51.3M/79.3M [00:31<00:19, 1.54MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  65%|######4   | 51.5M/79.3M [00:31<00:19, 1.51MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  65%|######5   | 51.6M/79.3M [00:31<00:18, 1.57MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  65%|######5   | 51.8M/79.3M [00:31<00:18, 1.56MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  65%|######5   | 51.9M/79.3M [00:32<00:18, 1.57MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  66%|######5   | 52.1M/79.3M [00:32<00:17, 1.61MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  66%|######5   | 52.3M/79.3M [00:32<00:18, 1.55MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  66%|######6   | 52.4M/79.3M [00:32<00:18, 1.55MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  66%|######6   | 52.6M/79.3M [00:32<00:18, 1.55MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  66%|######6   | 52.7M/79.3M [00:32<00:19, 1.46MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  67%|######6   | 52.9M/79.3M [00:32<00:19, 1.44MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  67%|######6   | 53.0M/79.3M [00:32<00:19, 1.43MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  67%|######7   | 53.2M/79.3M [00:33<00:18, 1.50MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  67%|######7   | 53.4M/79.3M [00:33<00:18, 1.51MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  68%|######7   | 53.6M/79.3M [00:33<00:17, 1.56MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  68%|######7   | 53.7M/79.3M [00:33<00:17, 1.52MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  68%|######7   | 53.9M/79.3M [00:33<00:17, 1.48MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  68%|######8   | 54.0M/79.3M [00:33<00:18, 1.47MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  68%|######8   | 54.2M/79.3M [00:33<00:17, 1.53MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  69%|######8   | 54.4M/79.3M [00:33<00:17, 1.50MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  69%|######8   | 54.5M/79.3M [00:33<00:17, 1.48MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  69%|######8   | 54.7M/79.3M [00:33<00:16, 1.53MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  69%|######9   | 54.8M/79.3M [00:34<00:16, 1.56MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  69%|######9   | 55.0M/79.3M [00:34<00:16, 1.56MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  70%|######9   | 55.2M/79.3M [00:34<00:17, 1.49MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  70%|######9   | 55.3M/79.3M [00:34<00:16, 1.52MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  70%|######9   | 55.5M/79.3M [00:34<00:15, 1.58MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  70%|#######   | 55.7M/79.3M [00:34<00:15, 1.58MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  70%|#######   | 55.8M/79.3M [00:34<00:15, 1.62MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  71%|#######   | 56.0M/79.3M [00:34<00:15, 1.60MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  71%|#######   | 56.1M/79.3M [00:34<00:15, 1.57MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  71%|#######   | 56.3M/79.3M [00:35<00:14, 1.64MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  71%|#######1  | 56.5M/79.3M [00:35<00:14, 1.68MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  71%|#######1  | 56.7M/79.3M [00:35<00:14, 1.66MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  72%|#######1  | 56.8M/79.3M [00:35<00:14, 1.63MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  72%|#######1  | 57.0M/79.3M [00:35<00:13, 1.68MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  72%|#######2  | 57.2M/79.3M [00:35<00:13, 1.68MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  72%|#######2  | 57.3M/79.3M [00:35<00:13, 1.66MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  72%|#######2  | 57.5M/79.3M [00:35<00:13, 1.65MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  73%|#######2  | 57.7M/79.3M [00:35<00:14, 1.59MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  73%|#######2  | 57.8M/79.3M [00:36<00:14, 1.58MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  73%|#######3  | 58.0M/79.3M [00:36<00:12, 1.72MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  73%|#######3  | 58.2M/79.3M [00:36<00:12, 1.77MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  74%|#######3  | 58.4M/79.3M [00:36<00:12, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  74%|#######3  | 58.6M/79.3M [00:36<00:12, 1.79MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  74%|#######4  | 58.7M/79.3M [00:36<00:12, 1.79MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  74%|#######4  | 58.9M/79.3M [00:36<00:12, 1.72MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  74%|#######4  | 59.1M/79.3M [00:36<00:12, 1.70MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  75%|#######4  | 59.3M/79.3M [00:36<00:11, 1.78MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  75%|#######5  | 59.5M/79.3M [00:37<00:11, 1.87MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  75%|#######5  | 59.7M/79.3M [00:37<00:11, 1.87MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  76%|#######5  | 59.9M/79.3M [00:37<00:10, 1.91MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  76%|#######5  | 60.1M/79.3M [00:37<00:10, 1.95MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  76%|#######6  | 60.3M/79.3M [00:37<00:09, 2.01MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  76%|#######6  | 60.5M/79.3M [00:37<00:09, 2.01MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  77%|#######6  | 60.7M/79.3M [00:37<00:09, 2.06MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  77%|#######6  | 61.0M/79.3M [00:37<00:09, 2.08MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  77%|#######7  | 61.2M/79.3M [00:37<00:09, 2.07MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  77%|#######7  | 61.4M/79.3M [00:37<00:09, 2.04MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  78%|#######7  | 61.6M/79.3M [00:38<00:08, 2.20MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  78%|#######7  | 61.8M/79.3M [00:38<00:08, 2.18MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  78%|#######8  | 62.0M/79.3M [00:38<00:10, 1.78MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  79%|#######8  | 62.4M/79.3M [00:38<00:08, 2.18MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  79%|#######8  | 62.6M/79.3M [00:38<00:08, 2.05MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  79%|#######9  | 62.8M/79.3M [00:38<00:08, 1.97MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  79%|#######9  | 63.0M/79.3M [00:38<00:08, 1.96MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  80%|#######9  | 63.2M/79.3M [00:38<00:08, 1.92MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  80%|#######9  | 63.4M/79.3M [00:39<00:08, 1.91MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  80%|########  | 63.6M/79.3M [00:39<00:08, 1.87MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  80%|########  | 63.8M/79.3M [00:39<00:08, 1.89MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  81%|########  | 63.9M/79.3M [00:39<00:08, 1.89MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  81%|########  | 64.2M/79.3M [00:39<00:08, 1.98MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  81%|########1 | 64.3M/79.3M [00:39<00:08, 1.95MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  81%|########1 | 64.5M/79.3M [00:39<00:07, 1.95MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  82%|########1 | 64.7M/79.3M [00:39<00:08, 1.87MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  82%|########1 | 64.9M/79.3M [00:39<00:07, 1.95MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  82%|########2 | 65.1M/79.3M [00:39<00:07, 2.03MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  82%|########2 | 65.3M/79.3M [00:40<00:07, 2.02MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  83%|########2 | 65.5M/79.3M [00:40<00:07, 2.04MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  83%|########2 | 65.8M/79.3M [00:40<00:07, 2.01MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  83%|########3 | 66.0M/79.3M [00:40<00:06, 2.02MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  83%|########3 | 66.2M/79.3M [00:40<00:07, 1.97MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  84%|########3 | 66.4M/79.3M [00:40<00:06, 2.07MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  84%|########3 | 66.6M/79.3M [00:40<00:06, 2.12MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  84%|########4 | 66.8M/79.3M [00:40<00:06, 2.09MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  84%|########4 | 67.0M/79.3M [00:40<00:06, 2.05MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  85%|########4 | 67.2M/79.3M [00:41<00:06, 1.97MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  85%|########4 | 67.4M/79.3M [00:41<00:08, 1.49MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  85%|########5 | 67.7M/79.3M [00:41<00:07, 1.70MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  86%|########5 | 68.0M/79.3M [00:41<00:05, 2.05MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  86%|########5 | 68.2M/79.3M [00:41<00:05, 1.99MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  86%|########6 | 68.4M/79.3M [00:41<00:06, 1.83MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  86%|########6 | 68.6M/79.3M [00:41<00:06, 1.85MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  87%|########6 | 68.8M/79.3M [00:41<00:06, 1.79MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  87%|########6 | 68.9M/79.3M [00:42<00:06, 1.75MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  87%|########7 | 69.1M/79.3M [00:42<00:06, 1.76MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  87%|########7 | 69.3M/79.3M [00:42<00:05, 1.80MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  88%|########7 | 69.5M/79.3M [00:42<00:05, 1.82MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  88%|########7 | 69.6M/79.3M [00:42<00:05, 1.78MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  88%|########8 | 69.8M/79.3M [00:42<00:05, 1.78MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  88%|########8 | 70.0M/79.3M [00:42<00:05, 1.86MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  89%|########8 | 70.2M/79.3M [00:42<00:04, 1.91MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  89%|########8 | 70.4M/79.3M [00:42<00:05, 1.84MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  89%|########8 | 70.6M/79.3M [00:43<00:05, 1.82MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  89%|########9 | 70.8M/79.3M [00:43<00:04, 1.86MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  89%|########9 | 71.0M/79.3M [00:43<00:04, 1.92MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  90%|########9 | 71.2M/79.3M [00:43<00:04, 1.96MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  90%|########9 | 71.4M/79.3M [00:43<00:04, 1.91MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  90%|######### | 71.6M/79.3M [00:43<00:04, 1.95MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  90%|######### | 71.8M/79.3M [00:43<00:04, 1.97MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  91%|######### | 72.0M/79.3M [00:43<00:03, 1.96MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  91%|######### | 72.2M/79.3M [00:43<00:03, 1.93MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  91%|#########1| 72.3M/79.3M [00:43<00:03, 1.89MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  91%|#########1| 72.6M/79.3M [00:44<00:03, 1.92MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  92%|#########1| 72.8M/79.3M [00:44<00:03, 1.99MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  92%|#########2| 73.0M/79.3M [00:44<00:03, 2.00MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  92%|#########2| 73.2M/79.3M [00:44<00:03, 2.02MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  93%|#########2| 73.4M/79.3M [00:44<00:03, 2.04MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  93%|#########2| 73.6M/79.3M [00:44<00:02, 2.03MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  93%|#########3| 73.8M/79.3M [00:44<00:02, 2.00MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  93%|#########3| 74.0M/79.3M [00:44<00:02, 2.05MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  94%|#########3| 74.2M/79.3M [00:44<00:02, 2.03MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  94%|#########3| 74.4M/79.3M [00:45<00:02, 2.00MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  94%|#########4| 74.6M/79.3M [00:45<00:02, 2.05MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  94%|#########4| 74.8M/79.3M [00:45<00:02, 2.04MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  95%|#########4| 75.0M/79.3M [00:45<00:02, 2.03MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  95%|#########4| 75.2M/79.3M [00:45<00:02, 1.97MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  95%|#########5| 75.4M/79.3M [00:45<00:02, 1.96MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  95%|#########5| 75.6M/79.3M [00:45<00:02, 1.93MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  96%|#########5| 75.8M/79.3M [00:45<00:01, 1.94MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  96%|#########5| 76.0M/79.3M [00:45<00:01, 2.02MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  96%|#########6| 76.2M/79.3M [00:45<00:01, 1.95MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  96%|#########6| 76.4M/79.3M [00:46<00:01, 1.94MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  97%|#########6| 76.6M/79.3M [00:46<00:01, 1.58MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  97%|#########6| 76.9M/79.3M [00:46<00:01, 1.91MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  97%|#########7| 77.0M/79.3M [00:46<00:01, 1.80MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  97%|#########7| 77.2M/79.3M [00:46<00:01, 1.67MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  98%|#########7| 77.4M/79.3M [00:46<00:01, 1.62MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  98%|#########7| 77.6M/79.3M [00:46<00:01, 1.45MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  98%|#########7| 77.7M/79.3M [00:47<00:01, 1.48MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  98%|#########8| 77.9M/79.3M [00:47<00:01, 1.42MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  98%|#########8| 78.0M/79.3M [00:47<00:01, 1.33MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  98%|#########8| 78.1M/79.3M [00:47<00:00, 1.31MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  99%|#########8| 78.3M/79.3M [00:47<00:00, 1.28MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  99%|#########8| 78.4M/79.3M [00:47<00:00, 1.26MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  99%|#########8| 78.5M/79.3M [00:47<00:00, 1.29MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  99%|#########9| 78.6M/79.3M [00:47<00:00, 1.28MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  99%|#########9| 78.8M/79.3M [00:47<00:00, 1.33MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz:  99%|#########9| 78.9M/79.3M [00:48<00:00, 1.28MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz: 100%|#########9| 79.0M/79.3M [00:48<00:00, 1.25MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz: 100%|#########9| 79.2M/79.3M [00:48<00:00, 1.25MiB/s]
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz: 100%|#########9| 79.3M/79.3M [00:48<00:00, 1.30MiB/s][DEBUG] 2026-06-03 20:45:17,243 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 20:45:17,243 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 20:45:17,243 httpcore.http11: response_closed.complete
+
+C:\Users\gabry\.cache\chroma\onnx_models\all-MiniLM-L6-v2\onnx.tar.gz: 100%|##########| 79.3M/79.3M [00:48<00:00, 1.72MiB/s]
+[DEBUG] 2026-06-03 20:45:17,244 httpcore.connection: close.started
+[DEBUG] 2026-06-03 20:45:17,244 httpcore.connection: close.complete
+[DEBUG] 2026-06-03 20:45:17,819 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] 2026-06-03 20:45:18,094 httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+[DEBUG] 2026-06-03 20:45:18,094 httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001A0C9AA9450>
+[DEBUG] 2026-06-03 20:45:18,094 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:45:18,094 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 20:45:18,094 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:45:18,095 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 20:45:18,095 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:45:34,157 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 18:45:34 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 20:45:34,157 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 20:45:34,157 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:45:40,532 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 20:45:40,533 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 20:45:40,533 httpcore.http11: response_closed.complete
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+INFO:     127.0.0.1:54673 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58931 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51127 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51258 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57529 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49856 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54673 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51127 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49856 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58931 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57529 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57529 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61343 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63038 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60211 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 20:48:14,455 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 20:48:14,455 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 20:48:14,469 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [22448]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:54130 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 20:48:25,022 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] 2026-06-03 20:48:25,267 httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+[DEBUG] 2026-06-03 20:48:25,268 httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001A3D8BD9550>
+[DEBUG] 2026-06-03 20:48:25,268 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:48:25,268 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 20:48:25,268 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:48:25,268 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 20:48:25,268 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:48:37,291 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 18:48:37 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 20:48:37,292 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 20:48:37,292 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:48:42,665 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 20:48:42,665 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 20:48:42,666 httpcore.http11: response_closed.complete
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso arrivare a cividale partendo da udine?'
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+INFO:     127.0.0.1:51226 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55583 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55583 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51696 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54205 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54205 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54205 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54205 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54205 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59382 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59382 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63781 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63781 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63781 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63781 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63781 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57154 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63781 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63781 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63781 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63781 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63781 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63781 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51273 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49187 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51069 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62039 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50946 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58725 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62109 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62109 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62109 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62109 - "POST /api/telemetry HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 20:57:52,508 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 20:57:52,508 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 20:57:52,523 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [26072]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:53918 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56897 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56897 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56897 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56897 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52776 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56897 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56897 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62202 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62202 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62202 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62202 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62202 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62202 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62202 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 20:58:31,457 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] 2026-06-03 20:58:31,763 httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+[DEBUG] 2026-06-03 20:58:31,763 httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000013F9276D7F0>
+[DEBUG] 2026-06-03 20:58:31,763 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:58:31,764 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 20:58:31,764 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:58:31,764 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 20:58:31,764 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:58:48,254 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 18:58:48 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 20:58:48,255 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 20:58:48,255 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:58:54,315 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 20:58:54,315 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 20:58:54,315 httpcore.http11: response_closed.complete
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso arrivare a cividale partendo da udine?'
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+INFO:     127.0.0.1:62202 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62202 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62202 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49919 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 20:59:34,026 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] 2026-06-03 20:59:34,281 httpcore.connection: close.started
+[DEBUG] 2026-06-03 20:59:34,281 httpcore.connection: close.complete
+[DEBUG] 2026-06-03 20:59:34,281 httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+[DEBUG] 2026-06-03 20:59:34,282 httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000013F91E84F50>
+[DEBUG] 2026-06-03 20:59:34,282 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:59:34,282 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 20:59:34,282 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:59:34,282 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 20:59:34,282 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:59:46,180 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 18:59:46 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 20:59:46,180 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 20:59:46,180 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 20:59:54,254 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 20:59:54,255 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 20:59:54,255 httpcore.http11: response_closed.complete
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso arrivare a gemona del friuli partendo da udine'
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+INFO:     127.0.0.1:50472 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50256 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50256 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57486 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50472 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55438 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55438 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58123 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:03:07,533 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 21:03:07,533 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 21:03:07,548 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [20612]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:59627 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56523 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56523 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56523 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56523 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56523 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56523 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56523 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56523 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56523 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso arrivare a gemona del friuli partendo da udine'
+INFO:     127.0.0.1:56523 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56523 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56523 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58978 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58978 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     Shutting down
+[DEBUG] 2026-06-03 21:10:25,000 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 21:10:25,000 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 21:10:25,015 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [23756]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56457 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:10:55,779 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] 2026-06-03 21:10:56,025 httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+[DEBUG] 2026-06-03 21:10:56,026 httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000017B689056A0>
+[DEBUG] 2026-06-03 21:10:56,026 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 21:10:56,027 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 21:10:56,027 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 21:10:56,027 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 21:10:56,027 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 21:11:11,470 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 19:11:11 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 21:11:11,471 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 21:11:11,471 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 21:11:15,905 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 21:11:15,905 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 21:11:15,906 httpcore.http11: response_closed.complete
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso arrivare a gemona del friuli partendo da udine'
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+INFO:     127.0.0.1:54490 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56795 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54811 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54811 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54811 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54811 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54811 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54811 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54811 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54811 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54811 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:14:59,731 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 21:14:59,731 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 21:14:59,747 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [15448]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:52680 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61771 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52483 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61771 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61771 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61771 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61771 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61771 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:15:04,136 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] 2026-06-03 21:15:04,479 httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+[DEBUG] 2026-06-03 21:15:04,479 httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001A897A856A0>
+[DEBUG] 2026-06-03 21:15:04,479 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 21:15:04,479 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 21:15:04,479 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 21:15:04,480 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 21:15:04,480 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 21:15:16,223 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 19:15:16 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 21:15:16,223 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 21:15:16,224 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 21:15:19,244 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 21:15:19,244 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 21:15:19,245 httpcore.http11: response_closed.complete
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso arrivare a gemona del friuli partendo da udine'
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+INFO:     127.0.0.1:61771 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61449 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61771 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61449 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61449 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61449 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61449 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61449 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57641 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57593 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58845 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:19:57,608 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 21:19:57,608 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 21:19:57,624 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [18664]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:54991 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65085 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49602 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51623 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51623 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55415 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55415 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55415 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55415 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55415 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55415 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55415 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55415 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:20:15,270 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso arrivare a gemona del friuli partendo da udine'
+[ERROR] /api/chat: name '_parse_itinerary_query' is not defined
+INFO:     127.0.0.1:55415 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:55415 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58601 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58601 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58601 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58601 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58601 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58601 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58601 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58601 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52732 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58601 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58601 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58601 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:23:03,318 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 21:23:03,319 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 21:23:03,333 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [19636]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:58423 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51918 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61393 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51444 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51444 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51444 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51444 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51444 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51444 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51444 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65157 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65157 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:23:26,388 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso andare a gemona del friuli partendo da udine'
+[ERROR] /api/chat: name 'find_direct_itineraries' is not defined
+INFO:     127.0.0.1:51444 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51444 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58182 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58182 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58182 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58182 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58182 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58182 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53728 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58182 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58182 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51400 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51400 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51400 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51400 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:24:57,952 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 21:24:57,952 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 21:24:57,967 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [25704]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:50823 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53105 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55784 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55784 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:25:07,438 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso andare a gemona del friuli partendo da udine'
+INFO:     127.0.0.1:60761 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60761 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:25:19,424 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso andare a cividale partendo da udine'
+[ERROR] /api/chat: name 'find_multi_transfer_itineraries' is not defined
+INFO:     127.0.0.1:54860 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57887 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54365 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53002 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53002 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63264 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63264 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63264 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51445 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63264 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:28:51,057 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 21:28:51,057 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 21:28:51,072 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [11716]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+
+--- INIZIALIZZAZIONE SISTEMA: Generazione Dati ---
+[OK] trasporti.json valido. Riuso.
+[OK] ChromaDB pronta.
+
+--- SISTEMA PRONTO PER L'INFERENZA ---
+INFO:     127.0.0.1:49263 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59470 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51909 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51909 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:29:04,666 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso andare a gemona del friuli partendo da udine'
+INFO:     127.0.0.1:49260 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57073 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:29:16,465 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso andare a cividale partendo da udine'
+[ERROR] /api/chat: name 'find_multi_transfer_itineraries' is not defined
+INFO:     127.0.0.1:49260 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56815 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59183 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:31:51,762 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso andare a gemona del friuli partendo da udine'
+INFO:     127.0.0.1:55075 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 21:31:56,779 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso andare a cividale partendo da udine'
+[ERROR] /api/chat: name 'find_multi_transfer_itineraries' is not defined
+INFO:     127.0.0.1:64518 - "POST /api/chat HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54398 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55075 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52740 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62211 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61119 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53726 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65455 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65455 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62047 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62047 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55746 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51852 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61239 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52147 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61239 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61239 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52585 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52585 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52585 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60446 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60446 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60446 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58892 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58892 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58892 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50847 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50847 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50847 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62879 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62879 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62879 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59708 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59708 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59708 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61286 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55209 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55209 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55209 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52516 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52516 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52516 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56751 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56751 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56751 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56751 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56751 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62315 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62315 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62315 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56751 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56751 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56751 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56751 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62818 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62818 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62159 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53201 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62159 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62159 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65207 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54669 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65207 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65207 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57346 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54858 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57346 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57346 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65020 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50825 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65020 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65020 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53378 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53248 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53248 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53248 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49554 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54065 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49554 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49554 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63163 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63163 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63163 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62375 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62375 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62375 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65437 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65437 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65437 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49922 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49922 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49922 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54493 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54493 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54493 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64543 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64543 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64543 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63650 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53145 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53145 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53145 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58919 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61138 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51071 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51071 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51071 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51071 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51084 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51071 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51071 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51071 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 22:00:27,670 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [15260]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+[INFO] SKIP_INIT=1: salto initialize_system() (dati già generati da demo_runner).
+INFO:     127.0.0.1:63888 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56069 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56069 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "GET /api/telemetry/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56069 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56069 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 22:00:44,055 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 22:00:44,056 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 22:00:44,155 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] 2026-06-03 22:00:44,378 httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+[DEBUG] 2026-06-03 22:00:44,378 httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001DF14835940>
+[DEBUG] 2026-06-03 22:00:44,378 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:00:44,378 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 22:00:44,378 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:00:44,379 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 22:00:44,379 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:01:00,247 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 20:01:00 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 22:01:00,247 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 22:01:00,248 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:01:06,132 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 22:01:06,132 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 22:01:06,132 httpcore.http11: response_closed.complete
+[DEBUG] 2026-06-03 22:01:06,142 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:01:06,142 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 22:01:06,142 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:01:06,142 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 22:01:06,142 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:01:18,861 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 20:01:18 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 22:01:18,861 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 22:01:18,862 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:01:21,987 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 22:01:21,987 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 22:01:21,987 httpcore.http11: response_closed.complete
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso andare a gemona del friuli partendo da udine'
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+[WARN] Hallucination detector found issues: ['missing_category:treni', 'forbidden_category:private_vehicle']
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+INFO:     127.0.0.1:51015 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53863 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56069 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56351 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49900 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62363 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53863 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58583 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52524 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62731 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62731 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52871 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52871 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52871 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52871 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52871 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52871 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51261 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52871 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52871 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52871 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52871 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52871 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49353 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58530 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56753 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 22:10:21,668 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [27168]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+[INFO] SKIP_INIT=1: salto initialize_system() (dati già generati da demo_runner).
+INFO:     127.0.0.1:61757 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55151 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55151 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55151 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55151 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55151 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 22:10:30,770 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 22:10:30,770 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 22:10:30,870 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] 2026-06-03 22:10:31,521 httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+[DEBUG] 2026-06-03 22:10:31,522 httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002D63E7D56A0>
+[DEBUG] 2026-06-03 22:10:31,522 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:10:31,522 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 22:10:31,522 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:10:31,523 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 22:10:31,523 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:10:47,484 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 20:10:47 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 22:10:47,484 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 22:10:47,485 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:10:54,412 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 22:10:54,412 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 22:10:54,412 httpcore.http11: response_closed.complete
+[DEBUG] 2026-06-03 22:10:54,421 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:10:54,421 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 22:10:54,421 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:10:54,421 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 22:10:54,421 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:11:07,263 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 20:11:07 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 22:11:07,263 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 22:11:07,263 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:11:10,160 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 22:11:10,160 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 22:11:10,160 httpcore.http11: response_closed.complete
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso andare a gemona del friuli partendo da udine'
+[WARN] errore calcolo itinerari deterministici: name 'find_multi_transfer_itineraries' is not defined
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+[WARN] Hallucination detector found issues: ['missing_category:treni', 'forbidden_category:private_vehicle', 'unknown_place:Per arrivare a Gemmo', 'unknown_place:Fermo', 'unknown_place:Friuli', 'unknown_place:Venezia Giulia', 'unknown_place:partendo da Udine', 'unknown_place:Partenza', 'unknown_place:Udine', 'unknown_place:Direzione', 'unknown_place:Fermo\n\na', "unknown_place:Prendere l'uscita autostradale", 'unknown_place:Udine', 'unknown_place:Muggiò', 'unknown_place:Procedere sulla A', 'unknown_place:tà di Fermo\nc', 'unknown_place:Inserire la rotta per Fermo', 'unknown_place:Procedere in direzione Fermo', 'unknown_place:Prendere la fermata', 'unknown_place:Fermo Centro', 'unknown_place:Fermo Porta Nuova', 'unknown_place:Da Fermo', 'unknown_place:nte a Gemmo', 'unknown_place:Fermo', "unknown_place:che è l'equivalente locale di Gemmo in", 'unknown_place:Friuli', 'unknown_place:Venezia Giulia', 'unknown_place:Per arrivare a Gemmo partendo da Fermo', 'unknown_place:Direzione', 'unknown_place:Gemmo', 'unknown_place:Friuli', 'unknown_place:Prendere la fermata', 'unknown_place:Fermo Centro', 'unknown_place:Fermo Porta Nuova', 'unknown_place:Prendere un treno direttamente a Gemmo', "unknown_place:che è l'equivalente locale di Gemmo in", 'unknown_place:Friuli', 'unknown_place:Venezia Giulia', 'unknown_place:In alternativa', 'unknown_place:Partenza', 'unknown_place:Udine', 'unknown_place:Direzione', 'unknown_place:Fermo\n\na', "unknown_place:Prendere l'uscita autostradale", 'unknown_place:Udine', 'unknown_place:Muggiò', 'unknown_place:Procedere sulla A', 'unknown_place:tà di Fermo\nc', 'unknown_place:Inserire la rotta per Fermo', 'unknown_place:Procedere in direzione Fermo', 'unknown_place:Prendere la fermata', 'unknown_place:Fermo Centro', 'unknown_place:Fermo Porta Nuova', 'unknown_place:Da Fermo', 'unknown_place:la località di Gemmo', 'unknown_place:Friuli', 'unknown_place:i Gemmo', 'unknown_place:Spero che queste informazioni ti siano', 'unknown_place:Buon viaggio']
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+INFO:     127.0.0.1:55151 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62365 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50158 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56311 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51509 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58393 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62395 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56215 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65449 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63270 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65449 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65449 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50071 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58818 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64318 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64318 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 22:16:09,082 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [24572]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+[INFO] SKIP_INIT=1: salto initialize_system() (dati già generati da demo_runner).
+INFO:     127.0.0.1:53530 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59146 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59146 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59146 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59146 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59146 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59146 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59146 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49448 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49448 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 22:16:19,056 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 22:16:19,056 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 22:16:19,154 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] 2026-06-03 22:16:19,812 httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+[DEBUG] 2026-06-03 22:16:19,813 httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000029E5E3DD940>
+[DEBUG] 2026-06-03 22:16:19,813 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:16:19,813 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 22:16:19,813 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:16:19,814 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 22:16:19,814 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:16:36,082 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 20:16:36 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 22:16:36,083 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 22:16:36,083 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:16:43,169 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 22:16:43,169 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 22:16:43,170 httpcore.http11: response_closed.complete
+[DEBUG] 2026-06-03 22:16:43,178 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:16:43,179 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 22:16:43,179 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:16:43,179 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 22:16:43,179 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:16:56,051 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 20:16:56 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 22:16:56,051 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 22:16:56,052 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:17:01,249 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 22:17:01,249 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 22:17:01,249 httpcore.http11: response_closed.complete
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso andare a gemona del friuli partendo da udine'
+[WARN] errore calcolo itinerari deterministici: name 'find_multi_transfer_itineraries' is not defined
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+[WARN] Hallucination detector found issues: ['missing_category:treni', 'unknown_place:Per andare a Gemmo', 'unknown_place:Famagusta', 'unknown_place:Libano', 'unknown_place:partendo da Udine', 'unknown_place:Di seguito sono riportati i passaggi pr', 'unknown_place:Partenza da Udine', 'unknown_place:Inizia il tuo viaggio a Udine', 'unknown_place:Italia', 'unknown_place:Volo internazionale', "unknown_place:Prendi un volo internazionale per l'aer", 'unknown_place:oporto di Beirut', 'unknown_place:BEY', 'unknown_place:o Damasco', 'unknown_place:DAM', 'unknown_place:in Siria', 'unknown_place:Entrambi gli aeroporti hanno collegamen', 'unknown_place:Arrivo ad Beirut', 'unknown_place:Sirte', 'unknown_place:A seconda del tuo aeroporto di partenza', 'unknown_place:arrivi prima ad Beirut o Sirte', 'unknown_place:Libano', 'unknown_place:Volo internazionale verso Famagusta', 'unknown_place:Da Beirut o Sirte', "unknown_place:l'aeroporto di Nicosia", 'unknown_place:NCA', 'unknown_place:in Cipro', 'unknown_place:Arrivo a Nicosia', 'unknown_place:Aterna al tuo volo finale ad Nicosia', 'unknown_place:Cipro', 'unknown_place:Volo interna verso Famagusta', 'unknown_place:Da Nicosia', 'unknown_place:porto di Larnaca', 'unknown_place:LCA', 'unknown_place:o Paphos', 'unknown_place:PFO', 'unknown_place:a seconda della tua destinazione in Fam', 'unknown_place:Arrivo ad Larnaca', 'unknown_place:Paphos', 'unknown_place:Aterna al tuo volo finale ad Larnaca o', 'unknown_place:Paphos', 'unknown_place:trasferimento per raggiungere Gemmo', 'unknown_place:Famagusta', 'unknown_place:È importante notare che a causa delle', 'unknown_place:sicurezza in Libano e Cipro', 'unknown_place:Inoltre', 'unknown_place:In alcuni casi', 'unknown_place:è possibile prendere un treno da Udine', 'unknown_place:a Trieste e poi un altro treno o autobus', 'unknown_place:di Rijeka', 'unknown_place:Da Rijeka', 'unknown_place:traghetto verso il porto di Neum', 'unknown_place:in Bosnia ed Er']
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+INFO:     127.0.0.1:59146 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49448 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53900 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59146 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58462 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57526 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59146 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53900 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58462 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49448 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55613 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62733 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54345 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54345 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54345 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54345 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /api/status HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 22:19:36,239 asyncio: Using proactor: IocpProactor
+INFO:     Started server process [25336]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Modello Ollama 'granite4:3b' caricato da RAG_LLM_MODEL.
+[INFO] SKIP_INIT=1: salto initialize_system() (dati già generati da demo_runner).
+INFO:     127.0.0.1:56790 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57534 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51840 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57534 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57534 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57534 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51840 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57534 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57534 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51840 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57534 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57534 - "OPTIONS /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59935 - "POST /api/telemetry HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59935 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+[DEBUG] 2026-06-03 22:19:52,563 chromadb.config: Starting component System
+[DEBUG] 2026-06-03 22:19:52,563 chromadb.config: Starting component Posthog
+[DEBUG] 2026-06-03 22:19:52,659 chromadb.utils.embedding_functions.onnx_mini_lm_l6_v2: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
+[DEBUG] 2026-06-03 22:19:53,218 httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+[DEBUG] 2026-06-03 22:19:53,219 httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000182E45E16A0>
+[DEBUG] 2026-06-03 22:19:53,219 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:19:53,219 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 22:19:53,219 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:19:53,220 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 22:19:53,220 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:20:05,890 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 20:20:05 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 22:20:05,890 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 22:20:05,890 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:20:16,681 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 22:20:16,681 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 22:20:16,681 httpcore.http11: response_closed.complete
+[DEBUG] 2026-06-03 22:20:16,690 httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:20:16,690 httpcore.http11: send_request_headers.complete
+[DEBUG] 2026-06-03 22:20:16,690 httpcore.http11: send_request_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:20:16,690 httpcore.http11: send_request_body.complete
+[DEBUG] 2026-06-03 22:20:16,690 httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:20:29,605 httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Wed, 03 Jun 2026 20:20:29 GMT'), (b'Transfer-Encoding', b'chunked')])
+[INFO] 2026-06-03 22:20:29,605 httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[DEBUG] 2026-06-03 22:20:29,605 httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+[DEBUG] 2026-06-03 22:20:33,147 httpcore.http11: receive_response_body.complete
+[DEBUG] 2026-06-03 22:20:33,147 httpcore.http11: response_closed.started
+[DEBUG] 2026-06-03 22:20:33,147 httpcore.http11: response_closed.complete
+[DEBUG] generate_travel_response: SELECTED_MODEL='granite4:3b' question='come posso andare a gemona del friuli partendo da udine'
+[DEBUG] itinerary parse: oq='udine' -> 'campoformido via principe di udine fr. 56 monumento pan', od='gemona del friuli' -> 'gemona via campagnola 47 casa cantoniera'
+[WARN] errore calcolo itinerari deterministici: name 'find_multi_transfer_itineraries' is not defined
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+[WARN] Hallucination detector found issues: ['unknown_place:Per andare a Gemmo', 'unknown_place:Famagusta', 'unknown_place:in Libano', 'unknown_place:partendo da Udine', 'unknown_place:Ecco i passaggi generali per il viaggio', "unknown_place:Preparazione per l'aeroporto", "unknown_place:La prima cosa da fare è arrivare all'", 'unknown_place:Aeroporto Internazionale Marco Polo di V', 'unknown_place:VIE', "unknown_place:che è l'aeroporto più vicino a Udine", 'unknown_place:Corso del volo', 'unknown_place:Dalla sede di partenza in Italia', 'unknown_place:one Libano', 'unknown_place:Poiché Gemmo', 'unknown_place:Famagusta', 'unknown_place:è situata in Libano', 'unknown_place:Aeroporti libanesi', "unknown_place:L'aeroporto più vicino ad Alessandria", 'unknown_place:dove si trova Famagusta', "unknown_place:è l'Aeroporto Internazionale di Alexand", 'unknown_place:AXD', 'unknown_place:Tuttavia', "unknown_place:icino come l'Aeroporto Internazionale di", 'unknown_place:Beirut Rafic Hatem', 'unknown_place:BEY', 'unknown_place:Compagnie aeree', 'unknown_place:Alcune compagnie aeree che operano rott', 'unknown_place:e dirette o a tap verso il Libano includ', 'unknown_place:Royal Jordanian', 'unknown_place:Lufthansa', 'unknown_place:Turkish Airlines', 'unknown_place:Emirates', 'unknown_place:Check', 'unknown_place:Una volta arrivati in Italia', 'unknown_place:Aterno a Gemmo', 'unknown_place:Famagusta', 'unknown_place:Dopo aver completato la sicurezza', 'unknown_place:il volo verso Alessandria o Beirut', 'unknown_place:destinazione finale in Gemmo', 'unknown_place:Nota', 'unknown_place:I dettagli del volo', 'unknown_place:Pertanto', 'unknown_place:Inoltre', 'unknown_place:demia di COVID', 'unknown_place:come vaccinazioni o test RT', 'unknown_place:PCR negativi', 'unknown_place:e nel Libano', 'unknown_place:Consigli aggiuntivi', 'unknown_place:Controlla sempre le linee direttive uff', "unknown_place:iciali dell'Organizzazione Internazional", 'unknown_place:e del Lavoro Aereo', 'unknown_place:IATA', 'unknown_place:e della Direzione Generale della Sicure', 'unknown_place:zza Aerea Italiana', 'unknown_place:DGSA', 'unknown_place:Preparati a sottoporsi a controlli sani', 'unknown_place:inclusi test RT', "unknown_place:PCR negativi prima dell'arrivo nel Liban", 'unknown_place:Verifica le politiche di viaggio del tu', 'unknown_place:o governo riguardo ai viaggi al Libano d', 'unknown_place:Ricorda', 'unknown_place:Queste informazioni sono generali e pot', 'unknown_place:Per un viaggio specifico', 'unknown_place:a aerea diretta verso il Libano o contat', "unknown_place:tare l'ambascia o il consulato del Liban", 'unknown_place:o in Italia per le ultime informazioni']
+[DEBUG] _call_llm: SELECTED_MODEL='granite4:3b'
+INFO:     127.0.0.1:57534 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51840 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49952 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59935 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64447 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57534 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64373 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64519 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56325 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53097 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49671 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59935 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64447 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57534 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64447 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64447 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64447 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64447 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64447 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62439 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62439 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62439 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62439 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62439 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64881 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59265 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52263 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59265 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59265 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59265 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59265 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55107 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53653 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53653 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53653 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53653 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53653 - "GET /api/status HTTP/1.1" 200 OK

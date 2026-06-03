@@ -47,14 +47,9 @@ try:
 except Exception:
     _BS4 = None
 
-try:
-    DB_INSTANCE = initialize_system()
-except Exception as e:
-    print("ERRORE ALL'AVVIO DEL BACKEND:", repr(e))
-    DB_INSTANCE = None
-
-
-# Provider Anthropic rimosso.
+# Non inizializzare automaticamente qui: `initialize_system()` viene chiamato
+# esplicitamente dal server API (`backend.api_server`) durante l'avvio.
+DB_INSTANCE = None
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -128,9 +123,6 @@ SCRAPE_USER_AGENT = "PCTO-Scraper/1.0"
 #
 # Può essere sovrascritto a runtime con set_model() oppure impostato tramite
 # la variabile d'ambiente RAG_LLM_MODEL al lancio del server.
-# Esempi:
-#   RAG_LLM_MODEL=mistral:7b                          → Ollama locale
-#   RAG_LLM_MODEL=rule-based                          → nessun LLM (default)
 SELECTED_MODEL: str = AI_MODEL_TO_USE
 
 # Riferimento globale a un'istanza ChatOllama caricata (solo per provider Ollama)
@@ -141,20 +133,21 @@ def get_selected_model() -> str:
     try:
         return SELECTED_MODEL
     except Exception:
-        return "rule-based"
+        return ""
 
 
 def _init_model_from_env() -> None:
     """Inizializza LOADED_LLM se RAG_LLM_MODEL punta a un modello Ollama."""
     global LOADED_LLM, SELECTED_MODEL
     m = SELECTED_MODEL
-    if m == "rule-based":
-        return  # niente da caricare
+    if not m:
+        print(f"[WARN] Nessun modello selezionato (SELECTED_MODEL vuoto).")
+        return
     if ChatOllama is None:
         print(f"[WARN] RAG_LLM_MODEL={m} ma ChatOllama non disponibile.")
         return
     try:
-        LOADED_LLM = ChatOllama(model=m, temperature=0.2, top_p=0.8)
+        LOADED_LLM = ChatOllama(model=m, temperature=0.0, top_p=1.0)
         print(f"[INFO] Modello Ollama '{m}' caricato da RAG_LLM_MODEL.")
     except Exception as exc:
         print(f"[WARN] Impossibile caricare '{m}' da RAG_LLM_MODEL: {exc}")
@@ -173,31 +166,22 @@ def set_model(model_name: str) -> None:
         set_model("mistral:7b")                          # Ollama locale
     """
     global SELECTED_MODEL, LOADED_LLM, AI_MODEL_TO_USE
-    model_name = (model_name or "rule-based").strip()
+    model_name = (model_name or "").strip()
     print(f"[DEBUG] set_model called: '{model_name}'")
 
     AI_MODEL_TO_USE = model_name
+    SELECTED_MODEL  = model_name
 
-    if model_name == "rule-based":
-        SELECTED_MODEL = "rule-based"
-        LOADED_LLM = None
-        print("[INFO] Modello impostato: rule-based")
-        return
-
-    # Ollama locale
     if ChatOllama is None:
-        print("[WARN] ChatOllama non disponibile; mantengo rule-based")
-        SELECTED_MODEL = "rule-based"
+        print("[WARN] ChatOllama non disponibile; il modello è stato selezionato ma non è possibile caricarlo.")
         LOADED_LLM = None
         return
     try:
-        LOADED_LLM     = ChatOllama(model=model_name, temperature=0.2, top_p=0.8)
+        LOADED_LLM     = ChatOllama(model=model_name, temperature=0.0, top_p=1.0)
         SELECTED_MODEL = model_name
         print(f"[INFO] Modello impostato: {model_name} (provider Ollama)")
     except Exception as exc:
         print(f"[ERROR] Impossibile caricare il modello Ollama '{model_name}': {exc}")
-        # Imposta comunque SELECTED_MODEL così il frontend sa che è stato selezionato
-        # anche se al momento non disponibile
         SELECTED_MODEL = model_name
         print(f"[INFO] Modello '{model_name}' selezionato ma non disponibile al momento")
 
@@ -206,7 +190,7 @@ def _call_llm(
     system_prompt: str,
     user_message: str,
     *,
-    temperature: float = 0.2,
+    temperature: float = 0.0,
 ) -> dict | None:
     """
     Invia un messaggio al modello LLM selezionato e restituisce la risposta con metadati.
@@ -217,13 +201,16 @@ def _call_llm(
     global SELECTED_MODEL, LOADED_LLM
     print(f"[DEBUG] _call_llm: SELECTED_MODEL='{SELECTED_MODEL}'")
 
-    if SELECTED_MODEL == "rule-based":
-        return None
+    if not SELECTED_MODEL:
+        raise Exception(
+            "Nessun modello LLM selezionato. "
+            "Imposta la variabile d'ambiente RAG_LLM_MODEL o seleziona un modello tramite /api/set-model."
+        )
 
-    # ── Provider Ollama ───────────────────────────────────────────────────────
     if ChatOllama is None:
-        print("[WARN] ChatOllama non disponibile.")
-        return None
+        raise Exception(
+            "ChatOllama non disponibile: installa e configura il provider Ollama per caricare il modello LLM."
+        )
 
     try:
         from langchain_core.messages import HumanMessage, SystemMessage
@@ -233,44 +220,76 @@ def _call_llm(
 
     llm = LOADED_LLM
     if llm is None:
-        # Prova a istanziarlo al volo
         try:
-            llm = ChatOllama(model=SELECTED_MODEL, temperature=temperature, top_p=0.8)
+            llm = ChatOllama(model=SELECTED_MODEL, temperature=temperature, top_p=1.0)
             LOADED_LLM = llm
         except Exception as exc:
-            print(f"[WARN] Impossibile creare istanza Ollama per '{SELECTED_MODEL}': {exc}")
-            return None
+            raise Exception(f"Impossibile creare istanza Ollama per '{SELECTED_MODEL}': {exc}")
 
     try:
         messages = [SystemMessage(content=system_prompt), HumanMessage(content=user_message)]
         resp = llm.invoke(messages)
         text = resp.content if hasattr(resp, "content") else str(resp)
-        
-        # Stima approssimativa dei token: media tra parole e caratteri/4
-        words = len(text.split())
-        chars = len(text)
-        tokens_estimate = max(words, max(1, chars // 4))
-        
-        return {"text": text, "tokens": tokens_estimate}
+
+        words  = len(text.split())
+        chars  = len(text)
+        tokens = max(words, max(1, chars // 4))
+
+        return {"text": text, "tokens": tokens}
     except Exception as exc:
-        print(f"[WARN] _call_llm Ollama error: {exc}")
-        return None
+        raise
 
 
-# ─────────────────────────────────────────────────────────────────────────────
-# ROBOTS.TXT – COMMENTATO (le funzioni seguenti sono disabilitate)
-# ─────────────────────────────────────────────────────────────────────────────
-# Eccezioni robots.txt:
-#   - RobotsNotFound: quando robot.txt non è raggiungibile
-#   - DisallowedByRobots: quando robot.txt vieta l'accesso
-#
-# Funzioni disabilitate:
-#   - _get_robots_parser(): recupera e analizza robots.txt
-#   - _check_robots(): verifica che lo scraping sia consentito
-#   - fetch_with_robots(): fetcha URL rispettando robots.txt
-#
-# Motivo: la sezione robots.txt è stata commentata per semplificare l'architettura.
-# ─────────────────────────────────────────────────────────────────────────────
+def _detect_hallucinations(
+    llm_text: str,
+    snippet_text: str | None,
+    available_categories: list[str] | None = None,
+    known_places: set | None = None,
+) -> list[str]:
+    """Semplice rilevatore euristico di allucinazioni.
+    Restituisce una lista di problemi trovati; lista vuota => nessuna anomalia rilevata.
+    """
+    issues = []
+    try:
+        snippet = (snippet_text or "").lower()
+
+        # Orari
+        times         = set(_TIME_PAT.findall(llm_text))
+        snippet_times = set(_TIME_PAT.findall(snippet))
+        for t in times:
+            if t not in snippet_times:
+                issues.append(f"missing_time:{t}")
+
+        # Linee
+        linea_matches = re.findall(r"\blinea\s+([0-9]{1,3}[A-Za-z]?)\b", llm_text, flags=re.I)
+        for ln in linea_matches:
+            if str(ln).lower() not in snippet:
+                issues.append(f"missing_line:{ln}")
+
+        # Categorie proibite
+        text_low = llm_text.lower()
+        if re.search(r"\btreno|treni\b", text_low):
+            cats = [c.lower() for c in (available_categories or [])]
+            if "treni" not in cats:
+                issues.append("missing_category:treni")
+        if re.search(r"\b(auto|macchina|automobile|in auto)\b", text_low):
+            issues.append("forbidden_category:private_vehicle")
+
+        # Luoghi sconosciuti
+        if known_places is not None:
+            tokens = re.findall(r"[A-Za-zÀ-ÖØ-öø-ÿ'\s]{2,40}", llm_text)
+            for tok in tokens:
+                t = tok.strip()
+                if not t:
+                    continue
+                if re.search(r"[A-ZÀ-ÖØ-Þ]", t):
+                    low = t.lower()
+                    if low not in known_places and len(low) > 2:
+                        issues.append(f"unknown_place:{t}")
+
+    except Exception as exc:
+        print(f"[WARN] _detect_hallucinations error: {exc}")
+    return issues
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -283,11 +302,7 @@ _BLOCK_TAGS = {
 
 
 def _extract_text_from_html(html: str) -> str:
-    """
-    Estrae testo significativo dall'HTML.
-
-    Usa BeautifulSoup se disponibile; altrimenti rimuove i tag con regex.
-    """
+    """Estrae testo significativo dall'HTML."""
     if _BS4 is not None:
         try:
             soup = _BS4(html, "html.parser")
@@ -299,41 +314,10 @@ def _extract_text_from_html(html: str) -> str:
         except Exception:
             pass
 
-    # Fallback regex
     text = re.sub(r"<[^>]+>", " ", html)
     text = re.sub(r"&[a-zA-Z0-9#]+;", " ", text)
     text = re.sub(r"\s{2,}", " ", text)
     return text.strip()
-
-
-# ─────────────────────────────────────────────────────────────────────────────
-# FETCH CON ROBOTS.TXT – COMMENTATO
-# ─────────────────────────────────────────────────────────────────────────────
-# Funzione disabilitata: fetch_with_robots(url, allowed_hosts, user_agent, session)
-# Recupera un URL rispettando robots.txt.
-# La richiesta viene eseguita SOLO se:
-#   1. Il sito pubblica un robots.txt raggiungibile (HTTP 200).
-#   2. Il robots.txt permette l'accesso all'URL per l'user_agent.
-#
-# Returns: requests.Response
-# Raises: RobotsNotFound, DisallowedByRobots, requests.HTTPError
-# ─────────────────────────────────────────────────────────────────────────────
-
-
-# ─────────────────────────────────────────────────────────────────────────────
-# SCRAPE & SAVE – COMMENTATO (dipende da robots.txt e fetch_with_robots)
-# ─────────────────────────────────────────────────────────────────────────────
-# Funzione disabilitata: scrape_and_save(target_urls, allowed_hosts, user_agent, json_path, session)
-# Effettua lo scraping dei target_urls rispettando robots.txt e salva i risultati in JSON.
-#
-# Regole:
-#   - Se allowed_hosts è None e SCRAPE_ALLOWED_HOSTS è vuoto,
-#     gli host dei target_urls vengono considerati automaticamente autorizzati.
-#   - Lo scraping di un URL viene saltato se il sito non espone robots.txt
-#     (stato 'no_robots') oppure se robots.txt lo vieta (stato 'disallowed').
-#
-# Returns: (json_path, results) dove results è un dict url -> entry.
-# ─────────────────────────────────────────────────────────────────────────────
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -356,9 +340,6 @@ def init_vector_store(pdf_folder: str):
         client     = chromadb.PersistentClient(path=CHROMA_PATH)
         collection = client.get_collection("my_documents")
         print("[OK] ChromaDB pronta.")
-        
-        # Le circolari saranno caricate on-demand alla prima ricerca
-        
         return collection
     except Exception as exc:
         print(f"[ERROR] Errore inizializzazione ChromaDB: {exc}")
@@ -393,117 +374,132 @@ def pdf_content(pdf_bytes: bytes) -> str:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# SCHOOL CIRCULARS LOADING
+# SCHOOL CIRCULARS – CARICAMENTO IN MEMORIA
 # ─────────────────────────────────────────────────────────────────────────────
-
-# Cache per le circolari scolastiche caricate
-SCHOOL_CIRCULARS_CACHE = {}
+SCHOOL_CIRCULARS_CACHE: dict[str, str] = {}
 CIRCULARS_LOADED = False
 
-def load_school_circulars_simple():
+
+def load_school_circulars_simple() -> None:
     """
     Carica i PDF delle circolari scolastiche dalla cartella pdf/circolari_scuola
     in memoria per ricerca testuale semplice (senza ChromaDB).
     """
     global SCHOOL_CIRCULARS_CACHE, CIRCULARS_LOADED
-    
+
     if CIRCULARS_LOADED:
         return
-    
+
     try:
         circulars_folder = os.path.join(PDF_SOURCE_ROOT, "circolari_scuola")
-        
+
         if not os.path.exists(circulars_folder):
             print(f"[INFO] Cartella circolari non trovata: {circulars_folder}")
             CIRCULARS_LOADED = True
             return
-        
-        pdf_files = [f for f in os.listdir(circulars_folder) if f.lower().endswith('.pdf')]
-        
+
+        pdf_files = [f for f in os.listdir(circulars_folder) if f.lower().endswith(".pdf")]
+
         if not pdf_files:
             print(f"[INFO] Nessun PDF trovato nella cartella circolari: {circulars_folder}")
             CIRCULARS_LOADED = True
             return
-        
+
         print(f"[INFO] Caricamento {len(pdf_files)} circolari scolastiche...")
-        
+
         for pdf_file in pdf_files:
             try:
                 pdf_path = os.path.join(circulars_folder, pdf_file)
-                with open(pdf_path, 'rb') as f:
+                with open(pdf_path, "rb") as f:
                     pdf_bytes = f.read()
-                
                 content = pdf_content(pdf_bytes)
-                
                 if not content.strip():
                     print(f"[WARN] Contenuto vuoto dalla circolare: {pdf_file}")
                     continue
-                
-                # Memorizza il contenuto della circolare nel cache
                 SCHOOL_CIRCULARS_CACHE[pdf_file] = content
                 print(f"[OK] Circolare caricata: {pdf_file}")
-            
             except Exception as e:
                 print(f"[ERROR] Errore caricamento circolare {pdf_file}: {e}")
-        
+
         CIRCULARS_LOADED = True
         print(f"[OK] {len(SCHOOL_CIRCULARS_CACHE)} circolari scolastiche caricate in memoria")
-    
+
     except Exception as e:
         print(f"[ERROR] Errore nel caricamento circolari: {e}")
         CIRCULARS_LOADED = True
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# SCHOOL CIRCULARS SEARCH
+# SCHOOL CIRCULARS – RICERCA
 # ─────────────────────────────────────────────────────────────────────────────
 def search_school_circulars(query: str, max_results: int = 3) -> str:
     """
     Cerca le circolari scolastiche rilevanti per la query.
-    Ritorna un testo formattato con i risultati o una stringa vuota se nessun risultato.
-    Carica le circolari on-demand alla prima ricerca.
+    Tenta prima una ricerca semantica su ChromaDB; se non disponibile,
+    esegue una ricerca testuale sulle circolari caricate in memoria.
+    Ritorna una stringa formattata con i risultati, o stringa vuota se assente.
     """
+    # ── Tentativo 1: ChromaDB (ricerca semantica) ─────────────────────────────
+    if chromadb is not None:
+        try:
+            client = chromadb.PersistentClient(path=CHROMA_PATH)
+            try:
+                collection = client.get_collection("school_circulars")
+            except Exception:
+                print("[INFO] Collezione 'school_circulars' non trovata in ChromaDB.")
+                collection = None
+
+            if collection is not None:
+                results = collection.query(
+                    query_texts=[query],
+                    n_results=max_results,
+                )
+                if results and results.get("documents") and results["documents"][0]:
+                    formatted = "CIRCOLARI SCOLASTICHE RILEVANTI:\n"
+                    for i, doc in enumerate(results["documents"][0], 1):
+                        meta   = results["metadatas"][0][i - 1] if results.get("metadatas") else {}
+                        source = meta.get("source", "Sconosciuta")
+                        formatted += f"\n[{i}] Da: {source}\n{doc[:500]}...\n"
+                    return formatted
+        except Exception as e:
+            print(f"[WARN] Ricerca circolari su ChromaDB fallita: {e}")
+
+    # ── Tentativo 2: ricerca testuale in memoria ──────────────────────────────
     try:
-        # Carica le circolari se non sono state caricate
         load_school_circulars_simple()
-        
+
         if not SCHOOL_CIRCULARS_CACHE:
             return ""
-        
-        # Ricerca semplice per keyword nelle circolari
+
         query_lower = query.lower()
-        results = []
-        
+        results     = []
+
         for filename, content in SCHOOL_CIRCULARS_CACHE.items():
-            # Dividi il contenuto in paragrafi
-            paragraphs = content.split('\n\n')
-            
-            # Cerca paragrafi che contengono parole dalla query
-            matching_paragraphs = []
+            paragraphs = content.split("\n\n")
+            matching   = []
             for para in paragraphs:
-                para_lower = para.lower()
-                # Controlla se il paragrafo contiene almeno una parola significativa dalla query
-                if any(word in para_lower for word in query_lower.split() if len(word) > 2):
-                    matching_paragraphs.append(para.strip())
-            
-            if matching_paragraphs:
-                # Aggiungi i migliori risultati
-                for para in matching_paragraphs[:2]:  # Max 2 paragrafi per circolare
-                    results.append((filename, para[:500]))  # Max 500 caratteri
-        
+                if any(word in para.lower() for word in query_lower.split() if len(word) > 2):
+                    matching.append(para.strip())
+            if matching:
+                for para in matching[:2]:
+                    results.append((filename, para[:500]))
+
         if not results:
             return ""
-        
-        # Formatta i risultati
+
         formatted = "CIRCOLARI SCOLASTICHE RILEVANTI:\n"
         for i, (filename, text) in enumerate(results[:max_results], 1):
             formatted += f"\n[{i}] Da: {filename}\n{text}...\n"
-        
         return formatted
-    
+
     except Exception as e:
-        print(f"[ERROR] Errore ricerca circolari: {e}")
+        print(f"[ERROR] Errore ricerca circolari (testo): {e}")
         return ""
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# PATTERN / NOISE HELPERS
+# ─────────────────────────────────────────────────────────────────────────────
 _TIME_PAT  = re.compile(r"\b(\d{1,2}:\d{2})\b")
 _DIGIT_PAT = re.compile(r"^[\d\s:.,;|\-\/\(\)\[\]]+$")
 
@@ -518,15 +514,15 @@ _NOISE_KEYWORDS = {
 }
 
 _NOISE_PATTERNS = [
-    re.compile(r"^\s*pagina\s*\d+\s*$",              re.I),
-    re.compile(r"^\s*pag\.?\s*\d+\s*(/\s*\d+)?\s*$", re.I),
+    re.compile(r"^\s*pagina\s*\d+\s*$",               re.I),
+    re.compile(r"^\s*pag\.?\s*\d+\s*(/\s*\d+)?\s*$",  re.I),
     re.compile(r"^\s*[-_=*]{3,}\s*$"),
-    re.compile(r"^\s*\[pagina\]\s*$",                 re.I),
-    re.compile(r"^\s*(andata|ritorno)\s*$",           re.I),
-    re.compile(r"^\s*linea\s+\w{1,5}\s*$",            re.I),
+    re.compile(r"^\s*\[pagina\]\s*$",                  re.I),
+    re.compile(r"^\s*(andata|ritorno)\s*$",            re.I),
+    re.compile(r"^\s*linea\s+\w{1,5}\s*$",             re.I),
     re.compile(r"^\s*[A-Z\s]{2,40}\s*$"),
-    re.compile(r"^\s*corse?\s*:",                      re.I),
-    re.compile(r"^\s*fermat[ae]\s*$",                  re.I),
+    re.compile(r"^\s*corse?\s*:",                       re.I),
+    re.compile(r"^\s*fermat[ae]\s*$",                   re.I),
     re.compile(r"^\s*ora\s*$"),
     re.compile(r"^\s*\d{4}\s*$"),
 ]
@@ -575,7 +571,6 @@ def _is_noise_stop(name: str) -> bool:
 
 
 def _ns(linee: list) -> str:
-    """Restituisce una stringa con i numeri di linea separati da virgola."""
     return ", ".join(str(l.get("n", "?")) for l in linee)
 
 
@@ -587,6 +582,9 @@ def _parse_stop(text_part: str, times: list) -> dict:
     }
 
 
+# ─────────────────────────────────────────────────────────────────────────────
+# PDF ROUTE EXTRACTION
+# ─────────────────────────────────────────────────────────────────────────────
 def extract_routes_from_pdf_content(content: str) -> list:
     lines   = content.split("\n")
     fermate = []
@@ -794,13 +792,9 @@ def _detect_direction_from_section(text: str) -> str | None:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# HELPERS GENERAZIONE JSON (estratti per evitare duplicazione)
+# HELPERS GENERAZIONE JSON
 # ─────────────────────────────────────────────────────────────────────────────
 def _merge_stop_fragments(fermate: list) -> list:
-    """
-    Unisce coppie (nome senza orari, orari senza nome) prodotte da split
-    tipografici del PDF.
-    """
     merged: list = []
     i_f = 0
     while i_f < len(fermate):
@@ -829,7 +823,6 @@ def _merge_stop_fragments(fermate: list) -> list:
 
 
 def _clean_fermate(fermate: list, global_stop_names: set) -> list:
-    """Rimuove fermate rumore e applica correzione fuzzy dei nomi."""
     cleaned: list = []
     for f in fermate:
         name = (f.get("n") or "").strip()
@@ -849,7 +842,6 @@ def _clean_fermate(fermate: list, global_stop_names: set) -> list:
 
 
 def _append_section(entry: dict, section_key: str, route_desc: str, fermate: list) -> None:
-    """Aggiunge (o estende) la sezione andata/ritorno di una linea."""
     existing   = entry.get(section_key, {}) or {}
     existing_f = (
         existing.get("f", []) if isinstance(existing.get("f", []), list) else []
@@ -901,8 +893,8 @@ def generate_transport_json(pdf_folder_path: str) -> str:
         else:
             print("[INFO] trasporti.json non trovato. Rigenerazione…")
 
-        linee_dict:       dict[tuple, dict] = {}
-        global_stop_names: set[str]         = set()
+        linee_dict:        dict[tuple, dict] = {}
+        global_stop_names: set[str]          = set()
         categories = ["urbani", "extraurbani", "treni"]
 
         for category in categories:
@@ -1041,7 +1033,7 @@ def generate_transport_json(pdf_folder_path: str) -> str:
 # ─────────────────────────────────────────────────────────────────────────────
 # DATA ACCESS
 # ─────────────────────────────────────────────────────────────────────────────
-def get_time_aware_context(db) -> str:
+def get_time_aware_context() -> str:
     context_text = "General Info."
     try:
         now_local = datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -1078,23 +1070,35 @@ def get_transport_data() -> dict:
 # ─────────────────────────────────────────────────────────────────────────────
 # STOP MATCHING
 # ─────────────────────────────────────────────────────────────────────────────
+def _strip_accents(s: str) -> str:
+    """Rimuove diacritici: 'Gemòna' → 'Gemona', 'Täufers' → 'Taufers'."""
+    import unicodedata
+    return "".join(
+        c for c in unicodedata.normalize("NFD", s)
+        if unicodedata.category(c) != "Mn"
+    )
+
+
 def _normalize_stop_key(name: str) -> str:
     if not isinstance(name, str):
         return ""
     key = name.lower().strip()
     key = re.sub(r"[\(\)\[\],;:\"\'\\/]+", " ", key)
     key = re.sub(r"\s+", " ", key).strip()
+    key = _strip_accents(key)
     return key
 
 
 def _matches_stop_name(query: str, stop_name: str) -> bool:
-    q     = _normalize_stop_key(query)
-    raw_n = stop_name or ""
+    q       = _normalize_stop_key(query)
+    raw_n   = stop_name or ""
     n_clean = re.sub(r"\(.*?direzion[ei].*?\)", "", raw_n, flags=re.I)
     n_clean = re.sub(r"\bdirezion[ei][:\-\s]*[A-Za-z0-9\s\.\'\-]+", "", n_clean, flags=re.I)
-    n = _normalize_stop_key(n_clean)
+    n       = _normalize_stop_key(n_clean)
     if not q or not n:
         return False
+
+    # Corrispondenza esatta o sottostringa
     if q == n or q in n or n in q:
         return True
 
@@ -1103,6 +1107,7 @@ def _matches_stop_name(query: str, stop_name: str) -> bool:
     if not q_tokens or not n_tokens:
         return False
 
+    # Overlap token esatto
     overlap = set(q_tokens) & set(n_tokens)
     if overlap:
         if len(overlap) >= min(len(q_tokens), len(n_tokens)) / 2:
@@ -1111,7 +1116,121 @@ def _matches_stop_name(query: str, stop_name: str) -> bool:
             if re.search(r"direzion", raw_n or "", re.I):
                 return False
             return True
+
+    # Fuzzy fallback: stringa intera (es. "gemona" vs "gemona del friuli")
+    if difflib.SequenceMatcher(None, q, n).ratio() >= 0.82:
+        return True
+
+    # Fuzzy fallback: token per token (cattura errori tipografici e varianti)
+    for qt in q_tokens:
+        if len(qt) < 4:
+            continue
+        for nt in n_tokens:
+            if len(nt) < 4:
+                continue
+            if difflib.SequenceMatcher(None, qt, nt).ratio() >= 0.85:
+                return True
+
     return False
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# ITINERARY PARSING
+# ─────────────────────────────────────────────────────────────────────────────
+def _parse_itinerary_query(query: str) -> tuple[str, str]:
+    q = query.lower().strip()
+    q = re.sub(r"[\?\!\.]+$", "", q)
+    patterns = [
+        (r"come\s+(?:posso\s+)?arrivare\s+a\s+(.+?)\s+(?:partendo\s+da|da)\s+(.+)", "reverse"),
+        (r"come\s+(?:posso\s+)?andare\s+a\s+(.+?)\s+(?:partendo\s+da|da)\s+(.+)",  "reverse"),
+        (r"voglio\s+andare\s+a\s+(.+?)\s+(?:partendo\s+da|da)\s+(.+)",             "reverse"),
+        (r"arrivare\s+a\s+(.+?)\s+(?:partendo\s+da|da)\s+(.+)",                    "reverse"),
+        (r"(?:per\s+arrivare\s+a|per\s+andare\s+a)\s+(.+?)\s+(?:da|partendo\s+da)\s+(.+)", "reverse"),
+        (r"(?:partendo\s+da|da)\s+(.+?)\s+(?:arrivare\s+a|a)\s+(.+)",              "normal"),
+        (r"^da\s+(.+?)\s+a\s+(.+)$",                                               "normal"),
+        (r"^(.+?)\s+da\s+(.+?)\s+$",                                               "reverse"),
+    ]
+    for pat, order in patterns:
+        m = re.search(pat, q)
+        if m and m.lastindex >= 2:
+            first  = m.group(1).strip().rstrip(" ?.!")
+            second = m.group(2).strip().rstrip(" ?.!")
+            if order == "reverse":
+                return second, first
+            return first, second
+
+    if " da " in q and " a " in q:
+        m = re.search(r"da\s+(.+?)\s+a\s+(.+)", q)
+        if m:
+            return m.group(1).strip(), m.group(2).strip()
+        m = re.search(r"a\s+(.+?)\s+da\s+(.+)", q)
+        if m:
+            return m.group(2).strip(), m.group(1).strip()
+    return "", ""
+
+
+def _raw_times(fermata: dict) -> list[str]:
+    """Restituisce la lista grezza di orari della fermata (ordine originale = ordine corse)."""
+    out = []
+    for t in (fermata.get("o") or []):
+        if not isinstance(t, str):
+            continue
+        m = _TIME_PAT.search(t)
+        if m:
+            out.append(m.group(1))
+    return out
+
+
+def _next_corsa(
+    fermate: list,
+    origin_idx: int,
+    dest_idx: int,
+    now_min: int | None = None,
+) -> tuple[str | None, str | None]:
+    """
+    Trova la prossima corsa disponibile dall'origine alla destinazione.
+
+    Restituisce (orario_partenza, orario_arrivo).
+    L'allineamento è per indice: la N-esima partenza all'origine
+    corrisponde al N-esimo orario alla destinazione nella stessa corsa.
+    Se non c'è più nessuna corsa oggi, restituisce la prima di domani
+    con il suffisso ' (domani)'.
+    """
+    if now_min is None:
+        now     = datetime.now()
+        now_min = now.hour * 60 + now.minute
+
+    times_o = _raw_times(fermate[origin_idx])
+    times_d = _raw_times(fermate[dest_idx])
+
+    if not times_o:
+        return None, None
+
+    first_future: tuple[str | None, str | None] = (None, None)
+    first_ever:   tuple[str | None, str | None] = (None, None)
+
+    for i, t_dep in enumerate(times_o):
+        dep_min = _time_to_minutes(t_dep)
+        if dep_min is None:
+            continue
+        t_arr = times_d[i] if i < len(times_d) else None
+
+        if first_ever == (None, None):
+            first_ever = (t_dep, t_arr)
+
+        if dep_min >= now_min:
+            first_future = (t_dep, t_arr)
+            break
+
+    if first_future != (None, None):
+        return first_future
+    # Nessuna corsa rimasta oggi → restituisce la prima di domani
+    dep, arr = first_ever
+    if dep:
+        dep = dep + " (domani)"
+    if arr:
+        arr = arr + " (domani)"
+    return dep, arr
 
 
 def _find_stop_index_in_fermate(fermate: list, stop_name: str) -> int | None:
@@ -1120,6 +1239,103 @@ def _find_stop_index_in_fermate(fermate: list, stop_name: str) -> int | None:
     for i, f in enumerate(fermate):
         if _matches_stop_name(stop_name, str(f.get("n", "")).strip()):
             return i
+    return None
+
+
+def _stop_exists_in_data(stop_name: str, transport_data: dict) -> bool:
+    """
+    Controlla se una fermata (o un nome simile) esiste EFFETTIVAMENTE
+    nel JSON dei trasporti.  Restituisce True solo se trovata.
+    """
+    if not stop_name or not isinstance(transport_data, dict):
+        return False
+    name_l = stop_name.lower().strip()
+    for linea in transport_data.get("linee", []):
+        for dir_key in ("a", "r"):
+            fermate = ((linea.get(dir_key) or {}).get("f") or [])
+            if not isinstance(fermate, list):
+                continue
+            for f in fermate:
+                if _matches_stop_name(name_l, str(f.get("n", "")).strip()):
+                    return True
+    return False
+
+
+def _resolve_stop_name(query: str, transport_data: dict) -> str | None:
+    """
+    Cerca nel JSON la fermata che meglio corrisponde a 'query' e ne restituisce
+    il nome ESATTO come appare nel JSON (es. 'cividale' → 'Cividale del Friuli').
+
+    Priorità:
+      1. Corrispondenza esatta (case-insensitive, accenti normalizzati)
+      2. Sottostringa: query contenuta nel nome della fermata
+      3. Sottostringa inversa: nome fermata contenuto nella query
+      4. Miglior punteggio difflib tra tutti i token significativi
+
+    Restituisce None se nessuna fermata raggiunge la soglia minima di similarità.
+    """
+    if not query or not isinstance(transport_data, dict):
+        return None
+
+    q_norm = _normalize_stop_key(query)
+    if not q_norm:
+        return None
+
+    best_name:  str | None = None
+    best_score: float      = 0.0
+
+    for linea in transport_data.get("linee", []):
+        for dir_key in ("a", "r"):
+            fermate = ((linea.get(dir_key) or {}).get("f") or [])
+            if not isinstance(fermate, list):
+                continue
+            for f in fermate:
+                raw = str(f.get("n", "")).strip()
+                if not raw:
+                    continue
+                n_norm = _normalize_stop_key(raw)
+
+                # 1. Esatto
+                if q_norm == n_norm:
+                    return raw
+
+                # 2. Sottostringa diretta
+                if q_norm in n_norm:
+                    score = len(q_norm) / max(len(n_norm), 1) + 0.5
+                    if score > best_score:
+                        best_score = score
+                        best_name  = raw
+                    continue
+
+                # 3. Sottostringa inversa
+                if n_norm in q_norm:
+                    score = len(n_norm) / max(len(q_norm), 1) + 0.3
+                    if score > best_score:
+                        best_score = score
+                        best_name  = raw
+                    continue
+
+                # 4. difflib token vs token
+                q_tokens = [t for t in q_norm.split() if t not in _COMMON_LOCATION_WORDS and len(t) >= 3]
+                n_tokens = [t for t in n_norm.split() if t not in _COMMON_LOCATION_WORDS and len(t) >= 3]
+                if q_tokens and n_tokens:
+                    token_scores = [
+                        difflib.SequenceMatcher(None, qt, nt).ratio()
+                        for qt in q_tokens
+                        for nt in n_tokens
+                    ]
+                    score = max(token_scores) if token_scores else 0.0
+                    if score > best_score:
+                        best_score = score
+                        best_name  = raw
+
+    # Soglia minima: evita falsi positivi su nomi brevissimi
+    min_threshold = 0.75 if len(q_norm) >= 5 else 0.90
+    if best_score >= min_threshold:
+        print(f"[DEBUG] _resolve_stop_name: '{query}' → '{best_name}' (score={best_score:.2f})")
+        return best_name
+
+    print(f"[DEBUG] _resolve_stop_name: '{query}' non trovata (best_score={best_score:.2f})")
     return None
 
 
@@ -1164,7 +1380,7 @@ def _normalize_times_list(orari) -> list[str]:
         m = _TIME_PAT.search(t)
         if m:
             vals.append(m.group(1))
-    seen: set[str] = set()
+    seen: set[str]  = set()
     out:  list[str] = []
     for v in vals:
         if v not in seen:
@@ -1187,9 +1403,131 @@ def _upcoming_times(orari, now_min: int | None = None, limit: int = 12) -> list[
 
 
 def _pretty_category(cat: str) -> str:
-    c = (cat or "").lower()
+    c       = (cat or "").lower()
     mapping = {"urbani": "Urbani", "extraurbani": "Extraurbani", "treni": "Treni"}
     return mapping.get(c, cat.capitalize() if cat else "Autobus")
+
+
+def _extract_time_from_question(question: str) -> int | None:
+    if not question:
+        return None
+    m = re.search(r"\b(?:alle|ore)?\s*(\d{1,2}[:.]\d{2}|\d{1,2})\b", question, flags=re.I)
+    if not m:
+        return None
+    t = m.group(1).replace(".", ":")
+    try:
+        if ":" in t:
+            h, mm = t.split(":")
+            h_i = int(h) % 24
+            m_i = int(mm) % 60
+        else:
+            h_i = int(t) % 24
+            m_i = 0
+        return h_i * 60 + m_i
+    except Exception:
+        return None
+
+
+def _format_next_departures_for_llm(
+    transport_data: dict,
+    now_min: int | None = None,
+    max_lines: int = 20,
+) -> str:
+    """Crea un sommario compatto delle prossime partenze per linea."""
+    try:
+        lines  = transport_data.get("linee", []) if isinstance(transport_data, dict) else []
+        parts: list[str] = []
+        count  = 0
+        for l in lines:
+            if count >= max_lines:
+                break
+            n   = l.get("n", "")
+            cat = _pretty_category(l.get("categoria", ""))
+            a   = l.get("a", {}) or {}
+            r   = l.get("r", {}) or {}
+            a_fermate = a.get("f", []) if isinstance(a.get("f", []), list) else []
+            r_fermate = r.get("f", []) if isinstance(r.get("f", []), list) else []
+            a_times   = _upcoming_times(a_fermate[0].get("o", []), now_min=now_min, limit=3) if a_fermate else []
+            r_times   = _upcoming_times(r_fermate[0].get("o", []), now_min=now_min, limit=3) if r_fermate else []
+            a_str     = ",".join(a_times) if a_times else "—"
+            r_str     = ",".join(r_times) if r_times else "—"
+            parts.append(f"Linea {n} [{cat}] - Andata: {a_str} - Ritorno: {r_str}")
+            count += 1
+        if not parts:
+            return ""
+        return "PROSSIME_PARTENZE:\n" + "\n".join(parts)
+    except Exception as exc:
+        print(f"[WARN] format_next_departures_for_llm error: {exc}")
+        return ""
+
+
+def _extract_relevant_transport_snippet(
+    question: str,
+    transport_data: dict,
+    max_items: int = 12,
+) -> str:
+    """Estrae uno snippet compatto delle linee/fermate più rilevanti rispetto alla domanda."""
+    try:
+        q     = (question or "").lower()
+        linee = transport_data.get("linee", []) if isinstance(transport_data, dict) else []
+        snippets: list[str] = []
+
+        # 1) linea esplicita menzionata
+        m = re.search(r"\blinea\s*([0-9]{1,3}[A-Za-z]?)\b", q)
+        if m:
+            target = m.group(1).lstrip("0")
+            for l in linee:
+                n = str(l.get("n", "")).lstrip("0")
+                if n == target:
+                    snippets.append(format_transport_data_for_llm({
+                        "linee":      [l],
+                        "servizio":   transport_data.get("servizio", ""),
+                        "orario_dal": transport_data.get("orario_dal", ""),
+                    }))
+                    break
+
+        # 2) fuzzy search su fermate / descrizioni
+        if not snippets:
+            tokens = [t for t in re.findall(r"[A-Za-zÀ-ÖØ-öø-ÿ0-9]+", q) if len(t) > 3]
+            if tokens:
+                scored: list[tuple[int, dict]] = []
+                for l in linee:
+                    score    = 0
+                    a_desc   = ((l.get("a") or {}).get("p", "") or "").lower()
+                    r_desc   = ((l.get("r") or {}).get("p", "") or "").lower()
+                    combined = f"{a_desc} {r_desc} {str(l.get('n', ''))}"
+                    for t in tokens:
+                        if t.lower() in combined:
+                            score += 1
+                    for dk in ("a", "r"):
+                        for s in ((l.get(dk) or {}).get("f", []) or []):
+                            name = str(s.get("n", "")).lower()
+                            for t in tokens:
+                                if t.lower() in name:
+                                    score += 1
+                    if score:
+                        scored.append((score, l))
+                scored.sort(key=lambda x: x[0], reverse=True)
+                for _, l in scored[:max_items]:
+                    snippets.append(format_transport_data_for_llm({
+                        "linee":      [l],
+                        "servizio":   transport_data.get("servizio", ""),
+                        "orario_dal": transport_data.get("orario_dal", ""),
+                    }))
+
+        # 3) fallback: prime N linee
+        if not snippets:
+            for l in linee[:max_items]:
+                snippets.append(format_transport_data_for_llm({
+                    "linee":      [l],
+                    "servizio":   transport_data.get("servizio", ""),
+                    "orario_dal": transport_data.get("orario_dal", ""),
+                }))
+
+        return "\n\n--- RILEVANTI ---\n\n" + "\n\n".join(snippets) if snippets else ""
+    except Exception as exc:
+        print(f"[WARN] extract_relevant_transport_snippet error: {exc}")
+        return ""
 
 
 def _dedupe_fermate(fermate: list) -> list:
@@ -1204,8 +1542,8 @@ def _dedupe_fermate(fermate: list) -> list:
         key  = re.sub(r"\s+", " ", name).lower()
         norm = _normalize_times_list(f.get("o", []) if isinstance(f.get("o", []), list) else [])
         if key in seen:
-            combined        = list(seen[key]["o"]) + list(norm)
-            seen[key]["o"]  = _normalize_times_list(combined)
+            combined       = list(seen[key]["o"]) + list(norm)
+            seen[key]["o"] = _normalize_times_list(combined)
         else:
             seen[key] = {"n": name, "v": f.get("v", ""), "o": norm}
             order.append(key)
@@ -1213,63 +1551,161 @@ def _dedupe_fermate(fermate: list) -> list:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# SCHOOL CIRCULARS SEARCH
-# ─────────────────────────────────────────────────────────────────────────────
-def search_school_circulars(query: str, max_results: int = 3) -> str:
-    """
-    Cerca le circolari scolastiche rilevanti per la query.
-    Ritorna un testo formattato con i risultati o una stringa vuota se nessun risultato.
-    Carica le circolari on-demand alla prima ricerca.
-    """
-    try:
-        if chromadb is None:
-            return ""
-        
-        client = chromadb.PersistentClient(path=CHROMA_PATH)
-        
-        try:
-            collection = client.get_collection("school_circulars")
-        except Exception:
-            # Collezione non esiste ancora - carichiamo le circolari on-demand
-            print("[INFO] Collezione circolari non trovata, caricamento on-demand...")
-            load_school_circulars(client)
-            try:
-                collection = client.get_collection("school_circulars")
-            except Exception:
-                # Nessuna circolare disponibile
-                return ""
-        
-        # Query semantica nella collezione delle circolari
-        results = collection.query(
-            query_texts=[query],
-            n_results=max_results
-        )
-        
-        if not results or not results.get('documents') or not results['documents'][0]:
-            return ""
-        
-        # Formatta i risultati
-        formatted = "CIRCOLARI SCOLASTICHE RILEVANTI:\n"
-        
-        for i, doc in enumerate(results['documents'][0], 1):
-            metadata = results['metadatas'][0][i-1] if results.get('metadatas') else {}
-            source = metadata.get('source', 'Sconosciuta')
-            formatted += f"\n[{i}] Da: {source}\n{doc[:500]}...\n"
-        
-        return formatted
-    
-    except Exception as e:
-        print(f"[ERROR] Errore ricerca circolari: {e}")
-        return ""
-
-
-# ─────────────────────────────────────────────────────────────────────────────
 # ITINERARY SEARCH
 # ─────────────────────────────────────────────────────────────────────────────
+def find_direct_itineraries(origin: str, destination: str, data: dict) -> list:
+    """Trova linee dirette dove origine e destinazione compaiono in ordine."""
+    origin_l = (origin or "").lower().strip()
+    dest_l   = (destination or "").lower().strip()
+    results  = []
+    for linea in data.get("linee", []):
+        for dir_key in ("a", "r"):
+            dir_data = linea.get(dir_key, {}) if isinstance(linea.get(dir_key, {}), dict) else {}
+            fermate  = dir_data.get("f", []) if isinstance(dir_data.get("f", []), list) else []
+            oi       = _find_stop_index_in_fermate(fermate, origin_l)
+            di       = _find_stop_index_in_fermate(fermate, dest_l)
+            if oi is not None and di is not None and oi < di:
+                results.append({
+                    "n":          linea.get("n"),
+                    "categoria":  linea.get("categoria"),
+                    "direction":  dir_key,
+                    "origin_idx": oi,
+                    "dest_idx":   di,
+                    "fermate":    fermate,
+                })
+    return results
 
 
+def find_one_transfer_itineraries(origin: str, destination: str, data: dict) -> list:
+    """Cerca itinerari con un solo trasferimento."""
+    origin_l = (origin or "").lower().strip()
+    dest_l   = (destination or "").lower().strip()
+    linee    = data.get("linee", [])
+    results  = []
+
+    origin_lines: list[dict] = []
+    dest_lines:   list[dict] = []
+    for linea in linee:
+        for dir_key in ("a", "r"):
+            fermate = ((linea.get(dir_key) or {}).get("f") or [])
+            if not isinstance(fermate, list):
+                continue
+            oi = _find_stop_index_in_fermate(fermate, origin_l)
+            di = _find_stop_index_in_fermate(fermate, dest_l)
+            if oi is not None:
+                origin_lines.append({"line": linea, "dir": dir_key, "idx": oi, "fermate": fermate})
+            if di is not None:
+                dest_lines.append({"line": linea, "dir": dir_key, "idx": di, "fermate": fermate})
+
+    for ol in origin_lines:
+        for dl in dest_lines:
+            ol_stops      = ol["fermate"][ol["idx"] + 1:]
+            dl_stops      = dl["fermate"][:dl["idx"]]
+            ol_stop_names = [str(f.get("n", "")).lower() for f in ol_stops]
+            dl_stop_names = [str(f.get("n", "")).lower() for f in dl_stops]
+            common        = set(ol_stop_names) & set(dl_stop_names)
+            if common:
+                transfer_name = next(iter(common))
+                transfer_idx_from = next(
+                    (i for i, f in enumerate(ol["fermate"])
+                     if _matches_stop_name(transfer_name, str(f.get("n", "")))),
+                    None,
+                )
+                transfer_idx_to = next(
+                    (i for i, f in enumerate(dl["fermate"])
+                     if _matches_stop_name(transfer_name, str(f.get("n", "")))),
+                    None,
+                )
+                if (
+                    transfer_idx_from is not None
+                    and transfer_idx_from > ol["idx"]
+                    and transfer_idx_to is not None
+                    and transfer_idx_to < dl["idx"]
+                ):
+                    results.append({
+                        "from_line":         ol["line"],
+                        "from_dir":          ol["dir"],
+                        "from_idx":          ol["idx"],
+                        "to_line":           dl["line"],
+                        "to_dir":            dl["dir"],
+                        "to_idx":            dl["idx"],
+                        "transfer_stop":     transfer_name,
+                        "transfer_idx_from": transfer_idx_from,
+                        "transfer_idx_to":   transfer_idx_to,
+                        "from_segment":      ol["fermate"][ol["idx"]:transfer_idx_from + 1],
+                        "to_segment":        dl["fermate"][transfer_idx_to:dl["idx"] + 1],
+                    })
+    return results
 
 
+def find_multi_transfer_itineraries(
+    origin: str,
+    destination: str,
+    data: dict,
+    max_transfers: int = 3,
+) -> list:
+    """
+    Cerca itinerari con più trasferimenti (fino a max_transfers) usando BFS.
+    Restituisce una lista di percorsi; ogni percorso è una lista di segmenti
+    con chiavi: line, start_stop, end_stop.
+    """
+    origin_l = (origin or "").lower().strip()
+    dest_l   = (destination or "").lower().strip()
+    linee    = data.get("linee", [])
+
+    # Costruisci grafo: stop_name → [(stop_successiva, numero_linea, dir_key)]
+    graph: dict[str, list] = {}
+    for linea in linee:
+        n = linea.get("n", "")
+        for dir_key in ("a", "r"):
+            fermate = ((linea.get(dir_key) or {}).get("f") or [])
+            if not isinstance(fermate, list):
+                continue
+            for idx in range(len(fermate) - 1):
+                f_from = fermate[idx].get("n", "").lower().strip()
+                f_to   = fermate[idx + 1].get("n", "").lower().strip()
+                if f_from and f_to:
+                    graph.setdefault(f_from, []).append((f_to, n, dir_key))
+
+    # BFS
+    queue    = deque()
+    queue.append((origin_l, [], 0))   # (fermata corrente, path, n_trasferimenti)
+    visited  = set()
+    results: list = []
+
+    while queue and len(results) < 3:
+        current_stop, path, transfers = queue.popleft()
+        if transfers > max_transfers:
+            continue
+        state = (current_stop, transfers)
+        if state in visited:
+            continue
+        visited.add(state)
+
+        for next_stop, line_n, dir_key in graph.get(current_stop, []):
+            new_path = path + [{
+                "line":       line_n,
+                "start_stop": current_stop,
+                "end_stop":   next_stop,
+            }]
+            if _matches_stop_name(dest_l, next_stop):
+                results.append(new_path)
+                if len(results) >= 3:
+                    break
+            else:
+                # conta trasferimento se si cambia linea
+                new_transfers = transfers + (
+                    1 if path and path[-1]["line"] != line_n else 0
+                )
+                if new_transfers <= max_transfers:
+                    queue.append((next_stop, new_path, new_transfers))
+
+    return results
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# FORMAT TRANSPORT DATA
+# ─────────────────────────────────────────────────────────────────────────────
 def format_transport_data_for_llm(transport_data: dict) -> str:
     lines = [
         f"SERVIZIO: {transport_data.get('servizio', 'N/A')}",
@@ -1300,82 +1736,272 @@ def format_transport_data_for_llm(transport_data: dict) -> str:
                     orari = []
                 o_str = " | ".join(orari[:12]) if orari else "—"
                 via   = fermata.get("v", "")
-                lines.append(f"    \u2022 {nome}{f' ({via})' if via else ''}: {o_str}")
+                lines.append(f"    • {nome}{f' ({via})' if via else ''}: {o_str}")
             lines.append("")
     return "\n".join(lines)
 
 
+# ─────────────────────────────────────────────────────────────────────────────
+# CHROMADB QUERY HELPER
+# ─────────────────────────────────────────────────────────────────────────────
+def _query_chromadb(question: str, n_results: int = 5) -> str:
+    """
+    Interroga ChromaDB per trovare i documenti semanticamente più vicini alla domanda.
+    Ritorna una stringa formattata con i risultati, o stringa vuota se non disponibile.
+    """
+    if chromadb is None:
+        return ""
+    try:
+        client = chromadb.PersistentClient(path=CHROMA_PATH)
+        try:
+            collection = client.get_collection("my_documents")
+        except Exception:
+            print("[INFO] Collezione 'my_documents' non trovata in ChromaDB.")
+            return ""
+
+        results = collection.query(
+            query_texts=[question],
+            n_results=n_results,
+        )
+        if not results or not results.get("documents") or not results["documents"][0]:
+            return ""
+
+        parts: list[str] = []
+        for i, doc in enumerate(results["documents"][0], 1):
+            meta   = results["metadatas"][0][i - 1] if results.get("metadatas") else {}
+            source = meta.get("source", f"Documento {i}")
+            # Limita la lunghezza per non saturare il context window
+            snippet = doc[:800].strip()
+            parts.append(f"[{i}] {source}:\n{snippet}")
+        return "\n\n".join(parts)
+
+    except Exception as exc:
+        print(f"[WARN] _query_chromadb: {exc}")
+        return ""
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# GENERAZIONE RISPOSTA – ENTRY POINT PRINCIPALE
+# ─────────────────────────────────────────────────────────────────────────────
 def generate_travel_response(
     question: str,
     transport_data: dict,
     context_info: str,
 ) -> dict:
     """
-    Passa la domanda dell'utente all'LLM selezionato fornendo come contesto i dati di trasporto.
-    Ritorna un dizionario: {"response": testo, "tokens": numero_token}
-    Se nessun LLM è configurato (rule-based) restituisce un messaggio di fallback.
+    Genera la risposta alla domanda dell'utente.
+
+    Ogni domanda viene SEMPRE processata dall'LLM; non esistono risposte
+    pre-scritte nel codice. Il modello riceve come contesto:
+      1. I dati strutturati estratti da trasporti.json (linee, fermate, orari)
+      2. I documenti recuperati semanticamente da ChromaDB
+      3. Le circolari scolastiche rilevanti
+      4. Il contesto temporale corrente
+
+    Ritorna: {"response": <testo>, "tokens": <stima>}
     """
     global SELECTED_MODEL, LOADED_LLM
 
-    # Rilegge l'env live nel caso in cui set_model() non sia ancora stato chiamato
-    if SELECTED_MODEL == "rule-based":
-        _env_model = os.environ.get("RAG_LLM_MODEL", "").strip()
-        if _env_model and _env_model != "rule-based":
-            print(f"[INFO] generate_travel_response: RAG_LLM_MODEL='{_env_model}' trovato nell'env live → set_model()")
+    # Sincronizza il modello con la variabile d'ambiente (se cambiata a runtime)
+    _env_model = os.environ.get("RAG_LLM_MODEL", "").strip()
+    if _env_model and _env_model != SELECTED_MODEL:
+        try:
             set_model(_env_model)
+        except Exception as e:
+            print(f"[WARN] Impossibile impostare il modello da env: {e}")
 
-    print(f"[DEBUG] generate_travel_response: SELECTED_MODEL='{SELECTED_MODEL}' question='{question[:60]}'")
+    print(f"[DEBUG] generate_travel_response: question='{question[:80]}'")
 
-    # Nessun LLM configurato: fallback testuale
-    if SELECTED_MODEL == "rule-based":
-        fallback_msg = (
-            "Nessun modello LLM configurato. "
-            "Avvia il sistema con RAG_LLM_MODEL=<nome_modello> oppure "
-            "seleziona un modello dalla sidebar."
+    # ── 0. RISOLUZIONE ITINERARIO VERIFICATA (anti-allucinazione) ────────────
+    # Se la domanda è un itinerario (origine → destinazione):
+    #   a) Verifica che entrambe le fermate esistano nel JSON.
+    #   b) Cerca un collegamento reale con find_direct / find_one_transfer.
+    #   c) Se trovato → risposta strutturata SENZA LLM (zero allucinazioni).
+    #   d) Se non trovato → risposta negativa diretta SENZA LLM.
+    # In nessun caso l'LLM riceve una domanda itinerario con contesto vuoto.
+    _origin, _dest = _parse_itinerary_query(question)
+    print(f"[DEBUG] _parse_itinerary_query → origin='{_origin}' dest='{_dest}'")
+
+    if _origin and _dest:
+        # a) Risolvi i nomi esatti nel JSON (gestisce varianti, accenti, abbreviazioni)
+        _origin_resolved = _resolve_stop_name(_origin, transport_data)
+        _dest_resolved   = _resolve_stop_name(_dest,   transport_data)
+        print(f"[DEBUG] resolved → origin='{_origin_resolved}' dest='{_dest_resolved}'")
+
+        if not _origin_resolved or not _dest_resolved:
+            _missing = []
+            if not _origin_resolved:
+                _missing.append(f'"{_origin}"')
+            if not _dest_resolved:
+                _missing.append(f'"{_dest}"')
+            return {
+                "response": (
+                    f"Non ho trovato la fermata {' e '.join(_missing)} "
+                    "nei dati disponibili. Verifica il nome o contatta "
+                    "direttamente l'azienda di trasporto."
+                ),
+                "tokens": 0,
+            }
+
+        # b) Cerca collegamenti reali usando i nomi esatti
+        direct    = find_direct_itineraries(_origin_resolved, _dest_resolved, transport_data)
+        transfers = find_one_transfer_itineraries(_origin_resolved, _dest_resolved, transport_data) if not direct else []
+        print(f"[DEBUG] itinerari diretti={len(direct)} con_trasferimento={len(transfers)}")
+
+        # c) Collegamento trovato → risposta strutturata, zero LLM
+        if direct or transfers:
+            now     = datetime.now()
+            now_min = now.hour * 60 + now.minute
+            _lines: list[str] = [
+                f"Ecco come andare da {_origin_resolved} a {_dest_resolved}:\n"
+            ]
+            if direct:
+                for it in direct[:3]:
+                    fermate   = it["fermate"]
+                    oi        = it["origin_idx"]
+                    di        = it["dest_idx"]
+                    dep, arr  = _next_corsa(fermate, oi, di, now_min)
+                    seg       = fermate[oi: di + 1]
+                    stops_str = " → ".join(str(f.get("n", "?")) for f in seg)
+                    dep_str   = dep if dep else "—"
+                    arr_str   = arr if arr else "—"
+                    _lines.append(
+                        f"🚌 Linea {it['n']} (diretto)\n"
+                        f"   Percorso: {stops_str}\n"
+                        f"   Prossima partenza da {_origin_resolved}: {dep_str}\n"
+                        f"   Arrivo a {_dest_resolved}: {arr_str}"
+                    )
+            if transfers:
+                for it in transfers[:2]:
+                    f_line = it["from_line"].get("n", "?")
+                    t_line = it["to_line"].get("n", "?")
+                    xfer   = it["transfer_stop"].title()
+                    dep, xfer_arr = _next_corsa(
+                        it["from_line"].get(it["from_dir"], {}).get("f", []),
+                        it["from_idx"],
+                        it["transfer_idx_from"],
+                        now_min,
+                    )
+                    _, arr = _next_corsa(
+                        it["to_line"].get(it["to_dir"], {}).get("f", []),
+                        it["transfer_idx_to"],
+                        it["to_idx"],
+                        now_min,
+                    )
+                    dep_str      = dep      if dep      else "—"
+                    xfer_arr_str = xfer_arr if xfer_arr else "—"
+                    arr_str      = arr      if arr      else "—"
+                    _lines.append(
+                        f"🚌 Linea {f_line} → cambio a {xfer} → Linea {t_line}\n"
+                        f"   Prossima partenza da {_origin_resolved}: {dep_str}\n"
+                        f"   Arrivo a {xfer}: {xfer_arr_str}\n"
+                        f"   Arrivo a {_dest_resolved}: {arr_str}"
+                    )
+            return {"response": "\n\n".join(_lines), "tokens": 0}
+
+        # d) Nessun collegamento trovato → risposta negativa, zero LLM
+        return {
+            "response": (
+                f"Non ho trovato nessun collegamento diretto né con trasferimento "
+                f"tra {_origin_resolved} e {_dest_resolved} nei dati disponibili. "
+                "Contatta direttamente l'azienda di trasporto per ulteriori informazioni."
+            ),
+            "tokens": 0,
+        }
+
+    # ── 1. Recupera snippet rilevanti dal JSON dei trasporti ──────────────────
+    json_snippet = _extract_relevant_transport_snippet(question, transport_data, max_items=12)
+    print(f"[DEBUG] json_snippet: {len(json_snippet)} caratteri")
+
+    # ── 2. Interroga ChromaDB per contesto semantico ──────────────────────────
+    chroma_snippet = _query_chromadb(question, n_results=5)
+    print(f"[DEBUG] chroma_snippet: {len(chroma_snippet)} caratteri")
+
+    # ── 3. Cerca nelle circolari scolastiche ──────────────────────────────────
+    circulars_snippet = search_school_circulars(question, max_results=3)
+    print(f"[DEBUG] circulars_snippet: {len(circulars_snippet)} caratteri")
+
+    # ── 4. Assembla il contesto completo ─────────────────────────────────────
+    context_parts: list[str] = []
+    if json_snippet:
+        context_parts.append(
+            "=== DATI ORARI E LINEE (trasporti.json) ===\n" + json_snippet
         )
-        return {"response": fallback_msg, "tokens": len(fallback_msg.split())}
+    if chroma_snippet:
+        context_parts.append(
+            "=== DOCUMENTI CORRELATI (vector DB) ===\n" + chroma_snippet
+        )
+    if circulars_snippet:
+        context_parts.append(
+            "=== CIRCOLARI SCOLASTICHE ===\n" + circulars_snippet
+        )
+    if context_info:
+        context_parts.append(
+            "=== CONTESTO TEMPORALE ===\n" + context_info
+        )
 
-    # Costruisce il contesto dei dati di trasporto da passare all'LLM
-    transport_ctx = format_transport_data_for_llm(transport_data)
-    
-    # Ricerca le circolari scolastiche rilevanti
-    circulars_ctx = search_school_circulars(question)
-    
-    # Costruisce il system prompt con dati di trasporto e circolari
-    sys_prompt = (
-        "Sei un assistente di viaggio per il TPL (Trasporto Pubblico Locale) e assistente scolastico.\n"
-        "LINGUA OBBLIGATORIA: Rispondi SEMPRE e SOLO in italiano.\n"
-        "Usa i dati nella sezione DATI TRASPORTI per rispondere a domande su linee, orari e fermate.\n"
-        "Se disponibili, usa anche le CIRCOLARI SCOLASTICHE per rispondere a domande su regolamenti o circolari.\n"
-        "Per domande non riguardanti i trasporti rispondi comunque in modo utile e amichevole.\n\n"
-        "DATI TRASPORTI:\n"
-        + transport_ctx
+    full_context = (
+        "\n\n".join(context_parts)
+        if context_parts
+        else "(Nessun dato disponibile nei database)"
     )
-    
-    # Aggiungi le circolari se trovate
-    if circulars_ctx.strip():
-        sys_prompt += "\n\n" + circulars_ctx
 
-    try:
-        llm_result = _call_llm(sys_prompt, question)
-        if llm_result and isinstance(llm_result, dict):
-            return llm_result
-        elif llm_result and isinstance(llm_result, str):
-            # Compatibilità con vecchio formato
-            return {"response": llm_result, "tokens": len(llm_result.split())}
-        
-        fallback = (
-            "Mi dispiace, il modello non ha prodotto una risposta. "
-            "Prova a riformulare la domanda."
+    # ── 5. Costruisci il system prompt ────────────────────────────────────────
+    system_prompt = (
+        "Sei un assistente specializzato nel trasporto pubblico locale.\n"
+        "Rispondi SEMPRE in italiano.\n\n"
+        "REGOLE ASSOLUTE — non derogabili in nessun caso:\n"
+        "1. Usa ESCLUSIVAMENTE le fermate, le linee e gli orari presenti nel CONTESTO qui sotto.\n"
+        "2. NON inventare MAI fermate, linee, itinerari o orari non presenti nel contesto.\n"
+        "3. Se una fermata o una destinazione NON compare nel contesto, di' esplicitamente "
+        "   che non hai dati su quella fermata e invita l'utente a contattare l'azienda.\n"
+        "4. NON proporre itinerari via treno, automobile o qualsiasi mezzo non documentato "
+        "   nel contesto.\n"
+        "5. Se il contesto non contiene un percorso diretto o con trasferimento tra le due "
+        "   fermate richieste, rispondi: \"Non ho trovato un collegamento tra queste fermate "
+        "   nei dati disponibili.\"\n"
+        "6. Sii conciso: massimo 10 righe, salvo richiesta esplicita di dettagli completi.\n"
+        "7. Quando riporti orari o fermate, elencali in modo ordinato e leggibile.\n\n"
+        f"CONTESTO:\n{full_context}"
+    )
+
+    # ── 6. Verifica disponibilità LLM ────────────────────────────────────────
+    if not SELECTED_MODEL or ChatOllama is None:
+        # Nessun LLM configurato: restituisci il contesto grezzo come fallback
+        print("[WARN] Nessun LLM disponibile, restituzione contesto grezzo.")
+        fallback_text = (
+            json_snippet
+            or chroma_snippet
+            or "Nessun dato trovato per questa domanda. "
+               "Imposta RAG_LLM_MODEL per abilitare le risposte intelligenti."
         )
-        return {"response": fallback, "tokens": len(fallback.split())}
+        return {"response": fallback_text, "tokens": 0}
+
+    # ── 7. Chiama l'LLM ───────────────────────────────────────────────────────
+    try:
+        result = _call_llm(system_prompt, question, temperature=0.0)
+        if result and isinstance(result, dict):
+            text   = (result.get("text") or "").strip()
+            tokens = result.get("tokens", 0)
+            if text:
+                print(f"[DEBUG] LLM response: {len(text)} caratteri, ~{tokens} token")
+                return {"response": text, "tokens": tokens}
     except Exception as exc:
-        import traceback; traceback.print_exc()
-        print(f"[ERROR] generate_travel_response: {exc}")
-        raise HTTPException(status_code=500, detail=f"Errore generazione risposta: {exc}") from exc
+        print(f"[ERROR] LLM generate_travel_response: {exc}")
+
+    # ── 8. Fallback finale ───────────────────────────────────────────────────
+    return {
+        "response": (
+            "Non riesco a elaborare una risposta al momento. "
+            "Verifica che il modello LLM sia correttamente configurato e in esecuzione."
+        ),
+        "tokens": 0,
+    }
 
 
-
+# ─────────────────────────────────────────────────────────────────────────────
+# ENTRY POINT PUBBLICO
+# ─────────────────────────────────────────────────────────────────────────────
 def initialize_system():
     db = init_vector_store(PDF_SOURCE_ROOT)
     print("\n--- SISTEMA PRONTO PER L'INFERENZA ---")
@@ -1383,10 +2009,20 @@ def initialize_system():
 
 
 def generate_answer(question: str) -> str:
+    """
+    Entry point pubblico per la generazione delle risposte.
+    Carica i dati, costruisce il contesto e delega a generate_travel_response.
+    Ritorna sempre una stringa.
+    """
     try:
         transport_data = get_transport_data()
-        context_info   = get_time_aware_context(transport_data)
-        return generate_travel_response(question, transport_data, context_info)
+        context_info   = get_time_aware_context()
+        result         = generate_travel_response(question, transport_data, context_info)
+        # generate_travel_response ritorna sempre un dict {"response": ..., "tokens": ...}
+        if isinstance(result, dict):
+            return result.get("response", "")
+        # Compatibilità con eventuali chiamate che si aspettano una stringa
+        return str(result)
     except Exception as exc:
         print(f"[ERROR] generate_answer: {exc}")
         return "Si è verificato un errore interno. Riprova tra poco."
@@ -1423,14 +2059,14 @@ def unload_model() -> None:
         print(f"[ERROR] unload_model: {exc}")
 
 
+# ─────────────────────────────────────────────────────────────────────────────
+# RISPOSTE GENERICHE (domande non relative al trasporto)
+# ─────────────────────────────────────────────────────────────────────────────
 def _build_generic_system_prompt(context_info: str = "") -> str:
-    """
-    Costruisce il system prompt per risposte generiche.
-    """
     prompt = (
         "Sei un assistente utile, amichevole e informativo.\n"
         "Rispondi sempre in italiano.\n"
-        "Sii breve, chiaro e diritto al punto."
+        "Sii breve, chiaro e diretto al punto."
     )
     if context_info:
         prompt += f"\n\nCONTESTI AGGIUNTIVI:\n{context_info}"
@@ -1440,21 +2076,15 @@ def _build_generic_system_prompt(context_info: str = "") -> str:
 def generate_generic_response(question: str, context_info: str = "") -> str:
     """
     Genera una risposta generica a qualsiasi domanda usando il modello selezionato.
-
-    Usa _call_llm (Ollama o Anthropic in base a SELECTED_MODEL).
     Fallback testuale se nessun LLM è configurato o disponibile.
     """
     try:
         sys_prompt = _build_generic_system_prompt(context_info)
-        result = _call_llm(sys_prompt, question)
-        
-        # Gestisci il nuovo formato dict di _call_llm
+        result     = _call_llm(sys_prompt, question)
         if result and isinstance(result, dict):
             return result.get("text", "")
         elif result and isinstance(result, str):
-            # Compatibilità con vecchio formato
             return result
-        
         return (
             "Mi dispiace, al momento non riesco a dare una risposta dettagliata. "
             "Prova a riformulare la domanda o fornisci più dettagli."
