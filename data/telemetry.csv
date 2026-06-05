@@ -127,3 +127,174 @@
 2026-06-03T23:21:48.030346|api||question|come posso andare a cividale partendo da udine|1508.21|granite4:3b
 2026-06-03T23:22:58.471809|g|session_1780520105404|question|come posso andare a premariacco partendo da udine||
 2026-06-03T23:23:00.044141|api||question|come posso andare a premariacco partendo da udine|1568.69|granite4:3b
+2026-06-04T22:51:06.829341|g|None|login|web:modal||
+2026-06-04T22:51:23.681012|g|session_1780606283669|question|ciao, cosa puoi fare per me?||
+2026-06-04T22:51:54.274744|g|session_1780606283669|question|come posso arrivare a cividale partendo da gemona del friuli?||
+2026-06-04T22:52:07.389446|g|session_1780606283669|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-04T22:53:12.868870|g|None|login|web:modal||
+2026-06-04T22:53:23.862942|g|session_1780606403850|question|ciao, cosa sai fare?||
+2026-06-04T23:11:18.262696|g|None|login|web:modal||
+2026-06-04T23:11:23.396948|g|session_1780607483384|question|cosa sai fare?||
+2026-06-04T23:24:55.382279|g|None|login|web:modal||
+2026-06-04T23:25:00.388881|g|session_1780608300376|question|cosa sai fare?||
+2026-06-04T23:25:15.226271|api||question|cosa sai fare?|14821.26|granite4:3b
+2026-06-04T23:25:45.218040|g|session_1780608300376|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-04T23:25:46.871155|api||question|come posso arrivare a gemona del friuli partendo d|1637.89|granite4:3b
+2026-06-04T23:27:21.172788|g|session_1780608300376|question|come posso arrivare a gemona del friuli, autostazione, partendo da udine?||
+2026-06-04T23:27:22.795182|api||question|come posso arrivare a gemona del friuli, autostazi|1607.75|granite4:3b
+2026-06-04T23:29:45.360560|g|None|login|web:modal||
+2026-06-04T23:30:05.590915|g|session_1780608605578|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-04T23:30:08.413515|api||question|come posso arrivare a gemona del friuli partendo d|2784.98|granite4:3b
+2026-06-04T23:32:27.414303|g|None|login|web:modal||
+2026-06-04T23:33:11.545402|g|session_1780608791533|question|Come arrivare da Udine a Gemona?||
+2026-06-04T23:33:14.781634|api||question|Come arrivare da Udine a Gemona?|3220.72|granite4:3b
+2026-06-04T23:33:22.404063|g|session_1780608791533|question|Come arrivare da Marsiglia a Londra?||
+2026-06-04T23:33:24.288593|api||question|Come arrivare da Marsiglia a Londra?|1869.74|granite4:3b
+2026-06-04T23:33:35.406029|g|session_1780608791533|question|Orari autobus?||
+2026-06-04T23:33:37.526390|api||question|Orari autobus?|2104.8|granite4:3b
+2026-06-04T23:36:17.679381|g|None|login|web:modal||
+2026-06-04T23:36:32.934705|g|session_1780608992921|question|come arrivare da Udine a Gemona?||
+2026-06-04T23:36:35.235851|api||question|come arrivare da Udine a Gemona?|2285.47|granite4:3b
+2026-06-04T23:37:55.869157|g|None|login|web:modal||
+2026-06-04T23:38:03.375744|g|session_1780609083360|question|Come arrivare da Udine a Gemona?||
+2026-06-04T23:38:04.290768|api||question|Come arrivare da Udine a Gemona?|898.83|granite4:3b
+2026-06-04T23:38:12.227876|g|session_1780609083360|question|Fermate a Gemona?||
+2026-06-04T23:38:14.300438|api||question|Fermate a Gemona?|2057.84|granite4:3b
+2026-06-04T23:38:21.324684|g|session_1780609083360|question|Come arrivare da Marte a Venere?||
+2026-06-04T23:38:23.401053|api||question|Come arrivare da Marte a Venere?|2061.1|granite4:3b
+2026-06-04T23:41:03.770769|g|None|login|web:modal||
+2026-06-04T23:41:31.848961|g|session_1780609291836|question|Come arrivare da Udine a Gemona?||
+2026-06-04T23:41:50.331077|api||question|Come arrivare da Udine a Gemona?|18466.59|granite4:3b
+2026-06-04T23:42:38.368930|g|session_1780609291836|question|Fermate a Gemona?||
+2026-06-04T23:42:51.407052|api||question|Fermate a Gemona?|13023.41|granite4:3b
+2026-06-04T23:43:17.399519|g|session_1780609291836|question|come posso arrivare a gemona partendo da udine||
+2026-06-04T23:43:33.284271|api||question|come posso arrivare a gemona partendo da udine|15870.04|granite4:3b
+2026-06-04T23:46:24.972938|g|None|login|web:modal||
+2026-06-04T23:46:27.296003|g|session_1780609587283|question|come posso arrivare a gemona partendo da udine||
+2026-06-04T23:46:43.734401|api||question|come posso arrivare a gemona partendo da udine|16421.51|granite4:3b
+2026-06-04T23:48:54.795232|g|None|login|web:modal||
+2026-06-04T23:48:59.444044|g|session_1780609739431|question|come posso arrivare a gemona partendo da udine||
+2026-06-04T23:49:17.263900|api||question|come posso arrivare a gemona partendo da udine|17804.34|granite4:3b
+2026-06-04T23:54:44.286608|g|None|login|web:modal||
+2026-06-04T23:54:49.557521|g|session_1780610089545|question|come posso arrivare a gemona partendo da udine||
+2026-06-04T23:55:08.062433|api||question|come posso arrivare a gemona partendo da udine|18489.08|granite4:3b
+2026-06-05T00:00:31.649925|g|None|login|web:modal||
+2026-06-05T00:00:40.206864|g|session_1780610440194|question|ciao, cosa sai fare?||
+2026-06-05T00:00:58.510441|api||question|ciao, cosa sai fare?|18288.34|granite4:3b
+2026-06-05T00:02:15.598462|g|session_1780610440194|question|come posso arrivare a gemona partendo da udine||
+2026-06-05T00:02:19.020266|api||question|come posso arrivare a gemona partendo da udine|3406.31|granite4:3b
+2026-06-05T00:02:39.624032|g|session_1780610440194|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T00:02:41.192461|api||question|come posso arrivare a gemona del friuli partendo d|1553.53|granite4:3b
+2026-06-05T00:03:37.995231|g|session_1780610440194|question|come posso arrivare a gemona del friuli, via Roma (autostazione),  partendo da udine?||
+2026-06-05T00:03:39.588047|api||question|come posso arrivare a gemona del friuli, via Roma |1578.43|granite4:3b
+2026-06-05T00:06:35.491128|g|None|login|web:modal||
+2026-06-05T00:06:41.192573|g|session_1780610440194|question|come posso arrivare a gemona del friuli, via Roma (autostazione),  partendo da udine?||
+2026-06-05T00:07:03.771520|api||question|come posso arrivare a gemona del friuli, via Roma |22564.11|granite4:3b
+2026-06-05T00:22:41.675981|g|None|login|web:modal||
+2026-06-05T00:22:47.015783|g|session_1780610440194|question|come posso arrivare a gemona del friuli, via Roma (autostazione),  partendo da udine?||
+2026-06-05T00:22:47.062053|api||question|come posso arrivare a gemona del friuli, via Roma |31.51|granite4:3b
+2026-06-05T00:32:34.863896|g|None|login|web:modal||
+2026-06-05T00:32:44.506079|g|session_1780610440194|question|come posso arrivare a gemona del friuli, via Roma (autostazione),  partendo da udine?||
+2026-06-05T00:33:07.161016|api||question|come posso arrivare a gemona del friuli, via Roma |22639.53|granite4:3b
+2026-06-05T00:38:33.564255|g|None|login|web:modal||
+2026-06-05T00:38:37.946374|g|session_1780610440194|question|come posso arrivare a gemona del friuli, via Roma (autostazione),  partendo da udine?||
+2026-06-05T00:38:38.681657|api||question|come posso arrivare a gemona del friuli, via Roma |718.31|granite4:3b
+2026-06-05T00:39:18.204742|g|session_1780610440194|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T00:39:18.864923|api||question|come posso arrivare a gemona del friuli partendo d|645.1|granite4:3b
+2026-06-05T00:39:43.671833|g|session_1780610440194|question|e da udine a cividale||
+2026-06-05T00:39:44.829059|api||question|e da udine a cividale|1142.55|granite4:3b
+2026-06-05T00:39:59.668755|g|session_1780610440194|question|come posso arrivare a cividale partendo da udine?||
+2026-06-05T00:40:00.831492|api||question|come posso arrivare a cividale partendo da udine?|1147.4|granite4:3b
+2026-06-05T00:41:30.611312|g|session_1780610440194|question|come posso arrivare a premariacco partendo da udine?||
+2026-06-05T00:41:32.308983|api||question|come posso arrivare a premariacco partendo da udin|1683.46|granite4:3b
+2026-06-05T00:41:43.449251|g|session_1780610440194|question|come posso arrivare a tavagnacco partendo da udine?||
+2026-06-05T00:41:44.054848|api||question|come posso arrivare a tavagnacco partendo da udine|590.67|granite4:3b
+2026-06-05T00:41:53.101086|g|session_1780610440194|question|come posso arrivare a tolmezzo partendo da udine?||
+2026-06-05T00:41:53.614790|api||question|come posso arrivare a tolmezzo partendo da udine?|499.4|granite4:3b
+2026-06-05T00:42:01.950639|g|session_1780610440194|question|da gemona a tolmezzo?||
+2026-06-05T00:42:02.633323|api||question|da gemona a tolmezzo?|667.97|granite4:3b
+2026-06-05T00:42:22.208257|g|session_1780610440194|question|ciao, cosa sai fare?||
+2026-06-05T00:42:40.656871|api||question|ciao, cosa sai fare?|18431.63|granite4:3b
+2026-06-05T00:47:59.808329|g|None|login|web:modal||
+2026-06-05T00:48:10.917812|g|session_1780610440194|question|ciao, cosa sai fare?||
+2026-06-05T00:48:30.085423|api||question|ciao, cosa sai fare?|19152.09|granite4:3b
+2026-06-05T01:10:38.311334|g|None|login|web:modal||
+2026-06-05T01:10:43.862995|g|session_1780610440194|question|ciao, cosa sai fare?||
+2026-06-05T01:11:02.373319|api||question|ciao, cosa sai fare?|18494.8|granite4:3b
+2026-06-05T01:53:34.190133|g|None|login|web:modal||
+2026-06-05T01:53:47.333020|g|session_1780617227328|question|come posso arrivare a gemona partendo da udine?||
+2026-06-05T01:57:07.791675|api||question|come posso arrivare a gemona partendo da udine?|200445.25|granite4:3b
+2026-06-05T01:57:48.176745|g|None|login|web:modal||
+2026-06-05T01:58:02.677537|g|session_1780617482672|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T02:01:35.471508|api||question|come posso arrivare a gemona del friuli partendo d|212778.49|granite4:3b
+2026-06-05T02:22:01.191097|g|None|login|web:modal||
+2026-06-05T02:22:07.181441|g|session_1780618927174|question|posso portare il cane?||
+2026-06-05T02:24:59.765474|api||question|posso portare il cane?|172575.24|granite4:3b
+2026-06-05T02:25:43.227737|g|session_1780618927174|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T02:28:35.479297|api||question|come posso arrivare a gemona del friuli partendo d|172245.47|granite4:3b
+2026-06-05T02:50:14.949702|g|None|login|web:modal||
+2026-06-05T02:50:50.501849|g|session_1780617482672|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T02:54:23.003567|g|None|login|web:modal||
+2026-06-05T02:54:30.172673|g|session_1780618927174|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T02:54:32.212200|api||question|come posso arrivare a gemona del friuli partendo d|2033.08|granite4:3b
+2026-06-05T02:58:09.627502|g|None|login|web:modal||
+2026-06-05T02:58:15.945390|g|session_1780618927174|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T02:58:17.884162|api||question|come posso arrivare a gemona del friuli partendo d|1931.91|granite4:3b
+2026-06-05T03:09:26.492073|g|None|login|web:modal||
+2026-06-05T03:09:37.567216|g|session_1780618927174|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T03:09:39.537639|api||question|come posso arrivare a gemona del friuli partendo d|1963.65|granite4:3b
+2026-06-05T03:15:17.949825|g|None|login|web:modal||
+2026-06-05T03:15:26.052505|g|session_1780618927174|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T03:18:59.767181|g|None|login|web:modal||
+2026-06-05T03:19:08.185641|g|session_1780618927174|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T03:19:10.073760|api||question|come posso arrivare a gemona del friuli partendo d|1882.41|granite4:3b
+2026-06-05T03:31:29.486056|g|None|login|web:modal||
+2026-06-05T03:31:39.393900|g|session_1780618927174|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T03:34:38.311718|api||question|come posso arrivare a gemona del friuli partendo d|178910.78|granite4:3b
+2026-06-05T03:57:49.223683|g|None|login|web:modal||
+2026-06-05T03:57:58.608931|g|session_1780618927174|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T03:59:10.330364|g|None|login|web:modal||
+2026-06-05T03:59:20.621578|g|session_1780618927174|question|g||
+2026-06-05T04:09:01.833998|g|None|login|web:modal||
+2026-06-05T04:09:08.234108|g|session_1780618927174|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T04:10:16.214687|g|None|login|web:modal||
+2026-06-05T04:10:24.268053|g|session_1780618927174|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T04:13:39.563638|api||question|come posso arrivare a gemona del friuli partendo d|195280.35|granite4:3b
+2026-06-05T04:25:09.085862|g|None|login|web:modal||
+2026-06-05T04:25:15.994060|g|session_1780618927174|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T04:25:18.026144|api||question|come posso arrivare a gemona del friuli partendo d|2026.08|granite4:3b
+2026-06-05T08:19:33.403156|g|None|login|web:modal||
+2026-06-05T08:19:48.431575|g|session_1780640388428|question|come posso arrivare a gemona del friuli partendo da udine?||
+2026-06-05T08:19:51.358031|api||question|come posso arrivare a gemona del friuli partendo d|2916.63|granite4:3b
+2026-06-05T08:19:58.419546|g|session_1780640388428|question|ciao, come stai?||
+2026-06-05T08:27:02.853209|api||question|ciao, come stai?|424432.67|granite4:3b
+2026-06-05T08:28:53.627236|g|session_1780640388428|question|come posso arrivare a cividale partendo da udine?||
+2026-06-05T08:28:57.823528|api||question|come posso arrivare a cividale partendo da udine?|4196.29|granite4:3b
+2026-06-05T08:29:15.436696|g|session_1780640388428|question|come posso arrivare a cividale partendo da udine autostazione?||
+2026-06-05T08:29:19.445428|api||question|come posso arrivare a cividale partendo da udine a|4008.73|granite4:3b
+2026-06-05T08:29:44.699900|g|session_1780640388428|question|come posso arrivare a cividale partendo da viale europa unita, autostazione?||
+2026-06-05T08:29:49.670951|api||question|come posso arrivare a cividale partendo da viale e|4961.97|granite4:3b
+2026-06-05T08:42:24.314941|g|None|login|web:modal||
+2026-06-05T08:42:31.315038|g|session_1780640388428|question|come posso arrivare a cividale partendo da viale europa unita, autostazione?||
+2026-06-05T08:42:37.705151|api||question|come posso arrivare a cividale partendo da viale e|6387.57|granite4:3b
+2026-06-05T08:43:08.282382|g|session_1780640388428|question|come posso arrivare a pordenone partendo da udine?||
+2026-06-05T08:43:10.863070|api||question|come posso arrivare a pordenone partendo da udine?|2580.69|granite4:3b
+2026-06-05T08:48:42.980330|g|None|login|web:modal||
+2026-06-05T08:48:46.334603|g|session_1780640388428|question|come posso arrivare a pordenone partendo da udine?||
+2026-06-05T08:48:48.718835|api||question|come posso arrivare a pordenone partendo da udine?|2377.07|granite4:3b
+2026-06-05T08:54:41.317204|g|None|login|web:modal||
+2026-06-05T08:54:53.505845|g|session_1780642493502|question|dimmi di cosa parla la circolare numero 41||
+2026-06-05T09:02:04.553737|api||question|dimmi di cosa parla la circolare numero 41|431041.83|granite4:3b
+2026-06-05T09:04:12.256272|g|session_1780642493502|question|di cosa parla a circolare 42?||
+2026-06-05T09:10:43.866531|api||question|di cosa parla a circolare 42?|391610.26|granite4:3b
+2026-06-05T09:16:28.383699|g|None|login|web:modal||
+2026-06-05T09:16:35.309483|g|session_1780642493502|question|di cosa parla a circolare 42?||
+2026-06-05T09:23:25.308375|api||question|di cosa parla a circolare 42?|409998.62|granite4:3b
+2026-06-05T09:33:11.452144|g|session_1780640388428|question|come a||
+2026-06-05T09:39:13.797865|api||question|come a|362345.72|granite4:3b
+2026-06-05T09:54:31.494265|d|None|login|web:modal||
+2026-06-05T09:54:34.338475|d|session_1780646074335|question|ciao||
+2026-06-05T10:00:16.607037|api||question|ciao|342262.33|granite4:3b
+2026-06-05T10:00:50.538114|d|session_1780646074335|question|come posso arrivare a Udine da Feletto?||
+2026-06-05T10:00:52.613738|api||question|come posso arrivare a Udine da Feletto?|2075.62|granite4:3b
+2026-06-05T10:03:02.225507|d|session_1780646074335|question|come arrivi a Bearzi con la linea 10?||

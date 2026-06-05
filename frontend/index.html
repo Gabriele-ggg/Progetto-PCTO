@@ -18,56 +18,62 @@ header{background:var(--surface);border-bottom:1px solid var(--border);padding:1
 .topbar input{padding:6px 10px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text)}
 .container{display:flex;flex:1;overflow:hidden}
 .chat-area{flex:1;display:flex;flex-direction:column;overflow:hidden}
-/* Sidebar a sinistra per cronologia utente */
 .sidebar{width:260px;background:var(--surface);border-right:1px solid var(--border);display:flex;flex-direction:column;overflow:hidden;flex-shrink:0}
 #messages{flex:1;overflow-y:auto;padding:20px;display:flex;flex-direction:column;gap:14px}
-.bubble{padding:12px 16px;border-radius:12px;white-space:pre-wrap;display:inline-block;box-sizing:border-box;max-width:72%;word-break:break-word;overflow-wrap:anywhere}
-.msg.user{align-self:flex-end}
-.msg.ai{align-self:flex-start}
+
+/* ── Bubble & message layout ── */
+.msg{display:flex;flex-direction:column}
+.msg.user{align-self:flex-end;align-items:flex-end}
+.msg.ai{align-self:flex-start;align-items:flex-start}
+.bubble{padding:12px 16px;border-radius:12px;white-space:pre-wrap;display:inline-block;max-width:72%;word-break:break-word;overflow-wrap:anywhere}
 .msg.user .bubble{background:#18305a;border:1px solid #213b6f}
 .msg.ai .bubble{background:var(--surface2);border:1px solid var(--border);font-family:'DM Mono',monospace}
-.msg-container{position:relative;display:flex;align-items:flex-start;gap:8px}
-.msg-menu-btn{background:transparent;border:none;color:var(--muted);cursor:pointer;font-size:18px;padding:0;width:24px;height:24px;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity 0.2s}
-.msg:hover .msg-menu-btn{opacity:1}
-.msg-menu{position:absolute;top:0;right:0;background:var(--surface2);border:1px solid var(--border);border-radius:6px;box-shadow:0 4px 12px rgba(0,0,0,0.3);z-index:100;min-width:140px;overflow:hidden}
-.msg-menu-item{display:block;width:100%;text-align:left;padding:8px 12px;border:none;background:transparent;color:var(--text);cursor:pointer;font-size:12px;transition:background 0.2s}
-.msg-menu-item:hover{background:var(--border)}
+
+/* ── Inline action bar (below bubble) ── */
+.msg-actions{display:flex;gap:4px;margin-top:5px;opacity:0;transition:opacity 0.18s;pointer-events:none}
+.msg:hover .msg-actions{opacity:1;pointer-events:all}
+.msg-action-btn{background:var(--surface2);border:1px solid var(--border);color:var(--muted);cursor:pointer;font-size:12px;padding:3px 8px;border-radius:6px;display:flex;align-items:center;gap:4px;transition:background 0.15s,color 0.15s,border-color 0.15s;font-family:'Syne',sans-serif;line-height:1.4}
+.msg-action-btn:hover{background:var(--border);color:var(--text)}
+.msg-action-btn.positive:hover{background:#0d3322;border-color:var(--accent2);color:var(--accent2)}
+.msg-action-btn.negative:hover{background:#2a1020;border-color:#ff4d6a;color:#ff4d6a}
+.msg-action-btn.active-pos{background:#0d3322;border-color:var(--accent2);color:var(--accent2)}
+.msg-action-btn.active-neg{background:#2a1020;border-color:#ff4d6a;color:#ff4d6a}
+
 .input-row{padding:12px 18px;background:var(--surface);border-top:1px solid var(--border);display:flex;gap:10px;flex-shrink:0;position:sticky;bottom:0;z-index:10}
 #user-input{flex:1;padding:10px;border-radius:10px;border:1px solid var(--border);background:var(--surface2);color:var(--text);min-height:48px;resize:vertical;max-height:120px}
 #send-btn{background:var(--accent);border:none;color:#fff;padding:10px 16px;border-radius:10px;cursor:pointer;flex-shrink:0}
-/* typing indicator */
-.typing{display:flex;gap:6px;align-items:flex-end}
-.typing .dot{width:8px;height:8px;border-radius:50%;background:rebeccapurple;display:inline-block;animation:bounce 900ms infinite ease-in-out}
-.typing .dot:nth-child(1){animation-delay:0ms}
-.typing .dot:nth-child(2){animation-delay:150ms}
-.typing .dot:nth-child(3){animation-delay:300ms}
-@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
-.ai-meta{font-size:12px;color:var(--muted);margin-top:8px}
+.typing{display:flex;align-items:center;gap:12px;padding:4px 0}
+.typing-spinner{width:22px;height:22px;border-radius:50%;border:2.5px solid var(--border);border-top-color:var(--accent);border-right-color:var(--accent2);animation:spin 0.75s linear infinite;flex-shrink:0}
+@keyframes spin{to{transform:rotate(360deg)}}
+.typing-text{font-size:13px;color:var(--muted);font-family:'Syne',sans-serif;animation:fadePhrase 0.4s ease}
+@keyframes fadePhrase{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+.ai-meta{font-size:12px;color:var(--muted);margin-top:6px}
 .msg-meta{font-size:11px;color:var(--muted);margin-top:6px}
 .msg.user .msg-meta{text-align:right}
 
-/* Stile per il pulsante impostazioni */
-.settings-btn {
-  width: 100%;
-  padding: 10px;
-  border-radius: 8px;
-  background: var(--surface2);
-  border: 1px solid var(--border);
-  color: var(--text);
-  cursor: pointer;
-  font-family: 'Syne', sans-serif;
-  font-weight: 600;
-  font-size: 13px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  transition: background 0.2s, border-color 0.2s;
-}
-.settings-btn:hover {
-  background: var(--border);
-  border-color: var(--accent);
-}
+/* ── Sidebar buttons ── */
+.settings-btn{width:100%;padding:10px;border-radius:8px;background:var(--surface2);border:1px solid var(--border);color:var(--text);cursor:pointer;font-family:'Syne',sans-serif;font-weight:600;font-size:13px;display:flex;align-items:center;justify-content:center;gap:8px;transition:background 0.2s,border-color 0.2s}
+.settings-btn:hover{background:var(--border);border-color:var(--accent)}
+.delete-chat-btn{width:100%;padding:10px;border-radius:8px;background:transparent;border:1px solid #3a1a22;color:#ff4d6a;cursor:pointer;font-family:'Syne',sans-serif;font-weight:600;font-size:13px;display:flex;align-items:center;justify-content:center;gap:8px;transition:background 0.2s,border-color 0.2s}
+.delete-chat-btn:hover{background:#2a1020;border-color:#ff4d6a}
+
+/* ── Telemetry overlay ── */
+#telemetry-overlay{position:fixed;inset:0;background:rgba(0,0,0,0.72);display:none;align-items:center;justify-content:center;z-index:9999}
+.telem-modal{background:var(--surface);border:1px solid var(--border);padding:28px;border-radius:16px;width:92%;max-width:860px;color:var(--text);max-height:88vh;overflow-y:auto;display:flex;flex-direction:column;gap:20px}
+.telem-header{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--border);padding-bottom:14px}
+.telem-title{font-size:18px;font-weight:800;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.telem-close{background:transparent;border:none;color:var(--muted);font-size:24px;cursor:pointer;line-height:1}
+.telem-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.telem-card{background:var(--surface2);border:1px solid var(--border);border-radius:10px;padding:16px;display:flex;flex-direction:column;gap:6px}
+.telem-card-label{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:0.8px;font-family:'DM Mono',monospace}
+.telem-card-value{font-size:22px;font-weight:800;color:var(--accent)}
+.telem-card-sub{font-size:11px;color:var(--muted)}
+.telem-table{width:100%;border-collapse:collapse;font-size:13px;font-family:'DM Mono',monospace}
+.telem-table th{text-align:left;padding:8px 10px;border-bottom:1px solid var(--border);color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:0.6px}
+.telem-table td{padding:8px 10px;border-bottom:1px dashed var(--border);color:var(--text)}
+.telem-table tr:last-child td{border-bottom:none}
+.telem-refresh-btn{align-self:flex-end;padding:8px 18px;border-radius:8px;background:var(--accent);border:none;color:#fff;cursor:pointer;font-weight:600;font-family:'Syne',sans-serif;font-size:13px}
+.telem-loading{color:var(--muted);font-size:13px;font-family:'DM Mono',monospace;padding:20px 0;text-align:center}
 </style>
 </head>
 <body>
@@ -76,17 +82,18 @@ header{background:var(--surface);border-bottom:1px solid var(--border);padding:1
     <div class="logo-main">EduGuide AI</div>
     <div class="logo-sub">Assistente educativo</div>
   </div>
-  <div id="local-time" style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); font-size: 16px; color: var(--accent2); font-weight: 700; font-family: 'DM Mono', monospace;">--:--:--</div>
+  <div id="local-time" style="position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);font-size:16px;color:var(--accent2);font-weight:700;font-family:'DM Mono',monospace;">--:--:--</div>
   <div class="pill" id="model-pill">—</div>
 </header>
 
 <div class="topbar">
   <div class="status">Stato servizio: <span id="status-box">caricamento…</span></div>
-  <div id="user-display" style="display:none; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); align-items:center; color:var(--text);">
-    <div id="greeting" style="font-weight: 800; font-size: 15px; letter-spacing: 0.2px;">Ciao, <span id="display-name"></span></div>
+  <div id="user-display" style="display:none;position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);align-items:center;color:var(--text);">
+    <div id="greeting" style="font-weight:800;font-size:15px;letter-spacing:0.2px;">Ciao, <span id="display-name"></span></div>
   </div>
 </div>
 
+<!-- Auth modal -->
 <div id="auth-modal" style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999">
   <div style="background:var(--surface);border:1px solid var(--border);padding:22px;border-radius:14px;min-width:320px;max-width:520px;color:var(--text)">
     <h2 style="margin-bottom:8px">Accedi</h2>
@@ -102,27 +109,18 @@ header{background:var(--surface);border-bottom:1px solid var(--border);padding:1
   </div>
 </div>
 
+<!-- Settings modal -->
 <div id="settings-modal" style="position:fixed;inset:0;background:rgba(0,0,0,0.7);display:none;align-items:center;justify-content:center;z-index:9999">
   <div style="background:var(--surface);border:1px solid var(--border);padding:24px;border-radius:14px;width:90%;max-width:550px;color:var(--text);max-height:85vh;overflow-y:auto;display:flex;flex-direction:column;gap:20px;">
     <div style="display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--border);padding-bottom:12px;">
       <h2 style="font-weight:800;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Impostazioni Pannello</h2>
       <button id="settings-close" style="background:transparent;border:none;color:var(--muted);font-size:22px;cursor:pointer;line-height:1;">&times;</button>
     </div>
-    
-    <div>
-      <h3 style="font-size:15px;margin-bottom:8px;font-weight:600;color:var(--text);">Dati Telemetria</h3>
-      <div id="telemetry-view" style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:12px;font-family:'DM Mono',monospace;font-size:12px;max-height:160px;overflow-y:auto;color:var(--muted);">
-        Nessun file di telemetria caricato. I log e i dettagli dei flussi appariranno qui una volta importati i file JSON/log successivi.
-      </div>
-    </div>
-    
     <div style="border-top:1px solid var(--border);padding-top:16px;">
       <h3 style="font-size:15px;margin-bottom:6px;font-weight:600;color:var(--text);">Carica Documenti Orari (PDF)</h3>
-      <p style="color:var(--muted);font-size:12px;margin-bottom:12px;">Seleziona un documento orario in formato PDF e specifica il comparto di destinazione del sistema TPL.</p>
-      
+      <p style="color:var(--muted);font-size:12px;margin-bottom:12px;">Seleziona un documento orario in formato PDF e specifica il comparto di destinazione.</p>
       <div style="display:flex;flex-direction:column;gap:12px;">
         <input type="file" id="pdf-file" accept=".pdf" style="padding:8px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:13px;width:100%;" />
-        
         <div style="display:flex;flex-direction:column;gap:6px;">
           <label for="pdf-target" style="font-size:12px;color:var(--muted);font-weight:600;">Destinazione Flusso:</label>
           <select id="pdf-target" style="padding:10px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-family:'Syne',sans-serif;font-size:13px;outline:none;cursor:pointer;width:100%;">
@@ -132,14 +130,12 @@ header{background:var(--surface);border-bottom:1px solid var(--border);padding:1
             <option value="circolari scolastiche">circolari scolastiche</option>
           </select>
         </div>
-        
-        <button id="pdf-submit-btn" style="padding:10px;border-radius:8px;background:var(--accent);border:none;color:#fff;font-weight:600;font-family:'Syne',sans-serif;cursor:pointer;transition:opacity 0.2s;margin-top:6px;" onmouseover="this.style.opacity='0.9'" onmouseout="this.style.opacity='1'">Invia Documento</button>
+        <button id="pdf-submit-btn" style="padding:10px;border-radius:8px;background:var(--accent);border:none;color:#fff;font-weight:600;font-family:'Syne',sans-serif;cursor:pointer;transition:opacity 0.2s;margin-top:6px;">Invia Documento</button>
       </div>
     </div>
-
     <div style="border-top:1px solid var(--border);padding-top:16px;">
       <h3 style="font-size:15px;margin-bottom:6px;font-weight:600;color:var(--text);">Importa/Esporta Cronologia</h3>
-      <p style="color:var(--muted);font-size:12px;margin-bottom:12px;">Carica un file JSON con le sessioni per l'utente corrente. Il formato atteso è una lista di oggetti sessione con campi `id`, `title`, `created`, `messages`.</p>
+      <p style="color:var(--muted);font-size:12px;margin-bottom:12px;">Carica un file JSON con le sessioni per l'utente corrente.</p>
       <input type="file" id="history-file" accept=".json,application/json" style="padding:8px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:13px;width:100%;margin-bottom:8px;" />
       <div style="display:flex;gap:8px;">
         <button id="history-upload-btn" style="flex:1;padding:10px;border-radius:8px;background:var(--accent);border:none;color:#fff;cursor:pointer;">Importa cronologia</button>
@@ -147,6 +143,18 @@ header{background:var(--surface);border-bottom:1px solid var(--border);padding:1
       </div>
       <div id="history-import-msg" style="margin-top:8px;color:var(--muted);font-size:12px"></div>
     </div>
+  </div>
+</div>
+
+<!-- Telemetry overlay -->
+<div id="telemetry-overlay">
+  <div class="telem-modal">
+    <div class="telem-header">
+      <span class="telem-title">📊 Telemetria in tempo reale</span>
+      <button class="telem-close" id="telem-close">&times;</button>
+    </div>
+    <div id="telem-body"><div class="telem-loading">Caricamento dati…</div></div>
+    <button class="telem-refresh-btn" id="telem-refresh">↻ Aggiorna</button>
   </div>
 </div>
 
@@ -164,17 +172,17 @@ header{background:var(--surface);border-bottom:1px solid var(--border);padding:1
     </div>
 
     <div id="history-list" style="overflow-y:auto;padding:8px;flex:1;"></div>
-    
+
     <div id="telemetry-panel" style="display:none;padding:12px;color:var(--muted);font-size:13px;flex:1;flex-direction:column;overflow-y:auto;">
       <div style="margin-bottom:10px;font-weight:700;color:var(--text)">Dati Telemetria</div>
       <div id="telemetry-content" style="flex:1;overflow-y:auto;">Nessun dato</div>
       <div style="margin-top:10px;padding-top:10px;border-top:1px dashed var(--border)">
-        <button id="refresh-telemetry" style="width:100%;padding:10px;border-radius:8px;background:var(--accent);border:none;color:#fff;font-weight:600;cursor:pointer;">Aggiorna metriche</button>
+        <button id="refresh-telemetry" style="width:100%;padding:10px;border-radius:8px;background:var(--accent);border:none;color:#fff;font-weight:600;cursor:pointer;">Apri pannello metriche</button>
       </div>
     </div>
-    
+
     <div style="padding:12px;border-top:1px solid var(--border);background:var(--surface);flex-shrink:0;">
-      <button id="open-settings" class="settings-btn">Impostazioni</button>
+      <button id="open-settings" class="settings-btn">⚙️ Impostazioni</button>
     </div>
   </div>
 
@@ -202,14 +210,11 @@ let currentSession = localStorage.getItem('tpl_session') || '';
 function _genSessionId(){ return 's_'+Math.random().toString(36).slice(2,10)+'_'+Date.now().toString(36) }
 if(!currentSession){ currentSession = _genSessionId(); localStorage.setItem('tpl_session', currentSession) }
 
-// Auth modal elements
 const authModal = document.getElementById('auth-modal');
 const authFirst = document.getElementById('auth-first');
 const authLast = document.getElementById('auth-last');
 const authSubmit = document.getElementById('auth-submit');
 const authCancel = document.getElementById('auth-cancel');
-
-// Impostazioni Overlay Elements
 const settingsModal = document.getElementById('settings-modal');
 const openSettingsBtn = document.getElementById('open-settings');
 const closeSettingsBtn = document.getElementById('settings-close');
@@ -218,42 +223,116 @@ const pdfTargetSelect = document.getElementById('pdf-target');
 const pdfSubmitBtn = document.getElementById('pdf-submit-btn');
 const sidebarInfoBtn = document.getElementById('sidebar-info');
 
-function lockUI(){ sendBtn.disabled = true; userInput.disabled = true; userInput.placeholder = 'Devi autenticarti per usare il servizio.' }
-function unlockUI(){ sendBtn.disabled = false; userInput.disabled = false; userInput.placeholder = 'Scrivi la tua domanda…' }
-
+function lockUI(){ sendBtn.disabled=true; userInput.disabled=true; userInput.placeholder='Devi autenticarti per usare il servizio.' }
+function unlockUI(){ sendBtn.disabled=false; userInput.disabled=false; userInput.placeholder='Scrivi la tua domanda…' }
 function showAuth(){ authModal.style.display='flex'; authFirst.focus(); lockUI(); }
 function hideAuth(){ authModal.style.display='none'; unlockUI(); }
 
-// Gestione apertura/chiusura overlay impostazioni
-openSettingsBtn.addEventListener('click', () => {
-  settingsModal.style.display = 'flex';
-});
-closeSettingsBtn.addEventListener('click', () => {
-  settingsModal.style.display = 'none';
-});
-settingsModal.addEventListener('click', (e) => {
-  if (e.target === settingsModal) {
-    settingsModal.style.display = 'none';
-  }
-});
+openSettingsBtn.addEventListener('click',()=>{ settingsModal.style.display='flex'; });
+closeSettingsBtn.addEventListener('click',()=>{ settingsModal.style.display='none'; });
+settingsModal.addEventListener('click',e=>{ if(e.target===settingsModal) settingsModal.style.display='none'; });
+
+// ── Telemetry overlay ──
+const telemOverlay = document.getElementById('telemetry-overlay');
+const telemClose = document.getElementById('telem-close');
+const telemRefresh = document.getElementById('telem-refresh');
+const telemBody = document.getElementById('telem-body');
+
+function openTelemOverlay(){ telemOverlay.style.display='flex'; fetchTelemOverlay(); }
+function closeTelemOverlay(){ telemOverlay.style.display='none'; }
+telemClose.addEventListener('click', closeTelemOverlay);
+telemOverlay.addEventListener('click', e=>{ if(e.target===telemOverlay) closeTelemOverlay(); });
+telemRefresh.addEventListener('click', fetchTelemOverlay);
+
+async function fetchTelemOverlay(){
+  telemBody.innerHTML = '<div class="telem-loading">Caricamento dati…</div>';
+  try{
+    const r = await fetch('http://127.0.0.1:8000/api/telemetry/metrics');
+    if(!r.ok){ telemBody.innerHTML='<div class="telem-loading">[Errore caricamento]</div>'; return; }
+    const j = await r.json();
+    const overall = j.overall || {};
+    const models = j.models || [];
+    const by_user = j.by_user || {};
+
+    // Format helper
+    const fms = v => (v!=null && !isNaN(v)) ? v.toFixed(0)+' ms' : '—';
+
+    // 4 summary cards: modello attivo, min, media, max
+    const activeModel = models.length ? models[models.length-1] : '—';
+    const minMs = overall.min_latency_ms;
+    const avgMs = overall.avg_latency_ms;
+    const maxMs = overall.max_latency_ms;
+
+    let html = `<div class="telem-grid">
+      <div class="telem-card">
+        <div class="telem-card-label">🤖 Modello AI</div>
+        <div class="telem-card-value" style="font-size:14px;word-break:break-all">${activeModel}</div>
+        <div class="telem-card-sub">${models.length} modell${models.length===1?'o':'i'} rilevat${models.length===1?'o':'i'}</div>
+      </div>
+      <div class="telem-card">
+        <div class="telem-card-label">⚡ Tempo Min</div>
+        <div class="telem-card-value" style="color:var(--accent2)">${fms(minMs)}</div>
+        <div class="telem-card-sub">risposta più rapida</div>
+      </div>
+      <div class="telem-card">
+        <div class="telem-card-label">📊 Tempo Medio</div>
+        <div class="telem-card-value">${fms(avgMs)}</div>
+        <div class="telem-card-sub">${overall.count||0} richieste totali</div>
+      </div>
+      <div class="telem-card">
+        <div class="telem-card-label">🐢 Tempo Max</div>
+        <div class="telem-card-value" style="color:#ff9f43">${fms(maxMs)}</div>
+        <div class="telem-card-sub">risposta più lenta</div>
+      </div>
+    </div>`;
+
+    // Per-user table
+    const users = Object.entries(by_user);
+    if(users.length){
+      html += `<div style="border-top:1px solid var(--border);padding-top:16px;">
+        <div style="font-size:13px;font-weight:700;margin-bottom:10px;color:var(--text)">Dettaglio per utente</div>
+        <table class="telem-table">
+          <thead><tr>
+            <th>Utente</th><th>Modello</th><th>Min</th><th>Media</th><th>Max</th><th>Richieste</th>
+          </tr></thead>
+          <tbody>`;
+      for(const [u, info] of users){
+        const m = (info.models && info.models.length) ? info.models.join(', ') : '—';
+        html += `<tr>
+          <td>${u}</td>
+          <td style="color:var(--muted);font-size:11px">${m}</td>
+          <td style="color:var(--accent2)">${fms(info.min_latency_ms)}</td>
+          <td>${fms(info.avg_latency_ms)}</td>
+          <td style="color:#ff9f43">${fms(info.max_latency_ms)}</td>
+          <td>${info.count||0}</td>
+        </tr>`;
+      }
+      html += `</tbody></table></div>`;
+    } else {
+      html += `<div style="color:var(--muted);font-size:13px;padding:10px 0">Nessun dato per utente disponibile.</div>`;
+    }
+
+    telemBody.innerHTML = html;
+  }catch(e){ telemBody.innerHTML=`<div class="telem-loading">Errore: ${e}</div>`; }
+}
+
+// delete-chat handled inline per-session in renderHistory
 
 if(sidebarInfoBtn){
   sidebarInfoBtn.addEventListener('click', async ()=>{
     try{
       const r = await fetch('http://127.0.0.1:8000/api/status');
       const j = await r.json();
-      alert(`Stato servizio: ${j.status}\nLinee: ${j.totale_linee} \nCorse totali: ${j.totale_corse}`);
-    }catch(e){
-      alert('Impossibile contattare il backend: '+e);
-    }
+      alert(`Stato servizio: ${j.status}\nLinee: ${j.totale_linee}\nCorse totali: ${j.totale_corse}`);
+    }catch(e){ alert('Impossibile contattare il backend: '+e); }
   });
 }
 
-// History import/export handlers
 const historyFileInput = document.getElementById('history-file');
 const historyUploadBtn = document.getElementById('history-upload-btn');
 const historyExportBtn = document.getElementById('history-export-btn');
 const historyImportMsg = document.getElementById('history-import-msg');
+
 function _extractSessionsFromPayload(payload){
   if(Array.isArray(payload)) return payload;
   if(payload && typeof payload === 'object'){
@@ -263,25 +342,11 @@ function _extractSessionsFromPayload(payload){
   }
   return null;
 }
+function isValidMessageObj(m){ return m && (typeof m.role==='string'||typeof m.role==='number')&&(typeof m.text==='string'||typeof m.content==='string'); }
+function normalizeMessage(m){ return { role: m.role||m.r||'ai', text: (m.text!==undefined)?m.text:(m.content!==undefined?m.content:''), ts: m.ts||m.timestamp||m.time||new Date().toISOString(), latency_ms: m.latency_ms||m.latency||null }; }
+function isValidSessionObj(s){ return s && typeof s.id==='string' && typeof s.created==='string' && Array.isArray(s.messages); }
 
-function isValidMessageObj(m){
-  return m && (typeof m.role === 'string' || typeof m.role === 'number') && (typeof m.text === 'string' || typeof m.content === 'string');
-}
-
-function normalizeMessage(m){
-  return {
-    role: m.role || m.r || 'ai',
-    text: (m.text !== undefined) ? m.text : (m.content !== undefined ? m.content : ''),
-    ts: m.ts || m.timestamp || m.time || new Date().toISOString(),
-    latency_ms: m.latency_ms || m.latency || null
-  };
-}
-
-function isValidSessionObj(s){
-  return s && typeof s.id === 'string' && typeof s.created === 'string' && Array.isArray(s.messages);
-}
-
-historyUploadBtn?.addEventListener('click', ()=>{
+historyUploadBtn?.addEventListener('click',()=>{
   if(!currentUser){ alert('Accedi prima di importare la cronologia'); return }
   const f = historyFileInput.files && historyFileInput.files[0];
   if(!f){ alert('Seleziona un file JSON che contiene la cronologia'); return }
@@ -290,68 +355,39 @@ historyUploadBtn?.addEventListener('click', ()=>{
     try{
       const raw = JSON.parse(e.target.result);
       const sessionsArray = _extractSessionsFromPayload(raw);
-      if(!sessionsArray || !Array.isArray(sessionsArray)){
-        alert('Formato file non valido: aspettato una lista di sessioni o un oggetto {sessions: [...] }'); return
-      }
-      const existing = loadUserSessions(currentUser) || [];
-      const existingById = Object.fromEntries(existing.map(s=>[s.id, s]));
-      let addedSessions = 0, mergedSessions = 0, skipped = 0;
-
-      sessionsArray.forEach(s => {
-        if(!isValidSessionObj(s)){
-          if(!s || !s.id) { skipped++; return }
-          s.created = s.created || new Date().toISOString();
-          s.messages = Array.isArray(s.messages) ? s.messages : [];
-        }
-
-        const incomingMsgs = (s.messages || []).filter(isValidMessageObj).map(normalizeMessage);
-
+      if(!sessionsArray||!Array.isArray(sessionsArray)){ alert('Formato file non valido'); return }
+      const existing = loadUserSessions(currentUser)||[];
+      const existingById = Object.fromEntries(existing.map(s=>[s.id,s]));
+      let addedSessions=0, mergedSessions=0, skipped=0;
+      sessionsArray.forEach(s=>{
+        if(!isValidSessionObj(s)){ if(!s||!s.id){skipped++;return} s.created=s.created||new Date().toISOString(); s.messages=Array.isArray(s.messages)?s.messages:[]; }
+        const incomingMsgs=(s.messages||[]).filter(isValidMessageObj).map(normalizeMessage);
         if(existingById[s.id]){
-          const target = existingById[s.id];
-          const keySet = new Set((target.messages||[]).map(m=>`${m.role}|||${m.text}|||${m.ts}`));
-          let addedMsgs = 0;
-          incomingMsgs.forEach(m => {
-            const key = `${m.role}|||${m.text}|||${m.ts}`;
-            if(!keySet.has(key)){
-              target.messages.push(m); keySet.add(key); addedMsgs++;
-            }
-          });
+          const target=existingById[s.id]; const keySet=new Set((target.messages||[]).map(m=>`${m.role}|||${m.text}|||${m.ts}`));
+          let addedMsgs=0; incomingMsgs.forEach(m=>{ const key=`${m.role}|||${m.text}|||${m.ts}`; if(!keySet.has(key)){target.messages.push(m);keySet.add(key);addedMsgs++;} });
           if(addedMsgs>0) mergedSessions++;
-        } else {
-          const newSession = { id: s.id, title: s.title || s.id, created: s.created || new Date().toISOString(), messages: incomingMsgs };
-          existing.push(newSession);
-          existingById[newSession.id] = newSession;
-          addedSessions++;
-        }
+        } else { const ns={id:s.id,title:s.title||s.id,created:s.created||new Date().toISOString(),messages:incomingMsgs}; existing.push(ns); existingById[ns.id]=ns; addedSessions++; }
       });
-
-      saveUserSessions(currentUser, existing);
-      renderHistory();
-      historyImportMsg.textContent = `Import: ${addedSessions} nuove sessioni, ${mergedSessions} sessioni fuse, ${skipped} saltate.`;
-    }catch(err){
-      alert('Errore parsing file JSON: '+err);
-    }
+      saveUserSessions(currentUser,existing); renderHistory();
+      historyImportMsg.textContent=`Import: ${addedSessions} nuove sessioni, ${mergedSessions} sessioni fuse, ${skipped} saltate.`;
+    }catch(err){ alert('Errore parsing file JSON: '+err); }
   };
   reader.readAsText(f);
 });
 
-historyExportBtn?.addEventListener('click', ()=>{
+historyExportBtn?.addEventListener('click',()=>{
   if(!currentUser){ alert('Accedi prima di esportare la cronologia'); return }
-  const sessions = loadUserSessions(currentUser) || [];
-  const txt = JSON.stringify(sessions, null, 2);
-  const blob = new Blob([txt], {type:'application/json'});
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement('a'); a.href = url; a.download = `sessions_${currentUser.replace(/\s+/g,'_')}.json`; a.click(); URL.revokeObjectURL(url);
+  const sessions=loadUserSessions(currentUser)||[];
+  const txt=JSON.stringify(sessions,null,2);
+  const blob=new Blob([txt],{type:'application/json'});
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement('a'); a.href=url; a.download=`sessions_${currentUser.replace(/\s+/g,'_')}.json`; a.click(); URL.revokeObjectURL(url);
 });
 
-pdfSubmitBtn.addEventListener('click', () => {
-  const file = pdfFileInput.files[0];
-  const target = pdfTargetSelect.value;
-  if (!file) {
-    alert('Seleziona un file PDF prima di procedere.');
-    return;
-  }
-  alert(`File caricato con successo:\nNome: ${file.name}\nDestinazione: ${target}\n\nNota: La logica di archiviazione effettiva verrà agganciata non appena fornirai i file successivi.`);
+pdfSubmitBtn.addEventListener('click',()=>{
+  const file=pdfFileInput.files[0]; const target=pdfTargetSelect.value;
+  if(!file){ alert('Seleziona un file PDF prima di procedere.'); return }
+  alert(`File caricato con successo:\nNome: ${file.name}\nDestinazione: ${target}`);
 });
 
 if(!currentUser){ showAuth(); } else { unlockUI(); }
@@ -362,83 +398,69 @@ const localTimeEl = document.getElementById('local-time');
 
 function updateLocalTime(){
   if(!localTimeEl) return;
-  const d = new Date();
-  const hh = String(d.getHours()).padStart(2,'0');
-  const mm = String(d.getMinutes()).padStart(2,'0');
-  const ss = String(d.getSeconds()).padStart(2,'0');
-  localTimeEl.textContent = `${hh}:${mm}:${ss}`;
+  const d=new Date(); const hh=String(d.getHours()).padStart(2,'0'); const mm=String(d.getMinutes()).padStart(2,'0'); const ss=String(d.getSeconds()).padStart(2,'0');
+  localTimeEl.textContent=`${hh}:${mm}:${ss}`;
 }
-
 function refreshUserDisplay(){
-  if(currentUser){
-    userDisplay.style.display='flex';
-    displayName.textContent = currentUser;
-  } else {
-    userDisplay.style.display='none';
-    displayName.textContent='';
-  }
+  if(currentUser){ userDisplay.style.display='flex'; displayName.textContent=currentUser; }
+  else { userDisplay.style.display='none'; displayName.textContent=''; }
 }
 refreshUserDisplay();
-
-// Avvia l'orologio immediatamente
 updateLocalTime();
-setInterval(updateLocalTime, 1000);
+setInterval(updateLocalTime,1000);
 
 const historyListEl = document.getElementById('history-list');
 currentSession = currentSession || null;
-
 function _sessionsKeyForUser(user){ return `tpl_sessions_${user.replace(/\s+/g,'_')}` }
-
-function loadUserSessions(user){
-  try{ const raw = localStorage.getItem(_sessionsKeyForUser(user)) || '[]'; return JSON.parse(raw);}catch(e){return []}
-}
-
-function saveUserSessions(user, sessions){ 
-  try{ localStorage.setItem(_sessionsKeyForUser(user), JSON.stringify(sessions||[])); }catch(e){}
-}
-
-function createNewSession(firstQuestion) {
-  const sessionId = `session_${Date.now()}`;
-  const session = {
-    id: sessionId,
-    title: firstQuestion.substring(0, 80),
-    created: new Date().toISOString(),
-    messages: []
-  };
-  currentSession = sessionId;
-  return session;
-}
-
-function addMessageToSession(sessions, sessionId, role, text, latencyMs) {
-  const session = sessions.find(s => s.id === sessionId);
-  if(!session) return;
-  session.messages.push({
-    role: role,
-    text: text,
-    ts: new Date().toISOString(),
-    latency_ms: latencyMs || null
-  });
-}
+function loadUserSessions(user){ try{ const raw=localStorage.getItem(_sessionsKeyForUser(user))||'[]'; return JSON.parse(raw);}catch(e){return []} }
+function saveUserSessions(user,sessions){ try{ localStorage.setItem(_sessionsKeyForUser(user),JSON.stringify(sessions||[])); }catch(e){} }
+function createNewSession(firstQuestion){ const sessionId=`session_${Date.now()}`; const session={id:sessionId,title:firstQuestion.substring(0,80),created:new Date().toISOString(),messages:[]}; currentSession=sessionId; return session; }
+function addMessageToSession(sessions,sessionId,role,text,latencyMs){ const session=sessions.find(s=>s.id===sessionId); if(!session) return; session.messages.push({role,text,ts:new Date().toISOString(),latency_ms:latencyMs||null}); }
 
 function renderHistory(){
   if(!historyListEl) return;
-  historyListEl.innerHTML = '';
-  if(!currentUser){ historyListEl.innerHTML = '<div style="padding:12px;color:var(--muted)">Accedi per vedere la cronologia.</div>'; return }
-  const sessions = loadUserSessions(currentUser) || [];
-  if(!sessions.length){ historyListEl.innerHTML = '<div style="padding:12px;color:var(--muted)">Nessuna conversazione salvata.</div>'; return }
+  historyListEl.innerHTML='';
+  if(!currentUser){ historyListEl.innerHTML='<div style="padding:12px;color:var(--muted)">Accedi per vedere la cronologia.</div>'; return }
+  const sessions=loadUserSessions(currentUser)||[];
+  if(!sessions.length){ historyListEl.innerHTML='<div style="padding:12px;color:var(--muted)">Nessuna conversazione salvata.</div>'; return }
   sessions.slice().reverse().forEach(session=>{
-    const d = document.createElement('div'); d.style.padding='8px'; d.style.borderBottom='1px dashed var(--border)'; d.style.cursor='pointer';
-    const q = document.createElement('div'); q.textContent = session.title; q.style.fontSize='13px'; q.style.fontWeight='600';
-    const t = document.createElement('div'); t.textContent = new Date(session.created).toLocaleString(); t.style.fontSize='11px'; t.style.color='var(--muted)';
-    const cnt = document.createElement('div'); cnt.textContent = `${session.messages.length} messaggi`; cnt.style.fontSize='11px'; cnt.style.color='var(--muted)';
-    d.appendChild(q); d.appendChild(t); d.appendChild(cnt);
-    d.addEventListener('click', ()=>{ 
-      currentSession = session.id;
-      messages.innerHTML = '';
-      session.messages.forEach(msg => {
-        const metaText = msg.role === 'ai' && msg.latency_ms ? `Tempo modello: ${formatDurationMs(msg.latency_ms)}` : null;
-        append(msg.role, msg.text, metaText);
-      });
+    const d=document.createElement('div');
+    d.style.cssText='padding:8px;border-bottom:1px dashed var(--border);cursor:pointer;position:relative;';
+
+    // Row: title + trash icon
+    const titleRow=document.createElement('div');
+    titleRow.style.cssText='display:flex;align-items:center;justify-content:space-between;gap:6px;';
+
+    const q=document.createElement('div'); q.textContent=session.title; q.style.cssText='font-size:13px;font-weight:600;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;';
+
+    const trashBtn=document.createElement('button');
+    trashBtn.textContent='🗑️';
+    trashBtn.title='Elimina conversazione';
+    trashBtn.style.cssText='background:transparent;border:none;cursor:pointer;font-size:14px;padding:2px 4px;border-radius:4px;opacity:0;transition:opacity 0.15s,background 0.15s;flex-shrink:0;';
+    d.addEventListener('mouseenter',()=>{ trashBtn.style.opacity='1'; });
+    d.addEventListener('mouseleave',()=>{ trashBtn.style.opacity='0'; });
+    trashBtn.addEventListener('mouseenter',()=>{ trashBtn.style.background='rgba(255,77,106,0.15)'; });
+    trashBtn.addEventListener('mouseleave',()=>{ trashBtn.style.background='transparent'; });
+    trashBtn.addEventListener('click',(e)=>{
+      e.stopPropagation();
+      if(!confirm('Eliminare questa conversazione?')) return;
+      const all=loadUserSessions(currentUser)||[];
+      const idx=all.findIndex(s=>s.id===session.id);
+      if(idx!==-1){ all.splice(idx,1); saveUserSessions(currentUser,all); }
+      if(currentSession===session.id){ currentSession=_genSessionId(); localStorage.setItem('tpl_session',currentSession); messages.innerHTML='<div style="text-align:center;color:var(--muted);margin-top:40px"><h3 style="font-weight:800">Ciao! Chiedimi orari, fermate e linee.</h3></div>'; }
+      renderHistory();
+    });
+
+    titleRow.appendChild(q);
+    titleRow.appendChild(trashBtn);
+
+    const t=document.createElement('div'); t.textContent=new Date(session.created).toLocaleString(); t.style.cssText='font-size:11px;color:var(--muted);margin-top:2px;';
+    const cnt=document.createElement('div'); cnt.textContent=`${session.messages.length} messaggi`; cnt.style.cssText='font-size:11px;color:var(--muted);';
+
+    d.appendChild(titleRow); d.appendChild(t); d.appendChild(cnt);
+    d.addEventListener('click',()=>{
+      currentSession=session.id; messages.innerHTML='';
+      session.messages.forEach(msg=>{ const metaText=msg.role==='ai'&&msg.latency_ms?`Tempo modello: ${formatDurationMs(msg.latency_ms)}`:null; append(msg.role,msg.text,metaText); });
     });
     historyListEl.appendChild(d);
   });
@@ -447,258 +469,185 @@ renderHistory();
 
 async function loadStatus(){
   try{
-    const r = await fetch('http://127.0.0.1:8000/api/status');
-    const j = await r.json();
-    statusBox.textContent = j.status || 'offline';
-    const modelPill = document.getElementById('model-pill');
-    if(modelPill && j.model){ modelPill.textContent = j.model }
-  }catch(e){statusBox.textContent='offline'}
+    const r=await fetch('http://127.0.0.1:8000/api/status'); const j=await r.json();
+    statusBox.textContent=j.status||'offline';
+    const modelPill=document.getElementById('model-pill');
+    if(modelPill&&j.model){ modelPill.textContent=j.model }
+  }catch(e){ statusBox.textContent='offline' }
 }
-loadStatus();
-setInterval(loadStatus, 5000);
+loadStatus(); setInterval(loadStatus,5000);
 
-// Tab switching logic sistemata con stili corretti
-const tabHistoryBtn = document.getElementById('tab-history');
-const tabTelemetryBtn = document.getElementById('tab-telemetry');
-const telemetryPanel = document.getElementById('telemetry-panel');
+// ── Tab switching ──
+const tabHistoryBtn=document.getElementById('tab-history');
+const tabTelemetryBtn=document.getElementById('tab-telemetry');
+const telemetryPanel=document.getElementById('telemetry-panel');
 function showHistoryTab(){
-  if(tabHistoryBtn) {
-    tabHistoryBtn.style.background = 'var(--border)';
-    tabHistoryBtn.style.color = 'var(--text)';
-  }
-  if(tabTelemetryBtn) {
-    tabTelemetryBtn.style.background = 'transparent';
-    tabTelemetryBtn.style.color = 'var(--muted)';
-  }
-  document.getElementById('history-list').style.display = 'block'; 
-  if(telemetryPanel) telemetryPanel.style.display = 'none';
+  tabHistoryBtn.style.background='var(--border)'; tabHistoryBtn.style.color='var(--text)';
+  tabTelemetryBtn.style.background='transparent'; tabTelemetryBtn.style.color='var(--muted)';
+  document.getElementById('history-list').style.display='block';
+  if(telemetryPanel) telemetryPanel.style.display='none';
 }
 function showTelemetryTab(){
-  if(tabHistoryBtn) {
-    tabHistoryBtn.style.background = 'transparent';
-    tabHistoryBtn.style.color = 'var(--muted)';
-  }
-  if(tabTelemetryBtn) {
-    tabTelemetryBtn.style.background = 'var(--border)';
-    tabTelemetryBtn.style.color = 'var(--text)';
-  }
-  document.getElementById('history-list').style.display = 'none'; 
-  if(telemetryPanel) telemetryPanel.style.display = 'flex';
-  fetchTelemetryMetrics();
+  tabHistoryBtn.style.background='transparent'; tabHistoryBtn.style.color='var(--muted)';
+  tabTelemetryBtn.style.background='var(--border)'; tabTelemetryBtn.style.color='var(--text)';
+  document.getElementById('history-list').style.display='none';
+  if(telemetryPanel) telemetryPanel.style.display='flex';
 }
 tabHistoryBtn?.addEventListener('click', showHistoryTab);
 tabTelemetryBtn?.addEventListener('click', showTelemetryTab);
+document.getElementById('refresh-telemetry')?.addEventListener('click', openTelemOverlay);
 
-async function fetchTelemetryMetrics(){
-  const el = document.getElementById('telemetry-content');
-  if(!el) return;
-  el.textContent = 'Caricamento...';
-  try{
-    const r = await fetch('http://127.0.0.1:8000/api/telemetry/metrics');
-    if(!r.ok){ el.textContent = '[Errore caricamento telemetria]'; return }
-    const j = await r.json();
-    const overall = j.overall || {};
-    const models = j.models || [];
-    const by_user = j.by_user || {};
-    let html = '';
-    html += `<div><strong>Overall</strong></div>`;
-    html += `<div>Media tempo risposta: <strong>${overall.avg_latency_ms ? overall.avg_latency_ms.toFixed(2)+' ms' : 'n/d'}</strong></div>`;
-    html += `<div>Massimo tempo risposta: <strong>${overall.max_latency_ms ? overall.max_latency_ms.toFixed(2)+' ms' : 'n/d'}</strong></div>`;
-    html += `<div>Count: ${overall.count||0}</div>`;
-    html += `<div style="margin-top:8px"><strong>Modelli rilevati</strong>: ${models.length?models.join(', '):'nessuno'}</div>`;
-    html += `<hr style="border:none;border-top:1px dashed var(--border);margin:8px 0">`;
-    html += `<div><strong>Per utente</strong></div>`;
-    if(Object.keys(by_user).length===0){ html += '<div style="color:var(--muted);margin-top:6px">Nessun dato per utente.</div>'; }
-    for(const [u, info] of Object.entries(by_user)){
-      html += `<div style="margin-top:8px;padding:8px;border-radius:6px;background:var(--surface2)">`;
-      html += `<div style="font-weight:700">${u}</div>`;
-      html += `<div>Media: ${info.avg_latency_ms ? info.avg_latency_ms.toFixed(2)+' ms' : 'n/d'}</div>`;
-      html += `<div>Massimo: ${info.max_latency_ms ? info.max_latency_ms.toFixed(2)+' ms' : 'n/d'}</div>`;
-      html += `<div>Eventi: ${info.count||0}</div>`;
-      html += `<div>Modelli: ${(info.models && info.models.length)? info.models.join(', '): '—'}</div>`;
-      html += `</div>`;
-    }
-    el.innerHTML = html;
-  }catch(e){ el.textContent = 'Errore: '+e }
-}
-document.getElementById('refresh-telemetry')?.addEventListener('click', fetchTelemetryMetrics);
-
-
-function append(role, text, metaText){
-  const d = document.createElement('div'); d.className = 'msg '+(role==='user'?'user':'ai');
-  const msgContainer = document.createElement('div'); msgContainer.className = 'msg-container';
-  const b = document.createElement('div'); b.className='bubble'; b.textContent = text;
-  msgContainer.appendChild(b);
-  
-  const menuBtn = document.createElement('button'); menuBtn.className = 'msg-menu-btn'; menuBtn.textContent = '⋯';
-  const menu = document.createElement('div'); menu.className = 'msg-menu'; menu.style.display = 'none';
-  
-  const deleteItem = document.createElement('button'); deleteItem.className = 'msg-menu-item'; deleteItem.textContent = 'Elimina';
-  deleteItem.addEventListener('click', () => {
-    if(confirm('Eliminare questo messaggio?')) {
-      d.remove();
-      menu.style.display = 'none';
-      if(currentUser && currentSession) {
-        const sessions = loadUserSessions(currentUser) || [];
-        const session = sessions.find(s => s.id === currentSession);
-        if(session) {
-          const msgIndex = session.messages.findIndex(m => m.text === text);
-          if(msgIndex !== -1) {
-            session.messages.splice(msgIndex, 1);
-            saveUserSessions(currentUser, sessions);
-          }
-        }
-      }
-    }
-  });
-  menu.appendChild(deleteItem);
-  
-  const exportItem = document.createElement('button'); exportItem.className = 'msg-menu-item'; exportItem.textContent = 'Esporta';
-  exportItem.addEventListener('click', () => {
-    const data = {role, text, metaText, timestamp: new Date().toISOString()};
-    const json = JSON.stringify(data, null, 2);
-    const blob = new Blob([json], {type:'application/json'});
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = `message_${Date.now()}.json`;
-    a.click();
-    URL.revokeObjectURL(url);
-    menu.style.display = 'none';
-  });
-  menu.appendChild(exportItem);
-  
-  menuBtn.addEventListener('click', (e) => {
-    e.stopPropagation();
-    document.querySelectorAll('.msg-menu').forEach(m => m.style.display = 'none');
-    menu.style.display = menu.style.display === 'none' ? 'block' : 'none';
-  });
-  
-  document.addEventListener('click', (e) => {
-    if(!msgContainer.contains(e.target)) {
-      menu.style.display = 'none';
-    }
-  });
-  
-  msgContainer.appendChild(menuBtn);
-  msgContainer.appendChild(menu);
-  d.appendChild(msgContainer);
-  
-  if(metaText){
-    const meta = document.createElement('div'); meta.className = 'msg-meta'; meta.textContent = metaText;
-    d.appendChild(meta);
-  }
-  
-  messages.appendChild(d);
-  setTimeout(() => {
-    messages.scrollTo({top: messages.scrollHeight, behavior: 'smooth'});
-  }, 0);
-}
-
+// ── Formatting helper ──
 function formatDurationMs(ms){
-  if(ms === null || typeof ms === 'undefined') return 'n/d';
-  const totalSeconds = Number(ms) / 1000;
-  if(Number.isNaN(totalSeconds)) return 'n/d';
-  if(totalSeconds < 60){
-    return `${totalSeconds.toFixed(2)} s`;
-  }
-  let s = Math.floor(totalSeconds);
-  const days = Math.floor(s / 86400);
-  s = s % 86400;
-  const hours = Math.floor(s / 3600);
-  s = s % 3600;
-  const minutes = Math.floor(s / 60);
-  const seconds = s % 60;
-  const parts = [];
-  if(days) parts.push(`${days}d`);
-  if(hours) parts.push(`${hours}h`);
-  if(minutes) parts.push(`${minutes}m`);
-  if(seconds) parts.push(`${seconds}s`);
+  if(ms===null||typeof ms==='undefined') return 'n/d';
+  const totalSeconds=Number(ms)/1000; if(Number.isNaN(totalSeconds)) return 'n/d';
+  if(totalSeconds<60) return `${totalSeconds.toFixed(2)} s`;
+  let s=Math.floor(totalSeconds); const days=Math.floor(s/86400); s=s%86400; const hours=Math.floor(s/3600); s=s%3600; const minutes=Math.floor(s/60); const seconds=s%60;
+  const parts=[]; if(days) parts.push(`${days}d`); if(hours) parts.push(`${hours}h`); if(minutes) parts.push(`${minutes}m`); if(seconds) parts.push(`${seconds}s`);
   return parts.join(' ');
 }
 
+// ── append() — no menu button, inline action bar ──
+function append(role, text, metaText){
+  const d = document.createElement('div');
+  d.className = 'msg '+(role==='user'?'user':'ai');
+
+  const b = document.createElement('div');
+  b.className = 'bubble';
+  b.textContent = text;
+  d.appendChild(b);
+
+  if(metaText){
+    const meta = document.createElement('div'); meta.className='msg-meta'; meta.textContent=metaText;
+    d.appendChild(meta);
+  }
+
+  // ── Inline actions: copia+rimanda per utente, 👍👎 per AI ──
+  const actions = document.createElement('div');
+  actions.className = 'msg-actions';
+
+  if(role === 'user'){
+    const copyBtn = document.createElement('button');
+    copyBtn.className = 'msg-action-btn';
+    copyBtn.innerHTML = '📋 Copia';
+    copyBtn.title = 'Copia messaggio';
+    copyBtn.addEventListener('click', ()=>{
+      navigator.clipboard.writeText(text).then(()=>{
+        copyBtn.innerHTML='✅ Copiato';
+        setTimeout(()=>{ copyBtn.innerHTML='📋 Copia'; },1800);
+      }).catch(()=>{ copyBtn.innerHTML='❌ Errore'; setTimeout(()=>{ copyBtn.innerHTML='📋 Copia'; },1800); });
+    });
+    actions.appendChild(copyBtn);
+
+    const resendBtn = document.createElement('button');
+    resendBtn.className = 'msg-action-btn';
+    resendBtn.innerHTML = '↩️ Rimanda';
+    resendBtn.title = "Rimanda questa domanda all'AI";
+    resendBtn.addEventListener('click', ()=>{ userInput.value = text; userInput.focus(); });
+    actions.appendChild(resendBtn);
+
+  } else {
+    const upBtn = document.createElement('button');
+    upBtn.className = 'msg-action-btn positive';
+    upBtn.innerHTML = '👍';
+    upBtn.title = 'Feedback positivo';
+    const downBtn = document.createElement('button');
+    downBtn.className = 'msg-action-btn negative';
+    downBtn.innerHTML = '👎';
+    downBtn.title = 'Feedback negativo';
+    upBtn.addEventListener('click', ()=>{
+      if(upBtn.classList.contains('active-pos')){ upBtn.classList.remove('active-pos'); sendFeedback(text, role, 'positive', false); return; }
+      upBtn.classList.add('active-pos'); downBtn.classList.remove('active-neg');
+      sendFeedback(text, role, 'positive', true);
+    });
+    downBtn.addEventListener('click', ()=>{
+      if(downBtn.classList.contains('active-neg')){ downBtn.classList.remove('active-neg'); sendFeedback(text, role, 'negative', false); return; }
+      downBtn.classList.add('active-neg'); upBtn.classList.remove('active-pos');
+      sendFeedback(text, role, 'negative', true);
+    });
+    actions.appendChild(upBtn);
+    actions.appendChild(downBtn);
+  }
+
+  d.appendChild(actions);
+  messages.appendChild(d);
+  setTimeout(()=>{ messages.scrollTo({top:messages.scrollHeight,behavior:'smooth'}); },0);
+}
+
+async function sendFeedback(text, role, type, active){
+  try{
+    await fetch('http://127.0.0.1:8000/api/feedback',{
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({ user: currentUser||'anonimo', session: currentSession, role, text: text.slice(0,200), feedback: active ? type : 'removed', timestamp: new Date().toISOString() })
+    });
+  }catch(e){ console.warn('Feedback error:', e); }
+}
+
 async function sendQuestion(){
-  const q = (userInput.value||'').trim(); if(!q) return;
-  const sentTs = new Date();
-  const sentStr = sentTs.toLocaleTimeString([], {hour: '2-digit', minute: '2-digit'});
+  const q=(userInput.value||'').trim(); if(!q) return;
+  const sentTs=new Date(); const sentStr=sentTs.toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
   append('user', q, `Inviato: ${sentStr}`);
   userInput.value='';
 
-  if(!currentSession && currentUser) {
-    const newSession = createNewSession(q);
-    const sessions = loadUserSessions(currentUser) || [];
-    sessions.push(newSession);
-    saveUserSessions(currentUser, sessions);
+  if(!currentSession && currentUser){
+    const newSession=createNewSession(q); const sessions=loadUserSessions(currentUser)||[]; sessions.push(newSession); saveUserSessions(currentUser,sessions);
   }
 
-  try{ await fetch('http://127.0.0.1:8000/api/telemetry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({user: currentUser||'anonimo', session: currentSession, event:'question', detail:q, timestamp: sentTs.toISOString()})}); }catch(e){}
+  try{ await fetch('http://127.0.0.1:8000/api/telemetry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({user:currentUser||'anonimo',session:currentSession,event:'question',detail:q,timestamp:sentTs.toISOString()})}); }catch(e){}
 
-  const aiDiv = document.createElement('div'); aiDiv.className = 'msg ai';
-  const b = document.createElement('div'); b.className = 'bubble';
-  const typing = document.createElement('div'); typing.className = 'typing';
-  for(let i=0;i<3;i++){ const dot = document.createElement('span'); dot.className='dot'; typing.appendChild(dot); }
-  b.appendChild(typing);
-  aiDiv.appendChild(b);
-  messages.appendChild(aiDiv); messages.scrollTop = messages.scrollHeight;
-  const bubble = b;
-  
-  let responseLatency = null;
+  const aiDiv=document.createElement('div'); aiDiv.className='msg ai';
+  const b=document.createElement('div'); b.className='bubble';
+  const typing=document.createElement('div'); typing.className='typing';
+  const spinner=document.createElement('div'); spinner.className='typing-spinner';
+  const typingText=document.createElement('span'); typingText.className='typing-text';
+  const phrases=['Ci sto lavorando…','Ci sto pensando…','Un attimo…','Sto analizzando…','Elaboro la risposta…','Cerco nelle informazioni…','Quasi pronto…','Sto ragionando…'];
+  let phraseIdx=0;
+  typingText.textContent=phrases[phraseIdx];
+  const phraseInterval=setInterval(()=>{ phraseIdx=(phraseIdx+1)%phrases.length; typingText.style.animation='none'; void typingText.offsetWidth; typingText.style.animation=''; typingText.textContent=phrases[phraseIdx]; },2200);
+  typing.appendChild(spinner); typing.appendChild(typingText);
+  b.appendChild(typing); aiDiv.appendChild(b); messages.appendChild(aiDiv); messages.scrollTop=messages.scrollHeight;
+
+  let responseLatency=null;
   try{
-    const resp = await fetch('http://127.0.0.1:8000/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:q})});
-    if(!resp.ok){bubble.textContent = '[Errore HTTP '+resp.status+']'; return}
-    const j = await resp.json();
-    bubble.textContent = j.response || '[Risposta incompleta]';
-    responseLatency = j.latency_ms;
-    try{
-      const formatted = formatDurationMs(j.latency_ms);
-      const metaParts = [`Tempo modello: ${formatted}`];
-      
-      if(j.tokens !== undefined && j.tokens !== null && j.tokens > 0) {
-        metaParts.push(`Token: ${j.tokens}`);
-      }
-      
-      if(j.tokens_per_second !== undefined && j.tokens_per_second !== null && j.tokens_per_second > 0) {
-        const tpsFormatted = typeof j.tokens_per_second === 'number' ? j.tokens_per_second.toFixed(1) : j.tokens_per_second;
-        metaParts.push(`Token/s: ${tpsFormatted}`);
-      }
-      
-      const meta = document.createElement('div'); 
-      meta.className='ai-meta'; 
-      meta.textContent = metaParts.join(' • ');
-      aiDiv.appendChild(meta);
-    }catch(e){console.error('Errore formattazione meta:', e)}
-    
-    if(currentUser && currentSession) {
-      const sessions = loadUserSessions(currentUser) || [];
-      addMessageToSession(sessions, currentSession, 'user', q, null);
-      addMessageToSession(sessions, currentSession, 'ai', j.response || '[Risposta incompleta]', responseLatency);
-      if(sessions.length > 50) sessions.splice(0, sessions.length - 50);
-      saveUserSessions(currentUser, sessions);
-      renderHistory();
-      try{ messages.scrollTo({ top: messages.scrollHeight }); }catch(e){ messages.scrollTop = messages.scrollHeight; }
+    const resp=await fetch('http://127.0.0.1:8000/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:q})});
+    if(!resp.ok){ b.textContent='[Errore HTTP '+resp.status+']'; return }
+    const j=await resp.json();
+    const aiText=j.response||'[Risposta incompleta]';
+    responseLatency=j.latency_ms;
+    clearInterval(phraseInterval);
+    aiDiv.remove(); // remove temp div, re-append with actions
+    const formatted=formatDurationMs(j.latency_ms);
+    const metaParts=[`Tempo modello: ${formatted}`];
+    if(j.tokens!==undefined&&j.tokens!==null&&j.tokens>0) metaParts.push(`Token: ${j.tokens}`);
+    if(j.tokens_per_second!==undefined&&j.tokens_per_second!==null&&j.tokens_per_second>0) metaParts.push(`Token/s: ${typeof j.tokens_per_second==='number'?j.tokens_per_second.toFixed(1):j.tokens_per_second}`);
+    append('ai', aiText, metaParts.join(' • '));
+
+    if(currentUser&&currentSession){
+      const sessions=loadUserSessions(currentUser)||[];
+      addMessageToSession(sessions,currentSession,'user',q,null);
+      addMessageToSession(sessions,currentSession,'ai',aiText,responseLatency);
+      if(sessions.length>50) sessions.splice(0,sessions.length-50);
+      saveUserSessions(currentUser,sessions); renderHistory();
     }
-  }catch(e){bubble.textContent = '[Errore di connessione]'}
+  }catch(e){ clearInterval(phraseInterval); b.textContent='[Errore di connessione]' }
 }
 
 sendBtn.addEventListener('click', sendQuestion);
 userInput.addEventListener('keydown', e=>{ if(e.key==='Enter'&&!e.shiftKey){ e.preventDefault(); sendQuestion(); } });
 
 authSubmit.addEventListener('click', async ()=>{
-  const first = (authFirst.value||'').trim();
-  const last = (authLast.value||'').trim();
+  const first=(authFirst.value||'').trim(); const last=(authLast.value||'').trim();
   function validName(n){ return /^[A-Za-zÀ-ÖØ-öø-ÿ\s'\-]+$/.test(n); }
   if(!first){ alert('Il nome è obbligatorio'); authFirst.focus(); return }
-  if(!validName(first) || (last && !validName(last))){ alert('Nome non valido: usa solo lettere, spazi, apostrofi e trattini.'); return }
-  currentUser = last ? `${first} ${last}` : first;
-  localStorage.setItem('tpl_user', currentUser);
-  refreshUserDisplay();
-  currentSession = null;
-  renderHistory();
-  try{ await fetch('http://127.0.0.1:8000/api/telemetry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({user:currentUser, session: currentSession, event:'login',detail:'web:modal'})}); }catch(e){}
+  if(!validName(first)||(last&&!validName(last))){ alert('Nome non valido: usa solo lettere, spazi, apostrofi e trattini.'); return }
+  currentUser=last?`${first} ${last}`:first;
+  localStorage.setItem('tpl_user',currentUser);
+  refreshUserDisplay(); currentSession=null; renderHistory();
+  try{ await fetch('http://127.0.0.1:8000/api/telemetry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({user:currentUser,session:currentSession,event:'login',detail:'web:modal'})}); }catch(e){}
   hideAuth();
 });
 
-authCancel.addEventListener('click', ()=>{
+authCancel.addEventListener('click',()=>{
   if(!currentUser){ alert('Devi autenticarti per usare il servizio'); authFirst.focus(); return }
   hideAuth();
 });
